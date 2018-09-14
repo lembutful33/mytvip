@@ -1,1451 +1,684 @@
 #EXTM3U
-#EXTINF:-1,Rai 1 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24661.ts
-#EXTINF:-1,Rai 2 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/108.ts
-#EXTINF:-1,Rai 3 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/109.ts
-#EXTINF:-1,Rete 4 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/110.ts
-#EXTINF:-1,Canale 5 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24663.ts
-#EXTINF:-1,Canale 5 HD +1
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24975.ts
-#EXTINF:-1,Italia 1 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24662.ts
-#EXTINF:-1,La7 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/750.ts
-#EXTINF:-1,Tv8
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/9401.ts
-#EXTINF:-1,Nove HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/21045.ts
-#EXTINF:-1,cielo HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/30.ts
-#EXTINF:-1,RSI LA 1 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/643.ts
-#EXTINF:-1,RSI LA 2 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/644.ts
-#EXTINF:-1,Rai Movie
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/861.ts
-#EXTINF:-1,Iris
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/480.ts
-#EXTINF:-1,Paramount Channel HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/9342.ts
-#EXTINF:-1,Rai Premium HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/2062.ts
-#EXTINF:-1,Rai 4 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/860.ts
-#EXTINF:-1,Rai 5 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/18538.ts
-#EXTINF:-1,20 Mediaset HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24976.ts
-#EXTINF:-1,La 5
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/482.ts
-#EXTINF:-1,Mediaset Italia Due
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/481.ts
-#EXTINF:-1,Mediaset Extra
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/484.ts
-#EXTINF:-1,TopCrime
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/483.ts
-#EXTINF:-1,Giallo
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/2288.ts
-#EXTINF:-1,Real time HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/463.ts
-#EXTINF:-1,Real Time +1 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/12090.ts
-#EXTINF:-1,DMAX HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/616.ts
-#EXTINF:-1,DMAX +1 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19255.ts
-#EXTINF:-1,La7d HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22307.ts
-#EXTINF:-1,Class Tv Moda
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/14068.ts
-#EXTINF:-1,TV2000
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/18270.ts
-#EXTINF:-1,Antenna Sicilia
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/15182.ts
-#EXTINF:-1,Telenorba HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24971.ts
-#EXTINF:-1,========== Sky Cinema ==========
-/
-#EXTINF:-1,Cinema Uno HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/2.ts
-#EXTINF:-1,Cinema Uno
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19756.ts
-#EXTINF:-1,Cinema +1 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/3.ts
-#EXTINF:-1,Cinema +24 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/4.ts
-#EXTINF:-1,Cinema Hits HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/7.ts
-#EXTINF:-1,CinemaFamily HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/6.ts
-#EXTINF:-1,CinemaFamily+1 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/486.ts
-#EXTINF:-1,Cinema Passion HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/10.ts
-#EXTINF:-1,Cinema Comedy HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/5.ts
-#EXTINF:-1,Cinema Comedy +1 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24978.ts
-#EXTINF:-1,Cinema Max HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/8.ts
-#EXTINF:-1,Cinema Max+1 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/9.ts
-#EXTINF:-1,Cinema Cult HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/11.ts
-#EXTINF:-1,Cinema Classics HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/12.ts
-#EXTINF:-1,==========Intrattenimento==========
-/
-#EXTINF:-1,Sky 3D
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/459.ts
-#EXTINF:-1,Sky Uno HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/15.ts
-#EXTINF:-1,Sky Uno +1 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/16.ts
-#EXTINF:-1,Sky Atlantic HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23.ts
-#EXTINF:-1,Sky Atlantic +1 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24.ts
-#EXTINF:-1,Fox HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/17.ts
-#EXTINF:-1,Fox +1 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/18.ts
-#EXTINF:-1,Fox Life HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19.ts
-#EXTINF:-1,Fox Life +1
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/2773.ts
-#EXTINF:-1,Fox Crime HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/21.ts
-#EXTINF:-1,Fox Crime +1
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22.ts
-#EXTINF:-1,Fox Comedy HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/27.ts
-#EXTINF:-1,Fox Animation HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/26.ts
-#EXTINF:-1,Blaze HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/21321.ts
-#EXTINF:-1,Comedy Central
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/630.ts
-#EXTINF:-1,LEI
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/625.ts
-#EXTINF:-1,Lei  +1
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/12092.ts
-#EXTINF:-1,MARCOPOLO
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23245.ts
-#EXTINF:-1,Laeffe
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19076.ts
-#EXTINF:-1,Fine Living
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/746.ts
-#EXTINF:-1,Alice
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19429.ts
-#EXTINF:-1,NUVOLA61
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/12091.ts
-#EXTINF:-1,Dove TV
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/12099.ts
-#EXTINF:-1,Canale 21
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/857.ts
-#EXTINF:-1,Focus
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/2783.ts
-#EXTINF:-1,Videolina
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/2287.ts
-#EXTINF:-1,========== Sky Sport ==========
-/
-#EXTINF:-1,Mosaico Sky Sport HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24654.ts
-#EXTINF:-1,Sky Sport24 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/32.ts
-#EXTINF:-1,Sky Sport Uno HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/33.ts
-#EXTINF:-1,Sky Sport Uno
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19760.ts
-#EXTINF:-1,Sky Sport Football HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/35.ts
-#EXTINF:-1,Sky Sport Arena HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/34.ts
-#EXTINF:-1,Sky Sport NBA HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/36.ts
-#EXTINF:-1,Sky Sport Golf HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/460.ts
-#EXTINF:-1,Sky Sport Serie A HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24990.ts
-#EXTINF:-1,Fox Sports HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/39.ts
-#EXTINF:-1,Sky Sport Mix HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19075.ts
-#EXTINF:-1,Eurosport Hd
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/42.ts
-#EXTINF:-1,Eurosport 2 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/629.ts
-#EXTINF:-1,Bike Channel HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/2781.ts
-#EXTINF:-1,Sky Sport MotoGP HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/38.ts
-#EXTINF:-1,Sky Sport MotoGP
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19758.ts
-#EXTINF:-1,Sky Sport F1 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/37.ts
-#EXTINF:-1,Sky Sport F1
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19757.ts
-#EXTINF:-1,Supertennis HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/41.ts
-#EXTINF:-1,Sport Italia
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/2047.ts
-#EXTINF:-1,Rai Sport
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/2793.ts
-#EXTINF:-1,Rai Sport + HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/2792.ts
-#EXTINF:-1,Auto Moto TV
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/2625.ts
-#EXTINF:-1,Italian Fishing TV
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/9378.ts
-#EXTINF:-1,Diretta
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/14128.ts
-#EXTINF:-1,========== Sky Calcio ==========
-/
-#EXTINF:-1,Sky Supercalcio HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/50.ts
-#EXTINF:-1,Sky Supercalcio
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19759.ts
-#EXTINF:-1,Sky Calcio 1 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/51.ts
-#EXTINF:-1,Sky Calcio 1
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19749.ts
-#EXTINF:-1,Sky Calcio 2 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/52.ts
-#EXTINF:-1,Sky Calcio 2
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19750.ts
-#EXTINF:-1,Sky Calcio 3 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/53.ts
-#EXTINF:-1,Sky Calcio 4 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/54.ts
-#EXTINF:-1,Sky Calcio 5 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/55.ts
-#EXTINF:-1,Sky Calcio 6 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/56.ts
-#EXTINF:-1,Sky Calcio 7 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/17928.ts
-#EXTINF:-1,Sky Calcio 8 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/17929.ts
-#EXTINF:-1,Sky Calcio 9
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/17930.ts
-#EXTINF:-1,Sky Calcio 10
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/17931.ts
-#EXTINF:-1,Sky Calcio 11
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/17932.ts
-#EXTINF:-1,Sky Calcio 12
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/17933.ts
-#EXTINF:-1,========== Opzioni ==========
-/
-#EXTINF:-1,Milan TV
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/461.ts
-#EXTINF:-1,Inter TV
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/462.ts
-#EXTINF:-1,Torino Channel
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/17504.ts
-#EXTINF:-1,RomaTv
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/741.ts
-#EXTINF:-1,Lazio Style Ch
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/742.ts
-#EXTINF:-1,========== Cultura ==========
-/
-#EXTINF:-1,National Geographic HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/61.ts
-#EXTINF:-1,National Geographic +1 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19252.ts
-#EXTINF:-1,NatGeo People HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/64.ts
-#EXTINF:-1,NatGeo Wild HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/65.ts
-#EXTINF:-1,NatGeo Wild +1
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/4300.ts
-#EXTINF:-1,Discovery HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/60.ts
-#EXTINF:-1,Discovery +1
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/3666.ts
-#EXTINF:-1,Discovery Sci HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/62.ts
-#EXTINF:-1,Discovery Travel & Living
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/63.ts
-#EXTINF:-1,CI Crime+Inv.HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/68.ts
-#EXTINF:-1,Animal Planet
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/631.ts
-#EXTINF:-1,HIstory HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/623.ts
-#EXTINF:-1,History  +1 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/12093.ts
-#EXTINF:-1,History Lab
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22417.ts
-#EXTINF:-1,Sky Arte HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/624.ts
-#EXTINF:-1,Gambero Rosso HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/466.ts
-#EXTINF:-1,Caccia e PESCA.
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/13415.ts
-#EXTINF:-1,CACCIA e Pesca
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/488.ts
-#EXTINF:-1,Classica HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/2534.ts
-#EXTINF:-1,Classica +1 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19077.ts
-#EXTINF:-1,========== Bambini ==========
-/
-#EXTINF:-1,MAN-GA
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/73.ts
-#EXTINF:-1,Masha e Orso
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19359.ts
-#EXTINF:-1,FRISBEE
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19360.ts
-#EXTINF:-1,Disney Ch. HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/72.ts
-#EXTINF:-1,Disney Ch. +1
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/637.ts
-#EXTINF:-1,Disney XD HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/632.ts
-#EXTINF:-1,Disney XD +1
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19254.ts
-#EXTINF:-1,Disney Junior
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/77.ts
-#EXTINF:-1,Boomerang
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/639.ts
-#EXTINF:-1,Boomerang +1
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19253.ts
-#EXTINF:-1,Boing
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/626.ts
-#EXTINF:-1,Super!
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/859.ts
-#EXTINF:-1,K2
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/2778.ts
-#EXTINF:-1,Rai Gulp HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/13616.ts
-#EXTINF:-1,Rai YoYo HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/858.ts
-#EXTINF:-1,Cartoon Network HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/75.ts
-#EXTINF:-1,Cartoonito
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/642.ts
-#EXTINF:-1,Dea Junior
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/2775.ts
-#EXTINF:-1,Dea Kids
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/11439.ts
-#EXTINF:-1,Nick Jr
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/2052.ts
-#EXTINF:-1,Nick Jr +1
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19256.ts
-#EXTINF:-1,Nickelodeon
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/11436.ts
-#EXTINF:-1,Nickelodeon +1
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19257.ts
-#EXTINF:-1,Disney Channel+1 - Premium
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/805.ts
-#EXTINF:-1,Disney Junior - Premium
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/804.ts
-#EXTINF:-1,========== Musica ==========
-/
-#EXTINF:-1,Radio Italia TV
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24979.ts
-#EXTINF:-1,Radio 51 TV
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/12107.ts
-#EXTINF:-1,M2o Tv
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/16664.ts
-#EXTINF:-1,Radio 105 TV
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/16661.ts
-#EXTINF:-1,Radio Bruno TV
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/16670.ts
-#EXTINF:-1,Radio capital Tivù
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/16663.ts
-#EXTINF:-1,Radionorba Tv
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/16667.ts
-#EXTINF:-1,Rtl 102.5 Tv
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/16665.ts
-#EXTINF:-1,OndaTv
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/14124.ts
-#EXTINF:-1,Radio Montecarlo TV
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/16662.ts
-#EXTINF:-1,Radio Number One TV
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/16671.ts
-#EXTINF:-1,========== Notizie ==========
-/
-#EXTINF:-1,Sky Tg 24 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/80.ts
-#EXTINF:-1,Rai News 24 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/2125.ts
-#EXTINF:-1,========== PrimaFila ==========
-/
-#EXTINF:-1,Primafila 1 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/87.ts
-#EXTINF:-1,Primafila 2
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/88.ts
-#EXTINF:-1,Primafila 3 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/89.ts
-#EXTINF:-1,Primafila 4
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/90.ts
-#EXTINF:-1,Primafila 5 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/91.ts
-#EXTINF:-1,Primafila 6
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/92.ts
-#EXTINF:-1,Primafila 7 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/93.ts
-#EXTINF:-1,Primafila 8
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/94.ts
-#EXTINF:-1,Primafila 9 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/95.ts
-#EXTINF:-1,Primafila 10
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/96.ts
-#EXTINF:-1,Primafila 11 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/97.ts
-#EXTINF:-1,Primafila 12
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/98.ts
-#EXTINF:-1,Primafila 13 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/99.ts
-#EXTINF:-1,Primafila 14
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/100.ts
-#EXTINF:-1,Primafila 15
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/101.ts
-#EXTINF:-1,Primafila 16
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/102.ts
-#EXTINF:-1,Primafila 17
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/103.ts
-#EXTINF:-1,Primafila 18
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/104.ts
-#EXTINF:-1,Primafila 19
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/105.ts
-#EXTINF:-1,========== SKY GO LIVE ==========
-/
-#EXTINF:-1,Sky Go 1 HD Run the Tide
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/21331.ts
-#EXTINF:-1,Sky Go 2 HD Scythian - I Lupi di Ares
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/21330.ts
-#EXTINF:-1,Sky Go 3 HD Tale Padre
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/21329.ts
-#EXTINF:-1,Sky Go 4 HD The Reunion
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/21328.ts
-#EXTINF:-1,Sky Go 5 HD Rachel
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/21327.ts
-#EXTINF:-1,Sky Go 6 HD Mandela La lunga strada verso la liberta
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/21326.ts
-#EXTINF:-1,Sky Go 7 HD Extinction
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/21325.ts
-#EXTINF:-1,Sky Go 8 HD Il Club delle Madri Single
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/21324.ts
-#EXTINF:-1,Sky Go 9 HD Nelle Pieghe Del Tempo
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/21323.ts
-#EXTINF:-1,Sky Go 10 HD Rampage Furia Animale
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/21322.ts
-#EXTINF:-1,========== Film In Sala ==========
-/
-#EXTINF:-1,Film Sala 1 Ant-Man and The Wasp
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24680.ts
-#EXTINF:-1,Film Sala 2 2307 – Winters Dream
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24679.ts
-#EXTINF:-1,Film Sala 3 Action Point
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24678.ts
-#EXTINF:-1,Film Sala 4 Dont Grow Up
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24677.ts
-#EXTINF:-1,Film Sala 5 I Kill Giants
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24676.ts
-#EXTINF:-1,Film Sala 6 Il Pacco
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24675.ts
-#EXTINF:-1,Film Sala 7 Il Viaggio di Amelie
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24674.ts
-#EXTINF:-1,Film Sala 8 L'Avvertimento
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24673.ts
-#EXTINF:-1,Film Sala 9 L'Isola Dei Cani
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24672.ts
-#EXTINF:-1,Film Sala 10 Meet the Blacks
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24671.ts
-#EXTINF:-1,========== DAZN ==========
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24994.ts
-#EXTINF:-1,DAZN SPORT HD VETRINA
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24991.ts
-#EXTINF:-1,DAZN SPORT 1 FHD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24992.ts
-#EXTINF:-1,DAZN SPORT 2 FHD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24993.ts
-#EXTINF:-1,DAZN SPORT 3 FHD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24995.ts
-#EXTINF:-1,DAZN SPORT 4 FHD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24996.ts
-#EXTINF:-1,DAZN SPORT 5 FHD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24997.ts
-#EXTINF:-1,DAZN SPORT 6 FHD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24998.ts
-#EXTINF:-1,DAZN SPORT 7 FHD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24999.ts
-#EXTINF:-1,DAZN SPORT 8 FHD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/25000.ts
-#EXTINF:-1,DAZN SPORT 9 FHD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/25001.ts
-#EXTINF:-1,DAZN SPORT 10 FHD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/25002.ts
-#EXTINF:-1,========== Lega Pro ==========
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/17941.ts
-#EXTINF:-1,Lega Pro Catania
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/17934.ts
-#EXTINF:-1,Lega Pro Messina
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/21044.ts
-#EXTINF:-1,========== Mediaset Premium ==========
-/
-#EXTINF:-1,Premium Stories
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/2134.ts
-#EXTINF:-1,Premium Stories +24
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/9295.ts
-#EXTINF:-1,Premium Action HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/2126.ts
-#EXTINF:-1,Premium Action +24
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/2130.ts
-#EXTINF:-1,Premium Crime HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/2141.ts
-#EXTINF:-1,Premium Crime +24
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/2133.ts
-#EXTINF:-1,Premium Joy
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/125.ts
-#EXTINF:-1,Premium Joy +24
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/9339.ts
-#EXTINF:-1,Premium Energy HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/9376.ts
-#EXTINF:-1,Premium Energy + 24
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/123.ts
-#EXTINF:-1,Premium Emotion
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/122.ts
-#EXTINF:-1,Premium Comedy
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/2132.ts
-#EXTINF:-1,========== Premium Cinema ==========
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19882.ts
-#EXTINF:-1,Premium Cinema HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/120.ts
-#EXTINF:-1,Premium Cinema +24
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/2129.ts
-#EXTINF:-1,Premium Cinema 2 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/2127.ts
-#EXTINF:-1,Premium Cinema 2 +24
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/2128.ts
-#EXTINF:-1,========== Regionali ==========
-/
-#EXTINF:-1,Canale 7
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/14069.ts
-#EXTINF:-1,Canale 8
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/14070.ts
-#EXTINF:-1,Canale10
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/14101.ts
-#EXTINF:-1,CITY TV
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/16659.ts
-#EXTINF:-1,Company Tv
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/16676.ts
-#EXTINF:-1,Esperia TV
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/14092.ts
-#EXTINF:-1,ETV Marche
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/14131.ts
-#EXTINF:-1,LucanaTV
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/14075.ts
-#EXTINF:-1,Rete 55
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/14084.ts
-#EXTINF:-1,Rete-Oro
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/14100.ts
-#EXTINF:-1,Retesolelazio
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/14102.ts
-#EXTINF:-1,Retro TV
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/16653.ts
-#EXTINF:-1,RTTR
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/14129.ts
-#EXTINF:-1,SuperTV
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/14115.ts
-#EXTINF:-1,Tele Arena
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/14085.ts
-#EXTINF:-1,Tele8
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/14121.ts
-#EXTINF:-1,TeleChiara
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/14126.ts
-#EXTINF:-1,Telecine
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/14119.ts
-#EXTINF:-1,Telecolor
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/9199.ts
-#EXTINF:-1,Teleliguria Sud
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/14105.ts
-#EXTINF:-1,Telemonteve
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/14112.ts
-#EXTINF:-1,Telemonteve 3
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/14113.ts
-#EXTINF:-1,Telepordenone
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/14096.ts
-#EXTINF:-1,Telestudiomo
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/14095.ts
-#EXTINF:-1,TirrenoSat
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/14122.ts
-#EXTINF:-1,TRC Modena
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/14094.ts
-#EXTINF:-1,Trm H24
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/14072.ts
-#EXTINF:-1,TSN Livigno
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/14108.ts
-#EXTINF:-1,TSN Tele Sondrio News
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/14109.ts
-#EXTINF:-1,TV Marche
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/14082.ts
-#EXTINF:-1,TVRS
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/14130.ts
-#EXTINF:-1,Vera Tv
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/14079.ts
-#EXTINF:-1,VicenzaPiu TV
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/14127.ts
-#EXTINF:-1,Video Brescia
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/14110.ts
-#EXTINF:-1,VideoCalabria
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/14078.ts
-#EXTINF:-1,Videostar
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/14120.ts
-#EXTINF:-1,========== DEUTSCHLAND HD+==========
-/
-#EXTINF:-1,DE: Das Erste HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19651.ts
-#EXTINF:-1,DE: ZDF HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19650.ts
-#EXTINF:-1,DE: RTL HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19673.ts
-#EXTINF:-1,DE: RTL2 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19672.ts
-#EXTINF:-1,DE: SWR HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22341.ts
-#EXTINF:-1,DE: Super RTL HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19671.ts
-#EXTINF:-1,DE: SIXX HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19663.ts
-#EXTINF:-1,DE: ProSieben HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19669.ts
-#EXTINF:-1,DE: SAT.1 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19667.ts
-#EXTINF:-1,DE: VOX HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19670.ts
-#EXTINF:-1,DE: WDR HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19642.ts
-#EXTINF:-1,DE: Kabel 1 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19664.ts
-#EXTINF:-1,DE: Kabel 1 Classic HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19705.ts
-#EXTINF:-1,DE: Tele 5 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19662.ts
-#EXTINF:-1,DE: RTL Nitro HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19702.ts
-#EXTINF:-1,DE: Arte HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19685.ts
-#EXTINF:-1,DE: 3sat HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19647.ts
-#EXTINF:-1,DE: ONE HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19649.ts
-#EXTINF:-1,DE: ZDF-NEO HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19648.ts
-#EXTINF:-1,DE: Zee One HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19713.ts
-#EXTINF:-1,DE: TLC HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19661.ts
-#EXTINF:-1,DE: N24 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19656.ts
-#EXTINF:-1,DE: n-tv HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19657.ts
-#EXTINF:-1,DE: BBC  News HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19655.ts
-#EXTINF:-1,DE: Euronews
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19653.ts
-#EXTINF:-1,DE: Prosieben Fun HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19700.ts
-#EXTINF:-1,DE: Servus TV HD AT
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19658.ts
-#EXTINF:-1,DE: ServusTV HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19659.ts
-#EXTINF:-1,DE: SAT.1 Emotions HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19665.ts
-#EXTINF:-1,DE: Bon Gusto HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19654.ts
-#EXTINF:-1,DE: SonnenKlar TV
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19652.ts
-#EXTINF:-1,DE: RTL ll You HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19646.ts
-#EXTINF:-1,DE: MDR
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19641.ts
-#EXTINF:-1,DE: RBB HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19644.ts
-#EXTINF:-1,DE: HR HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19643.ts
-#EXTINF:-1,DE: NDR
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19640.ts
-#EXTINF:-1,DE: VIVA/COMEDY CENTRAL HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19639.ts
-#EXTINF:-1,========== SKY DEUTSCHLAND - CINEMA ==========
-/
-#EXTINF:-1,DE: Sky Cinema HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19735.ts
-#EXTINF:-1,DE: Sky Cinema +1 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19734.ts
-#EXTINF:-1,DE: Sky Cinema  +24 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19733.ts
-#EXTINF:-1,DE: Sky Cinema Family HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19732.ts
-#EXTINF:-1,DE: Sky Action HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19731.ts
-#EXTINF:-1,DE: Sky Cinema Hits HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19730.ts
-#EXTINF:-1,DE: Sky Comedy
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19729.ts
-#EXTINF:-1,DE: Sky Cinema Emotion
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19726.ts
-#EXTINF:-1,DE: Sky Nostalgie
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19728.ts
-#EXTINF:-1,DE: Kinowelt HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19725.ts
-#EXTINF:-1,DE: TNT Film HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19724.ts
-#EXTINF:-1,========== SKY DEUTSCHLAND - ENTERTAINMENT==========
-/
-#EXTINF:-1,DE: Sky 1 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19715.ts
-#EXTINF:-1,DE: Sky Atlantic HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19711.ts
-#EXTINF:-1,DE: Fox HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19708.ts
-#EXTINF:-1,DE: Syfy HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19707.ts
-#EXTINF:-1,DE: Sky Krimi
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19727.ts
-#EXTINF:-1,DE: Universal HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19718.ts
-#EXTINF:-1,DE: 13th Street HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19723.ts
-#EXTINF:-1,DE: TNT Serie HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19710.ts
-#EXTINF:-1,DE: TNT Comedy HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19709.ts
-#EXTINF:-1,DE: E! Entertainment
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19699.ts
-#EXTINF:-1,DE: RTL Crime HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19704.ts
-#EXTINF:-1,DE: RTL Passion HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19703.ts
-#EXTINF:-1,DE: RTL Living HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19701.ts
-#EXTINF:-1,DE: DMAX HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19660.ts
-#EXTINF:-1,DE: SAT.1 Gold HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19666.ts
-#EXTINF:-1,DE: ProSieben MAXX HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19668.ts
-#EXTINF:-1,DE: AXN HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19722.ts
-#EXTINF:-1,DE: Romance TV HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19706.ts
-#EXTINF:-1,DE: Heimatkanal
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19716.ts
-#EXTINF:-1,DE: Silverline
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19714.ts
-#EXTINF:-1,DE: Sony Entertainment TV HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19717.ts
-#EXTINF:-1,========== SKY DEUTSCHLAND - KINDER ==========
-/
-#EXTINF:-1,DE: Boomerang HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19697.ts
-#EXTINF:-1,DE: Cartoon Network HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19696.ts
-#EXTINF:-1,DE: Disney Channel HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19695.ts
-#EXTINF:-1,DE: Disney Cinemagic HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19694.ts
-#EXTINF:-1,DE: Disney Junior  HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19693.ts
-#EXTINF:-1,DE: Disney XD HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19692.ts
-#EXTINF:-1,DE: Fix&Foxi
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19691.ts
-#EXTINF:-1,DE: Junior [6:00-20:00]
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19690.ts
-#EXTINF:-1,DE: Nick Jr. HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19689.ts
-#EXTINF:-1,DE: Nickelodeon HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19688.ts
-#EXTINF:-1,DE: TOGGO Plus
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19687.ts
-#EXTINF:-1,========== SKY DEUTSCHLAND - KULTUR ==========
-/
-#EXTINF:-1,DE: A&E HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19684.ts
-#EXTINF:-1,DE: History  HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19683.ts
-#EXTINF:-1,DE: Animal Planet HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19682.ts
-#EXTINF:-1,DE: Planet HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19681.ts
-#EXTINF:-1,DE: Nat Geo People HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19680.ts
-#EXTINF:-1,DE: National Geo HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19679.ts
-#EXTINF:-1,DE: NatGeo Wild HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19678.ts
-#EXTINF:-1,DE: Discovery HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19677.ts
-#EXTINF:-1,DE: Spiegel TV Wissen HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19676.ts
-#EXTINF:-1,DE: Spiegel TV Geschichte
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19675.ts
-#EXTINF:-1,========== SKY DEUTSCHLAND - SPORT ==========
-/
-#EXTINF:-1,DE: Sky Sports News HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19607.ts
-#EXTINF:-1,DE: Sky Sport 1 HD [24/7]
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19596.ts
-#EXTINF:-1,DE: Sky Sport 2 HD [24/7]
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19595.ts
-#EXTINF:-1,DE: Sky Sport 3 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19594.ts
-#EXTINF:-1,DE: Sky Sport 4 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19593.ts
-#EXTINF:-1,DE: Sky Sport 5 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19592.ts
-#EXTINF:-1,DE: Sky Sport 6
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19591.ts
-#EXTINF:-1,DE: Sky Sport 7
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19590.ts
-#EXTINF:-1,DE: Sky Sport 8
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19589.ts
-#EXTINF:-1,DE: Sky Sport 9
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19588.ts
-#EXTINF:-1,DE: Sky Sport 10
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19587.ts
-#EXTINF:-1,DE: Sportdigital HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19582.ts
-#EXTINF:-1,DE: Auto Motor Sport Channel HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19576.ts
-#EXTINF:-1,DE: Sport 1 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19581.ts
-#EXTINF:-1,DE: Sport1 +  HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19580.ts
-#EXTINF:-1,US: FIGHTBOX HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19586.ts
-#EXTINF:-1,DE: Sport1 US HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19579.ts
-#EXTINF:-1,DE: Sky Sport Austria HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19583.ts
-#EXTINF:-1,DE: Eurosport 1 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19585.ts
-#EXTINF:-1,DE: Eurosport 2
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19584.ts
-#EXTINF:-1,DE: Eurosport 2 Xtra
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23031.ts
-#EXTINF:-1,DE: DAZN 1 Bar HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/25003.ts
-#EXTINF:-1,DE: DAZN 2 Bar HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/25004.ts
-#EXTINF:-1,========== SKY DEUTSCHLAND BUNDESLIGA ==========
-/
-#EXTINF:-1,DE: Sky Bundesliga 1 HD [24/7]
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19606.ts
-#EXTINF:-1,DE: Sky Bundesliga 2 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19605.ts
-#EXTINF:-1,DE: Sky Bundesliga 3 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19604.ts
-#EXTINF:-1,DE: Sky Bundesliga 4 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19603.ts
-#EXTINF:-1,DE: Sky Bundesliga 5
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19602.ts
-#EXTINF:-1,DE: Sky Bundesliga 6
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19601.ts
-#EXTINF:-1,DE: Sky Bundesliga 7
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19600.ts
-#EXTINF:-1,DE: Sky Bundesliga 8
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19599.ts
-#EXTINF:-1,DE: Sky Bundesliga 9
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19598.ts
-#EXTINF:-1,DE: Sky Bundesliga 10
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19597.ts
-#EXTINF:-1,========== SKY DEUTSCHLAND - SELECT ==========
-/
-#EXTINF:-1,Sky Select 1 A Quiet Place
-http://sky-iptv.dyndns.org:8000/movie/bCyWhbKO36/n55vGfInm8/24982.mkv
-#EXTINF:-1,Sky Select 2 Die Kleine Hexe
-http://sky-iptv.dyndns.org:8000/movie/bCyWhbKO36/n55vGfInm8/24983.mkv
-#EXTINF:-1,Sky Select 3 Lady Bird
-http://sky-iptv.dyndns.org:8000/movie/bCyWhbKO36/n55vGfInm8/24981.mkv
-#EXTINF:-1,Sky Select 4  Der Sex Pakt
-http://sky-iptv.dyndns.org:8000/movie/bCyWhbKO36/n55vGfInm8/24984.mkv
-#EXTINF:-1,Sky Select 5 A Quiet Place
-http://sky-iptv.dyndns.org:8000/movie/bCyWhbKO36/n55vGfInm8/24985.mkv
-#EXTINF:-1,Sky Select 6 Pacific Rim : Uprising
-http://sky-iptv.dyndns.org:8000/movie/bCyWhbKO36/n55vGfInm8/24986.mkv
-#EXTINF:-1,Sky Select 7 A Quiet Place
-http://sky-iptv.dyndns.org:8000/movie/bCyWhbKO36/n55vGfInm8/24987.mkv
-#EXTINF:-1,Sky Select 8 Lady Bird
-http://sky-iptv.dyndns.org:8000/movie/bCyWhbKO36/n55vGfInm8/24988.mkv
-#EXTINF:-1,Sky Select 9  Unsane Ausgeliefert
-http://sky-iptv.dyndns.org:8000/movie/bCyWhbKO36/n55vGfInm8/24989.mkv
-#EXTINF:-1,========== Svizzeri ==========
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19737.ts
-#EXTINF:-1,DE: SRF HD 1
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19613.ts
-#EXTINF:-1,DE: SRF HD 2
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19612.ts
-#EXTINF:-1,DE: ORF 1 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19610.ts
-#EXTINF:-1,DE: ORF 2 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19609.ts
-#EXTINF:-1,DE: ORF 3 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/25005.ts
-#EXTINF:-1,DE: Teleclub Cinema Full HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19721.ts
-#EXTINF:-1,DE: Teleclub Prime Full HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19720.ts
-#EXTINF:-1,DE: Teleclub Sport 1
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19578.ts
-#EXTINF:-1,DE: Teleclub Sport 2
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19577.ts
-#EXTINF:-1,DE: Teleclub Star Full HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19719.ts
-#EXTINF:-1,DE: Telebasel HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24972.ts
-#EXTINF:-1,DE: ATV HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22339.ts
-#EXTINF:-1,DE: ATV 2 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22340.ts
-#EXTINF:-1,DE: 3+
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22344.ts
-#EXTINF:-1,DE: 4+ HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22343.ts
-#EXTINF:-1,DE: 5+ HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22342.ts
-#EXTINF:-1,========== SKY DEUTSCHLAND - MUSIK ==========
-/
-#EXTINF:-1,DE: MTV Brand New
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19636.ts
-#EXTINF:-1,DE: MTV HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19635.ts
-#EXTINF:-1,DE: NRJ HITS HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19632.ts
-#EXTINF:-1,DE: Deluxe Music HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19627.ts
-#EXTINF:-1,DE: CLUBBIN TV
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19630.ts
-#EXTINF:-1,DE: KRONEHIT HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19631.ts
-#EXTINF:-1,DE: MDR S-A HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19645.ts
-#EXTINF:-1,DE ONE BY HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19629.ts
-#EXTINF:-1,DE: ONE BY 2HD PL
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19628.ts
-#EXTINF:-1,DE: 1 Music Channel Hungary
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/19624.ts
-#EXTINF:-1,=========== RADIOSENDER DEUTSCHLAND ==========
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24608.ts
-#EXTINF:-1,RPR1
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23785.ts
-#EXTINF:-1,bigFM
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23871.ts
-#EXTINF:-1,planet radio
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23803.ts
-#EXTINF:-1,N-JOY
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23819.ts
-#EXTINF:-1,HIT RADIO FFH
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23840.ts
-#EXTINF:-1,RADIO BOB!
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23798.ts
-#EXTINF:-1,DASDING
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23863.ts
-#EXTINF:-1,Fritz
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23842.ts
-#EXTINF:-1,harmony.fm
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23841.ts
-#EXTINF:-1,sunshine live
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23780.ts
-#EXTINF:-1,SWR1 BW
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23779.ts
-#EXTINF:-1,SWR1 RP
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23778.ts
-#EXTINF:-1,SWR2
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23777.ts
-#EXTINF:-1,SWR3
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23776.ts
-#EXTINF:-1,SWR4 Baden-Wurttemberg
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23775.ts
-#EXTINF:-1,SWR4 Rheinland-Pfalz
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23774.ts
-#EXTINF:-1,YOU FM
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23768.ts
-#EXTINF:-1,YOU FM Club
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23767.ts
-#EXTINF:-1,YOU FM Just Music
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23766.ts
-#EXTINF:-1,YOU FM Sounds
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23765.ts
-#EXTINF:-1,ROCKLAND.FM
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23786.ts
-#EXTINF:-1,ROCK ANTENNE
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23788.ts
-#EXTINF:-1,Rockland Radio
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23787.ts
-#EXTINF:-1,hr-info
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23839.ts
-#EXTINF:-1,hr1
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23838.ts
-#EXTINF:-1,hr2
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23837.ts
-#EXTINF:-1,hr3
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23836.ts
-#EXTINF:-1,hr4
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23835.ts
-#EXTINF:-1,JAM FM
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23834.ts
-#EXTINF:-1,JAM FM Black Label
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23833.ts
-#EXTINF:-1,JAM FM New Music Radio
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23832.ts
-#EXTINF:-1,JUKEBOX RADIO
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23831.ts
-#EXTINF:-1,DISCO DELUXE
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23849.ts
-#EXTINF:-1,DELUXE MUSIC RADIO
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23857.ts
-#EXTINF:-1,DELUXE NEW ARRIVALS
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23856.ts
-#EXTINF:-1,DELUXE TOP 25
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23855.ts
-#EXTINF:-1,DELUXE LOUNGE RADIO
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23858.ts
-#EXTINF:-1,DELUXE EASY
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23859.ts
-#EXTINF:-1,DELUXE CHEFSESSEL by WAGNER
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23860.ts
-#EXTINF:-1,DELUXE 80S EXTREME
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23862.ts
-#EXTINF:-1,DELUXE ALMOST FAMOUS
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23861.ts
-#EXTINF:-1,100'5 DAS HITRADIO
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23894.ts
-#EXTINF:-1,105'5 Spreeradio
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23893.ts
-#EXTINF:-1,105'5 Spreeradio 80er
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23892.ts
-#EXTINF:-1,105'5 Spreeradio Love
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23891.ts
-#EXTINF:-1,105'5 Spreeradio Rock
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23890.ts
-#EXTINF:-1,105'5 Spreeradio Weihnachtsradio
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23889.ts
-#EXTINF:-1,1LIVE
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23888.ts
-#EXTINF:-1,1LIVE diggi
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23887.ts
-#EXTINF:-1,89.0 RTL
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23886.ts
-#EXTINF:-1,Absolut Radio
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23885.ts
-#EXTINF:-1,Absolut relax
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23884.ts
-#EXTINF:-1,KULTRADIO
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23829.ts
-#EXTINF:-1,Radio 90.1
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23800.ts
-#EXTINF:-1,radioeins
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/23790.ts
-#EXTINF:-1,========== SKY UK ==========
-/
-#EXTINF:-1,UK: &tv HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24946.ts
-#EXTINF:-1,UK: 4Seven HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24936.ts
-#EXTINF:-1,UK: 5 Star
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24918.ts
-#EXTINF:-1,UK: 5Star
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24947.ts
-#EXTINF:-1,UK: AAJ TAK
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24945.ts
-#EXTINF:-1,UK: amc
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24917.ts
-#EXTINF:-1,UK: Animal Planet
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24923.ts
-#EXTINF:-1,UK: Animal Planet  1
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24922.ts
-#EXTINF:-1,UK: At The Races
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24912.ts
-#EXTINF:-1,UK: Baby TV
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24902.ts
-#EXTINF:-1,UK: BBC Four HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24964.ts
-#EXTINF:-1,UK: BBC News HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24962.ts
-#EXTINF:-1,UK: BBC One HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24966.ts
-#EXTINF:-1,UK: BBC Two HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24965.ts
-#EXTINF:-1,UK: Boomerang
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24901.ts
-#EXTINF:-1,UK: BOX Upfront
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24900.ts
-#EXTINF:-1,UK: Boxnation
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24899.ts
-#EXTINF:-1,UK: Channel 4 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24963.ts
-#EXTINF:-1,UK: Colors HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24888.ts
-#EXTINF:-1,UK: Comedy Central HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24935.ts
-#EXTINF:-1,UK: Comedy Xtra  1
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24934.ts
-#EXTINF:-1,UK: Crime & Investigation
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24933.ts
-#EXTINF:-1,UK: Dave HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24932.ts
-#EXTINF:-1,UK: Discovery HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24930.ts
-#EXTINF:-1,UK: Discovery History
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24931.ts
-#EXTINF:-1,UK: Discovery Ireland
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24929.ts
-#EXTINF:-1,UK: Discovery Science
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24928.ts
-#EXTINF:-1,UK: Discovery Shed
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24927.ts
-#EXTINF:-1,UK: Discovery Turbo
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24926.ts
-#EXTINF:-1,UK: Fox HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24939.ts
-#EXTINF:-1,UK: MTV
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24916.ts
-#EXTINF:-1,UK: MTV Base
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24915.ts
-#EXTINF:-1,UK: MTV Classic
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24914.ts
-#EXTINF:-1,UK: MTV Rocks
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24913.ts
-#EXTINF:-1,UK: MUTV
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24961.ts
-#EXTINF:-1,UK: Nat Geo HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24925.ts
-#EXTINF:-1,UK: Nat Geo Wild HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24924.ts
-#EXTINF:-1,UK: Premier Sports
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24885.ts
-#EXTINF:-1,UK: Quest
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24921.ts
-#EXTINF:-1,UK: Racing UK
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24884.ts
-#EXTINF:-1,UK: Sky 1 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24920.ts
-#EXTINF:-1,UK: Star Gold
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24944.ts
-#EXTINF:-1,UK: Star Life OK
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24943.ts
-#EXTINF:-1,UK: Star Plus
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24942.ts
-#EXTINF:-1,UK: Syfy
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24948.ts
-#EXTINF:-1,UK: TCM HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24938.ts
-#EXTINF:-1,UK: True Movies
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24960.ts
-#EXTINF:-1,UK: Universal HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24937.ts
-#EXTINF:-1,UK: Zee Cinema
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24941.ts
-#EXTINF:-1,UK: Zee TV
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24940.ts
-#EXTINF:-1,UK: Sky Living HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24919.ts
-#EXTINF:-1,========== SKY UK CINEMA ==========
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24969.ts
-#EXTINF:-1,UK: Sky Cinema Action HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24958.ts
-#EXTINF:-1,UK: Sky Cinema Action&Adventure
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24957.ts
-#EXTINF:-1,UK: Sky Cinema Comedy HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24954.ts
-#EXTINF:-1,UK: Sky Cinema Disney HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24953.ts
-#EXTINF:-1,UK: Sky Cinema Drama&Romance HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24952.ts
-#EXTINF:-1,UK: Sky Cinema Family HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24951.ts
-#EXTINF:-1,UK: Sky Cinema Hero HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24950.ts
-#EXTINF:-1,UK: Sky Cinema Hits HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24959.ts
-#EXTINF:-1,UK: Sky Cinema Select HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24955.ts
-#EXTINF:-1,UK: Sky Cinema Thriller HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24956.ts
-#EXTINF:-1,========== SKY UK SPORT ==========
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24968.ts
-#EXTINF:-1,UK: Sky Sport F1 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24908.ts
-#EXTINF:-1,UK: Sky Sports Action HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24911.ts
-#EXTINF:-1,UK: Sky Sports Arena
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24910.ts
-#EXTINF:-1,UK: Sky Sports Boxoffice
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24909.ts
-#EXTINF:-1,UK: Sky Sports Cricket HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24949.ts
-#EXTINF:-1,UK: Sky Sports Football
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24907.ts
-#EXTINF:-1,UK: Sky Sports Golf HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24906.ts
-#EXTINF:-1,UK: Sky Sports Main Event FHD*
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24905.ts
-#EXTINF:-1,UK: Sky Sports Mix FHD*
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24903.ts
-#EXTINF:-1,UK: Sky Sports Premier League FHD*
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24904.ts
-#EXTINF:-1,UK: Eurosport 2
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24886.ts
-#EXTINF:-1,UK: Eurosport HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24887.ts
-#EXTINF:-1,UK: BT Sport 2 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24897.ts
-#EXTINF:-1,UK: BT Sport 3
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24895.ts
-#EXTINF:-1,UK: BT Sport 3 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24896.ts
-#EXTINF:-1,UK: BT Sport ESPN HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24894.ts
-#EXTINF:-1,UK: BT Sport Extra 1
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24892.ts
-#EXTINF:-1,UK: BT Sport Extra 3
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24891.ts
-#EXTINF:-1,UK: BT Sport Extra 4
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24889.ts
-#EXTINF:-1,UK: BT Sport Extra 5
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24890.ts
-#EXTINF:-1,UK: BT Sport//ESPN
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24893.ts
-#EXTINF:-1,UK: BT Sports 1 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/24898.ts
-#EXTINF:-1,TR: 24 TV
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22802.ts
-#EXTINF:-1,TR: 360
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22805.ts
-#EXTINF:-1,TR: A Haber HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22810.ts
-#EXTINF:-1,TR: ASPOR HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22738.ts
-#EXTINF:-1,TR: ATV 2
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22798.ts
-#EXTINF:-1,TR: ATV HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22799.ts
-#EXTINF:-1,TR: Baby TV
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22825.ts
-#EXTINF:-1,TR: beIN IZ HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22748.ts
-#EXTINF:-1,TR: beIN Movies Türk
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22762.ts
-#EXTINF:-1,TR: Bein Sport 1 Yedek 1
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22712.ts
-#EXTINF:-1,TR: Bein Sport 1 Yedek 2
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22715.ts
-#EXTINF:-1,TR: Bein Sport 1 Yedek 3
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22714.ts
-#EXTINF:-1,TR: Bein Sport 1 Yedek 4
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22713.ts
-#EXTINF:-1,TR: Bein Sport 1 [VIP-DENEME]
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22716.ts
-#EXTINF:-1,TR: Bein Sport 2 Yedek 1
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22711.ts
-#EXTINF:-1,TR: Bein Sport 2 Yedek 2
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22710.ts
-#EXTINF:-1,TR: Bein Sport 2 Yedek 3
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22709.ts
-#EXTINF:-1,TR: Bein Sport 3 Yedek 1
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22708.ts
-#EXTINF:-1,TR: Bein Sport 3 Yedek 2
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22707.ts
-#EXTINF:-1,TR: Bein Sport 4 Yedek 1
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22706.ts
-#EXTINF:-1,TR: Bein Sport MAX
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22717.ts
-#EXTINF:-1,TR: Ben TV
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22809.ts
-#EXTINF:-1,TR: Besiktas TV HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22730.ts
-#EXTINF:-1,TR: Beyaz TV
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22786.ts
-#EXTINF:-1,TR: BLOOMBERG TV
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22806.ts
-#EXTINF:-1,TR: Bursaspor TV
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22731.ts
-#EXTINF:-1,TR: CARTOON NETWORK
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22824.ts
-#EXTINF:-1,TR: CINESTAR  TURK 1
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22774.ts
-#EXTINF:-1,TR: CINESTAR  TURK 2
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22773.ts
-#EXTINF:-1,TR: CNN Turk
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22811.ts
-#EXTINF:-1,TR: DaVinci
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22758.ts
-#EXTINF:-1,TR: Discovery Channel HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22754.ts
-#EXTINF:-1,TR: DISNEY CHANNEL
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22823.ts
-#EXTINF:-1,TR: Disney Jr HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22822.ts
-#EXTINF:-1,TR: Disney xD / Duck TV [06:00-22:45]
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22821.ts
-#EXTINF:-1,TR: Dream Türk
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22746.ts
-#EXTINF:-1,TR: Eurosport 1 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22735.ts
-#EXTINF:-1,TR: Eurosport 2 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22734.ts
-#EXTINF:-1,TR: Fenerbahnce TV HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22732.ts
-#EXTINF:-1,TR: FIL TV
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22779.ts
-#EXTINF:-1,TR: Flash TV HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22787.ts
-#EXTINF:-1,TR: FOX HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22790.ts
-#EXTINF:-1,TR: FX TV
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22761.ts
-#EXTINF:-1,TR: Galatasaray TV HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22733.ts
-#EXTINF:-1,TR: GURME HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22789.ts
-#EXTINF:-1,TR: Hababam TV 1
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22782.ts
-#EXTINF:-1,TR: Haber Turk HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22807.ts
-#EXTINF:-1,TR: Halk TV HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22803.ts
-#EXTINF:-1,TR: History Channel HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22753.ts
-#EXTINF:-1,TR: Istanbul 1
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22788.ts
-#EXTINF:-1,TR: IZTV HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22785.ts
-#EXTINF:-1,TR: Kanal 7 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22793.ts
-#EXTINF:-1,TR: Kanal a
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22804.ts
-#EXTINF:-1,TR: Kanal D HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22794.ts
-#EXTINF:-1,TR: Kemal Sunal TV 1
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22781.ts
-#EXTINF:-1,TR: KIDZ/Animez
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22820.ts
-#EXTINF:-1,TR: KRALTV
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22745.ts
-#EXTINF:-1,TR: LOCA 1
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22777.ts
-#EXTINF:-1,TR: LOCA 2
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22776.ts
-#EXTINF:-1,TR: LOCA 3
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22775.ts
-#EXTINF:-1,TR: minika Cocuk
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22819.ts
-#EXTINF:-1,TR: minika GO
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22818.ts
-#EXTINF:-1,TR: Moviemax Family
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22772.ts
-#EXTINF:-1,TR: Moviemax Stars
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22771.ts
-#EXTINF:-1,TR: Moviemax Turk
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22770.ts
-#EXTINF:-1,TR: MOVIESMART ACTION HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22769.ts
-#EXTINF:-1,TR: MOVIESMART TURK HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22768.ts
-#EXTINF:-1,TR: Nat Geo HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22757.ts
-#EXTINF:-1,TR: Nat Geo People HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22755.ts
-#EXTINF:-1,TR: Nat Geo Wild HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22756.ts
-#EXTINF:-1,TR: nick jr. HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22817.ts
-#EXTINF:-1,TR: nickelodeon HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22816.ts
-#EXTINF:-1,TR: NTV
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22808.ts
-#EXTINF:-1,TR: NTV Spor
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22739.ts
-#EXTINF:-1,TR: POWER TV HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22743.ts
-#EXTINF:-1,TR: PowerTurk HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22744.ts
-#EXTINF:-1,TR: S-SPORT HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22737.ts
-#EXTINF:-1,TR: Salon 1
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22767.ts
-#EXTINF:-1,TR: Salon 2
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22766.ts
-#EXTINF:-1,TR: Salon 3
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22765.ts
-#EXTINF:-1,TR: Semerkand
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22784.ts
-#EXTINF:-1,TR: Show Max
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22795.ts
-#EXTINF:-1,TR: Show TV HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22796.ts
-#EXTINF:-1,TR: Sinema TV
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22764.ts
-#EXTINF:-1,TR: SMARTSPOR 1
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22720.ts
-#EXTINF:-1,TR: SMARTSPOR 2
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22719.ts
-#EXTINF:-1,TR: Sports HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22736.ts
-#EXTINF:-1,TR: Star TV HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22797.ts
-#EXTINF:-1,TR: Teve 2 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22780.ts
-#EXTINF:-1,TR: TGRT Haber
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22815.ts
-#EXTINF:-1,TR: Tivibu Spor 1 Yedek 1
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22729.ts
-#EXTINF:-1,TR: Tivibu Spor 1 Yedek 2
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22728.ts
-#EXTINF:-1,TR: Tivibu Spor 2 Yedek 1
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22727.ts
-#EXTINF:-1,TR: Tivibu Spor 2 Yedek 2
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22726.ts
-#EXTINF:-1,TR: Tivibu Spor 2 Yedek 3
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22725.ts
-#EXTINF:-1,TR: Tivibu Spor 3 Yedek 1
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22724.ts
-#EXTINF:-1,TR: Tivibu Spor 3 Yedek 2
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22723.ts
-#EXTINF:-1,TR: Tivibu Spor 4 Yedek 1
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22722.ts
-#EXTINF:-1,TR: Tivibu Spor 4 Yedek 2
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22721.ts
-#EXTINF:-1,TR: TLC
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22759.ts
-#EXTINF:-1,TR: TRT 1 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22813.ts
-#EXTINF:-1,TR: TRT Avaz
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22751.ts
-#EXTINF:-1,TR: TRT BELGESEL HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22749.ts
-#EXTINF:-1,TR: TRT Cocuk HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22826.ts
-#EXTINF:-1,TR: TRT Haber HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22812.ts
-#EXTINF:-1,TR: TRT MUZIK
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22742.ts
-#EXTINF:-1,TR: TRT Okul
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22750.ts
-#EXTINF:-1,TR: TRT Spor HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22740.ts
-#EXTINF:-1,TR: TRT Turk
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22814.ts
-#EXTINF:-1,TR: TURKWOOD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22763.ts
-#EXTINF:-1,TR: TV 4
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22778.ts
-#EXTINF:-1,TR: TV Net HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22800.ts
-#EXTINF:-1,TR: TV8 Bucuk HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22791.ts
-#EXTINF:-1,TR: TV8 HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22792.ts
-#EXTINF:-1,TR: Ulke HD
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22801.ts
-#EXTINF:-1,TR: Yaban TV
-http://sky-iptv.dyndns.org:8000/live/bCyWhbKO36/n55vGfInm8/22752.ts
+
+#EXTINF:0 group-title="(AR) Arabia",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(AR) Arabia",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(AR) Arabia",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(AR) Arabia",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(AR) Arabia",1 TV | SD (AR)
+http://199.167.151.237:1935/live/sp15_30.stream/gmswf.m3u8
+#EXTINF:0 group-title="(AR) Arabia",AL AL KARIM | SD (AR)
+http://199.167.151.237:1935/live/sp15_14.stream/gmswf.m3u8
+#EXTINF:0 group-title="(AR) Arabia",AL MAJD AL HADITH | SD (AR)
+http://199.167.151.237:1935/live/sp15_32.stream/gmswf.m3u8
+#EXTINF:0 group-title="(AR) Arabia",AL MAJD HOLY | SD (AR)
+http://199.167.151.237:1935/live/sp15_24.stream/gmswf.m3u8
+#EXTINF:0 group-title="(AR) Arabia",AL MAJD SCIENTIFIC | SD (AR)
+http://199.167.151.237:1935/live/sp15_29.stream/gmswf.m3u8
+#EXTINF:0 group-title="(AR) Arabia",AL SUNNAH AL NABAWIYAH | SD (AR)
+http://www.elahmad.com/tv/m3u8/sauditv.m3u8
+#EXTINF:0 group-title="(AR) Arabia",AL SUNNAH AL NABAWIYAH (1+) | SD (AR)
+http://199.167.151.237:1935/live/sp15_31.stream/gmswf.m3u8
+#EXTINF:0 group-title="(AR) Arabia",AL UAE | SD (AR)
+http://www.elahmad.com/tv/m3u8/arabiya.m3u8
+#EXTINF:0 group-title="(AR) Arabia",AYAAT TV | SD (AR)
+http://m.live.net.sa:1935/live/ayat/chunklist_w1642024713.m3u8
+#EXTINF:0 group-title="(AR) Arabia",IQRAA | SD (AR)
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8
+#EXTINF:0 group-title="(AR) Arabia",IQRAA (1+) | SD (AR)
+http://199.167.151.237:1935/live/sp15_25.stream/gmswf.m3u8
+#EXTINF:0 group-title="(AR) Arabia",MAKKAH | SD (AR)
+http://izgemma.ddns.net:8000/live/ryan/ryan/37300.m3u8
+#EXTINF:0 group-title="(AR) Arabia",MAKKAH TV | SD (AR)
+http://199.167.151.237:1935/live/sp15_16.stream/gmswf.m3u8
+#EXTINF:0 group-title="(AR) Arabia",MBC ACTION | SD (AR)
+http://188.93.238.184:8000/live/snet/snet/648.m3u8
+#EXTINF:0 group-title="(AR) Arabia",MBC ACTION (1+) | SD (AR)
+http://izgemma.ddns.net:8000/live/ryan/ryan/648.m3u8
+#EXTINF:0 group-title="(AR) Arabia",MBC DRAMA | SD (AR)
+http://188.93.238.184:8000/live/snet/snet/649.m3u8
+#EXTINF:0 group-title="(AR) Arabia",TAYBA LOCAL | SD (AR)
+http://tayba.live.net.sa:1935/tayba/taybatv/chunklist_w1656537089.m3u8
+#EXTINF:0 group-title="(AR) Arabia",TR KABE AL W | SD (AR)
+http://iptv-webtv.at:8000/live/orangetech/stream/590.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(IT) Italy",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(IT) Italy",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(IT) Italy",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(IT) Italy",TV 2000 | SD (IT)
+http://mi1.wz.tv2000.it:80/tv2000_alfa.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(UK) United Kingdom",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(UK) United Kingdom",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(UK) United Kingdom",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(UK) United Kingdom",4 SEVEN | HD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/37163.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",5 STAR | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/26961.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",5SPIKE | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/9237.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",5SPIKE (1+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/9237.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",A1 TV | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/35119.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",A1 TV (1+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/35119.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",AAJ TAK | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/11303.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",AAJ TAK (1+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11303.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",AASTHA | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11322.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ABN TV | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11337.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ABN TV (1+) | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/11337.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ABU DHABI TV | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/11881.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ABU DHABI TV (1+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11881.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",AHLEBAIT TV | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/11364.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",AHLEBAIT TV (1+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11364.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",AHLULBAYT TV | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/11373.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",AHLULBAYT TV (1+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11373.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",AL ARABIYA | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/12594.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",AL HIWAR | SD (UK)
+http://mn-i.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_w1138816254_b1264000.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",AL JAZEERA | HD (UK)
+http://188.93.238.184:8000/live/snet/snet/11078.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ALIBI | HD (UK)
+http://188.93.238.184:8000/live/snet/snet/37167.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",AMC | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11339.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ANIMAL PLANET | HD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/9882.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",APLUS TV | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11357.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ASIA TV UPDATED | SD (UK)
+http://50.7.198.170:8081/PB/BRITASIA/playlist.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ATN BANGLA | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11363.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BEN TV | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11341.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BEN TV (1+) | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/11341.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BEN TV (2+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11341.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BLAZE | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/11877.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BLAZE (1+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11877.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CAPITAL TV | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/11742.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CBS ACTION | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/9225.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CBS ACTION (1+) | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/29513.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CBS ACTION (2+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/9225.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CBS ACTION (3+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/29513.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CBS ACTION (4+) | SD (UK)
+http://delux-iptv.com:8000/live/iptv-delux1/121667572516132/2892.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CBS DRAMA | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/9226.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CBS DRAMA (1+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/9226.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CBS DRAMA (2+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/29511.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CBS DRAMA (3+) | SD (UK)
+http://delux-iptv.com:8000/live/iptv-delux1/121667572516132/2883.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CBS DRAMA (4+) | SD (UK)
+http://delux-iptv.com:8000/live/iptv-delux1/121667572516132/2891.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CBS REALITY | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/9004.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CBS REALITY (1+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/29512.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CBS REALITY (2+) | SD (UK)
+http://delux-iptv.com:8000/live/iptv-delux1/121667572516132/2890.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CBS REALITY (3+) | SD (UK)
+http://delux-iptv.com:8000/live/iptv-delux1/121667572516132/2911.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CGTN | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11883.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CHALLENGE | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/21112.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CHALLENGE (1+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/21112.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CHANNEL 4 | HD (UK)
+http://delux-iptv.com:8000/live/iptv-delux1/121667572516132/2882.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CHANNEL 4 | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/37413.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CHANNEL 44 | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/12595.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CHANNEL 5 | HD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/31973.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CHANNEL 5 | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/29192.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CHANNEL AKA | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/11282.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CHANNELS 24 | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11356.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CHANNELS 24 (1+) | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/11356.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CHANNELS 24 (2+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11356.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CHSTV | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/11858.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CITV | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/37158.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CITV (1+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/37158.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",COLORS | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/14139.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",COMEDY CENTRAL | HD (UK)
+http://188.93.238.184:8000/live/snet/snet/8148.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",COMEDY CENTRAL | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/29483.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",COMEDY CENTRAL (1+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/29483.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CRIME INVESTIGATION | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/10743.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CRIME INVESTIGATION (1+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/10743.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",DAVE | HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/31974.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",DAVE | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/37383.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",DAVE JA VU | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/27692.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",DAVE JA VU (1+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/27692.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY | HD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/9879.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY CHANNEL1 | SD (UK)
+http://delux-iptv.com:8000/live/iptv-delux1/121667572516132/2873.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY HISTORY | SD (UK)
+http://delux-iptv.com:8000/live/iptv-delux1/121667572516132/2869.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY SCIENCE | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/9884.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY SCIENCE (1+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/9884.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY SHED | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/9238.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY TURBO | HD (UK)
+http://delux-iptv.com:8000/live/iptv-delux1/121667572516132/2860.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY TURBO | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/9883.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",DMAX | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/33890.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",DMAX (1+) | SD (UK)
+http://delux-iptv.com:8000/live/iptv-delux1/121667572516132/2846.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",DRAMA | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/9235.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EMAN CHANNEL | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11745.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",FILM 4 | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/21369.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",FILM 4 (1+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/21369.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",FILM 4 (2+) | SD (UK)
+http://delux-iptv.com:8000/live/iptv-delux1/121667572516132/2886.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",FINE LIVING | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/37338.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",FINE LIVING (1+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/37338.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",FORCES TV | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/11898.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",FOX | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/37399.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",FOX (1+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/37399.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",FRANCE 24 | SD (UK)
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",FRONT RUNNER | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/11859.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",FRONT RUNNER 2 | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/11372.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",FRONT RUNNER 2 (1+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11372.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",GARV PUNJAB LIVE | HD (UK)
+http://188.93.238.184:8000/live/snet/snet/37676.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",GOLD | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/27674.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",GOLD (1+) | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/36517.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",GOLD (2+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/36517.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",GOLD (3+) | SD (UK)
+http://delux-iptv.com:8000/live/iptv-delux1/121667572516132/2844.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",GOOD FOOD | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/8168.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",GOOD FOOD (1+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/8168.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",HEART TV | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11274.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",HEART TV (1+) | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/11274.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",HIDAYAT TV | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11758.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",HISTORY | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/10738.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",HOME | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/11338.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",HOME (1+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11338.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",HOME & HEALTH | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/9470.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",HOME & HEALTH (1+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/9470.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",HORROR CHANNEL | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/11872.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",HORROR CHANNEL (1+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11872.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",HORROR CHANNEL (2+) | SD (UK)
+http://delux-iptv.com:8000/live/iptv-delux1/121667572516132/2885.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",HORSE & COUNTRY | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11365.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",HORSE & COUNTRY (1+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11365.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",HUM MASALA | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/14127.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ID FASHION | SD (UK)
+http://95.67.8.22/hls/idfashion/index.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ION TV | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/23005.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",IQRA BANGLA | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/11759.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",IQRA BANGLA (1+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11759.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",IQRA TV | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/12582.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ITV | HD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/26573.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ITV 2 | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/37340.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ITV 2 (1+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/37340.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ITV 2 (2+) | SD (UK)
+http://delux-iptv.com:8000/live/iptv-delux1/121667572516132/2939.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ITV 3 | HD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/37345.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ITV 3 | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/37341.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ITV 3 (1+) | SD (UK)
+http://delux-iptv.com:8000/live/iptv-delux1/121667572516132/2938.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ITV 4 | HD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/8155.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ITV 4 | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/11346.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ITV 4 (1+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11346.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ITV 4 (2+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/37342.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ITV BE | HD (UK)
+http://188.93.238.184:8000/live/snet/snet/37412.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ITV GRANADA | HD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/36958.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ITV2 | HD (UK)
+http://188.93.238.184:8000/live/snet/snet/8153.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ITV2 (1+) | HD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/8153.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ITV3 | HD (UK)
+http://188.93.238.184:8000/live/snet/snet/8154.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ITV3 (1+) | HD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/8154.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",JUS PUNJABI | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/21852.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",JUS PUNJABI (1+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/21852.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",KANSHI TV | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11354.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",KEEP IT COUNTRY | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/11861.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",KTV | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/12593.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",KTV (1+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/12593.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",LIFETIME | HD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/9233.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",LIVE | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11344.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",LIVE (1+) | SD (UK)
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",MADANI CHANNEL | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11777.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",MATV NATIONAL | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/22527.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",MORE 4 | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/22411.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",MTA-MUSLIM TV | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11902.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",MUSLIM | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11910.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",MY CHANNEL | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11735.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",NAT GEO WILD | SD (UK)
+http://delux-iptv.com:8000/live/iptv-delux1/121667572516132/2866.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",NATIONAL GEOGRAPHIC | HD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/9885.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",NATIONAL GEOGRAPHIC WILD | HD (UK)
+http://188.93.238.184:8000/live/snet/snet/29508.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",NEW VISION TV | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11749.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",NOLLYWOOD | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/11885.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",NOLLYWOOD (1+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11885.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",NOOR TV | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11740.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",NOW 80S | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11752.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",NOW 80S (1+) | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/11752.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",NOW 80S (2+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11752.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",NTV | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/11886.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",NTV (1+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11886.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",PEACE TV | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/14128.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",PEACE TV (1+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/14128.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",PEACE TV UAE | SD (UK)
+http://199.167.151.237:1935/live/sp15_3.stream/gmswf.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",PICK TV | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/29514.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",PICK TV (1+) | SD (UK)
+http://delux-iptv.com:8000/live/iptv-delux1/121667572516132/2893.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",PROPERTY SHOW | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/11753.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",PROPERTY SHOW (1+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11753.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",PTV GLOBAL | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11756.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",PTV PRIME | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11880.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",REAL LIVES | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11342.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",REALLY | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/37422.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",REALLY (1+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/9232.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",REALLY (2+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/37422.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",RECORD TV | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11738.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",RECORD TV (1+) | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/11738.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",RECORD TV (2+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11738.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ROK | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/11867.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ROK (1+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11867.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",RTE 2 | HD (UK)
+http://188.93.238.184:8000/live/snet/snet/11334.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",RTE 2 (1+) | HD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11334.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",RTE ONE | HD (UK)
+http://188.93.238.184:8000/live/snet/snet/37162.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",RTE ONE (1+) | HD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/37162.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",RUSSIA TODAY | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/11326.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",RUSSIA TODAY (1+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11326.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SAFEER TV | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/12598.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SAMAA | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11287.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SANSKAR | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/35121.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SANSKAR (1+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/35121.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SHOWCASE | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11855.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SIKH CHANNEL | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11862.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY 1 | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/14193.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY 1 (1+) | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/27675.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY 1 (2+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/27675.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY 2 | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/14195.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY 2 (1+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/14195.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY ARTS | HD (UK)
+http://188.93.238.184:8000/live/snet/snet/8156.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY ARTS | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/37392.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY ARTS (1+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/37392.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY ATLANTIC | HD (UK)
+http://188.93.238.184:8000/live/snet/snet/8144.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY ATLANTIC (1+) | HD (UK)
+http://delux-iptv.com:8000/live/iptv-delux1/121667572516132/2889.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY ATLANTIC | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/27098.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY ATLANTIC (1+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/27098.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY COMEDY | HD (UK)
+http://delux-iptv.com:8000/live/iptv-delux1/121667572516132/2907.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY LIVING | HD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/8143.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY LIVING | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/37337.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY ONE | HD (UK)
+http://188.93.238.184:8000/live/snet/snet/11349.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY ONE (1+) | HD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11349.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY1 | SD (UK)
+http://delux-iptv.com:8000/live/iptv-delux1/121667572516132/2914.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY2 | SD (UK)
+http://delux-iptv.com:8000/live/iptv-delux1/121667572516132/2913.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SONY MAX | HD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11907.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SONY SAB | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11302.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SONY TV | HD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11308.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",STAR GOLD | HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11321.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",STAR GOLD (1+) | HD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11321.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",STAR GOLD | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/29501.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",STAR PLUS | HD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11286.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",STAR PLUS (1+) | HD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/37932.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SYFY | HD (UK)
+http://188.93.238.184:8000/live/snet/snet/8150.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SYFY (1+) | HD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/8150.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",TAKBEER | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/11750.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",TAKBEER (1+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11750.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",TALKING PICTURES | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/11747.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",TALKING PICTURES (1+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11747.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",TCM | HD (UK)
+http://188.93.238.184:8000/live/snet/snet/14207.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",TCM (1+) | HD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/14207.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",THANE | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/30019.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",TIMES NOW | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11899.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",TLC | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/37404.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",TLC (1+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/37404.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",TRAVEL CHANNEL | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/11370.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",TRAVEL CHANNEL (1+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11370.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",TV 99 | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/11909.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",TV ONE | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/12597.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",TV ONE (1+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/12597.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",UNIVERSAL | HD (UK)
+http://188.93.238.184:8000/live/snet/snet/37160.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",UNIVERSAL | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/29476.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",UNIVERSAL CHANNEL | SD (UK)
+http://delux-iptv.com:8000/live/iptv-delux1/121667572516132/2841.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",URDU1 EUROPE | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/35120.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",URDU1 EUROPE (1+) | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/35120.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",URDU1 EUROPE (2+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/35120.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",UTV IRELAND | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/11343.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",UTV IRELAND (1+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11343.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",VENUS TV | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11757.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",VOX AFRICA | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/11793.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",VOX AFRICA (1+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11793.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",VTV | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/35122.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",YANGA | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/37941.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",YESTERDAY | SD (UK)
+http://delux-iptv.com:8000/live/iptv-delux1/121667572516132/2837.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ZEE TV | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11312.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ZING | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/11314.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ZING (1+) | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11314.m3u8
+
+#EXTINF:0 group-title="(US) United States",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(US) United States",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(US) United States",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(US) United States",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(US) United States",ALBANIAN TV OF | SD (US)
+http://stream.shqiptv.com:7080/altvusa/index.m3u8
+#EXTINF:0 group-title="(US) United States",BETTER LIFE | SD (US)
+http://uni5rtmp.tulix.tv:1935/betterlife/betterlife/playlist.m3u8
+#EXTINF:0 group-title="(US) United States",BETTER NATURE | SD (US)
+http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8
+#EXTINF:0 group-title="(US) United States",CRIME & INVESTIGATION | SD (US)
+http://145.239.0.158:8080/live/mehmet/mehmet123/7917.m3u8
+#EXTINF:0 group-title="(US) United States",CTNI ES | SD (US)
+http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8
+#EXTINF:0 group-title="(US) United States",E! ENTERTAINMENT | HD (US)
+http://delux-iptv.com:8000/live/iptv-delux1/121667572516132/2967.m3u8
+#EXTINF:0 group-title="(US) United States",ESPERANZA TV ES | SD (US)
+http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8
+#EXTINF:0 group-title="(US) United States",GEM TV | SD (US)
+http://63.237.48.3/ios/GEM_USA/GEM_USA.m3u8
+#EXTINF:0 group-title="(US) United States",GOOD LIFE 45 | SD (US)
+http://1-fss29-s0.streamhoster.com/lv_goodlife45f1/_definst_/broadcast1/playlist.m3u8
+#EXTINF:0 group-title="(US) United States",HALLMARK | SD (US)
+http://145.239.0.158:8080/live/mehmet/mehmet123/7903.m3u8
+#EXTINF:0 group-title="(US) United States",HALLMARK CHANNE | HD (US)
+http://delux-iptv.com:8000/live/iptv-delux1/121667572516132/2959.m3u8
+#EXTINF:0 group-title="(US) United States",HALLMARK DRAMA | HD (US)
+http://delux-iptv.com:8000/live/iptv-delux1/121667572516132/2958.m3u8
+#EXTINF:0 group-title="(US) United States",HBO | SD (US)
+http://145.239.0.158:8080/live/mehmet/mehmet123/7902.m3u8
+#EXTINF:0 group-title="(US) United States",HISCHANNEL | SD (US)
+http://www1.hischannel.com/Box-Tv-Live/BoxTvLive.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:0 group-title="(US) United States",HOUSE OF YAHWEH | SD (US)
+http://198.57.164.156:1935/live/SermonLoop/chunklist_w1535326969.m3u8
+#EXTINF:0 group-title="(US) United States",HVCC RO | SD (US)
+http://cdn.credonet.tv:8081/hvcc/smil:livehv.smil/playlist.m3u8
+#EXTINF:0 group-title="(US) United States",LIFEVISION TV | SD (US)
+http://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
+#EXTINF:0 group-title="(US) United States",MIAMI TV | SD (US)
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:0 group-title="(US) United States",NBCN | SD (US)
+http://145.239.0.158:8080/live/mehmet/mehmet123/7896.m3u8
+#EXTINF:0 group-title="(US) United States",NRB NETWORK | SD (US)
+http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
+#EXTINF:0 group-title="(US) United States",SHOWTIME | SD (US)
+http://145.239.0.158:8080/live/mehmet/mehmet123/7892.m3u8
+#EXTINF:0 group-title="(US) United States",SINOVISION | SD (US)
+http://ec.sinovision.net/video/ts/lv.m3u8
+#EXTINF:0 group-title="(US) United States",STARZ COMEDY | SD (US)
+http://145.239.0.158:8080/live/mehmet/mehmet123/7888.m3u8
+#EXTINF:0 group-title="(US) United States",SUPER CHANNEL | SD (US)
+http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-128/mp4:wacx/playlist.m3u8
+#EXTINF:0 group-title="(US) United States",TELEDUNAMIS ES | SD (US)
+http://f.dc.edge.2.christianworldmedia.com:1935/teledunamis/mp4:teledunamis/playlist.m3u8
+#EXTINF:0 group-title="(US) United States",TSN 2HD | SD (US)
+http://izgemma.ddns.net:8000/live/ryan/ryan/37792.m3u8
+#EXTINF:0 group-title="(US) United States",TSN 5HD | SD (US)
+http://188.93.238.184:8000/live/snet/snet/37791.m3u8
+#EXTINF:0 group-title="(US) United States",TV LT | SD (US)
+http://ipsatpro.biz:8080/live/noemie/noemie1/2602.m3u8
+#EXTINF:0 group-title="(US) United States",UK@ 5 | SD (US)
+http://188.93.238.184:8000/live/snet/snet/37156.m3u8
+#EXTINF:0 group-title="(US) United States",UK@ 5 (1+) | SD (US)
+http://izgemma.ddns.net:8000/live/ryan/ryan/37156.m3u8
+#EXTINF:0 group-title="(US) United States",VICTORY TELEVISION NETWORK | SD (US)
+http://184.173.179.163:1935/victorytelevisionnetwork/victorytelevisionnetwork/playlist.m3u8
+#EXTINF:0 group-title="(US) United States",VISION CELESTIAL ES | SD (US)
+http://streaming.omeganet.org:1935/vc/envivo/chunklist_w1068747420.m3u8
+
+#EXTINF:0 group-title="(WW) World Wide",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(WW) World Wide",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(WW) World Wide",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(WW) World Wide",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(WW) World Wide",AL AOULA | SD (WW)
+http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
+#EXTINF:0 group-title="(WW) World Wide",ANTENA 3 | SD (WW)
+http://ipsatpro.biz:8080/live/noemie/noemie1/1000.m3u8
+#EXTINF:0 group-title="(WW) World Wide",CDM PUERTO RICO | SD (WW)
+http://205.164.56.130:1935/marcos536/marcos536/playlist.m3u8
+#EXTINF:0 group-title="(WW) World Wide",HARVEST TV USA | SD (WW)
+http://media1.lesea.com:1935/live/leseaorigin.stream/playlist.m3u8
+#EXTINF:0 group-title="(WW) World Wide",HBO 2 | SD (WW)
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF:0 group-title="(WW) World Wide",NEW JAPAN PRO-WRESTLING | SD (WW)
+http://cdnak9.litecdn.net/channels/4/10804.m3u8
+#EXTINF:0 group-title="(WW) World Wide",TR TV 8 | SD (WW)
+http://iptv-webtv.at:8000/live/orangetech/stream/14.m3u8
+#EXTINF:0 group-title="(WW) World Wide",TRT | SD (WW)
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:0 group-title="(WW) World Wide",UK@ AIT | SD (WW)
+http://188.93.238.184:8000/live/ryan/ryan/11884.m3u8
+#EXTINF:0 group-title="(WW) World Wide",UK@ AIT (1+) | SD (WW)
+http://188.93.238.184:8000/live/snet/snet/11884.m3u8
+#EXTINF:0 group-title="(WW) World Wide",UK@ CNC | SD (WW)
+http://188.93.238.184:8000/live/snet/snet/11853.m3u8
+#EXTINF:0 group-title="(WW) World Wide",UK@ CNC (1+) | SD (WW)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11853.m3u8
