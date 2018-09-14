@@ -1,0 +1,2607 @@
+#EXTM3U
+
+#EXTINF:0,NILESAT TV
+https://pastebin.com/raw/2uJg3Ri2/.m3u
+#EXTINF:0,Freebox TV
+http://mafreebox.freebox.fr/freeboxtv/playlist.m3u
+#EXTINF:0,IPTV TEAMBLUE
+https://pastebin.com/raw/HkuGeNFv/.m3u
+#EXTINF:0,CHAHID TV
+http://iptv.speedhd10.com:8080/get.php?username=Skdlz&password=Toenado&type=m3u&output=hls
+#EXTINF:0,IPTV THE BEST 1
+http://tv.myddns.ru/upload/1554528949_Spark.xml.m3u
+#EXTINF:0,IPTV THE BEST 2
+http://segaz.my1.ru/xml/iptv/best2.m3u
+#EXTINF:0,IPTV THE BEST 3
+http://segaz.my1.ru/xml/iptv/best.m3u
+#EXTINF:0,IPTV THE BEST 4
+https://pastebin.com/raw/jE1uzH8y/.m3u
+#EXTINF:0,IPTV THE BEST 5
+https://pastebin.com/raw/r4bbLpZ7/.m3u
+#EXTINF:0,IPTV SHQIP 1
+http://zee18.com/wondersports/IPTV/playlist/tvshqip.php#.m3u
+#EXTINF:0,IPTV SHQIP 2
+http://vprxy.com/iptvtvshqip/.m3u 
+#EXTINF:0,DAILY IPTV 1
+https://www.dropbox.com/s/u8hbkqeo6uis8a3/server1.m3u?dl=1#.m3u
+#EXTINF:0,DAILY IPTV 2
+http://www.dropbox.com/s/ojvf4arqupv81dn/server2.m3u?dl=1#.m3u 
+#EXTINF:0,DAILY IPTV SPORT 1
+https://www.dropbox.com/s/ljg14k91c51j5is/SPORT.m3u?dl=1#.m3u
+#EXTINF:0,DAILY IPTV SPORT 2
+http://www.dropbox.com/s/ljg14k91c51j5is/SPORT.m3u?dl=1#.m3u
+#EXTINF:0,IPTV BEIN SPORT 1
+http://vprxy.com/unblocked/.m3u 
+#EXTINF:0,IPTV BEIN SPORT C247
+http://vprxy.com/c247/.m3u
+#EXTINF:0,IPTV BEIN SPORT 2
+http://54.36.61.6:8000/get.php?username=BeinSports&password=BeInSpOrTS&type=m3u 
+#EXTINF:0,IPTV ARAB 1
+http://freetvip.com/listm3u/ARAB_1.m3u
+#EXTINF:0,IPTV ARAB 2
+http://freetvip.com/listm3u/ARAB_2.m3u
+#EXTINF:0,IPTV FRANCE 1
+http://freetvip.com/listm3u/FR_FRANCE_1.m3u
+#EXTINF:0,IPTV FRANCE 2
+http://freetvip.com/listm3u/FR_FRANCE_2.m3u
+#EXTINF:0,IPTV GERMANY 1
+http://freetvip.com/listm3u/DE_GERMANIA_ALMANIA_1.m3u
+#EXTINF:0,IPTV GERMANY 2
+http://freetvip.com/listm3u/DE_GERMANIA_ALMANIA_2.m3u
+#EXTINF:0,IPTV UK
+http://freetvip.com/listm3u/UK_inglesh_inghelterra_2.m3u
+#EXTINF:0,IPTV ITALIA 1
+http://freetvip.com/listm3u/IT_ITALIA_1.m3u
+#EXTINF:0,IPTV ITALIA 2
+http://freetvip.com/listm3u/IT_ITALIA_2.m3u
+#EXTINF:0,IPTV SPAIN 1
+http://freetvip.com/listm3u/SP_spagna_espania_1.m3u
+#EXTINF:0,IPTV SPAIN 2
+http://freetvip.com/listm3u/SP_spagna_espania_1.m3u
+#EXTINF:0,IPTV BEIN SPORT
+http://freetvip.com/listm3u/BEIN_SPORT.m3u
+#EXTINF:0,IPTV EUROPE 1
+http://freetvip.com/listm3u/EUROPA_1.m3u
+#EXTINF:0,IPTV EUROPE 2
+http://freetvip.com/listm3u/EUROPA_2.m3u
+#EXTINF:0,TELEDUNET ALADIN63_azerty06
+https://pastebin.com/raw/AYqXqP3g/.m3u
+#EXTINF:0,TELEDUNET GADEER_1905
+https://pastebin.com/raw/NpNFfDfX/.m3u
+#EXTINF:0,Free world TV
+http://iptv.slynet.tv/FreeWorldTV.m3u
+#EXTINF:0,iptv ru
+http://www.listiptv.ru/iptv.m3u
+#EXTINF:0,iptv ru
+http://listiptv.ru/iptv.m3u
+#EXTINF:0,iptv ukr
+http://ukr-iptv.com/list.m3u
+#EXTINF:0,iptv maximuma
+http://tv.maximuma.net/iptv.m3u
+#EXTINF:0,Regio TV
+http://srregio.xyz/regiotv.m3u
+#EXTINF:0,Auto iptv ru
+http://getsapp.ru/IPTV/Auto_IPTV.m3u
+#EXTINF:0,Auto iptv ru
+http://smarttvnews.ru/apps/Auto_IPTV-400.m3u
+#EXTINF:0,Free Best TV
+http://slynet.pw/FreeBestTV2.m3u
+#EXTINF:0,Slynet ukr
+http://slynet.pw/ZabavaSlyUkraine.m3u
+#EXTINF:0,Free web cams world
+http://iptv.slynet.pw/FreeWebCamsWorld.m3u
+#EXTINF:0,Free world TV
+http://iptv.slynet.pw/FreeWorldTV.m3u
+#EXTINF:0,Channel 148
+http://pastebin.com/raw.php?i=0v7dwrnb
+#EXTINF:0,Channel 149
+http://slynet.do.am/FreeWorldTV.m3u
+#EXTINF:0,iptv di hi
+http://diforfree.org/pls/di_hi.m3u
+#EXTINF:0,Radio slynet 1
+http://slynet.do.am/RadioSlyNet.m3u
+#EXTINF:0,Radio slynet 2
+http://iptv.slynet.pw/RadioSlyNet.m3u
+#EXTINF:0,Radio slynet
+http://slynet.pw/RadioSlyNet.m3u
+#EXTINF:0,Radio tunes
+http://iptv56.ru/radiotunes.m3u
+#EXTINF:0,Radio
+http://2kom.tv/channels/radio.m3u
+#EXTINF:0,Channel 156
+http://slynet.pw/FreeBestTV.m3u
+#EXTINF:0,Channel 157
+http://slynet.do.am/FreeBestTV.m3u
+#EXTINF:0,Channel 158
+http://slynet.do.am/PeerstvSlyNet.m3u
+#EXTINF:0,Channel 159
+http://slynet.do.am/ZabavaSlyUkraine.m3u
+#EXTINF:0,Kino drom slynet
+http://slynet.pw/KinodromSlyNet.m3u
+#EXTINF:0,Channel 161
+http://slynet.pw/PeerstvSlyNet.m3u
+#EXTINF:0,Lanet TV
+http://www.lanet.tv/playlist.m3u
+#EXTINF:0,FreeSlyNet_(ex_ZabavaSlyUkraine) 
+http://iptv.slynet.tv/FreeSlyNet.m3u
+#EXTINF:0,Channel 163
+http://iptv.slynet.tv/FreeBestTV.m3u
+#EXTINF:0,Free web cams world
+http://iptv.slynet.tv/FreeWebCamsWorld.m3u
+#EXTINF:0,Adults Slynet
+http://iptv.slynet.tv/AdultsSlyNet.m3u
+#EXTINF:0,Channel 166
+http://iptv.slynet.tv/KinodromSlyNet.m3u
+#EXTINF:0,Radio Slynet
+http://iptv.slynet.tv/RadioSlyNet.m3u
+#EXTINF:0,IPTV GERMANY 1
+http://185.7.126.134:3000/channels.m3u
+#EXTINF:0,IPTV GERMANY 2
+http://46.128.200.163:3000/channels.m3u
+#EXTINF:0,IPTV GERMANY 3
+http://85.144.43.35:3002/playlist.m3u
+#EXTINF:0,AUTO IPTV FR
+http://playlist.autoiptv.net/normal.php/.m3u?c=FR
+#EXTINF:0,AUTO IPTV MOVIES
+http://playlist.autoiptv.net/movie.php/.m3u
+#EXTINF:0,AUTO IPTV UK
+http://playlist.autoiptv.net/normal.php/.m3u?c=UK
+#EXTINF:0,AUTO IPTV DE
+http://playlist.autoiptv.net/normal.php/.m3u?c=DE
+#EXTINF:0,AUTO IPTV AR
+http://playlist.autoiptv.net/normal.php/.m3u?c=AR
+#EXTINF:0,AUTO IPTV IT
+http://playlist.autoiptv.net/normal.php/.m3u?c=IT
+#EXTINF:0,AUTO IPTV SP
+http://playlist.autoiptv.net/normal.php/.m3u?c=SP
+#EXTINF:0,AUTO IPTV WORLD
+http://playlist.autoiptv.net/normal.php/.m3u?c=WW
+#EXTINF:0,AUTO IPTV ALBANIA
+http://playlist.autoiptv.net/normal.php/.m3u?c=AL
+#EXTINF:0,AUTO IPTV USA
+http://playlist.autoiptv.net/normal.php/.m3u?c=US
+#EXTINF:0,AUTO IPTV PL
+http://playlist.autoiptv.net/normal.php/.m3u?c=PL
+#EXTINF:0,AUTO IPTV TR
+http://playlist.autoiptv.net/normal.php/.m3u?c=TR
+#EXTINF:0,AUTO IPTV EX-YU
+http://playlist.autoiptv.net/normal.php/.m3u?c=EX-YU
+#EXTINF:0,AUTO IPTV NL
+http://playlist.autoiptv.net/normal.php/.m3u?c=NL
+#EXTINF:0,AUTO IPTV GR
+http://playlist.autoiptv.net/normal.php/.m3u?c=GR
+#EXTINF:0,AUTO IPTV AF
+http://playlist.autoiptv.net/normal.php/.m3u?c=AF
+#EXTINF:0,AUTO IPTV SE
+http://playlist.autoiptv.net/normal.php/.m3u?c=SE
+#EXTINF:0,AUTO IPTV CH
+http://playlist.autoiptv.net/normal.php/.m3u?c=CH
+#EXTINF:0,AUTO IPTV BE
+http://playlist.autoiptv.net/normal.php/.m3u?c=BE
+#EXTINF:0,AUTO IPTV RO
+http://playlist.autoiptv.net/normal.php/.m3u?c=RO
+#EXTINF:0,AUTO IPTV RU
+http://playlist.autoiptv.net/normal.php/.m3u?c=RU
+#EXTINF:0,AUTO IPTV UA
+http://playlist.autoiptv.net/normal.php/.m3u?c=UA
+#EXTINF:0,AUTO IPTV SA
+http://playlist.autoiptv.net/normal.php/.m3u?c=SA
+#EXTINF:0,AUTO IPTV AU
+http://playlist.autoiptv.net/normal.php/.m3u?c=AU
+#EXTINF:0,AUTO IPTV PK
+http://playlist.autoiptv.net/normal.php/.m3u?c=PK
+#EXTINF:0,AUTO IPTV LT
+http://playlist.autoiptv.net/normal.php/.m3u?c=LT
+#EXTINF:0,AUTO IPTV IN
+http://playlist.autoiptv.net/normal.php/.m3u?c=IN
+#EXTINF:0,AUTO IPTV CA
+http://playlist.autoiptv.net/normal.php/.m3u?c=CA
+#EXTINF:0,AUTO IPTV PT
+http://playlist.autoiptv.net/normal.php/.m3u?c=PT
+#EXTINF:0,AUTO IPTV BG
+http://playlist.autoiptv.net/normal.php/.m3u?c=BG
+#EXTINF:0,AUTO IPTV CZ
+http://playlist.autoiptv.net/normal.php/.m3u?c=CZ
+#EXTINF:0,AUTO IPTV PK
+http://playlist.autoiptv.net/normal.php/.m3u?c=PK
+#EXTINF:0,AUTO IPTV
+http://playlist.autoiptv.net/normal.php/.m3u?c=FI
+#EXTINF:0,AUTO IPTV MOVIES
+http://playlist.autoiptv.net/movie.php/.m3u
+#EXTINF:0,AUTO IPTV NEWS
+http://playlist.autoiptv.net/news.php/.m3u
+#EXTINF:0,AUTO IPTV SPORT
+http://playlist.autoiptv.net/sport.php/.m3u
+#EXTINF:0,AUTO IPTV KIDS
+http://playlist.autoiptv.net/kids.php/.m3u
+#EXTINF:0,AUTO IPTV MUSIC
+http://playlist.autoiptv.net/music.php/.m3u
+#EXTINF:0,AUTO IPTV XML
+http://playlist.autoiptv.net/xml.php/.m3u
+#EXTINF:0,AUTO IPTV NORMAL
+http://playlist.autoiptv.net/normal.php/.m3u
+#EXTINF:0,IPTV XOX
+http://0100dyndns.tv:7879/get.php?username=XOX&password=XOX123&type=m3u&output=hls
+#EXTINF:0,IPTV vintera tv 1
+http://xml.vintera.tv/android_v1117/internettv.xml?lang=en
+#EXTINF:0,IPTV vintera tv 2
+http://xml.vintera.tv/android_v1117/provtv.xml?lang=en 
+#EXTINF:0,IPTV vintera tv 3
+http://xml.vintera.tv/android_v1117/premium/packages_en.xml 
+#EXTINF:0,IPTV vintera tv 4
+http://xml.vintera.tv/android_v0316/internettv.xml?lang=en 
+#EXTINF:0,AUTO_IPTV 
+http://getsapp.ru/IPTV/Auto_IPTV.m3u
+#EXTINF:0,IPTV ARAB 1
+http://freetvip.com/listm3u/ARAB_1.m3u
+#EXTINF:0,IPTV ARAB 2
+http://freetvip.com/listm3u/ARAB_2.m3u
+#EXTINF:0,IPTV FRENCH 1
+http://freetvip.com/listm3u/FR_FRANCE_1.m3u
+#EXTINF:0,IPTV FRENCH 2
+http://freetvip.com/listm3u/FR_FRANCE_2.m3u
+#EXTINF:0,IPTV EUROPE 1
+http://freetvip.com/listm3u/EUROPA_1.m3u
+#EXTINF:0,IPTV EUROPE 2
+http://freetvip.com/listm3u/EUROPA_2.m3u
+#EXTINF:0,IPTV SPAIN 1
+http://freetvip.com/listm3u/SP_spagna_espania_1.m3u
+#EXTINF:0,IPTV SPAIN 2
+http://freetvip.com/listm3u/SP_spagna_espania_2.m3u
+#EXTINF:0,IPTV UK 1
+http://freetvip.com/listm3u/UK_inglesh_inghelterra_1.m3u
+#EXTINF:0,IPTV UK 2
+http://freetvip.com/listm3u/UK_inglesh_inghelterra_2.m3u
+#EXTINF:0,IPTV GERMANY 1
+http://freetvip.com/listm3u/DE_GERMANIA_ALMANIA_1.m3u
+#EXTINF:0,IPTV:GERMANY 2
+http://freetvip.com/listm3u/DE_GERMANIA_ALMANIA_2.m3u
+#EXTINF:0,IPTV ITALIA 1
+http://freetvip.com/listm3u/IT_ITALIA_1.m3u
+#EXTINF:0,IPTV ITALIA 2
+http://freetvip.com/listm3u/IT_ITALIA_2.m3u
+#EXTINF:0,IPTV ALL
+http://marcoasensiomadrid.website/11CHANNELS/daily2/all.m3u
+#EXTINF:0,IPTV WORLD
+http://marcoasensiomadrid.website/11CHANNELS/countries/world.m3u 
+#EXTINF:0,IPTV ALL 2
+http://marcoasensiomadrid.website/11CHANNELS/daily2/all2.m3u
+#EXTINF:0,IPTV ARABIC
+http://marcoasensiomadrid.website/11CHANNELS/daily/arabic2610a.m3u
+#EXTINF:0,IPTV GERMANY
+http://marcoasensiomadrid.website/11CHANNELS/daily/germany2.m3u
+#EXTINF:0,IPTV FRENCH
+http://marcoasensiomadrid.website/11CHANNELS/daily/france2.m3u 
+#EXTINF:0,IPTV UK-USA
+http://marcoasensiomadrid.website/11CHANNELS/daily/ukus.m3u 
+#EXTINF:0,IPTV VOD
+http://marcoasensiomadrid.website/11CHANNELS/other/vod.m3u
+#EXTINF:0,IPTV TURK 1
+http://tvizle.square7.ch/full2.m3u
+#EXTINF:0,IPTV TURK 2
+http://yilmaztv.com/1.m3u
+#EXTINF:0,IPTV FILM
+http://tvizle.square7.ch/film.m3u
+#EXTINF:0,IPTV sansei 1
+http://segaz.my1.ru/xml/iptv/sansei/Poznavatelnye.m3u   
+#EXTINF:0,IPTV sansei 2
+http://segaz.my1.ru/xml/iptv/sansei/Obyedinenny.m3u
+#EXTINF:0,IPTV sansei 3
+http://segaz.my1.ru/xml/iptv/sansei/KinoIserialy.m3u
+#EXTINF:0,IPTV sansei 4
+http://segaz.my1.ru/xml/iptv/sansei/Razvlekatelnyye.m3u
+#EXTINF:0,IPTV barnaul
+http://segaz.my1.ru/xml/iptv/barnaul.m3u 
+#EXTINF:0,IPTV telec
+http://segaz.my1.ru/xml/iptv/telec.m3u 
+#EXTINF:0,IPTV your iptv
+http://segaz.my1.ru/xml/iptv/youriptv.m3u 
+#EXTINF:0,IPTV 1
+http://segaz.my1.ru/xml/iptv/79.m3u 
+#EXTINF:0,IPTV 2
+http://segaz.my1.ru/mag/83-37.m3u 
+#EXTINF:0,IPTV 3
+http://segaz.my1.ru/mag/5-8.m3u 
+#EXTINF:0,IPTV 4
+http://segaz.my1.ru/mag/5-26.m3u 
+#EXTINF:0,IPTV 5
+http://segaz.my1.ru/mag/176-216.m3u 
+#EXTINF:0,IPTV ihustlaz
+http://www.ihustlaz.com/M3U%20LIST/TESTER.m3u
+#EXTINF:0,IPTV ALBANIA
+https://pastebin.com/raw/mk6rsCMx
+#EXTINF:0,IPTV NILESAT
+https://pastebin.com/raw/Z8xdDhBw
+#EXTINF:0,IPTV HUNGARY
+https://pastebin.com/raw/inV0P1gX
+#EXTINF:0,Firestone TV France
+http://vprxy.com/firstone-france/.m3u
+#EXTINF:0,Firestone TV Germany
+http://vprxy.com/firstone-germany/.m3u
+#EXTINF:0,Firestone TV Spain
+http://vprxy.com/firstone-spain/.m3u
+#EXTINF:0,Firestone TV Italy
+http://vprxy.com/firstone-italy/.m3u
+#EXTINF:0,Firestone TV UK
+http://vprxy.com/firstone-united-kingdom/.m3u
+#EXTINF:0,Firestone TV Sweden
+http://vprxy.com/firstone-sweden/.m3u
+#EXTINF:0,Firestone TV USA
+http://vprxy.com/firstone-united-states-28usa29/.m3u
+#EXTINF:0,Firestone TV Norway
+http://vprxy.com/firstone-norway/.m3u
+#EXTINF:0,Firestone TV Poland
+http://vprxy.com/firstone-poland/.m3u
+#EXTINF:0,Firestone TV Portugal
+http://vprxy.com/firstone-portugal/.m3u
+#EXTINF:0,Firestone TV Switzerland
+http://vprxy.com/firstone-switzerland/.m3u
+#EXTINF:0,Firestone TV Turkey
+http://vprxy.com/firstone-turkey/.m3u
+#EXTINF:0,Firestone TV Russia
+http://vprxy.com/firstone-russia/.m3u
+#EXTINF:0,Firestone TV Canada
+http://vprxy.com/firstone-canada/.m3u
+#EXTINF:0,Firestone TV Austria
+http://vprxy.com/firstone-austria/.m3u
+#EXTINF:0,Firestone TV Belgium
+http://vprxy.com/firstone-belgium/.m3u
+#EXTINF:0,Firestone TV Netherlands
+http://vprxy.com/firstone-netherlands/.m3u
+#EXTINF:0,Firestone TV Irland
+http://vprxy.com/firstone-ireland/.m3u
+#EXTINF:0,Firestone TV International
+http://vprxy.com/firstone-international/.m3u
+#EXTINF:0,Firestone TV Iceland
+http://vprxy.com/firstone-iceland/.m3u
+#EXTINF:0,Firestone TV India
+http://vprxy.com/firstone-india/.m3u
+#EXTINF:0,Firestone TV Denmark
+http://vprxy.com/firstone-denmark/.m3u
+#EXTINF:0,Firestone TV China
+http://vprxy.com/firstone-china/.m3u
+#EXTINF:0,Firestone TV Ukraine
+http://vprxy.com/firstone-ukraine/.m3u
+#EXTINF:0,Firestone TV Romania
+http://vprxy.com/firstone-romania/.m3u
+#EXTINF:0,Firestone TV Albania
+http://vprxy.com/firstone-albania/.m3u
+#EXTINF:0,Firestone TV Australia
+http://vprxy.com/firstone-australia/.m3u
+#EXTINF:0,Firestone TV Bulgaria
+http://vprxy.com/firstone-bulgaria/.m3u
+#EXTINF:0,Firestone TV Finland
+http://vprxy.com/firstone-finland/.m3u
+#EXTINF:0,Firestone TV Estonia
+http://vprxy.com/firstone-estonia/.m3u
+#EXTINF:0,Firestone TV Hungary
+http://vprxy.com/firstone-hungary/.m3u
+#EXTINF:0,iptv teamblue 65
+https://raw.githubusercontent.com/teamblue65/LISTAS/master/LISTA_PVR_SIMPLE_CLIENT
+#EXTINF:0,Best iptv
+http://vprxy.com/bestiptv/.m3u
+#EXTINF:0,Ace all
+http://vprxy.com/aceall/m3u/.m3u
+#EXTINF:0,Torrent TV 
+http://pomoyka.lib.emergate.net/trash/ttv-list/ttv.m3u
+#EXTINF:0,Torrent TV all player
+http://pomoyka.lib.emergate.net/trash/ttv-list/ttv.all.player.m3u
+#EXTINF:0,Torrent TV allfon
+http://pomoyka.lib.emergate.net/trash/ttv-list/allfon.all.player.m3u
+#EXTINF:0,Torrent TV ace all player
+http://pomoyka.lib.emergate.net/trash/ttv-list/ace.all.player.m3u
+#EXTINF:0,Torrent TV as all player
+http://pomoyka.lib.emergate.net/trash/ttv-list/as.all.player.m3u
+#EXTINF:0,Torrent TV as direct
+http://pomoyka.lib.emergate.net/trash/ttv-list/as.direct.m3u
+#EXTINF:0,Torrent TV all nox
+http://pomoyka.lib.emergate.net/trash/ttv-list/ttv.all.nox.m3u
+#EXTINF:0,Time iptv sports
+http://vprxy.com/timeiptvsports/.m3u
+#EXTINF:0,Show sports
+http://vprxy.com/showsports/m3u/.m3u
+#EXTINF:0,Cric HD
+http://vprxy.com/crichd/m3u/.m3u
+#EXTINF:0,Ustreamix
+http://vprxy.com/ustreamix/.m3u
+#EXTINF:0,Time iptv france
+http://vprxy.com/timeiptvfrance/.m3u
+#EXTINF:0,Time iptv italy
+http://vprxy.com/timeiptvitaly/.m3u
+#EXTINF:0,Time iptv germany
+http://vprxy.com/timeiptvgermany/.m3u
+#EXTINF:0,Time iptv english
+http://vprxy.com/timeiptvenglish/.m3u
+#EXTINF:0,Time iptv spanish 
+http://vprxy.com/timeiptvspanish/.m3u
+#EXTINF:0,Time iptv arabic
+http://vprxy.com/timeiptvarabic/.m3u
+#EXTINF:0,Time iptv portugal
+http://vprxy.com/timeiptvportugal/.m3u
+#EXTINF:0,Solide stream france
+http://vprxy.com/solid-ss_france/.m3u
+#EXTINF:0,Live TV uk
+http://vprxy.com/livetv-uk/.m3u
+#EXTINF:0,Live TV usa
+http://vprxy.com/livetv-us/.m3u
+#EXTINF:0,Live TV France
+http://vprxy.com/livetv-fr/.m3u
+#EXTINF:0,Live TV Italy
+http://vprxy.com/livetv-it/.m3u
+#EXTINF:0,Live TV Germany
+http://vprxy.com/livetv-de/.m3u
+#EXTINF:0,Live TV Espana
+http://vprxy.com/livetv-es/.m3u
+#EXTINF:0,Live TV Poland
+http://vprxy.com/livetv-pl/.m3u
+#EXTINF:0,Live TV Netherlands
+http://vprxy.com/livetv-nl/.m3u
+#EXTINF:0,Live TV Turkey
+http://vprxy.com/livetv-tr/.m3u
+#EXTINF:0,Live TV Denmark
+http://vprxy.com/livetv-dk/.m3u
+#EXTINF:0,Live TV Albania
+http://vprxy.com/livetv-al/.m3u
+#EXTINF:0,Live TV Belgium
+http://vprxy.com/livetv-be/.m3u
+#EXTINF:0,Live TV Arabic
+http://vprxy.com/livetv-ar/.m3u
+#EXTINF:0,Live TV India
+http://vprxy.com/livetv-in/.m3u
+#EXTINF:0,Live TV Sweden
+http://vprxy.com/livetv-sw/.m3u
+#EXTINF:0,Live TV Serbia
+http://vprxy.com/livetv-sr/.m3u
+#EXTINF:0,Live TV Portugal
+http://vprxy.com/livetv-pt/.m3u
+#EXTINF:0,Live TV Romania
+http://vprxy.com/livetv-ro/.m3u
+#EXTINF:0,Live TV vip
+http://vprxy.com/livetv-vip/.m3u
+#EXTINF:0,Live TV Slovénie
+http://vprxy.com/livetv-sk/.m3u
+#EXTINF:0,Live TV Azrabejan
+http://vprxy.com/livetv-az/.m3u
+#EXTINF:0,Live TV cz
+http://vprxy.com/livetv-cz/.m3u
+#EXTINF:0,Live TV ex-yu
+http://vprxy.com/livetv-ex-yu/.m3u
+#EXTINF:0,iptv eronix
+https://vprxy.com/eronix-all/.m3u
+#EXTINF:0,TV Shqip
+https://vprxy.com/tvshqip/.m3u
+#EXTINF:0,iptv reseller
+https://vprxy.com/iptvreseller/.m3u
+#EXTINF:0,Albanian TV
+http://vprxy.com/albaniantv/m3u/.m3u
+#EXTINF:0,iptv canales
+http://www.micentromultimedia.com/listas/canales.m3u
+#EXTINF:0,iptv latino
+http://vertv0800.com/listao__VerTV0800.com__.m3u
+#EXTINF:0,Best iptv
+https://vprxy.com/bestiptv/.m3u
+#EXTINF:0,Unblocked iptv
+https://vprxy.com/unblocked/.m3u
+#EXTINF:0,Cinestrenos TV
+https://vprxy.com/cinestrenostv/.m3u
+#EXTINF:0,Ace all Channels 1
+http://vprxy.com/aceall/m3u/.m3u
+#EXTINF:0,Ace all Channels 2
+http://pomoyka.lib.emergate.net/trash/ttv-list/as.all.iproxy.m3u
+#EXTINF:0,Ace full all Channels 
+https://pastebin.com/raw/pq5nxDDd/.m3u
+#EXTINF:0,Kumanda TV
+https://vprxy.com/kumandatv/.m3u
+#EXTINF:0,Mix Channels 1
+https://github.com/AlaaGhamrawi/IPTV/raw/master/1500.m3u
+#EXTINF:0,Mix Channels 2
+http://cafe-tv.net/wp-content/uploads/2017/05/World2705b.m3u
+#EXTINF:0,Mix Channels 3
+https://raw.githubusercontent.com/mastercleff/iptvlist/master/iptv.m3u
+#EXTINF:0,Mix Channels 4 
+http://ihustlaz.com/(9)HUSTLAZ%20PLAYLIST/PLAYLIST%205?.m3u
+#EXTINF:0,Channels SS iptv
+https://raw.githubusercontent.com/teamblue65/LISTAS/master/LISTA_SSIPTV?.m3u
+#EXTINF:0,iptv 18+1
+http://zee18.com/playlist/18+1.m3u 
+#EXTINF:0,Channels France
+http://github.com/beryan19/Jan/raw/master/FRANCE.m3u 
+#EXTINF:0,Channels Germany
+http://github.com/beryan19/Jan/raw/master/GERMANY.m3u 
+#EXTINF:0,All Channels 1
+http://github.com/beryan19/Jan/raw/master/ALLCHANNEL2.m3u 
+#EXTINF:0,Channels UK
+http://github.com/beryan19/Jan/raw/master/UK.m3u 
+#EXTINF:0,All Channels 2
+http://github.com/beryan19/Jan/raw/master/ALLCHANNELS.m3u  
+#EXTINF:0,Channels world
+https://github.com/beryan19/Jan/raw/master/WORLD.m3u
+#EXTINF:0,Channels russia
+https://github.com/beryan19/Jan/raw/master/RU.m3u
+#EXTINF:0,Channels kids 1
+https://github.com/beryan19/Jan/raw/master/KIDS.m3u
+#EXTINF:0,Channels kids 2
+http://vprxy.com/timeiptvkidzania/.m3u 
+#EXTINF:0,Tele 2 web arabic
+https://vprxy.com/tele2web-live-Arabic-tv/.m3u
+#EXTINF:0,Tele 2 web osn
+https://vprxy.com/tele2web-live-OSN-26-beIN/.m3u
+#EXTINF:0,Tele 2 web france
+https://vprxy.com/tele2web-live-France-tv/.m3u
+#EXTINF:0,Tele 2 web english
+https://vprxy.com/tele2web-live-English-tv/.m3u
+#EXTINF:0,Tele 2 web sports
+http://vprxy.com/tele2web-live-Bein-Sports/.m3u
+#EXTINF:0,Channels biggsy
+https://www.hirdyweb.com/tv_channels_biggsy.m3u
+#EXTINF:0,IPTV LATINO
+http://vertv0800.com/listao.m3u
+#EXTINF:0,ACHO TV
+http://www.achotv.com/listas/canales.m3u
+#EXTINF:0,ACHO TV X
+http://www.achotv.com/listas/canales-x.m3u
+#EXTINF:0,ACHO TV CC
+http://www.achotv.com/listas/cctv.m3u
+#EXTINF:0,ACHO TV LATINO
+http://www.achotv.com/listas/paises.m3u8
+#EXTINF:0,Channels All sports
+https://vprxy.com/allsports24h/.m3u
+#EXTINF:0,SPORTS CHANNELS MIX
+https://vprxy.com/albsporttv-paki-sports/.m3u
+#EXTINF:0,TUTTO SPORT
+http://vprxy.com/tuttosport/.m3u
+#EXTINF:0,CROWNLIVE
+https://vprxy.com/crownlive/.m3u
+#EXTINF:0,SPORT ACE
+http://vprxy.com/sportace/m3u/.m3u
+#EXTINF:0,CRIC FREE
+http://vprxy.com/cricfree/m3u/.m3u
+#EXTINF:0,CRIC HD
+http://vprxy.com/crichd/m3u/.m3u
+#EXTINF:0,SKY SPORTS
+https://vprxy.com/crownlive/.m3u
+#EXTINF:0,SHOW SPORTS
+http://vprxy.com/showsports/m3u/.m3u
+#EXTINF:0,ALL SPORTS
+https://vprxy.com/tele2web-live-ALL-Sports-ch/.m3u
+#EXTINF:0,TIME IPTV SPORTS
+http://vprxy.com/timeiptvsports/.m3u
+#EXTINF:0,Best iptv
+http://marcoasensiomadrid.website/11CHANNELS/other/bestiptv.m3u 
+#EXTINF:0,Playlist iptv WORLD 
+http://marcoasensiomadrid.website/11CHANNELS/mix/FreeWorldTV.m3u
+#EXTINF:0,IPTV LATINO
+http://marcoasensiomadrid.website/11CHANNELS/other/listao__VerTV0800.com__.m3u
+#EXTINF:0,IPTV SPORTS
+http://marcoasensiomadrid.website/11CHANNELS/sport/albsporttv-paki-sports.m3u
+#EXTINF:0,SPORTS CHANNELS INT
+http://marcoasensiomadrid.website/11CHANNELS/sport/allsports24h.m3u
+#EXTINF:0,BEIN SPORTS SERVER 1
+http://marcoasensiomadrid.website/11CHANNELS/soccer/showsports.m3u
+#EXTINF:0,IPTV ITALIA 1
+http://marcoasensiomadrid.website/11CHANNELS/countries/italia2610a.m3u
+#EXTINF:0,IPTV TURKEY
+http://marcoasensiomadrid.website/11CHANNELS/countries/turkey.m3u
+#EXTINF:0,IPTV UK US Canada
+http://marcoasensiomadrid.website/11CHANNELS/countries/world4.m3u
+#EXTINF:0,LIVE SECURITY CAMERA
+http://marcoasensiomadrid.website/11CHANNELS/other/webcam.m3u
+#EXTINF:0,IPTV Germany 
+http://marcoasensiomadrid.website/11CHANNELS/countries/germany.m3u
+#EXTINF:0,IPTV WORLD 1
+http://marcoasensiomadrid.website/11CHANNELS/countries/world1.m3u
+#EXTINF:0,IPTV WORLD 4
+http://marcoasensiomadrid.website/11CHANNELS/countries/working.m3u
+#EXTINF:0,IPTV TR + NL + DE
+http://marcoasensiomadrid.website/11CHANNELS/countries/world.m3u
+#EXTINF:0,IPTV SPORTS
+http://marcoasensiomadrid.website/11CHANNELS/sport/sky.m3u
+#EXTINF:0,IPTV DAILY UK
+http://marcoasensiomadrid.website/11CHANNELS/daily/uk.m3u
+#EXTINF:0,IPTV DAILY FRANCE
+http://marcoasensiomadrid.website/11CHANNELS/daily/france.m3u
+#EXTINF:0,IPTV UK
+http://xc1.asmhosting.solutions:80/get.php?username=555555555&password=555555555&type=m3u&output=hls
+#EXTINF:0,prizma tv
+http://s02.prizmatv.net:80/playlist.m3u?type=m3u&deviceMac=00:1A:79:10:36:1A
+#EXTINF:0,Channel 2
+http://s02.prizmatv.net:80/playlist.m3u?type=m3u&deviceMac=00:1A:79:10:36:1C
+#EXTINF:0,Channel 3
+http://s02.prizmatv.net:80/playlist.m3u?type=m3u&deviceMac=00:1A:79:10:36:1D
+#EXTINF:0,Channel 4
+http://s02.prizmatv.net:80/playlist.m3u?type=m3u&deviceMac=00:1A:79:10:36:23
+#EXTINF:0,Channel 5
+http://s02.prizmatv.net:80/playlist.m3u?type=m3u&deviceMac=00:1A:79:10:36:2C
+#EXTINF:0,Channel 6
+http://s02.prizmatv.net:80/playlist.m3u?type=m3u&deviceMac=00:1A:79:10:36:1E
+#EXTINF:0,Channel 7
+http://s02.prizmatv.net:80/playlist.m3u?type=m3u&deviceMac=00:1A:79:10:36:1F
+#EXTINF:0,Channel 8
+http://s02.prizmatv.net:80/playlist.m3u?type=m3u&deviceMac=00:1A:79:10:36:26
+#EXTINF:0,Channel 9
+http://s02.prizmatv.net:80/playlist.m3u?type=m3u&deviceMac=00:1A:79:10:36:24
+#EXTINF:0,Channel 10
+http://s02.prizmatv.net:80/playlist.m3u?type=m3u&deviceMac=00:1A:79:10:36:28
+
+#EXTINF:0,Channel 1
+http://163.172.105.25:80/playlist?type=m3u&deviceMac=00:1A:79:4A:32:F3
+#EXTINF:0,Channel 2
+http://163.172.105.25:80/playlist?type=m3u&deviceMac=00:1A:79:4A:41:C2
+#EXTINF:0,Channel 3
+http://163.172.105.25:80/playlist?type=m3u&deviceMac=00:1A:79:4A:4C:D6
+#EXTINF:0,Channel 4
+http://163.172.105.25:80/playlist?type=m3u&deviceMac=00:1A:79:4A:58:D0
+#EXTINF:0,Channel 5
+http://163.172.105.25:80/playlist?type=m3u&deviceMac=00:1A:79:4A:60:8D
+#EXTINF:0,Channel 6
+http://163.172.105.25:80/playlist?type=m3u&deviceMac=00:1A:79:4A:83:BA
+#EXTINF:0,Channel 7
+http://163.172.105.25:80/playlist?type=m3u&deviceMac=00:1A:79:4A:84:AD
+#EXTINF:0,Channel 8
+http://163.172.105.25:80/playlist?type=m3u&deviceMac=00:1A:79:4A:85:87
+#EXTINF:0,Channel 9
+http://163.172.105.25:80/playlist?type=m3u&deviceMac=00:1A:79:4A:A8:5C
+#EXTINF:0,Channel 10
+http://163.172.105.25:80/playlist?type=m3u&deviceMac=00:1A:79:4A:AB:75
+#EXTINF:0,Channel 11
+http://163.172.105.25:80/playlist?type=m3u&deviceMac=00:1A:79:4A:AD:0D
+#EXTINF:0,Channel 12
+http://163.172.105.25:80/playlist?type=m3u&deviceMac=00:1A:79:4A:AD:B3
+#EXTINF:0,Channel 13
+http://163.172.105.25:80/playlist?type=m3u&deviceMac=00:1A:79:4A:2E:96
+#EXTINF:0,Channel 14
+http://212.83.186.246:9732/playlist?type=simple-m3u&deviceUser=gillmcshane&devicePass=230917
+#EXTINF:0,Channel 15
+http://163.172.105.25:80/playlist?type=m3u&deviceMac=00:1A:79:1A:F3:F6
+
+http://145.239.142.180:25461/get.php?username=admin_070547&password=3VH286WN&type=m3u
+
+http://145.239.142.180:25461/get.php?username=admin_273595&password=kqahzSme&type=m3u
+
+http://145.239.142.180:25461/get.php?username=admin_312925&password=f3beZvRZ&type=m3u
+
+http://145.239.142.180:25461/get.php?username=admin_726612&password=PMfd87K5&type=m3u
+
+http://145.239.142.180:25461/get.php?username=admin_047519&password=fnw8NYjn&type=m3u
+
+http://145.239.142.180:25461/get.php?username=admin_792790&password=GSc6Y71s&type=m3u
+
+http://turks-nl.nepals.me:8000/get.php?username=4DKuETEuBebaLGR&password=2d1gtMYBtsmQaAs&type=m3u
+
+http://spain.nepals.me:8000/get.php?username=4DKuETEuBebaLGR&password=2d1gtMYBtsmQaAs&type=m3u
+
+http://french.nepals.me:8000/get.php?username=4DKuETEuBebaLGR&password=2d1gtMYBtsmQaAs&type=m3u
+
+http://sport.nepals.me:8000/get.php?username=4DKuETEuBebaLGR&password=2d1gtMYBtsmQaAs&type=m3u
+
+http://italy.nepals.me:7711/get.php?username=4DKuETEuBebaLGR&password=2d1gtMYBtsmQaAs&type=m3u
+
+http://arabe-osn.nepals.me:8000/get.php?username=4DKuETEuBebaLGR&password=2d1gtMYBtsmQaAs&type=m3u
+
+http://de.nepals.me:7711/get.php?username=4DKuETEuBebaLGR&password=2d1gtMYBtsmQaAs&type=m3u
+
+http://uk.nepals.me:7501/get.php?username=4DKuETEuBebaLGR&password=2d1gtMYBtsmQaAs&type=m3u
+
+http://afrique.nepals.me:8000/get.php?username=4DKuETEuBebaLGR&password=2d1gtMYBtsmQaAs&type=m3u
+
+==========================================================================
+SERVER 2 BY ALGERIA-IPTV
+
+
+http://turks-nl.nepals.me:8000/get.php?username=iF629LWOgx3sIP8&password=zRmA8Pn6rQzNGJn&type=m3u
+
+http://spain.nepals.me:8000/get.php?username=iF629LWOgx3sIP8&password=zRmA8Pn6rQzNGJn&type=m3u
+
+http://french.nepals.me:8000/get.php?username=iF629LWOgx3sIP8&password=zRmA8Pn6rQzNGJn&type=m3u
+
+http://sport.nepals.me:8000/get.php?username=iF629LWOgx3sIP8&password=zRmA8Pn6rQzNGJn&type=m3u
+
+http://italy.nepals.me:7711/get.php?username=iF629LWOgx3sIP8&password=zRmA8Pn6rQzNGJn&type=m3u
+
+http://arabe-osn.nepals.me:8000/get.php?username=iF629LWOgx3sIP8&password=zRmA8Pn6rQzNGJn&type=m3u
+
+http://de.nepals.me:7711/get.php?username=iF629LWOgx3sIP8&password=zRmA8Pn6rQzNGJn&type=m3u
+
+http://uk.nepals.me:7501/get.php?username=iF629LWOgx3sIP8&password=zRmA8Pn6rQzNGJn&type=m3u
+
+http://afrique.nepals.me:8000/get.php?username=iF629LWOgx3sIP8&password=zRmA8Pn6rQzNGJn&type=m3u
+
+==========================================================================
+SERVER 3 BY ALGERIA-IPTV
+
+http://turks-nl.nepals.me:8000/get.php?username=922g4c110iz3KhT&password=SQKerS4OYvExilh&type=m3u
+
+http://spain.nepals.me:8000/get.php?username=922g4c110iz3KhT&password=SQKerS4OYvExilh&type=m3u
+
+http://french.nepals.me:8000/get.php?username=922g4c110iz3KhT&password=SQKerS4OYvExilh&type=m3u
+
+http://sport.nepals.me:8000/get.php?username=922g4c110iz3KhT&password=SQKerS4OYvExilh&type=m3u
+
+http://italy.nepals.me:7711/get.php?username=922g4c110iz3KhT&password=SQKerS4OYvExilh&type=m3u
+
+http://arabe-osn.nepals.me:8000/get.php?username=922g4c110iz3KhT&password=SQKerS4OYvExilh&type=m3u
+
+http://de.nepals.me:7711/get.php?username=922g4c110iz3KhT&password=SQKerS4OYvExilh&type=m3u
+
+http://uk.nepals.me:7501/get.php?username=922g4c110iz3KhT&password=SQKerS4OYvExilh&type=m3u
+
+http://afrique.nepals.me:8000/get.php?username=922g4c110iz3KhT&password=SQKerS4OYvExilh&type=m3u
+
+#EXTINF:0,Channel 1
+http://ip.akiptv.biz:8000/get.php?username=edrsamsungyegen&password=WWPGzKRkP4&type=m3u
+#EXTINF:0,Channel 2
+http://ip.akiptv.biz:8000/get.php?username=9777.al&password=1510.ku&type=m3u
+#EXTINF:0,Channel 3
+http://ip.akiptv.biz:8000/get.php?username=6954.al&password=1514.ce&type=m3u
+#EXTINF:0,Channel 4
+http://ip.akiptv.biz:8000/get.php?username=6952&password=69is52&type=m3u
+#EXTINF:0,Channel 5
+http://ip.akiptv.biz:8000/get.php?username=ankaraelk&password=bT8K1Pz8pS&type=m3u
+#EXTINF:0,Channel 6
+http://ip.akiptv.biz:8000/get.php?username=9781.bur&password=13.10.BU&type=m3u
+#EXTINF:0,Channel 7
+http://ip.akiptv.biz:8000/get.php?username=7855.b&password=1210.ha&type=m3u
+#EXTINF:0,Channel 8
+http://ip.akiptv.biz:8000/get.php?username=9778.&password=1110.gi&type=m3u
+#EXTINF:0,Channel 9
+http://ip.akiptv.biz:8000/get.php?username=9736.&password=9736.2006&type=m3u
+#EXTINF:0,Channel 10
+http://ip.akiptv.biz:8000/get.php?username=mcan&password=2509.cd&type=m3u
+#EXTINF:0,Channel 11
+http://ip.akiptv.biz:8000/get.php?username=8735.er&password=3009.&type=m3u
+#EXTINF:0,Channel 12
+http://ip.akiptv.biz:8000/get.php?username=osmanfunda&password=7AM32CvvgI&type=m3u
+#EXTINF:0,Channel 13
+http://ip.akiptv.biz:8000/get.php?username=taksici&password=ta19si09ci&type=m3u
+#EXTINF:0,Channel 14
+http://ip.akiptv.biz:8000/get.php?username=dinc.1&password=1010.d&type=m3u
+#EXTINF:0,Channel 15
+http://ip.akiptv.biz:8000/get.php?username=belcikali&password=ckU25EYqkR&type=m3u
+#EXTINF:0,Channel 16
+http://ip.akiptv.biz:8000/get.php?username=0102&password=1611.&type=m3u
+#EXTINF:0,Channel 17
+http://ip.akiptv.biz:8000/get.php?username=9463&password=0612&type=m3u
+#EXTINF:0,Channel 18
+http://ip.akiptv.biz:8000/get.php?username=hiremcotest&password=3009&type=m3u
+#EXTINF:0,Channel 19
+http://ip.akiptv.biz:8000/get.php?username=muhasebe&password=mu1209ha&type=m3u
+#EXTINF:0,Channel 20
+http://ip.akiptv.biz:8000/get.php?username=teksed121&password=0410.ye&type=m3u
+#EXTINF:0,Channel 21
+http://ip.akiptv.biz:8000/get.php?username=2002&password=1006.&type=m3u
+#EXTINF:0,Channel 22
+http://ip.akiptv.biz:8000/get.php?username=sw2156&password=2603&type=m3u
+#EXTINF:0,Channel 23
+http://ip.akiptv.biz:8000/get.php?username=sw2118&password=2004AV.&type=m3u
+#EXTINF:0,Channel 24
+http://ip.akiptv.biz:8000/get.php?username=2010&password=2010.nis&type=m3u
+#EXTINF:0,Channel 25
+http://ip.akiptv.biz:8000/get.php?username=sw2111&password=15.04Nis.1&type=m3u
+#EXTINF:0,Channel 26
+http://ip.akiptv.biz:8000/get.php?username=sw0730&password=0709iz&type=m3u
+#EXTINF:0,Channel 27
+http://ip.akiptv.biz:8000/get.php?username=sw9144&password=1909.kuR&type=m3u
+#EXTINF:0,Channel 28
+http://ip.akiptv.biz:8000/get.php?username=swkara&password=21.09&type=m3u
+#EXTINF:0,Channel 29
+http://ip.akiptv.biz:8000/get.php?username=SW9451&password=2209&type=m3u
+#EXTINF:0,Channel 30
+http://ip.akiptv.biz:8000/get.php?username=sw9441&password=23bb09.&type=m3u
+#EXTINF:0,Channel 31
+--- Споено дупло мислење, 5 мај 2018 ---
+#EXTINF:0,Channel 32
+http://ip.akiptv.biz:8000/get.php?username=sw9437&password=0923ters&type=m3u
+#EXTINF:0,Channel 33
+http://ip.akiptv.biz:8000/get.php?username=sw9443&password=sW24.09dik&type=m3u
+#EXTINF:0,Channel 34
+http://ip.akiptv.biz:8000/get.php?username=sw9450&password=50.2509.dik&type=m3u
+#EXTINF:0,Channel 35
+http://ip.akiptv.biz:8000/get.php?username=marangozmes&password=bFVOk1FtvQ&type=m3u
+#EXTINF:0,Channel 36
+http://ip.akiptv.biz:8000/get.php?username=2057&password=yth7k.&type=m3u
+#EXTINF:0,Channel 37
+http://ip.akiptv.biz:8000/get.php?username=9447.Vb&password=0110.tek&type=m3u
+#EXTINF:0,Channel 38
+http://ip.akiptv.biz:8000/get.php?username=civata&password=2709.i&type=m3u
+#EXTINF:0,Channel 39
+http://ip.akiptv.biz:8000/get.php?username=7741&password=1508&type=m3u
+#EXTINF:0,Channel 40
+http://ip.akiptv.biz:8000/get.php?username=sw2164.&password=2164.2008&type=m3u
+#EXTINF:0,Channel 41
+http://ip.akiptv.biz:8000/get.php?username=sw9142&password=03.09hus&type=m3u
+#EXTINF:0,Channel 42
+http://ip.akiptv.biz:8000/get.php?username=sw9155&password=0309.&type=m3u
+#EXTINF:0,Channel 43
+http://ip.akiptv.biz:8000/get.php?username=sw9147&password=914108.tr&type=m3u
+#EXTINF:0,Channel 44
+http://ip.akiptv.biz:8000/get.php?username=sw4875&password=48.0709&type=m3u
+#EXTINF:0,Channel 45
+http://ip.akiptv.biz:8000/get.php?username=sw9151&password=53.tn0709&type=m3u
+#EXTINF:0,Channel 46
+http://ip.akiptv.biz:8000/get.php?username=sw9152&password=9152.ts&type=m3u
+#EXTINF:0,Channel 47
+http://ip.akiptv.biz:8000/get.php?username=sw3735&password=0709.k&type=m3u
+#EXTINF:0,Channel 48
+http://ip.akiptv.biz:8000/get.php?username=sw9159&password=0609.buR&type=m3u
+#EXTINF:0,Channel 49
+http://ip.akiptv.biz:8000/get.php?username=hud.1&password=0309.ha&type=m3u
+#EXTINF:0,Channel 50
+http://ip.akiptv.biz:8000/get.php?username=3757&password=2011&type=m3u
+#EXTINF:0,Channel 51
+http://ip.akiptv.biz:8000/get.php?username=esesred2&password=ycTFHpYkYT&type=m3u
+#EXTINF:0,Channel 52
+http://ip.akiptv.biz:8000/get.php?username=avusahmetabi&password=RDUeFb2Pxd&type=m3u
+#EXTINF:0,Channel 53
+http://ip.akiptv.biz:8000/get.php?username=alm53&password=2803avustr16&type=m3u
+#EXTINF:0,Channel 54
+http://ip.akiptv.biz:8000/get.php?username=2142&password=0201.&type=m3u
+#EXTINF:0,Channel 55
+http://ip.akiptv.biz:8000/get.php?username=gomkahve&password=0403&type=m3u
+#EXTINF:0,Channel 56
+http://ip.akiptv.biz:8000/get.php?username=elal1&password=17.07&type=m3u
+#EXTINF:0,Channel 57
+http://ip.akiptv.biz:8000/get.php?username=2049&password=1003.c&type=m3u
+#EXTINF:0,Channel 58
+http://ip.akiptv.biz:8000/get.php?username=bancey1&password=ll7T5dxTfH&type=m3u
+#EXTINF:0,Channel 59
+http://ip.akiptv.biz:8000/get.php?username=nexmachinnaz&password=HYb7mVFaOD&type=m3u
+#EXTINF:0,Channel 60
+http://ip.akiptv.biz:8000/get.php?username=1580&password=0608.re&type=m3u
+#EXTINF:0,Channel 61
+http://ip.akiptv.biz:8000/get.php?username=8931&password=1111.tr&type=m3u
+#EXTINF:0,Channel 62
+http://ip.akiptv.biz:8000/get.php?username=1577tr&password=11.11&type=m3u
+#EXTINF:0,Channel 63
+http://ip.akiptv.biz:8000/get.php?username=1574tr&password=tr.1111&type=m3u
+#EXTINF:0,Channel 64
+http://ip.akiptv.biz:8000/get.php?username=8940&password=0202.ce&type=m3u
+#EXTINF:0,Channel 65
+http://ip.akiptv.biz:8000/get.php?username=23:2e:inghas&password=O2hZLe91fR&type=m3u
+#EXTINF:0,Channel 66
+http://ip.akiptv.biz:8000/get.php?username=teK25.08&password=S2508.&type=m3u
+#EXTINF:0,Channel 67
+http://ip.akiptv.biz:8000/get.php?username=trky&password=6192&type=m3u
+#EXTINF:0,Channel 68
+http://ip.akiptv.biz:8000/get.php?username=demircisenol&password=e7JsSlukh0&type=m3u
+#EXTINF:0,Channel 69
+http://ip.akiptv.biz:8000/get.php?username=0685&password=2510.as&type=m3u
+#EXTINF:0,Channel 70
+http://ip.akiptv.biz:8000/get.php?username=a0002&password=04112016.&type=m3u
+#EXTINF:0,Channel 71
+http://ip.akiptv.biz:8000/get.php?username=izufuk&password=9mRq3i1xO9&type=m3u
+#EXTINF:0,Channel 72
+http://ip.akiptv.biz:8000/get.php?username=naz:6f:18&password=I9e5U4GNIs&type=m3u
+#EXTINF:0,Channel 73
+http://ip.akiptv.biz:8000/get.php?username=9888&password=PhQEJCucjj&type=m3u
+#EXTINF:0,Channel 74
+http://ip.akiptv.biz:8000/get.php?username=gonnex1&password=3110.&type=m3u
+#EXTINF:0,Channel 75
+http://ip.akiptv.biz:8000/get.php?username=2014&password=3010.bol&type=m3u
+#EXTINF:0,Channel 76
+--- Споено дупло мислење, 5 мај 2018 ---
+#EXTINF:0,Channel 77
+http://ip.akiptv.biz:8000/get.php?username=24:bf:80&password=Wtw8HZiVeQ&type=m3u
+#EXTINF:0,Channel 78
+http://ip.akiptv.biz:8000/get.php?username=f1:75:9e&password=Mm9ZxEaYOg&type=m3u
+#EXTINF:0,Channel 79
+http://ip.akiptv.biz:8000/get.php?username=7856&password=1308.af&type=m3u
+#EXTINF:0,Channel 80
+http://ip.akiptv.biz:8000/get.php?username=ihsan1967&password=30.10.it&type=m3u
+#EXTINF:0,Channel 81
+http://ip.akiptv.biz:8000/get.php?username=01:60nurisolak&password=6cJy8Kzeat&type=m3u
+#EXTINF:0,Channel 82
+http://ip.akiptv.biz:8000/get.php?username=akarbilgisayar&password=nX8ngncIdl&type=m3u
+#EXTINF:0,Channel 83
+http://ip.akiptv.biz:8000/get.php?username=karacep1&password=3010.&type=m3u
+#EXTINF:0,Channel 84
+http://ip.akiptv.biz:8000/get.php?username=amigo1&password=0109.ka&type=m3u
+#EXTINF:0,Channel 85
+http://ip.akiptv.biz:8000/get.php?username=2124&password=2006.&type=m3u
+#EXTINF:0,Channel 86
+http://ip.akiptv.biz:8000/get.php?username=yegenmuco&password=vvbbnhj&type=m3u
+#EXTINF:0,Channel 87
+http://ip.akiptv.biz:8000/get.php?username=A0003&password=2510.barcan&type=m3u
+#EXTINF:0,Channel 88
+http://ip.akiptv.biz:8000/get.php?username=0819&password=2510.bar&type=m3u
+#EXTINF:0,Channel 89
+http://ip.akiptv.biz:8000/get.php?username=7879&password=L6GAa47dVT&type=m3u
+#EXTINF:0,Channel 90
+http://ip.akiptv.biz:8000/get.php?username=inghas5&password=sul23.10&type=m3u
+#EXTINF:0,Channel 91
+http://ip.akiptv.biz:8000/get.php?username=inghas4&password=423.hs10&type=m3u
+#EXTINF:0,Channel 92
+http://ip.akiptv.biz:8000/get.php?username=inghas3&password=222.ing10&type=m3u
+#EXTINF:0,Channel 93
+http://ip.akiptv.biz:8000/get.php?username=izufuk5d:65&password=VRayMEZdlx&type=m3u
+#EXTINF:0,Channel 94
+http://ip.akiptv.biz:8000/get.php?username=canmetev&password=YtR7kIHC5h&type=m3u
+#EXTINF:0,Channel 95
+http://ip.akiptv.biz:8000/get.php?username=metvlcye1&password=g9Arx1QP8K&type=m3u
+#EXTINF:0,Channel 96
+http://ip.akiptv.biz:8000/get.php?username=bigahsandukkan&password=b804F99Jwh&type=m3u
+#EXTINF:0,Channel 97
+http://ip.akiptv.biz:8000/get.php?username=aypamud&password=2010.ay&type=m3u
+#EXTINF:0,Channel 98
+http://ip.akiptv.biz:8000/get.php?username=teksedkendi&password=2010.se&type=m3u
+#EXTINF:0,Channel 99
+http://ip.akiptv.biz:8000/get.php?username=dikiliozgur&password=2EISXqfytI&type=m3u
+#EXTINF:0,Channel 100
+http://ip.akiptv.biz:8000/get.php?username=avusahmet2&password=tfRFn8rqdM&type=m3u
+#EXTINF:0,Channel 101
+http://ip.akiptv.biz:8000/get.php?username=metandroid1&password=2210.can&type=m3u
+#EXTINF:0,Channel 102
+http://ip.akiptv.biz:8000/get.php?username=metcankahve111&password=NQCEuwoz2p&type=m3u
+#EXTINF:0,Channel 103
+http://ip.akiptv.biz:8000/get.php?username=b0:05cahitabinormal&password=NKBrZnr42S&type=m3u
+#EXTINF:0,Channel 104
+http://ip.akiptv.biz:8000/get.php?username=2b:bccahitabiyaz&password=vqVDrL1foS&type=m3u
+#EXTINF:0,Channel 105
+http://ip.akiptv.biz:8000/get.php?username=0107&password=22.10.es&type=m3u
+#EXTINF:0,Channel 106
+http://ip.akiptv.biz:8000/get.php?username=0100&password=25.10.ma&type=m3u
+#EXTINF:0,Channel 107
+http://ip.akiptv.biz:8000/get.php?username=diserhat&password=2010.se&type=m3u
+#EXTINF:0,Channel 108
+http://ip.akiptv.biz:8000/get.php?username=0110&password=2010.ka&type=m3u
+#EXTINF:0,Channel 109
+http://ip.akiptv.biz:8000/get.php?username=bim.uf1&password=TGdtUGbLx5&type=m3u
+#EXTINF:0,Channel 110
+http://ip.akiptv.biz:8000/get.php?username=4758&password=2010&type=m3u
+#EXTINF:0,Channel 111
+http://ip.akiptv.biz:8000/get.php?username=0733&password=2504&type=m3u
+#EXTINF:0,Channel 112
+http://ip.akiptv.biz:8000/get.php?username=3760bur&password=2010.hak&type=m3u
+#EXTINF:0,Channel 113
+http://ip.akiptv.biz:8000/get.php?username=d6:60&password=AHGFgA1UsZ&type=m3u
+#EXTINF:0,Channel 114
+http://ip.akiptv.biz:8000/get.php?username=0101.&password=1810.kur&type=m3u
+#EXTINF:0,Channel 115
+http://ip.akiptv.biz:8000/get.php?username=0096&password=2010&type=m3u
+#EXTINF:0,Channel 116
+http://ip.akiptv.biz:8000/get.php?username=yurmes.1&password=3008.&type=m3u
+#EXTINF:0,Channel 117
+http://ip.akiptv.biz:8000/get.php?username=izufanne&password=RUtleqMQJ7&type=m3u
+#EXTINF:0,Channel 118
+http://ip.akiptv.biz:8000/get.php?username=2128.&password=2010.sw&type=m3u
+#EXTINF:0,Channel 119
+http://ip.akiptv.biz:8000/get.php?username=9473.&password=url.2010&type=m3u
+#EXTINF:0,Channel 120
+http://ip.akiptv.biz:8000/get.php?username=0704&password=0502.ceo&type=m3u
+#EXTINF:0,Channel 121
+http://ip.akiptv.biz:8000/get.php?username=izor&password=1510.&type=m3u
+#EXTINF:0,Channel 122
+http://ip.akiptv.biz:8000/get.php?username=ahmet.10&password=yildiz.11&type=m3u
+#EXTINF:0,Channel 123
+http://ip.akiptv.biz:8000/get.php?username=erkanabi&password=L8jgxAxoiE&type=m3u
+#EXTINF:0,Channel 124
+http://ip.akiptv.biz:8000/get.php?username=safak.26&password=11.11.17&type=m3u
+#EXTINF:0,Channel 125
+http://ip.akiptv.biz:8000/get.php?username=susurlukizzt&password=11112017zz&type=m3u
+#EXTINF:0,Channel 126
+http://ip.akiptv.biz:8000/get.php?username=2130&password=1511.beya&type=m3u
+#EXTINF:0,Channel 127
+http://ip.akiptv.biz:8000/get.php?username=ipyv10809112017-01&password=09112017&type=m3u
+#EXTINF:0,Channel 128
+http://ip.akiptv.biz:8000/get.php?username=0295.karark&password=jZlL7EJE25&type=m3u
+#EXTINF:0,Channel 129
+http://ip.akiptv.biz:8000/get.php?username=blkalperabi&password=MI0zJSXoc8&type=m3u
+#EXTINF:0,Channel 130
+http://ip.akiptv.biz:8000/get.php?username=28:39:5e:c1:fd:cb&password=c7JvhOxH6v&type=m3u
+#EXTINF:0,Channel 131
+http://ip.akiptv.biz:8000/get.php?username=bursalikamil&password=3OkAyT21Nq&type=m3u
+#EXTINF:0,Channel 132
+http://ip.akiptv.biz:8000/get.php?username=ozden2&password=0411.gon&type=m3u
+#EXTINF:0,Channel 133
+http://ip.akiptv.biz:8000/get.php?username=sefoo&password=04112017&type=m3u
+#EXTINF:0,Channel 134
+http://ip.akiptv.biz:8000/get.php?username=6613&password=0311.cey&type=m3u
+#EXTINF:0,Channel 135
+http://ip.akiptv.biz:8000/get.php?username=ilk&password=btl&type=m3u
+#EXTINF:0,Channel 136
+http://ip.akiptv.biz:8000/get.php?username=iptv10704112017-01&password=04112017&type=m3u
+#EXTINF:0,Channel 137
+http://ip.akiptv.biz:8000/get.php?username=iptv10604112017-01&password=04112017&type=m3u
+#EXTINF:0,Channel 138
+http://ip.akiptv.biz:8000/get.php?username=ciki&password=031117&type=m3u
+#EXTINF:0,Channel 139
+http://ip.akiptv.biz:8000/get.php?username=1234&password=4321&type=m3u
+#EXTINF:0,Channel 140
+http://ip.akiptv.biz:8000/get.php?username=ereny4&password=66z4MaNxzw&type=m3u
+#EXTINF:0,Channel 141
+http://ip.akiptv.biz:8000/get.php?username=ereny3&password=gTuCu3Gn6x&type=m3u
+#EXTINF:0,Channel 142
+http://ip.akiptv.biz:8000/get.php?username=iptv10503112017-01&password=28112017&type=m3u
+#EXTINF:0,Channel 143
+http://ip.akiptv.biz:8000/get.php?username=iptv10403112017-01&password=03112017&type=m3u
+#EXTINF:0,Channel 144
+http://ip.akiptv.biz:8000/get.php?username=iptv10303112017-01&password=03112017&type=m3u
+#EXTINF:0,Channel 145
+http://ip.akiptv.biz:8000/get.php?username=ereny2&password=mTTH6fBjBs&type=m3u
+#EXTINF:0,Channel 146
+http://ip.akiptv.biz:8000/get.php?username=ereny1&password=D0uZZVfsTH&type=m3u
+#EXTINF:0,Channel 147
+http://ip.akiptv.biz:8000/get.php?username=3734.mT&password=0211.2017&type=m3u
+#EXTINF:0,Channel 148
+http://ip.akiptv.biz:8000/get.php?username=b1:7e:dikozgur&password=TyC35F6MgB&type=m3u
+#EXTINF:0,Channel 149
+http://ip.akiptv.biz:8000/get.php?username=ramco&password=0111.hay&type=m3u
+#EXTINF:0,Channel 150
+http://ip.akiptv.biz:8000/get.php?username=ifo16&password=3010&type=m3u
+#EXTINF:0,Channel 151
+http://ip.akiptv.biz:8000/get.php?username=6652&password=0111.US&type=m3u
+#EXTINF:0,Channel 152
+http://ip.akiptv.biz:8000/get.php?username=gunan.1&password=1.11.goc&type=m3u
+#EXTINF:0,Channel 153
+http://ip.akiptv.biz:8000/get.php?username=iptv10231102017-01&password=31102017&type=m3u
+#EXTINF:0,Channel 154
+http://ip.akiptv.biz:8000/get.php?username=ifotest&password=1234&type=m3u
+#EXTINF:0,Channel 155
+http://ip.akiptv.biz:8000/get.php?username=iptv10130102017-01&password=30102017&type=m3u
+#EXTINF:0,Channel 156
+http://ip.akiptv.biz:8000/get.php?username=7719.&password=3010.kuR&type=m3u
+#EXTINF:0,Channel 157
+http://ip.akiptv.biz:8000/get.php?username=arif.istanbul&password=30,10,2017&type=m3u
+#EXTINF:0,Channel 158
+http://ip.akiptv.biz:8000/get.php?username=bil25.yeT&password=0211.SUp&type=m3u
+#EXTINF:0,Channel 159
+http://ip.akiptv.biz:8000/get.php?username=bil24.azER&password=0111.YAk&type=m3u
+#EXTINF:0,Channel 160
+http://ip.akiptv.biz:8000/get.php?username=bil23.yiL&password=0311.ACu&type=m3u
+#EXTINF:0,Channel 161
+http://ip.akiptv.biz:8000/get.php?username=bil22.gaYR&password=0211.De&type=m3u
+#EXTINF:0,Channel 162
+http://ip.akiptv.biz:8000/get.php?username=bil21.HA&password=0111.Ka&type=m3u
+#EXTINF:0,Channel 163
+http://ip.akiptv.biz:8000/get.php?username=b7:b9:civata&password=R2Vu9FLi6A&type=m3u
+#EXTINF:0,Channel 164
+http://ip.akiptv.biz:8000/get.php?username=erenkk2&password=f4l3CJDiCT&type=m3u
+#EXTINF:0,Channel 165
+http://ip.akiptv.biz:8000/get.php?username=erenkk&password=IQXWHxqGW6&type=m3u
+#EXTINF:0,Channel 166
+http://ip.akiptv.biz:8000/get.php?username=iptv10128102017-01&password=28102017&type=m3u
+#EXTINF:0,Channel 167
+http://ip.akiptv.biz:8000/get.php?username=6637&password=2910.eR&type=m3u
+#EXTINF:0,Channel 168
+http://ip.akiptv.biz:8000/get.php?username=rsm.11&password=22.10.es&type=m3u
+#EXTINF:0,Channel 169
+http://ip.akiptv.biz:8000/get.php?username=iptv10027102017-01&password=27102017&type=m3u
+#EXTINF:0,Channel 170
+http://ip.akiptv.biz:8000/get.php?username=sw2083&password=20.83ak&type=m3u
+#EXTINF:0,Channel 171
+http://ip.akiptv.biz:8000/get.php?username=iptv09926102017-01&password=26102017&type=m3u
+#EXTINF:0,Channel 172
+http://ip.akiptv.biz:8000/get.php?username=smh261017&password=261017smh&type=m3u
+#EXTINF:0,Channel 173
+http://ip.akiptv.biz:8000/get.php?username=hocahakan&password=dt26102017gg&type=m3u
+#EXTINF:0,Channel 174
+http://ip.akiptv.biz:8000/get.php?username=smh2610&password=261017&type=m3u
+#EXTINF:0,Channel 175
+http://ip.akiptv.biz:8000/get.php?username=onr2510&password=251017&type=m3u
+#EXTINF:0,Channel 176
+http://ip.akiptv.biz:8000/get.php?username=4883&password=2510.met&type=m3u
+#EXTINF:0,Channel 177
+http://ip.akiptv.biz:8000/get.php?username=bil3ay.&password=2510.bil&type=m3u
+#EXTINF:0,Channel 178
+http://ip.akiptv.biz:8000/get.php?username=ifo15&password=2510&type=m3u
+#EXTINF:0,Channel 179
+http://ip.akiptv.biz:8000/get.php?username=hyrt.24&password=24.10.btl&type=m3u
+#EXTINF:0,Channel 180
+http://ip.akiptv.biz:8000/get.php?username=6425&password=2510.redL&type=m3u
+#EXTINF:0,Channel 181
+http://ip.akiptv.biz:8000/get.php?username=6612&password=2410.12aY&type=m3u
+#EXTINF:0,Channel 182
+http://ip.akiptv.biz:8000/get.php?username=9145&password=2510.hak&type=m3u
+#EXTINF:0,Channel 183
+http://ip.akiptv.biz:8000/get.php?username=bil20.kA&password=2810.B&type=m3u
+#EXTINF:0,Channel 184
+http://ip.akiptv.biz:8000/get.php?username=bil19&password=241017.&type=m3u
+#EXTINF:0,Channel 185
+http://ip.akiptv.biz:8000/get.php?username=bil18.&password=bA27102017&type=m3u
+#EXTINF:0,Channel 186
+http://ip.akiptv.biz:8000/get.php?username=bil17De&password=2510.14a&type=m3u
+#EXTINF:0,Channel 187
+http://ip.akiptv.biz:8000/get.php?username=bil16.az&password=2410.dA&type=m3u
+#EXTINF:0,Channel 188
+http://ip.akiptv.biz:8000/get.php?username=bil15.k&password=2310.b&type=m3u
+#EXTINF:0,Channel 189
+http://ip.akiptv.biz:8000/get.php?username=eren10.dR&password=zZxntVaOKa&type=m3u
+#EXTINF:0,Channel 190
+http://ip.akiptv.biz:8000/get.php?username=eren9&password=MUx9dEYzlq&type=m3u
+#EXTINF:0,Channel 191
+http://ip.akiptv.biz:8000/get.php?username=eren8.mkp&password=oC4qqKEZAR&type=m3u
+#EXTINF:0,Channel 192
+http://ip.akiptv.biz:8000/get.php?username=ifo10&password=2310&type=m3u
+#EXTINF:0,Channel 193
+http://ip.akiptv.biz:8000/get.php?username=7717&password=2710.edrk&type=m3u
+#EXTINF:0,Channel 194
+http://ip.akiptv.biz:8000/get.php?username=2744&password=2610.kara&type=m3u
+#EXTINF:0,Channel 195
+http://ip.akiptv.biz:8000/get.php?username=2036&password=2510.ing&type=m3u
+#EXTINF:0,Channel 196
+http://ip.akiptv.biz:8000/get.php?username=tuncer1111&password=221017&type=m3u
+#EXTINF:0,Channel 197
+http://ip.akiptv.biz:8000/get.php?username=20:59 ozgurdik&password=KPKhUXDZWX&type=m3u
+#EXTINF:0,Channel 198
+http://ip.akiptv.biz:8000/get.php?username=05:24:seroev&password=RmXQ1u5TIO&type=m3u
+#EXTINF:0,Channel 199
+http://ip.akiptv.biz:8000/get.php?username=68:ee:can&password=JJ807c25pI&type=m3u
+#EXTINF:0,Channel 200
+http://ip.akiptv.biz:8000/get.php?username=ayskrm.23&password=btl.23.10&type=m3u
+#EXTINF:0,Channel 201
+http://ip.akiptv.biz:8000/get.php?username=slym.sar&password=bilen.bt&type=m3u
+#EXTINF:0,Channel 202
+http://ip.akiptv.biz:8000/get.php?username=bil14.azS&password=2610.oNra&type=m3u
+#EXTINF:0,Channel 203
+http://ip.akiptv.biz:8000/get.php?username=bil13.Ma&password=2810.aR&type=m3u
+#EXTINF:0,Channel 204
+http://ip.akiptv.biz:8000/get.php?username=bil12.ku&password=2710.baK&type=m3u
+#EXTINF:0,Channel 205
+http://ip.akiptv.biz:8000/get.php?username=bil11.sen&password=2510.hR&type=m3u
+#EXTINF:0,Channel 206
+http://ip.akiptv.biz:8000/get.php?username=eren7&password=B5GurxGC6g&type=m3u
+#EXTINF:0,Channel 207
+http://ip.akiptv.biz:8000/get.php?username=eren6&password=qYsXjnzSgm&type=m3u
+#EXTINF:0,Channel 208
+http://ip.akiptv.biz:8000/get.php?username=9439&password=3010.bur&type=m3u
+#EXTINF:0,Channel 209
+http://ip.akiptv.biz:8000/get.php?username=sw2120&password=2010.kurtog&type=m3u
+#EXTINF:0,Channel 210
+http://ip.akiptv.biz:8000/get.php?username=okan.sar&password=21.10.bt&type=m3u
+#EXTINF:0,Channel 211
+http://ip.akiptv.biz:8000/get.php?username=374000&password=21102017&type=m3u
+#EXTINF:0,Channel 212
+http://ip.akiptv.biz:8000/get.php?username=iptv09821102017-01&password=21102017&type=m3u
+#EXTINF:0,Channel 213
+http://ip.akiptv.biz:8000/get.php?username=9469&password=2510.lev&type=m3u
+#EXTINF:0,Channel 214
+http://ip.akiptv.biz:8000/get.php?username=6656&password=0611.ara&type=m3u
+#EXTINF:0,Channel 215
+http://ip.akiptv.biz:8000/get.php?username=eren5&password=svjzGpUpzb&type=m3u
+#EXTINF:0,Channel 216
+http://ip.akiptv.biz:8000/get.php?username=6429&password=2510.kur&type=m3u
+#EXTINF:0,Channel 217
+http://ip.akiptv.biz:8000/get.php?username=0115&password=2010.burdur&type=m3u
+#EXTINF:0,Channel 218
+http://ip.akiptv.biz:8000/get.php?username=MHhoca&password=OSNCFQmpXq&type=m3u
+#EXTINF:0,Channel 219
+http://ip.akiptv.biz:8000/get.php?username=ifo14&password=2010&type=m3u
+#EXTINF:0,Channel 220
+http://ip.akiptv.biz:8000/get.php?username=kutahyaturanbey&password=t8DOoMuaT0&type=m3u
+#EXTINF:0,Channel 221
+http://ip.akiptv.biz:8000/get.php?username=vusolobalaban&password=2010.edr&type=m3u
+#EXTINF:0,Channel 222
+http://ip.akiptv.biz:8000/get.php?username=6259&password=2010.tav&type=m3u
+#EXTINF:0,Channel 223
+http://ip.akiptv.biz:8000/get.php?username=eren4&password=9sagb25sYm&type=m3u
+#EXTINF:0,Channel 224
+http://ip.akiptv.biz:8000/get.php?username=hamza43&password=201017,tek&type=m3u
+#EXTINF:0,Channel 225
+http://ip.akiptv.biz:8000/get.php?username=emelabla6&password=dt201020176ay&type=m3u
+#EXTINF:0,Channel 226
+http://ip.akiptv.biz:8000/get.php?username=tavveysel&password=5ooVdfiQv4&type=m3u
+#EXTINF:0,Channel 227
+http://ip.akiptv.biz:8000/get.php?username=teknik43&password=201017,tek&type=m3u
+#EXTINF:0,Channel 228
+http://ip.akiptv.biz:8000/get.php?username=7867&password=2010.atik&type=m3u
+#EXTINF:0,Channel 229
+http://ip.akiptv.biz:8000/get.php?username=--ark2&password=24:4b:03:35:96:9e&type=m3u
+#EXTINF:0,Channel 230
+http://ip.akiptv.biz:8000/get.php?username=cahitbey&password=19102017&type=m3u
+#EXTINF:0,Channel 231
+http://ip.akiptv.biz:8000/get.php?username=sharex0810&password=1810.m&type=m3u
+#EXTINF:0,Channel 232
+http://ip.akiptv.biz:8000/get.php?username=6573&password=1810.trcihan&type=m3u
+#EXTINF:0,Channel 233
+http://ip.akiptv.biz:8000/get.php?username=1577&password=1810.ugur&type=m3u
+#EXTINF:0,Channel 234
+http://ip.akiptv.biz:8000/get.php?username=yalcinabi&password=1810.&type=m3u
+#EXTINF:0,Channel 235
+http://ip.akiptv.biz:8000/get.php?username=eren3&password=OUWbWzlNHn&type=m3u
+#EXTINF:0,Channel 236
+http://ip.akiptv.biz:8000/get.php?username=6647&password=1810.2017&type=m3u
+#EXTINF:0,Channel 237
+http://ip.akiptv.biz:8000/get.php?username=hacii&password=2703&type=m3u
+#EXTINF:0,Channel 238
+http://ip.akiptv.biz:8000/get.php?username=bil10gel&password=1710.ter&type=m3u
+#EXTINF:0,Channel 239
+http://ip.akiptv.biz:8000/get.php?username=bil9.pat&password=1810.AbF&type=m3u
+#EXTINF:0,Channel 240
+http://ip.akiptv.biz:8000/get.php?username=bil8.kum&password=1907.DO&type=m3u
+#EXTINF:0,Channel 241
+http://ip.akiptv.biz:8000/get.php?username=bil7lekale&password=2007.ka&type=m3u
+#EXTINF:0,Channel 242
+http://ip.akiptv.biz:8000/get.php?username=ozm5&password=17ek2017&type=m3u
+#EXTINF:0,Channel 243
+http://ip.akiptv.biz:8000/get.php?username=6656&password=1710.sam&type=m3u
+#EXTINF:0,Channel 244
+http://ip.akiptv.biz:8000/get.php?username=bil6kale.&password=1710.ca&type=m3u
+#EXTINF:0,Channel 245
+http://ip.akiptv.biz:8000/get.php?username=gonrid61&password=1710.gon&type=m3u
+#EXTINF:0,Channel 246
+http://ip.akiptv.biz:8000/get.php?username=mustafaev&password=1710.edr&type=m3u
+#EXTINF:0,Channel 247
+http://ip.akiptv.biz:8000/get.php?username=red2500kur&password=1710.edr&type=m3u
+#EXTINF:0,Channel 248
+http://ip.akiptv.biz:8000/get.php?username=davutusta&password=dt16102017gs&type=m3u
+#EXTINF:0,Channel 249
+http://ip.akiptv.biz:8000/get.php?username=5209&password=1610.buR&type=m3u
+#EXTINF:0,Channel 250
+http://ip.akiptv.biz:8000/get.php?username=ismailedr&password=dt16102017ff&type=m3u
+#EXTINF:0,Channel 251
+http://ip.akiptv.biz:8000/get.php?username=iptv09714102017-01&password=14102017&type=m3u
+#EXTINF:0,Channel 252
+http://ip.akiptv.biz:8000/get.php?username=iptv09614102017-01&password=14102017&type=m3u
+#EXTINF:0,Channel 253
+http://ip.akiptv.biz:8000/get.php?username=iptv09514102017-01&password=14102017&type=m3u
+#EXTINF:0,Channel 254
+http://ip.akiptv.biz:8000/get.php?username=EREn2&password=fgRELX9Nyd&type=m3u
+#EXTINF:0,Channel 255
+http://ip.akiptv.biz:8000/get.php?username=eren1&password=1510.tM&type=m3u
+#EXTINF:0,Channel 256
+http://ip.akiptv.biz:8000/get.php?username=dijicihan&password=pTeJfKKyHl&type=m3u
+#EXTINF:0,Channel 257
+http://ip.akiptv.biz:8000/get.php?username=5211&password=151017.aa&type=m3u
+#EXTINF:0,Channel 258
+http://ip.akiptv.biz:8000/get.php?username=4435&password=1510.Ba&type=m3u
+#EXTINF:0,Channel 259
+http://ip.akiptv.biz:8000/get.php?username=bil5ne&password=110118&type=m3u
+#EXTINF:0,Channel 260
+http://ip.akiptv.biz:8000/get.php?username=bil4LE&password=1410.gi&type=m3u
+#EXTINF:0,Channel 261
+http://ip.akiptv.biz:8000/get.php?username=bil3ka&password=1510.KA&type=m3u
+#EXTINF:0,Channel 262
+http://ip.akiptv.biz:8000/get.php?username=ishakusta.&password=JtTGZzoYHw&type=m3u
+#EXTINF:0,Channel 263
+http://ip.akiptv.biz:8000/get.php?username=Darios&password=Crimson11&type=m3u
+#EXTINF:0,Channel 264
+http://ip.akiptv.biz:8000/get.php?username=ifo13&password=1210&type=m3u
+#EXTINF:0,Channel 265
+http://ip.akiptv.biz:8000/get.php?username=ridvanalm&password=dt12102017alm&type=m3u
+#EXTINF:0,Channel 266
+http://ip.akiptv.biz:8000/get.php?username=bilgin2&password=1210.bil.c&type=m3u
+#EXTINF:0,Channel 267
+http://ip.akiptv.biz:8000/get.php?username=bilgin1&password=1210.ka&type=m3u
+#EXTINF:0,Channel 268
+http://ip.akiptv.biz:8000/get.php?username=ozm4&password=11ek2017&type=m3u
+#EXTINF:0,Channel 269
+http://ip.akiptv.biz:8000/get.php?username=kara2000&password=1110.hu&type=m3u
+#EXTINF:0,Channel 270
+http://ip.akiptv.biz:8000/get.php?username=havranirfan1&password=dt11102017kk&type=m3u
+#EXTINF:0,Channel 271
+http://ip.akiptv.biz:8000/get.php?username=5141&password=1110.bigle&type=m3u
+#EXTINF:0,Channel 272
+http://ip.akiptv.biz:8000/get.php?username=6210&password=1110.biga&type=m3u
+#EXTINF:0,Channel 273
+http://ip.akiptv.biz:8000/get.php?username=6118&password=1110.ser&type=m3u
+#EXTINF:0,Channel 274
+http://ip.akiptv.biz:8000/get.php?username=4437&password=1010.baL&type=m3u
+#EXTINF:0,Channel 275
+http://ip.akiptv.biz:8000/get.php?username=ademabi&password=dt10102017gs&type=m3u
+#EXTINF:0,Channel 276
+http://ip.akiptv.biz:8000/get.php?username=emin12ay&password=dt09102017&type=m3u
+#EXTINF:0,Channel 277
+http://ip.akiptv.biz:8000/get.php?username=hkn.23.es&password=denze.287&type=m3u
+#EXTINF:0,Channel 278
+http://ip.akiptv.biz:8000/get.php?username=7684&password=0510.ku&type=m3u
+#EXTINF:0,Channel 279
+http://ip.akiptv.biz:8000/get.php?username=zcn.tv&password=den.51117&type=m3u
+#EXTINF:0,Channel 280
+http://ip.akiptv.biz:8000/get.php?username=sarimsak2&password=0510.lE&type=m3u
+#EXTINF:0,Channel 281
+http://ip.akiptv.biz:8000/get.php?username=5142&password=0510.ya&type=m3u
+#EXTINF:0,Channel 282
+http://ip.akiptv.biz:8000/get.php?username=tavsanliis.&password=1710.tav&type=m3u
+#EXTINF:0,Channel 283
+http://ip.akiptv.biz:8000/get.php?username=5214&password=0410.tav&type=m3u
+#EXTINF:0,Channel 284
+http://ip.akiptv.biz:8000/get.php?username=5252&password=0309.buR&type=m3u
+#EXTINF:0,Channel 285
+http://ip.akiptv.biz:8000/get.php?username=5212&password=0310&type=m3u
+#EXTINF:0,Channel 286
+http://ip.akiptv.biz:8000/get.php?username=cuneyt.a&password=02.10.2017&type=m3u
+#EXTINF:0,Channel 287
+http://ip.akiptv.biz:8000/get.php?username=enes.esk&password=1.10.17fb&type=m3u
+#EXTINF:0,Channel 288
+http://ip.akiptv.biz:8000/get.php?username=bancey2&password=3009.Ce&type=m3u
+#EXTINF:0,Channel 289
+http://ip.akiptv.biz:8000/get.php?username=isa.01&password=30.09.17.es&type=m3u
+#EXTINF:0,Channel 290
+http://ip.akiptv.biz:8000/get.php?username=4453&password=3009.kaR&type=m3u
+#EXTINF:0,Channel 291
+http://ip.akiptv.biz:8000/get.php?username=muzafferalmanya&password=dt30092017dd&type=m3u
+#EXTINF:0,Channel 292
+http://ip.akiptv.biz:8000/get.php?username=eskfb&password=1907&type=m3u
+#EXTINF:0,Channel 293
+http://ip.akiptv.biz:8000/get.php?username=ifo12&password=2909&type=m3u
+#EXTINF:0,Channel 294
+http://ip.akiptv.biz:8000/get.php?username=usincep&password=DfzLQqoEL5&type=m3u
+#EXTINF:0,Channel 295
+http://ip.akiptv.biz:8000/get.php?username=hikmetustuner1&password=dt28092017fb&type=m3u
+#EXTINF:0,Channel 296
+http://ip.akiptv.biz:8000/get.php?username=hsb.11.sar&password=2017.09.ri&type=m3u
+#EXTINF:0,Channel 297
+http://ip.akiptv.biz:8000/get.php?username=ahmetkoy&password=ugurlu&type=m3u
+#EXTINF:0,Channel 298
+http://ip.akiptv.biz:8000/get.php?username=4452&password=3009.ka&type=m3u
+#EXTINF:0,Channel 299
+http://ip.akiptv.biz:8000/get.php?username=candarliandro&password=jDSg9sfk8l&type=m3u
+#EXTINF:0,Channel 300
+http://ip.akiptv.biz:8000/get.php?username=moNstar.&password=3UxqfVDEMw&type=m3u
+#EXTINF:0,Channel 301
+http://ip.akiptv.biz:8000/get.php?username=4517&password=3009.ing&type=m3u
+#EXTINF:0,Channel 302
+http://ip.akiptv.biz:8000/get.php?username=4434&password=3009.hu&type=m3u
+#EXTINF:0,Channel 303
+http://ip.akiptv.biz:8000/get.php?username=kemal&password=3009.pa&type=m3u
+#EXTINF:0,Channel 304
+http://ip.akiptv.biz:8000/get.php?username=e2:b4:3009&password=qB5Qo2dpiW&type=m3u
+#EXTINF:0,Channel 305
+http://ip.akiptv.biz:8000/get.php?username=4451&password=3009.su&type=m3u
+#EXTINF:0,Channel 306
+http://ip.akiptv.biz:8000/get.php?username=gonozden&password=3009.le&type=m3u
+#EXTINF:0,Channel 307
+http://ip.akiptv.biz:8000/get.php?username=can2000&password=3009.&type=m3u
+#EXTINF:0,Channel 308
+http://ip.akiptv.biz:8000/get.php?username=2509oktay&password=250917&type=m3u
+#EXTINF:0,Channel 309
+http://ip.akiptv.biz:8000/get.php?username=kurhir&password=2509.ed&type=m3u
+#EXTINF:0,Channel 310
+http://ip.akiptv.biz:8000/get.php?username=karpoint&password=ODuro4cmDg&type=m3u
+#EXTINF:0,Channel 311
+http://ip.akiptv.biz:8000/get.php?username=biltest&password=3009.ka&type=m3u
+#EXTINF:0,Channel 312
+http://ip.akiptv.biz:8000/get.php?username=2409eray&password=240917&type=m3u
+#EXTINF:0,Channel 313
+http://ip.akiptv.biz:8000/get.php?username=2742&password=3009.ce&type=m3u
+#EXTINF:0,Channel 314
+http://ip.akiptv.biz:8000/get.php?username=Patates1&password=230917&type=m3u
+#EXTINF:0,Channel 315
+http://ip.akiptv.biz:8000/get.php?username=bb:0a:met&password=O6YeapZLye&type=m3u
+#EXTINF:0,Channel 316
+http://ip.akiptv.biz:8000/get.php?username=2309ttt&password=230917&type=m3u
+#EXTINF:0,Channel 317
+http://ip.akiptv.biz:8000/get.php?username=sebotest&password=testsebo&type=m3u
+#EXTINF:0,Channel 318
+http://ip.akiptv.biz:8000/get.php?username=semihlgtv&password=3c:cd:93:d3:5d:65&type=m3u
+#EXTINF:0,Channel 319
+http://ip.akiptv.biz:8000/get.php?username=2309tt&password=230917&type=m3u
+#EXTINF:0,Channel 320
+http://ip.akiptv.biz:8000/get.php?username=ertanbey&password=23092017&type=m3u
+#EXTINF:0,Channel 321
+http://ip.akiptv.biz:8000/get.php?username=--arkds&password=22092017&type=m3u
+#EXTINF:0,Channel 322
+http://ip.akiptv.biz:8000/get.php?username=uzerev&password=2509.&type=m3u
+#EXTINF:0,Channel 323
+http://ip.akiptv.biz:8000/get.php?username=mahzey.1212&password=21.09.2017.bt&type=m3u
+#EXTINF:0,Channel 324
+http://ip.akiptv.biz:8000/get.php?username=koray.ak&password=2209.17.es&type=m3u
+#EXTINF:0,Channel 325
+http://ip.akiptv.biz:8000/get.php?username=2743&password=2509.Vey&type=m3u
+#EXTINF:0,Channel 326
+http://ip.akiptv.biz:8000/get.php?username=2780&password=2509.DE.g&type=m3u
+#EXTINF:0,Channel 327
+http://ip.akiptv.biz:8000/get.php?username=2782&password=2509.bur.V&type=m3u
+#EXTINF:0,Channel 328
+http://ip.akiptv.biz:8000/get.php?username=2781&password=2509.AYv&type=m3u
+#EXTINF:0,Channel 329
+http://ip.akiptv.biz:8000/get.php?username=2761&password=2509.ey.&type=m3u
+#EXTINF:0,Channel 330
+http://ip.akiptv.biz:8000/get.php?username=2779&password=2509.bur&type=m3u
+#EXTINF:0,Channel 331
+http://ip.akiptv.biz:8000/get.php?username=2750&password=2509.tekt&type=m3u
+#EXTINF:0,Channel 332
+http://ip.akiptv.biz:8000/get.php?username=sw3733.y&password=20.09.17e&type=m3u
+#EXTINF:0,Channel 333
+http://ip.akiptv.biz:8000/get.php?username=2752&password=2009.&type=m3u
+#EXTINF:0,Channel 334
+http://ip.akiptv.biz:8000/get.php?username=Yalcin.a&password=18.09.2017&type=m3u
+#EXTINF:0,Channel 335
+http://ip.akiptv.biz:8000/get.php?username=ifo11&password=1809&type=m3u
+#EXTINF:0,Channel 336
+http://ip.akiptv.biz:8000/get.php?username=serotest&password=2009.&type=m3u
+#EXTINF:0,Channel 337
+http://ip.akiptv.biz:8000/get.php?username=taci.sar&password=sarica.esk&type=m3u
+#EXTINF:0,Channel 338
+http://ip.akiptv.biz:8000/get.php?username=drahmet.2&password=15092017.es&type=m3u
+#EXTINF:0,Channel 339
+http://ip.akiptv.biz:8000/get.php?username=izsuonurark&password=15092017&type=m3u
+#EXTINF:0,Channel 340
+http://ip.akiptv.biz:8000/get.php?username=ilhan.26&password=srck.10&type=m3u
+#EXTINF:0,Channel 341
+http://ip.akiptv.biz:8000/get.php?username=2e10&password=1509.bal&type=m3u
+#EXTINF:0,Channel 342
+http://ip.akiptv.biz:8000/get.php?username=ozm3&password=20.09.edr&type=m3u
+#EXTINF:0,Channel 343
+http://ip.akiptv.biz:8000/get.php?username=ozm2&password=2017.20&type=m3u
+#EXTINF:0,Channel 344
+http://ip.akiptv.biz:8000/get.php?username=ozm1&password=2009.or&type=m3u
+#EXTINF:0,Channel 345
+http://ip.akiptv.biz:8000/get.php?username=33563&password=1909.ce&type=m3u
+#EXTINF:0,Channel 346
+http://ip.akiptv.biz:8000/get.php?username=33561&password=1809.gu&type=m3u
+#EXTINF:0,Channel 347
+http://ip.akiptv.biz:8000/get.php?username=mstuy.26&password=12092017.se&type=m3u
+#EXTINF:0,Channel 348
+http://ip.akiptv.biz:8000/get.php?username=33564&password=1609.h&type=m3u
+#EXTINF:0,Channel 349
+http://ip.akiptv.biz:8000/get.php?username=33562&password=1509.g&type=m3u
+#EXTINF:0,Channel 350
+http://ip.akiptv.biz:8000/get.php?username=benim.yeni&password=benim&type=m3u
+#EXTINF:0,Channel 351
+http://ip.akiptv.biz:8000/get.php?username=emrahban&password=1509.&type=m3u
+#EXTINF:0,Channel 352
+http://ip.akiptv.biz:8000/get.php?username=hal.1925.gs&password=1.11.kies&type=m3u
+#EXTINF:0,Channel 353
+http://ip.akiptv.biz:8000/get.php?username=koymemet&password=JxkigArVwc&type=m3u
+#EXTINF:0,Channel 354
+http://ip.akiptv.biz:8000/get.php?username=94:44:44:ea:db:66&password=07042018&type=m3u
+#EXTINF:0,Channel 355
+http://ip.akiptv.biz:8000/get.php?username=cey2000&password=0509.ce&type=m3u
+#EXTINF:0,Channel 356
+http://ip.akiptv.biz:8000/get.php?username=irfan.1&password=akr.almn&type=m3u
+#EXTINF:0,Channel 357
+http://ip.akiptv.biz:8000/get.php?username=gknkcm&password=baba1&type=m3u
+#EXTINF:0,Channel 358
+http://ip.akiptv.biz:8000/get.php?username=4502&password=0209.naZ&type=m3u
+#EXTINF:0,Channel 359
+http://ip.akiptv.biz:8000/get.php?username=ifo9&password=0209&type=m3u
+#EXTINF:0,Channel 360
+http://ip.akiptv.biz:8000/get.php?username=7639&password=0109.ah&type=m3u
+#EXTINF:0,Channel 361
+http://ip.akiptv.biz:8000/get.php?username=ahmet35&password=200817btl&type=m3u
+#EXTINF:0,Channel 362
+http://ip.akiptv.biz:8000/get.php?username=ahmet26&password=201808bt&type=m3u
+#EXTINF:0,Channel 363
+http://ip.akiptv.biz:8000/get.php?username=4503&password=3008.beh&type=m3u
+#EXTINF:0,Channel 364
+http://ip.akiptv.biz:8000/get.php?username=konyasamsung&password=konya103042&type=m3u
+#EXTINF:0,Channel 365
+http://ip.akiptv.biz:8000/get.php?username=dikili4k&password=3008.le&type=m3u
+#EXTINF:0,Channel 366
+http://ip.akiptv.biz:8000/get.php?username=4504&password=3008.Be&type=m3u
+#EXTINF:0,Channel 367
+http://ip.akiptv.biz:8000/get.php?username=amigok&password=3008.Ka&type=m3u
+#EXTINF:0,Channel 368
+http://ip.akiptv.biz:8000/get.php?username=emtcumhur&password=26082017&type=m3u
+#EXTINF:0,Channel 369
+http://ip.akiptv.biz:8000/get.php?username=ozlem1&password=saad.1&type=m3u
+#EXTINF:0,Channel 370
+http://ip.akiptv.biz:8000/get.php?username=ifo7&password=2508&type=m3u
+#EXTINF:0,Channel 371
+http://ip.akiptv.biz:8000/get.php?username=8938&password=2508.REy&type=m3u
+#EXTINF:0,Channel 372
+http://ip.akiptv.biz:8000/get.php?username=7677&password=2508.kaR&type=m3u
+#EXTINF:0,Channel 373
+http://ip.akiptv.biz:8000/get.php?username=ifo6&password=2508&type=m3u
+#EXTINF:0,Channel 374
+http://ip.akiptv.biz:8000/get.php?username=7681&password=2508.reY&type=m3u
+#EXTINF:0,Channel 375
+http://ip.akiptv.biz:8000/get.php?username=oguz24&password=24082017&type=m3u
+#EXTINF:0,Channel 376
+http://ip.akiptv.biz:8000/get.php?username=aliuf&password=cinar&type=m3u
+#EXTINF:0,Channel 377
+http://ip.akiptv.biz:8000/get.php?username=ece.1&password=eren.2&type=m3u
+#EXTINF:0,Channel 378
+http://ip.akiptv.biz:8000/get.php?username=onur.1&password=gezen.1&type=m3u
+#EXTINF:0,Channel 379
+http://ip.akiptv.biz:8000/get.php?username=ziyas&password=24.08.2017&type=m3u
+#EXTINF:0,Channel 380
+http://ip.akiptv.biz:8000/get.php?username=--24&password=24082017&type=m3u
+#EXTINF:0,Channel 381
+http://ip.akiptv.biz:8000/get.php?username=ifo5&password=2308&type=m3u
+#EXTINF:0,Channel 382
+http://ip.akiptv.biz:8000/get.php?username=bug22&password=bug2208&type=m3u
+#EXTINF:0,Channel 383
+http://ip.akiptv.biz:8000/get.php?username=5815&password=2008.cey&type=m3u
+#EXTINF:0,Channel 384
+http://ip.akiptv.biz:8000/get.php?username=ifo4&password=2208&type=m3u
+#EXTINF:0,Channel 385
+http://ip.akiptv.biz:8000/get.php?username=ifo3&password=2208&type=m3u
+#EXTINF:0,Channel 386
+http://ip.akiptv.biz:8000/get.php?username=ozden1&password=2008.gon&type=m3u
+#EXTINF:0,Channel 387
+http://ip.akiptv.biz:8000/get.php?username=maho1&password=maho2&type=m3u
+#EXTINF:0,Channel 388
+http://ip.akiptv.biz:8000/get.php?username=buketinesi&password=10:08:c1:1c:44:b5&type=m3u
+#EXTINF:0,Channel 389
+http://ip.akiptv.biz:8000/get.php?username=4b:43&password=1XC3m9LDio&type=m3u
+#EXTINF:0,Channel 390
+http://ip.akiptv.biz:8000/get.php?username=sw201011&password=2010.nis&type=m3u
+#EXTINF:0,Channel 391
+http://ip.akiptv.biz:8000/get.php?username=dogan&password=19.08.2017&type=m3u
+#EXTINF:0,Channel 392
+http://ip.akiptv.biz:8000/get.php?username=halil&password=19.08.2017&type=m3u
+#EXTINF:0,Channel 393
+http://ip.akiptv.biz:8000/get.php?username=gsevim&password=19.08.2017&type=m3u
+#EXTINF:0,Channel 394
+http://ip.akiptv.biz:8000/get.php?username=ozgur.11&password=102030.es&type=m3u
+#EXTINF:0,Channel 395
+http://ip.akiptv.biz:8000/get.php?username=rid4k1&password=1908.Go&type=m3u
+#EXTINF:0,Channel 396
+http://ip.akiptv.biz:8000/get.php?username=havhacioglu&password=GNtoK0mdxy&type=m3u
+#EXTINF:0,Channel 397
+http://ip.akiptv.biz:8000/get.php?username=havranavcilar&password=2008.&type=m3u
+#EXTINF:0,Channel 398
+http://ip.akiptv.biz:8000/get.php?username=gonmur1&password=1809.g&type=m3u
+#EXTINF:0,Channel 399
+http://ip.akiptv.biz:8000/get.php?username=5801&password=1808.bol&type=m3u
+#EXTINF:0,Channel 400
+http://ip.akiptv.biz:8000/get.php?username=srf02&password=srf0002&type=m3u
+#EXTINF:0,Channel 401
+http://ip.akiptv.biz:8000/get.php?username=deniz.1&password=zeynep.2&type=m3u
+#EXTINF:0,Channel 402
+http://ip.akiptv.biz:8000/get.php?username=ege.naz&password=eses.26&type=m3u
+#EXTINF:0,Channel 403
+http://ip.akiptv.biz:8000/get.php?username=nurledleventabi&password=IBqoKhgwhG&type=m3u
+#EXTINF:0,Channel 404
+http://ip.akiptv.biz:8000/get.php?username=eraypala&password=17082017&type=m3u
+#EXTINF:0,Channel 405
+http://ip.akiptv.biz:8000/get.php?username=a0:6f:aa:9c:2b:18&password=17082017&type=m3u
+#EXTINF:0,Channel 406
+http://ip.akiptv.biz:8000/get.php?username=ifo2&password=1708&type=m3u
+#EXTINF:0,Channel 407
+http://ip.akiptv.biz:8000/get.php?username=7877&password=1608.emR&type=m3u
+#EXTINF:0,Channel 408
+http://ip.akiptv.biz:8000/get.php?username=hasokendu&password=13PBkvoS9m&type=m3u
+#EXTINF:0,Channel 409
+http://ip.akiptv.biz:8000/get.php?username=--48:cc&password=DsnZ2P7eiL&type=m3u
+#EXTINF:0,Channel 410
+http://ip.akiptv.biz:8000/get.php?username=kurcep&password=jyBxDslKt8&type=m3u
+#EXTINF:0,Channel 411
+http://ip.akiptv.biz:8000/get.php?username=sarica.ah&password=12012017.es&type=m3u
+#EXTINF:0,Channel 412
+http://ip.akiptv.biz:8000/get.php?username=telefonender&password=zXqIv0gAS8&type=m3u
+#EXTINF:0,Channel 413
+http://ip.akiptv.biz:8000/get.php?username=7666&password=1608.ka&type=m3u
+#EXTINF:0,Channel 414
+http://ip.akiptv.biz:8000/get.php?username=7673&password=1708.duk&type=m3u
+#EXTINF:0,Channel 415
+http://ip.akiptv.biz:8000/get.php?username=0691&password=1608.SeR&type=m3u
+#EXTINF:0,Channel 416
+http://ip.akiptv.biz:8000/get.php?username=5809&password=1608.seR&type=m3u
+#EXTINF:0,Channel 417
+http://ip.akiptv.biz:8000/get.php?username=5810&password=1608.Be&type=m3u
+#EXTINF:0,Channel 418
+http://ip.akiptv.biz:8000/get.php?username=dursun.gs&password=170817&type=m3u
+#EXTINF:0,Channel 419
+http://ip.akiptv.biz:8000/get.php?username=Dikogur&password=YoeJIyPEvp&type=m3u
+#EXTINF:0,Channel 420
+http://ip.akiptv.biz:8000/get.php?username=emtveli&password=15082017veli&type=m3u
+#EXTINF:0,Channel 421
+http://ip.akiptv.biz:8000/get.php?username=testufuk&password=15082017&type=m3u
+#EXTINF:0,Channel 422
+http://ip.akiptv.biz:8000/get.php?username=test1&password=test2&type=m3u
+#EXTINF:0,Channel 423
+http://ip.akiptv.biz:8000/get.php?username=ercan.oy&password=16.08.2017&type=m3u
+#EXTINF:0,Channel 424
+http://ip.akiptv.biz:8000/get.php?username=5535&password=XjUZ1ukMFc&type=m3u
+#EXTINF:0,Channel 425
+http://ip.akiptv.biz:8000/get.php?username=0812.cep&password=mOsCZuXW5w&type=m3u
+#EXTINF:0,Channel 426
+http://ip.akiptv.biz:8000/get.php?username=5816&password=1508.ev&type=m3u
+#EXTINF:0,Channel 427
+http://ip.akiptv.biz:8000/get.php?username=ifoduk1&password=1508.yed&type=m3u
+#EXTINF:0,Channel 428
+http://ip.akiptv.biz:8000/get.php?username=ifomes1&password=1508.mes&type=m3u
+#EXTINF:0,Channel 429
+http://ip.akiptv.biz:8000/get.php?username=5814&password=1508.naz&type=m3u
+#EXTINF:0,Channel 430
+http://ip.akiptv.biz:8000/get.php?username=9733&password=1508.alm&type=m3u
+#EXTINF:0,Channel 431
+http://ip.akiptv.biz:8000/get.php?username=d7:21&password=gK9LB9DQib&type=m3u
+#EXTINF:0,Channel 432
+http://ip.akiptv.biz:8000/get.php?username=eray.11&password=aykac.14.08&type=m3u
+#EXTINF:0,Channel 433
+http://ip.akiptv.biz:8000/get.php?username=Tuborg1&password=Tuborg14&type=m3u
+#EXTINF:0,Channel 434
+http://ip.akiptv.biz:8000/get.php?username=izufandroid&password=DyqAf75o4h&type=m3u
+#EXTINF:0,Channel 435
+http://ip.akiptv.biz:8000/get.php?username=onder02&password=onder0002&type=m3u
+#EXTINF:0,Channel 436
+http://ip.akiptv.biz:8000/get.php?username=ramazan.26&password=13.08.17esk&type=m3u
+#EXTINF:0,Channel 437
+http://ip.akiptv.biz:8000/get.php?username=Gkn01&password=Gkn0001&type=m3u
+#EXTINF:0,Channel 438
+http://ip.akiptv.biz:8000/get.php?username=levolotus&password=13.08.2017&type=m3u
+#EXTINF:0,Channel 439
+http://ip.akiptv.biz:8000/get.php?username=ersin.ark&password=12.08.2017&type=m3u
+#EXTINF:0,Channel 440
+http://ip.akiptv.biz:8000/get.php?username=7683&password=1308.kur&type=m3u
+#EXTINF:0,Channel 441
+http://ip.akiptv.biz:8000/get.php?username=6082&password=1308.Ak&type=m3u
+#EXTINF:0,Channel 442
+http://ip.akiptv.biz:8000/get.php?username=6081&password=1208.ra&type=m3u
+#EXTINF:0,Channel 443
+http://ip.akiptv.biz:8000/get.php?username=tekbah&password=ay132**1187&type=m3u
+#EXTINF:0,Channel 444
+http://ip.akiptv.biz:8000/get.php?username=arif26&password=yesilgil&type=m3u
+#EXTINF:0,Channel 445
+http://ip.akiptv.biz:8000/get.php?username=48:cc&password=xCfDasw8fh&type=m3u
+#EXTINF:0,Channel 446
+http://ip.akiptv.biz:8000/get.php?username=7855&password=1108cey.ba&type=m3u
+#EXTINF:0,Channel 447
+http://ip.akiptv.biz:8000/get.php?username=7671&password=1108.cey&type=m3u
+#EXTINF:0,Channel 448
+http://ip.akiptv.biz:8000/get.php?username=yelmax&password=kumbag&type=m3u
+#EXTINF:0,Channel 449
+http://ip.akiptv.biz:8000/get.php?username=behcetcep&password=yip7xcmXxO&type=m3u
+#EXTINF:0,Channel 450
+http://ip.akiptv.biz:8000/get.php?username=9982&password=1108.emo&type=m3u
+#EXTINF:0,Channel 451
+http://ip.akiptv.biz:8000/get.php?username=7662&password=1108.em&type=m3u
+#EXTINF:0,Channel 452
+http://ip.akiptv.biz:8000/get.php?username=6e:54&password=KtHeKKPdGa&type=m3u
+#EXTINF:0,Channel 453
+http://ip.akiptv.biz:8000/get.php?username=mkfb&password=09.08.17es&type=m3u
+#EXTINF:0,Channel 454
+http://ip.akiptv.biz:8000/get.php?username=7674&password=1008.kur&type=m3u
+#EXTINF:0,Channel 455
+http://ip.akiptv.biz:8000/get.php?username=7670&password=1008.ka&type=m3u
+#EXTINF:0,Channel 456
+http://ip.akiptv.biz:8000/get.php?username=7685&password=0908.ing&type=m3u
+#EXTINF:0,Channel 457
+http://ip.akiptv.biz:8000/get.php?username=7679&password=0608.re&type=m3u
+#EXTINF:0,Channel 458
+http://ip.akiptv.biz:8000/get.php?username=ingyus1&password=0608.i&type=m3u
+#EXTINF:0,Channel 459
+http://ip.akiptv.biz:8000/get.php?username=icaktarım&password=mpvkhiyZhi&type=m3u
+#EXTINF:0,Channel 460
+http://ip.akiptv.biz:8000/get.php?username=7667&password=0508.ban&type=m3u
+#EXTINF:0,Channel 461
+http://ip.akiptv.biz:8000/get.php?username=7652&password=0508.ce&type=m3u
+#EXTINF:0,Channel 462
+http://ip.akiptv.biz:8000/get.php?username=7655&password=0308.sero&type=m3u
+#EXTINF:0,Channel 463
+http://ip.akiptv.biz:8000/get.php?username=zeynep&password=deniz&type=m3u
+#EXTINF:0,Channel 464
+http://ip.akiptv.biz:8000/get.php?username=7641&password=0408.ro&type=m3u
+#EXTINF:0,Channel 465
+http://ip.akiptv.biz:8000/get.php?username=7653&password=0308.sR&type=m3u
+#EXTINF:0,Channel 466
+http://ip.akiptv.biz:8000/get.php?username=isme&password=0208.is&type=m3u
+#EXTINF:0,Channel 467
+http://ip.akiptv.biz:8000/get.php?username=7675&password=0208.edr&type=m3u
+#EXTINF:0,Channel 468
+http://ip.akiptv.biz:8000/get.php?username=7686&password=0208.bel&type=m3u
+#EXTINF:0,Channel 469
+http://ip.akiptv.biz:8000/get.php?username=6956&password=0208.sem&type=m3u
+#EXTINF:0,Channel 470
+http://ip.akiptv.biz:8000/get.php?username=bigairfan&password=2907.&type=m3u
+#EXTINF:0,Channel 471
+http://ip.akiptv.biz:8000/get.php?username=akierkan&password=9ypbwO8Yko&type=m3u
+#EXTINF:0,Channel 472
+http://ip.akiptv.biz:8000/get.php?username=bigahoc1&password=DyiVLSplFT&type=m3u
+#EXTINF:0,Channel 473
+http://ip.akiptv.biz:8000/get.php?username=73:3c&password=27.07.xa&type=m3u
+#EXTINF:0,Channel 474
+http://ip.akiptv.biz:8000/get.php?username=ec:4a&password=2707.izuf&type=m3u
+#EXTINF:0,Channel 475
+http://ip.akiptv.biz:8000/get.php?username=7732&password=3008.ra&type=m3u
+#EXTINF:0,Channel 476
+http://ip.akiptv.biz:8000/get.php?username=7682&password=2707.uf&type=m3u
+#EXTINF:0,Channel 477
+http://ip.akiptv.biz:8000/get.php?username=7659&password=2707.ezak&type=m3u
+#EXTINF:0,Channel 478
+http://ip.akiptv.biz:8000/get.php?username=mehmet12&password=2707es&type=m3u
+#EXTINF:0,Channel 479
+http://ip.akiptv.biz:8000/get.php?username=7657&password=2607.ri&type=m3u
+#EXTINF:0,Channel 480
+http://ip.akiptv.biz:8000/get.php?username=2093&password=2507c.se&type=m3u
+#EXTINF:0,Channel 481
+http://ip.akiptv.biz:8000/get.php?username=gezer&password=123&type=m3u
+#EXTINF:0,Channel 482
+http://ip.akiptv.biz:8000/get.php?username=7660os&password=1507.&type=m3u
+#EXTINF:0,Channel 483
+http://ip.akiptv.biz:8000/get.php?username=7658.&password=1507kom&type=m3u
+#EXTINF:0,Channel 484
+http://ip.akiptv.biz:8000/get.php?username=kurbar1&password=1507.&type=m3u
+#EXTINF:0,Channel 485
+http://ip.akiptv.biz:8000/get.php?username=teksel2&password=13072017&type=m3u
+#EXTINF:0,Channel 486
+http://ip.akiptv.biz:8000/get.php?username=3741.&password=1207bur&type=m3u
+#EXTINF:0,Channel 487
+http://ip.akiptv.biz:8000/get.php?username=7872.&password=1007.u&type=m3u
+#EXTINF:0,Channel 488
+http://ip.akiptv.biz:8000/get.php?username=teksel&password=10072017&type=m3u
+#EXTINF:0,Channel 489
+http://ip.akiptv.biz:8000/get.php?username=ertugrul01&password=utku&type=m3u
+#EXTINF:0,Channel 490
+http://ip.akiptv.biz:8000/get.php?username=cemocep&password=1234.&type=m3u
+#EXTINF:0,Channel 491
+http://ip.akiptv.biz:8000/get.php?username=ing20001&password=2006.&type=m3u
+#EXTINF:0,Channel 492
+http://ip.akiptv.biz:8000/get.php?username=atik1&password=2006&type=m3u
+#EXTINF:0,Channel 493
+http://ip.akiptv.biz:8000/get.php?username=esmah3&password=16.06.17es&type=m3u
+#EXTINF:0,Channel 494
+http://ip.akiptv.biz:8000/get.php?username=2242&password=2009.tk&type=m3u
+#EXTINF:0,Channel 495
+http://ip.akiptv.biz:8000/get.php?username=9107.&password=12.06.&type=m3u
+#EXTINF:0,Channel 496
+http://ip.akiptv.biz:8000/get.php?username=7861.&password=10.06&type=m3u
+#EXTINF:0,Channel 497
+http://ip.akiptv.biz:8000/get.php?username=muzodem&password=07.06.es&type=m3u
+#EXTINF:0,Channel 498
+http://ip.akiptv.biz:8000/get.php?username=turkuaz&password=amigo.2909&type=m3u
+#EXTINF:0,Channel 499
+http://ip.akiptv.biz:8000/get.php?username=Harun28&password=28052017&type=m3u
+#EXTINF:0,Channel 500
+http://ip.akiptv.biz:8000/get.php?username=ahmet5959&password=100517&type=m3u
+#EXTINF:0,Channel 501
+http://ip.akiptv.biz:8000/get.php?username=0816&password=1005.&type=m3u
+#EXTINF:0,Channel 502
+http://ip.akiptv.biz:8000/get.php?username=Cido05&password=07052017&type=m3u
+#EXTINF:0,Channel 503
+http://ip.akiptv.biz:8000/get.php?username=bb:8b&password=E2eZ9kATiE&type=m3u
+#EXTINF:0,Channel 504
+http://ip.akiptv.biz:8000/get.php?username=ersin59&password=070517&type=m3u
+#EXTINF:0,Channel 505
+http://ip.akiptv.biz:8000/get.php?username=cengiz52&password=050517&type=m3u
+#EXTINF:0,Channel 506
+http://ip.akiptv.biz:8000/get.php?username=zafer2904&password=29042017&type=m3u
+#EXTINF:0,Channel 507
+http://ip.akiptv.biz:8000/get.php?username=ingmay1&password=0105.&type=m3u
+#EXTINF:0,Channel 508
+http://ip.akiptv.biz:8000/get.php?username=emin.1&password=2604.&type=m3u
+#EXTINF:0,Channel 509
+http://ip.akiptv.biz:8000/get.php?username=fran.1&password=12345&type=m3u
+#EXTINF:0,Channel 510
+http://ip.akiptv.biz:8000/get.php?username=Smartgok&password=24.04.2017&type=m3u
+#EXTINF:0,Channel 511
+http://ip.akiptv.biz:8000/get.php?username=5335.zey&password=w5lruuA3vc&type=m3u
+#EXTINF:0,Channel 512
+http://ip.akiptv.biz:8000/get.php?username=5667.&password=23.04&type=m3u
+#EXTINF:0,Channel 513
+http://ip.akiptv.biz:8000/get.php?username=aki-12.3&password=Ag7Pzl8Hxo&type=m3u
+#EXTINF:0,Channel 514
+http://ip.akiptv.biz:8000/get.php?username=emin.&password=2504.&type=m3u
+#EXTINF:0,Channel 515
+http://ip.akiptv.biz:8000/get.php?username=atilimbil.&password=2504.&type=m3u
+#EXTINF:0,Channel 516
+http://ip.akiptv.biz:8000/get.php?username=Recep2104&password=2104.2104&type=m3u
+#EXTINF:0,Channel 517
+http://ip.akiptv.biz:8000/get.php?username=yalcin&password=2004.&type=m3u
+#EXTINF:0,Channel 518
+http://ip.akiptv.biz:8000/get.php?username=karagozcep&password=cep.&type=m3u
+#EXTINF:0,Channel 519
+http://ip.akiptv.biz:8000/get.php?username=Tek1304&password=Teksed1304&type=m3u
+#EXTINF:0,Channel 520
+http://ip.akiptv.biz:8000/get.php?username=Ahmet5900&password=ahmet59&type=m3u
+#EXTINF:0,Channel 521
+http://ip.akiptv.biz:8000/get.php?username=Tekk1204&password=Tuborg12&type=m3u
+#EXTINF:0,Channel 522
+http://ip.akiptv.biz:8000/get.php?username=3724.&password=15.04&type=m3u
+#EXTINF:0,Channel 523
+http://ip.akiptv.biz:8000/get.php?username=cumhurkara&password=NQwNOcSLUe&type=m3u
+#EXTINF:0,Channel 524
+http://ip.akiptv.biz:8000/get.php?username=cioh&password=0304.b&type=m3u
+#EXTINF:0,Channel 525
+http://ip.akiptv.biz:8000/get.php?username=osmkoc&password=65smZy5jDI&type=m3u
+#EXTINF:0,Channel 526
+http://ip.akiptv.biz:8000/get.php?username=74:9c:met&password=m7cNKCW4N7&type=m3u
+#EXTINF:0,Channel 527
+http://ip.akiptv.biz:8000/get.php?username=Smart&password=Smart.3103&type=m3u
+#EXTINF:0,Channel 528
+http://ip.akiptv.biz:8000/get.php?username=Rafet&password=Rafet.3103&type=m3u
+#EXTINF:0,Channel 529
+http://ip.akiptv.biz:8000/get.php?username=ing3103&password=3103.&type=m3u
+#EXTINF:0,Channel 530
+http://ip.akiptv.biz:8000/get.php?username=Muratttt&password=Elektronik&type=m3u
+#EXTINF:0,Channel 531
+http://ip.akiptv.biz:8000/get.php?username=4753&password=2703&type=m3u
+#EXTINF:0,Channel 532
+http://ip.akiptv.biz:8000/get.php?username=inghasma2&password=2503.&type=m3u
+#EXTINF:0,Channel 533
+http://ip.akiptv.biz:8000/get.php?username=muhtar&password=2003.&type=m3u
+#EXTINF:0,Channel 534
+http://ip.akiptv.biz:8000/get.php?username=Gokhan59&password=Gokhan5959&type=m3u
+#EXTINF:0,Channel 535
+http://ip.akiptv.biz:8000/get.php?username=inghas031&password=1703.ha&type=m3u
+#EXTINF:0,Channel 536
+http://ip.akiptv.biz:8000/get.php?username=niko&password=16.03.2017&type=m3u
+#EXTINF:0,Channel 537
+http://ip.akiptv.biz:8000/get.php?username=svralkan&password=GXr7Buk0i7&type=m3u
+#EXTINF:0,Channel 538
+http://ip.akiptv.biz:8000/get.php?username=3744&password=1503.d&type=m3u
+#EXTINF:0,Channel 539
+http://ip.akiptv.biz:8000/get.php?username=yasarabikizce&password=CDeioabKYf&type=m3u
+#EXTINF:0,Channel 540
+http://ip.akiptv.biz:8000/get.php?username=ozbirabla&password=akya&type=m3u
+#EXTINF:0,Channel 541
+http://ip.akiptv.biz:8000/get.php?username=tugrul.kos.&password=12.09.2017.bitis&type=m3u
+#EXTINF:0,Channel 542
+http://ip.akiptv.biz:8000/get.php?username=Umut&password=Umut1234&type=m3u
+#EXTINF:0,Channel 543
+http://ip.akiptv.biz:8000/get.php?username=Patates&password=Patates1234&type=m3u
+#EXTINF:0,Channel 544
+http://ip.akiptv.biz:8000/get.php?username=kurnex&password=1003.ku&type=m3u
+#EXTINF:0,Channel 545
+http://ip.akiptv.biz:8000/get.php?username=bilica&password=2509.&type=m3u
+#EXTINF:0,Channel 546
+http://ip.akiptv.biz:8000/get.php?username=0263&password=06.03k&type=m3u
+#EXTINF:0,Channel 547
+http://ip.akiptv.biz:8000/get.php?username=yasarabi&password=1003.&type=m3u
+#EXTINF:0,Channel 548
+http://ip.akiptv.biz:8000/get.php?username=yasarabiev&password=IjUPbCqFxt&type=m3u
+#EXTINF:0,Channel 549
+http://ip.akiptv.biz:8000/get.php?username=gumisa&password=1003&type=m3u
+#EXTINF:0,Channel 550
+http://ip.akiptv.biz:8000/get.php?username=erenalper&password=Mh8o2YPoEv&type=m3u
+#EXTINF:0,Channel 551
+http://ip.akiptv.biz:8000/get.php?username=2148&password=0103.&type=m3u
+#EXTINF:0,Channel 552
+http://ip.akiptv.biz:8000/get.php?username=tayfun.hoca&password=esk.btl&type=m3u
+#EXTINF:0,Channel 553
+http://ip.akiptv.biz:8000/get.php?username=2111&password=1511.&type=m3u
+#EXTINF:0,Channel 554
+http://ip.akiptv.biz:8000/get.php?username=Sedat1234&password=Sedat12345&type=m3u
+#EXTINF:0,Channel 555
+http://ip.akiptv.biz:8000/get.php?username=Erdemm&password=Erdemm1234&type=m3u
+#EXTINF:0,Channel 556
+http://ip.akiptv.biz:8000/get.php?username=dr.altug&password=24.02.2017.es&type=m3u
+#EXTINF:0,Channel 557
+http://ip.akiptv.biz:8000/get.php?username=burer1.&password=2502.&type=m3u
+#EXTINF:0,Channel 558
+http://ip.akiptv.biz:8000/get.php?username=inghasn&password=2502.&type=m3u
+#EXTINF:0,Channel 559
+http://ip.akiptv.biz:8000/get.php?username=9774&password=25.02ha&type=m3u
+#EXTINF:0,Channel 560
+http://ip.akiptv.biz:8000/get.php?username=fujisat&password=k8xFon2Vu4&type=m3u
+#EXTINF:0,Channel 561
+http://ip.akiptv.biz:8000/get.php?username=bigah2&password=0ESMshrhD8&type=m3u
+#EXTINF:0,Channel 562
+http://ip.akiptv.biz:8000/get.php?username=sw5664&password=1508maHM&type=m3u
+#EXTINF:0,Channel 563
+http://ip.akiptv.biz:8000/get.php?username=2022&password=1102.kunaz&type=m3u
+#EXTINF:0,Channel 564
+http://ip.akiptv.biz:8000/get.php?username=ersanh&password=yrU5rlw3w1&type=m3u
+#EXTINF:0,Channel 565
+http://ip.akiptv.biz:8000/get.php?username=2126&password=0902.bab&type=m3u
+#EXTINF:0,Channel 566
+http://ip.akiptv.biz:8000/get.php?username=Yapici59&password=Yapici5959&type=m3u
+#EXTINF:0,Channel 567
+http://ip.akiptv.biz:8000/get.php?username=2009&password=0502..&type=m3u
+#EXTINF:0,Channel 568
+http://ip.akiptv.biz:8000/get.php?username=2144.&password=0502.luu&type=m3u
+#EXTINF:0,Channel 569
+http://ip.akiptv.biz:8000/get.php?username=2145&password=0502.ar&type=m3u
+#EXTINF:0,Channel 570
+http://ip.akiptv.biz:8000/get.php?username=2109&password=0502.tr&type=m3u
+#EXTINF:0,Channel 571
+http://ip.akiptv.biz:8000/get.php?username=1155&password=1108.be&type=m3u
+#EXTINF:0,Channel 572
+http://ip.akiptv.biz:8000/get.php?username=0265&password=0502.ley&type=m3u
+#EXTINF:0,Channel 573
+http://ip.akiptv.biz:8000/get.php?username=2163&password=1710.&type=m3u
+#EXTINF:0,Channel 574
+http://ip.akiptv.biz:8000/get.php?username=6978&password=0302.sin&type=m3u
+#EXTINF:0,Channel 575
+http://ip.akiptv.biz:8000/get.php?username=0103&password=0202.tur&type=m3u
+#EXTINF:0,Channel 576
+http://ip.akiptv.biz:8000/get.php?username=0699&password=0202.dog&type=m3u
+#EXTINF:0,Channel 577
+http://ip.akiptv.biz:8000/get.php?username=2063&password=01.02ing&type=m3u
+#EXTINF:0,Channel 578
+http://ip.akiptv.biz:8000/get.php?username=erdicep&password=01.02&type=m3u
+#EXTINF:0,Channel 579
+http://ip.akiptv.biz:8000/get.php?username=surer&password=nZKkbMdIS1&type=m3u
+#EXTINF:0,Channel 580
+http://ip.akiptv.biz:8000/get.php?username=atikhasan&password=25.01&type=m3u
+#EXTINF:0,Channel 581
+http://ip.akiptv.biz:8000/get.php?username=7851&password=2001.&type=m3u
+#EXTINF:0,Channel 582
+http://ip.akiptv.biz:8000/get.php?username=97:achas&password=kMtRF0uwEq&type=m3u
+#EXTINF:0,Channel 583
+http://ip.akiptv.biz:8000/get.php?username=2044&password=2201.&type=m3u
+#EXTINF:0,Channel 584
+http://ip.akiptv.biz:8000/get.php?username=ozgurvlc2&password=xrTKYYrlir&type=m3u
+#EXTINF:0,Channel 585
+http://ip.akiptv.biz:8000/get.php?username=ozgurvlc1&password=AJBFXwgz3h&type=m3u
+#EXTINF:0,Channel 586
+http://ip.akiptv.biz:8000/get.php?username=fero&password=Klk8Y3Y4zP&type=m3u
+#EXTINF:0,Channel 587
+http://ip.akiptv.biz:8000/get.php?username=ferdi&password=1901cey&type=m3u
+#EXTINF:0,Channel 588
+http://ip.akiptv.biz:8000/get.php?username=pazyas&password=1801&type=m3u
+#EXTINF:0,Channel 589
+http://ip.akiptv.biz:8000/get.php?username=1756&password=1601.gom&type=m3u
+#EXTINF:0,Channel 590
+http://ip.akiptv.biz:8000/get.php?username=1770&password=1601beh&type=m3u
+#EXTINF:0,Channel 591
+http://ip.akiptv.biz:8000/get.php?username=2000&password=1501met&type=m3u
+#EXTINF:0,Channel 592
+http://ip.akiptv.biz:8000/get.php?username=2133&password=1501.&type=m3u
+#EXTINF:0,Channel 593
+http://ip.akiptv.biz:8000/get.php?username=inghas&password=1201bur&type=m3u
+#EXTINF:0,Channel 594
+http://ip.akiptv.biz:8000/get.php?username=serhated&password=01012017&type=m3u
+#EXTINF:0,Channel 595
+http://ip.akiptv.biz:8000/get.php?username=a0009&password=1501&type=m3u
+#EXTINF:0,Channel 596
+http://ip.akiptv.biz:8000/get.php?username=8734&password=1001t&type=m3u
+#EXTINF:0,Channel 597
+http://ip.akiptv.biz:8000/get.php?username=0820&password=1501es&type=m3u
+#EXTINF:0,Channel 598
+http://ip.akiptv.biz:8000/get.php?username=ingkorax&password=0901.&type=m3u
+#EXTINF:0,Channel 599
+http://ip.akiptv.biz:8000/get.php?username=1819&password=1501dok&type=m3u
+#EXTINF:0,Channel 600
+http://ip.akiptv.biz:8000/get.php?username=9440&password=0601re&type=m3u
+#EXTINF:0,Channel 601
+http://ip.akiptv.biz:8000/get.php?username=9433&password=0301.ra&type=m3u
+#EXTINF:0,Channel 602
+http://ip.akiptv.biz:8000/get.php?username=1764&password=0401.17&type=m3u
+#EXTINF:0,Channel 603
+http://ip.akiptv.biz:8000/get.php?username=m.ve1&password=03.01&type=m3u
+#EXTINF:0,Channel 604
+http://ip.akiptv.biz:8000/get.php?username=aytacg&password=03.01.2017&type=m3u
+#EXTINF:0,Channel 605
+http://ip.akiptv.biz:8000/get.php?username=ergen&password=0301&type=m3u
+#EXTINF:0,Channel 606
+http://ip.akiptv.biz:8000/get.php?username=orer.1&password=0301.&type=m3u
+#EXTINF:0,Channel 607
+http://ip.akiptv.biz:8000/get.php?username=ufuk.1.17&password=ocak.2017&type=m3u
+#EXTINF:0,Channel 608
+http://ip.akiptv.biz:8000/get.php?username=ocak172&password=0301n&type=m3u
+#EXTINF:0,Channel 609
+http://ip.akiptv.biz:8000/get.php?username=1842&password=0201kur&type=m3u
+#EXTINF:0,Channel 610
+http://ip.akiptv.biz:8000/get.php?username=1753&password=020117.kur&type=m3u
+#EXTINF:0,Channel 611
+http://ip.akiptv.biz:8000/get.php?username=1829&password=2017.0201&type=m3u
+#EXTINF:0,Channel 612
+http://ip.akiptv.biz:8000/get.php?username=1802&password=0201.2017&type=m3u
+#EXTINF:0,Channel 613
+http://ip.akiptv.biz:8000/get.php?username=nazar11&password=3112son&type=m3u
+#EXTINF:0,Channel 614
+http://ip.akiptv.biz:8000/get.php?username=7868&password=31.12&type=m3u
+#EXTINF:0,Channel 615
+http://ip.akiptv.biz:8000/get.php?username=6c:23:kuis&password=d1gelbERLQ&type=m3u
+#EXTINF:0,Channel 616
+http://ip.akiptv.biz:8000/get.php?username=abc1&password=31.12&type=m3u
+#EXTINF:0,Channel 617
+http://ip.akiptv.biz:8000/get.php?username=nazar10&password=29.12&type=m3u
+#EXTINF:0,Channel 618
+http://ip.akiptv.biz:8000/get.php?username=nazar8turkyilmaz&password=z4hzR9INJk&type=m3u
+#EXTINF:0,Channel 619
+http://ip.akiptv.biz:8000/get.php?username=celikkol&password=2612.&type=m3u
+#EXTINF:0,Channel 620
+http://ip.akiptv.biz:8000/get.php?username=nazar9&password=25.12&type=m3u
+#EXTINF:0,Channel 621
+http://ip.akiptv.biz:8000/get.php?username=8939&password=25.12&type=m3u
+#EXTINF:0,Channel 622
+http://ip.akiptv.biz:8000/get.php?username=A0020&password=2312.&type=m3u
+#EXTINF:0,Channel 623
+http://ip.akiptv.biz:8000/get.php?username=nazar8&password=23.12&type=m3u
+#EXTINF:0,Channel 624
+http://ip.akiptv.biz:8000/get.php?username=0071&password=25.12&type=m3u
+#EXTINF:0,Channel 625
+http://ip.akiptv.biz:8000/get.php?username=8876&password=2212.&type=m3u
+#EXTINF:0,Channel 626
+http://ip.akiptv.biz:8000/get.php?username=burmud&password=2012&type=m3u
+#EXTINF:0,Channel 627
+http://ip.akiptv.biz:8000/get.php?username=7859&password=2012edr&type=m3u
+#EXTINF:0,Channel 628
+http://ip.akiptv.biz:8000/get.php?username=tekbul&password=20.12&type=m3u
+#EXTINF:0,Channel 629
+http://ip.akiptv.biz:8000/get.php?username=2054&password=2012ak&type=m3u
+#EXTINF:0,Channel 630
+http://ip.akiptv.biz:8000/get.php?username=9450&password=19.12&type=m3u
+#EXTINF:0,Channel 631
+http://ip.akiptv.biz:8000/get.php?username=nazar7&password=19.12&type=m3u
+#EXTINF:0,Channel 632
+http://ip.akiptv.biz:8000/get.php?username=korsamed&password=2012.&type=m3u
+#EXTINF:0,Channel 633
+http://ip.akiptv.biz:8000/get.php?username=komali&password=2012&type=m3u
+#EXTINF:0,Channel 634
+http://ip.akiptv.biz:8000/get.php?username=nazar6&password=1712n&type=m3u
+#EXTINF:0,Channel 635
+http://ip.akiptv.biz:8000/get.php?username=nazar5&password=1612.&type=m3u
+#EXTINF:0,Channel 636
+http://ip.akiptv.biz:8000/get.php?username=7874&password=1612.ing&type=m3u
+#EXTINF:0,Channel 637
+http://ip.akiptv.biz:8000/get.php?username=0822&password=1612.kur&type=m3u
+#EXTINF:0,Channel 638
+http://ip.akiptv.biz:8000/get.php?username=K9321&password=1512&type=m3u
+#EXTINF:0,Channel 639
+http://ip.akiptv.biz:8000/get.php?username=yeni.mht.01&password=06.12.16es&type=m3u
+#EXTINF:0,Channel 640
+http://ip.akiptv.biz:8000/get.php?username=b5:fd:bahriabi&password=7fneEQ3zOe&type=m3u
+#EXTINF:0,Channel 641
+http://ip.akiptv.biz:8000/get.php?username=57:edbahriabi&password=2iq3GwsI5E&type=m3u
+#EXTINF:0,Channel 642
+http://ip.akiptv.biz:8000/get.php?username=denzey.maho2&password=23.10.maes&type=m3u
+#EXTINF:0,Channel 643
+http://ip.akiptv.biz:8000/get.php?username=gizemomerabi&password=cEqqMVJqEA&type=m3u
+#EXTINF:0,Channel 644
+http://ip.akiptv.biz:8000/get.php?username=izgurke&password=10.12&type=m3u
+#EXTINF:0,Channel 645
+http://ip.akiptv.biz:8000/get.php?username=almsez1&password=qYyoThLriJ&type=m3u
+#EXTINF:0,Channel 646
+http://ip.akiptv.biz:8000/get.php?username=6955&password=10dog12&type=m3u
+#EXTINF:0,Channel 647
+http://ip.akiptv.biz:8000/get.php?username=avusmedialink&password=Wq3Yg7Kih7&type=m3u
+#EXTINF:0,Channel 648
+http://ip.akiptv.biz:8000/get.php?username=akcaynevzatabi&password=cQ93z3DNpV&type=m3u
+#EXTINF:0,Channel 649
+http://ip.akiptv.biz:8000/get.php?username=4876&password=2012&type=m3u
+#EXTINF:0,Channel 650
+http://ip.akiptv.biz:8000/get.php?username=bancey50:2f&password=1LzcrWlmso&type=m3u
+#EXTINF:0,Channel 651
+http://ip.akiptv.biz:8000/get.php?username=gonelgnvlc1&password=750TSuwJe0&type=m3u
+#EXTINF:0,Channel 652
+http://ip.akiptv.biz:8000/get.php?username=nazar2&password=2ar.naz&type=m3u
+#EXTINF:0,Channel 653
+http://ip.akiptv.biz:8000/get.php?username=ermanev&password=9uCuXq7a69&type=m3u
+#EXTINF:0,Channel 654
+http://ip.akiptv.biz:8000/get.php?username=cakir.es1&password=27.Nis.17&type=m3u
+#EXTINF:0,Channel 655
+http://ip.akiptv.biz:8000/get.php?username=dikiliozgur1&password=A67dG3SW3e&type=m3u
+#EXTINF:0,Channel 656
+http://ip.akiptv.biz:8000/get.php?username=mustafayilmaz&password=WdQtdbEtCr&type=m3u
+#EXTINF:0,Channel 657
+http://ip.akiptv.biz:8000/get.php?username=9462&password=2811&type=m3u
+#EXTINF:0,Channel 658
+http://ip.akiptv.biz:8000/get.php?username=kaleenginab1&password=2ZTOKz19yZ&type=m3u
+#EXTINF:0,Channel 659
+http://ip.akiptv.biz:8000/get.php?username=ersansezer&password=B0Ng62gCu1&type=m3u
+#EXTINF:0,Channel 660
+http://ip.akiptv.biz:8000/get.php?username=suha.ay&password=155813&type=m3u
+#EXTINF:0,Channel 661
+http://ip.akiptv.biz:8000/get.php?username=nurikuzu&password=0fXOBBfhbF&type=m3u
+#EXTINF:0,Channel 662
+http://ip.akiptv.biz:8000/get.php?username=emrahbeybalikci&password=0k7l4SymYn&type=m3u
+#EXTINF:0,Channel 663
+http://ip.akiptv.biz:8000/get.php?username=ufukbeynoter&password=QZe0i2lMDi&type=m3u
+#EXTINF:0,Channel 664
+http://ip.akiptv.biz:8000/get.php?username=karabiyik&password=2511&type=m3u
+#EXTINF:0,Channel 665
+http://ip.akiptv.biz:8000/get.php?username=3742&password=2511&type=m3u
+#EXTINF:0,Channel 666
+http://ip.akiptv.biz:8000/get.php?username=gonenlg&password=2511&type=m3u
+#EXTINF:0,Channel 667
+http://ip.akiptv.biz:8000/get.php?username=a0015&password=2011&type=m3u
+#EXTINF:0,Channel 668
+http://ip.akiptv.biz:8000/get.php?username=balaban&password=2411..&type=m3u
+#EXTINF:0,Channel 669
+http://ip.akiptv.biz:8000/get.php?username=levent&password=2411&type=m3u
+#EXTINF:0,Channel 670
+http://ip.akiptv.biz:8000/get.php?username=serocep&password=2311&type=m3u
+#EXTINF:0,Channel 671
+http://ip.akiptv.biz:8000/get.php?username=erman&password=2011&type=m3u
+#EXTINF:0,Channel 672
+http://ip.akiptv.biz:8000/get.php?username=ozguryegen&password=yegen&type=m3u
+#EXTINF:0,Channel 673
+http://ip.akiptv.biz:8000/get.php?username=kargoz&password=2111&type=m3u
+#EXTINF:0,Channel 674
+http://ip.akiptv.biz:8000/get.php?username=uzercep&password=cepuzer&type=m3u
+#EXTINF:0,Channel 675
+http://ip.akiptv.biz:8000/get.php?username=7850&password=2510.bur&type=m3u
+#EXTINF:0,Channel 676
+http://ip.akiptv.biz:8000/get.php?username=a0004&password=2508.gu&type=m3u
+#EXTINF:0,Channel 677
+http://ip.akiptv.biz:8000/get.php?username=bf:80bahriabi2&password=ZdSKK4KPQq&type=m3u
+#EXTINF:0,Channel 678
+http://ip.akiptv.biz:8000/get.php?username=75:9ebahriabi&password=UX1tEXS1nL&type=m3u
+#EXTINF:0,Channel 679
+http://ip.akiptv.biz:8000/get.php?username=blkosmantelli&password=VLuYwJMVfm&type=m3u
+#EXTINF:0,Channel 680
+http://ip.akiptv.biz:8000/get.php?username=88:c3blkhuseyin&password=m77r7eUu5u&type=m3u
+#EXTINF:0,Channel 681
+http://ip.akiptv.biz:8000/get.php?username=metinabi2&password=enig.ma.2&type=m3u
+#EXTINF:0,Channel 682
+http://ip.akiptv.biz:8000/get.php?username=cen.1&password=21.11.ce&type=m3u
+#EXTINF:0,Channel 683
+http://ip.akiptv.biz:8000/get.php?username=meskoy&password=2011&type=m3u
+#EXTINF:0,Channel 684
+http://ip.akiptv.biz:8000/get.php?username=1000&password=2011&type=m3u
+#EXTINF:0,Channel 685
+http://ip.akiptv.biz:8000/get.php?username=teK01.&password=3008.se&type=m3u
+#EXTINF:0,Channel 686
+http://ip.akiptv.biz:8000/get.php?username=TEk1608&password=18.08seda&type=m3u
+#EXTINF:0,Channel 687
+http://ip.akiptv.biz:8000/get.php?username=3737&password=2011&type=m3u
+#EXTINF:0,Channel 688
+http://ip.akiptv.biz:8000/get.php?username=pilci&password=2011&type=m3u
+#EXTINF:0,Channel 689
+http://ip.akiptv.biz:8000/get.php?username=2138&password=2011kur&type=m3u
+#EXTINF:0,Channel 690
+http://ip.akiptv.biz:8000/get.php?username=teK02.&password=2808.Se&type=m3u
+#EXTINF:0,Channel 691
+http://ip.akiptv.biz:8000/get.php?username=cemilhoca&password=19.11.16&type=m3u
+#EXTINF:0,Channel 692
+http://ip.akiptv.biz:8000/get.php?username=alm54&password=GYW5U0sgKf&type=m3u
+#EXTINF:0,Channel 693
+http://ip.akiptv.biz:8000/get.php?username=alm52&password=pxbf64XORE&type=m3u
+#EXTINF:0,Channel 694
+http://ip.akiptv.biz:8000/get.php?username=alm50&password=AOLF6Y28l3&type=m3u
+#EXTINF:0,Channel 695
+http://ip.akiptv.biz:8000/get.php?username=ahmetabikendi&password=7PG5lHj0Kc&type=m3u
+#EXTINF:0,Channel 696
+http://ip.akiptv.biz:8000/get.php?username=muz&password=saka&type=m3u
+#EXTINF:0,Channel 697
+http://ip.akiptv.biz:8000/get.php?username=ihsanodemis&password=20032018tek&type=m3u
+#EXTINF:0,Channel 698
+http://ip.akiptv.biz:8000/get.php?username=akivlc1&password=1002&type=m3u
+#EXTINF:0,Channel 699
+http://ip.akiptv.biz:8000/get.php?username=recepp&password=ozkann&type=m3u
+#EXTINF:0,Channel 700
+http://ip.akiptv.biz:8000/get.php?username=den.1&password=zey.2&type=m3u
+#EXTINF:0,Channel 701
+http://ip.akiptv.biz:8000/get.php?username=mabi5&password=d4:63:fe:dc:1f:96&type=m3u
+#EXTINF:0,Channel 702
+http://ip.akiptv.biz:8000/get.php?username=osmann&password=ozdemir&type=m3u
+#EXTINF:0,Channel 703
+http://ip.akiptv.biz:8000/get.php?username=Yapici07&password=070318&type=m3u
+#EXTINF:0,Channel 704
+http://ip.akiptv.biz:8000/get.php?username=0dbf&password=YdhP5266ZB&type=m3u
+#EXTINF:0,Channel 705
+http://ip.akiptv.biz:8000/get.php?username=testcum&password=test12&type=m3u
+#EXTINF:0,Channel 706
+http://ip.akiptv.biz:8000/get.php?username=mabiark4&password=tribun&type=m3u
+#EXTINF:0,Channel 707
+http://ip.akiptv.biz:8000/get.php?username=denm23&password=den23&type=m3u
+#EXTINF:0,Channel 708
+http://ip.akiptv.biz:8000/get.php?username=xx2&password=xxx&type=m3u
+#EXTINF:0,Channel 709
+http://ip.akiptv.biz:8000/get.php?username=muzafferabi&password=134EfDmGYt&type=m3u
+#EXTINF:0,Channel 710
+http://ip.akiptv.biz:8000/get.php?username=servet2&password=Nt4DEWYdxt&type=m3u
+#EXTINF:0,Channel 711
+http://ip.akiptv.biz:8000/get.php?username=Sevko&password=C05kcHJZgy&type=m3u
+#EXTINF:0,Channel 712
+http://ip.akiptv.biz:8000/get.php?username=uydutv&password=tvuydu&type=m3u
+#EXTINF:0,Channel 713
+http://ip.akiptv.biz:8000/get.php?username=2302&password=230218&type=m3u
+#EXTINF:0,Channel 714
+http://ip.akiptv.biz:8000/get.php?username=simge&password=11.10.2017&type=m3u
+#EXTINF:0,Channel 715
+http://ip.akiptv.biz:8000/get.php?username=testtest&password=jLtKO10lkR&type=m3u
+#EXTINF:0,Channel 716
+http://ip.akiptv.biz:8000/get.php?username=1282&password=01032018&type=m3u
+#EXTINF:0,Channel 717
+http://ip.akiptv.biz:8000/get.php?username=31121&password=2002&type=m3u
+#EXTINF:0,Channel 718
+http://ip.akiptv.biz:8000/get.php?username=ugurbaba539&password=143210&type=m3u
+#EXTINF:0,Channel 719
+http://ip.akiptv.biz:8000/get.php?username=erenkarsiyaka&password=50:56:bf:79:6e:54&type=m3u
+#EXTINF:0,Channel 720
+http://ip.akiptv.biz:8000/get.php?username=muhammed63&password=17022018.tek&type=m3u
+#EXTINF:0,Channel 721
+http://ip.akiptv.biz:8000/get.php?username=ser109y&password=17022018&type=m3u
+#EXTINF:0,Channel 722
+http://ip.akiptv.biz:8000/get.php?username=34747&password=2002&type=m3u
+#EXTINF:0,Channel 723
+http://ip.akiptv.biz:8000/get.php?username=amcaev&password=amca&type=m3u
+#EXTINF:0,Channel 724
+http://ip.akiptv.biz:8000/get.php?username=ifo23&password=1402&type=m3u
+#EXTINF:0,Channel 725
+http://ip.akiptv.biz:8000/get.php?username=basrimudur&password=o0QiwSSg9O&type=m3u
+#EXTINF:0,Channel 726
+http://ip.akiptv.biz:8000/get.php?username=semihark&password=fc:8f:90:81:41:75&type=m3u
+#EXTINF:0,Channel 727
+http://ip.akiptv.biz:8000/get.php?username=6604&password=10022018&type=m3u
+#EXTINF:0,Channel 728
+http://ip.akiptv.biz:8000/get.php?username=6614&password=1002&type=m3u
+#EXTINF:0,Channel 729
+http://ip.akiptv.biz:8000/get.php?username=36261&password=1002&type=m3u
+#EXTINF:0,Channel 730
+http://ip.akiptv.biz:8000/get.php?username=30155&password=1002&type=m3u
+#EXTINF:0,Channel 731
+http://ip.akiptv.biz:8000/get.php?username=36277&password=1002&type=m3u
+#EXTINF:0,Channel 732
+http://ip.akiptv.biz:8000/get.php?username=36275&password=1002&type=m3u
+#EXTINF:0,Channel 733
+http://ip.akiptv.biz:8000/get.php?username=36281&password=1002&type=m3u
+#EXTINF:0,Channel 734
+http://ip.akiptv.biz:8000/get.php?username=36282&password=1003&type=m3u
+#EXTINF:0,Channel 735
+http://ip.akiptv.biz:8000/get.php?username=36263&password=1002&type=m3u
+#EXTINF:0,Channel 736
+http://ip.akiptv.biz:8000/get.php?username=36273&password=0502&type=m3u
+#EXTINF:0,Channel 737
+http://ip.akiptv.biz:8000/get.php?username=36278&password=0502&type=m3u
+#EXTINF:0,Channel 738
+http://ip.akiptv.biz:8000/get.php?username=tuncay&password=umuttdag&type=m3u
+#EXTINF:0,Channel 739
+http://ip.akiptv.biz:8000/get.php?username=mgursoy&password=03022018tek&type=m3u
+#EXTINF:0,Channel 740
+http://ip.akiptv.biz:8000/get.php?username=6466&password=0202&type=m3u
+#EXTINF:0,Channel 741
+http://ip.akiptv.biz:8000/get.php?username=dedeler123&password=01022018tek&type=m3u
+#EXTINF:0,Channel 742
+http://ip.akiptv.biz:8000/get.php?username=9467&password=3101.&type=m3u
+#EXTINF:0,Channel 743
+http://ip.akiptv.biz:8000/get.php?username=ifo22&password=3001&type=m3u
+#EXTINF:0,Channel 744
+http://ip.akiptv.biz:8000/get.php?username=ifo21&password=3001&type=m3u
+#EXTINF:0,Channel 745
+http://ip.akiptv.biz:8000/get.php?username=omurbey&password=V3poW6bA2a&type=m3u
+#EXTINF:0,Channel 746
+http://ip.akiptv.biz:8000/get.php?username=adem&password=30012018&type=m3u
+#EXTINF:0,Channel 747
+http://ip.akiptv.biz:8000/get.php?username=0805&password=28012018&type=m3u
+#EXTINF:0,Channel 748
+http://ip.akiptv.biz:8000/get.php?username=ifo20&password=2701&type=m3u
+#EXTINF:0,Channel 749
+http://ip.akiptv.biz:8000/get.php?username=ifo19&password=2601&type=m3u
+#EXTINF:0,Channel 750
+http://ip.akiptv.biz:8000/get.php?username=2034&password=1511.met&type=m3u
+#EXTINF:0,Channel 751
+http://ip.akiptv.biz:8000/get.php?username=ercan1&password=22012018me&type=m3u
+#EXTINF:0,Channel 752
+http://ip.akiptv.biz:8000/get.php?username=cemotest&password=0212&type=m3u
+#EXTINF:0,Channel 753
+http://ip.akiptv.biz:8000/get.php?username=test35&password=test35&type=m3u
+#EXTINF:0,Channel 754
+http://ip.akiptv.biz:8000/get.php?username=mehmetabiev&password=yedek&type=m3u
+#EXTINF:0,Channel 755
+http://ip.akiptv.biz:8000/get.php?username=ifo18&password=1701&type=m3u
+#EXTINF:0,Channel 756
+http://ip.akiptv.biz:8000/get.php?username=3330&password=1701.serv&type=m3u
+#EXTINF:0,Channel 757
+http://ip.akiptv.biz:8000/get.php?username=38:8c:50:1f:b6:d7&password=16012018&type=m3u
+#EXTINF:0,Channel 758
+http://ip.akiptv.biz:8000/get.php?username=29134&password=almn&type=m3u
+#EXTINF:0,Channel 759
+http://ip.akiptv.biz:8000/get.php?username=yanar43&password=100118tek&type=m3u
+#EXTINF:0,Channel 760
+http://ip.akiptv.biz:8000/get.php?username=fd:08:cemiladliye&password=Jk8I89q5Np&type=m3u
+#EXTINF:0,Channel 761
+http://ip.akiptv.biz:8000/get.php?username=usin1&password=251217&type=m3u
+#EXTINF:0,Channel 762
+http://ip.akiptv.biz:8000/get.php?username=dsiyildirimabi&password=bGRbu3Z6Ef&type=m3u
+#EXTINF:0,Channel 763
+http://ip.akiptv.biz:8000/get.php?username=bektassuleyman&password=z7G1dzbtdn&type=m3u
+#EXTINF:0,Channel 764
+http://ip.akiptv.biz:8000/get.php?username=Kemalcan&password=ZZuHGHABDX&type=m3u
+#EXTINF:0,Channel 765
+http://ip.akiptv.biz:8000/get.php?username=vehbiabi&password=1512&type=m3u
+#EXTINF:0,Channel 766
+http://ip.akiptv.biz:8000/get.php?username=salihabi&password=ZpMNpuQ1jy&type=m3u
+#EXTINF:0,Channel 767
+http://ip.akiptv.biz:8000/get.php?username=ev1&password=sevko&type=m3u
+#EXTINF:0,Channel 768
+http://ip.akiptv.biz:8000/get.php?username=ceykendi&password=1512.&type=m3u
+#EXTINF:0,Channel 769
+http://ip.akiptv.biz:8000/get.php?username=7663&password=1512.ka&type=m3u
+#EXTINF:0,Channel 770
+http://ip.akiptv.biz:8000/get.php?username=6630&password=18092017&type=m3u
+#EXTINF:0,Channel 771
+http://ip.akiptv.biz:8000/get.php?username=azer43&password=131217.tek&type=m3u
+#EXTINF:0,Channel 772
+http://ip.akiptv.biz:8000/get.php?username=iptv12112122017-01&password=12122017&type=m3u
+#EXTINF:0,Channel 773
+http://ip.akiptv.biz:8000/get.php?username=ramazan&password=101217&type=m3u
+#EXTINF:0,Channel 774
+http://ip.akiptv.biz:8000/get.php?username=arica&password=08122017ac&type=m3u
+#EXTINF:0,Channel 775
+http://ip.akiptv.biz:8000/get.php?username=yunuscep&password=6feb01qGtM&type=m3u
+#EXTINF:0,Channel 776
+http://ip.akiptv.biz:8000/get.php?username=iptv11807122017-01&password=07122017&type=m3u
+#EXTINF:0,Channel 777
+http://ip.akiptv.biz:8000/get.php?username=test&password=1234&type=m3u
+#EXTINF:0,Channel 778
+http://ip.akiptv.biz:8000/get.php?username=6428&password=2310.edrk&type=m3u
+#EXTINF:0,Channel 779
+http://ip.akiptv.biz:8000/get.php?username=nadi&password=nadi&type=m3u
+#EXTINF:0,Channel 780
+http://ip.akiptv.biz:8000/get.php?username=salih&password=salih&type=m3u
+#EXTINF:0,Channel 781
+http://ip.akiptv.biz:8000/get.php?username=iptv11705122017-01&password=05122017&type=m3u
+#EXTINF:0,Channel 782
+http://ip.akiptv.biz:8000/get.php?username=iptv11604122017-01&password=04122017&type=m3u
+#EXTINF:0,Channel 783
+http://ip.akiptv.biz:8000/get.php?username=iptv11504122017-01&password=04122017&type=m3u
+#EXTINF:0,Channel 784
+http://ip.akiptv.biz:8000/get.php?username=arabul1&password=03122017&type=m3u
+#EXTINF:0,Channel 785
+http://ip.akiptv.biz:8000/get.php?username=Aykutkaplica&password=eYh7n6isei&type=m3u
+#EXTINF:0,Channel 786
+http://ip.akiptv.biz:8000/get.php?username=arabul&password=03122017&type=m3u
+#EXTINF:0,Channel 787
+http://ip.akiptv.biz:8000/get.php?username=0101&password=0212.kur&type=m3u
+#EXTINF:0,Channel 788
+http://ip.akiptv.biz:8000/get.php?username=karasunex&password=0112.ka&type=m3u
+#EXTINF:0,Channel 789
+http://ip.akiptv.biz:8000/get.php?username=emreertn132&password=159357258&type=m3u
+#EXTINF:0,Channel 790
+http://ip.akiptv.biz:8000/get.php?username=seyitali&password=konya103042&type=m3u
+#EXTINF:0,Channel 791
+http://ip.akiptv.biz:8000/get.php?username=devrim&password=tom.btl&type=m3u
+#EXTINF:0,Channel 792
+http://ip.akiptv.biz:8000/get.php?username=erencep&password=Zzt7ZteWWg&type=m3u
+#EXTINF:0,Channel 793
+http://ip.akiptv.biz:8000/get.php?username=erenhalil&password=yx4Hk6mPN6&type=m3u
+#EXTINF:0,Channel 794
+http://ip.akiptv.biz:8000/get.php?username=iptv11329112017-01&password=29112017&type=m3u
+#EXTINF:0,Channel 795
+http://ip.akiptv.biz:8000/get.php?username=orgememet&password=yiB8G9SjQC&type=m3u
+#EXTINF:0,Channel 796
+http://ip.akiptv.biz:8000/get.php?username=tnj02&password=271117&type=m3u
+#EXTINF:0,Channel 797
+http://ip.akiptv.biz:8000/get.php?username=tnj01&password=271117&type=m3u
+#EXTINF:0,Channel 798
+http://ip.akiptv.biz:8000/get.php?username=ecz.hasan&password=komsu.12.17&type=m3u
+#EXTINF:0,Channel 799
+http://ip.akiptv.biz:8000/get.php?username=mehmetabiark3lgtv&password=3c:cd:93:60:30:c3&type=m3u
+#EXTINF:0,Channel 800
+http://ip.akiptv.biz:8000/get.php?username=folkartkiptvlg&password=c8:02:10:b4:c0:92&type=m3u
+#EXTINF:0,Channel 801
+http://ip.akiptv.biz:8000/get.php?username=bosnakoglu1903&password=tiesto10&type=m3u
+#EXTINF:0,Channel 802
+http://ip.akiptv.biz:8000/get.php?username=emrah.1&password=gunduz.2&type=m3u
+#EXTINF:0,Channel 803
+http://ip.akiptv.biz:8000/get.php?username=hsmn24&password=241117&type=m3u
+#EXTINF:0,Channel 804
+http://ip.akiptv.biz:8000/get.php?username=iptv11223112017-01&password=23112017&type=m3u
+#EXTINF:0,Channel 805
+http://ip.akiptv.biz:8000/get.php?username=metinben&password=eski.1.yil&type=m3u
+#EXTINF:0,Channel 806
+http://ip.akiptv.biz:8000/get.php?username=iptv11123112017-01&password=23112017&type=m3u
+#EXTINF:0,Channel 807
+http://ip.akiptv.biz:8000/get.php?username=mehmetabi&password=21112017&type=m3u
+#EXTINF:0,Channel 808
+http://ip.akiptv.biz:8000/get.php?username=hsn20&password=201117&type=m3u
+#EXTINF:0,Channel 809
+http://ip.akiptv.biz:8000/get.php?username=iptv11019112017-01&password=19112017&type=m3u
+#EXTINF:0,Channel 810
+http://ip.akiptv.biz:8000/get.php?username=60:4f&password=hTRLS0YWT2&type=m3u
+#EXTINF:0,Channel 811
+http://ip.akiptv.biz:8000/get.php?username=ifo17&password=1811&type=m3u
+#EXTINF:0,Channel 812
+http://ip.akiptv.biz:8000/get.php?username=osm17&password=171117&type=m3u
+#EXTINF:0,Channel 813
+http://ip.akiptv.biz:8000/get.php?username=hsn17&password=171117&type=m3u
+#EXTINF:0,Channel 814
+http://ip.akiptv.biz:8000/get.php?username=mehmetabiark2&password=cc:2d:8c:53:48:f0&type=m3u
+#EXTINF:0,Channel 815
+http://ip.akiptv.biz:8000/get.php?username=aytacttt&password=161117&type=m3u
+#EXTINF:0,Channel 816
+http://ip.akiptv.biz:8000/get.php?username=aytactt&password=151117&type=m3u
+#EXTINF:0,Channel 817
+http://ip.akiptv.biz:8000/get.php?username=kursatmuhasebecem&password=0F4MJMn1I4&type=m3u
+#EXTINF:0,Channel 818
+http://ip.akiptv.biz:8000/get.php?username=9132&password=1511.bur&type=m3u
+#EXTINF:0,Channel 819
+http://ip.akiptv.biz:8000/get.php?username=9133&password=1511.ufuk&type=m3u
+#EXTINF:0,Channel 820
+http://ip.akiptv.biz:8000/get.php?username=alper.btl&password=baba.ecz&type=m3u
+#EXTINF:0,Channel 821
+http://ip.akiptv.biz:8000/get.php?username=susuribrhm&password=15112017ib&type=m3u
+#EXTINF:0,Channel 822
+http://ip.akiptv.biz:8000/get.php?username=ayhan.26&password=ay.14.11&type=m3u
+#EXTINF:0,Channel 823
+http://ip.akiptv.biz:8000/get.php?username=susurmtht&password=14112017mt&type=m3u
+#EXTINF:0,Channel 824
+http://ip.akiptv.biz:8000/get.php?username=Mehmet1311&password=131117&type=m3u
+#EXTINF:0,Channel 122
+https://pastebin.com/raw/utZa2XUs/.m3u
+#EXTINF:0,Channels xvid
+http://exabytetv.info/xvid.m3u
+#EXTINF:0,Lista iptv brasil
+http://www.listaiptvbrasil.com.br/paste.php?raw&id=12/.m3u
+#EXTINF:0,Channel 127
+https://gist.githubusercontent.com/Gunboybr/0dda91d415306b4977b1aa4e2b447509/raw/18/.m3u
+#EXTINF:0,Channel 128
+http://pejaguide.com/m3upro/free.m3u
+#EXTINF:0,Channel 129
+http://pejaguide.com/m3upro/web.m3u
+#EXTINF:0,Channel 130
+http://pejaguide.com/iptv_m3u/al_vod.m3u
+#EXTINF:0,Channels English
+http://pejaguide.com/iptv_m3u/English_VOD.m3u
+#EXTINF:0,Channels Radio
+http://pejaguide.com/m3upro/radio1.m3u
+#EXTINF:0,Channel xxx1
+http://pejaguide.com/m3upro/xxx1.m3u
+#EXTINF:0,Channel xxx TV
+http://pejaguide.com/iptv_m3u/xxx_tv.m3u
+#EXTINF:0,Channels rtsh
+http://pejaguide.com/m3upro/rtsh.m3u
+#EXTINF:0,FR vod
+http://pejaguide.com/iptv_m3u/fr_vod.m3u 
+#EXTINF:0,Xtream iptv
+http://xtreamiptv.cl/listagratis.m3u
+#EXTINF:0,Free world TV
+http://iptv.slynet.tv/FreeWorldTV.m3u
+#EXTINF:0,iptv ru
+http://www.listiptv.ru/iptv.m3u
+#EXTINF:0,iptv ukr
+http://ukr-iptv.com/list.m3u
+#EXTINF:0,iptv maximuma
+http://tv.maximuma.net/iptv.m3u
+#EXTINF:0,Regio TV
+http://srregio.xyz/regiotv.m3u
+#EXTINF:0,Auto iptv ru
+http://getsapp.ru/IPTV/Auto_IPTV.m3u
+#EXTINF:0,Free Best TV
+http://slynet.pw/FreeBestTV2.m3u
+#EXTINF:0,Slynet ukr
+http://slynet.pw/ZabavaSlyUkraine.m3u
+#EXTINF:0,Free web cams world
+http://iptv.slynet.pw/FreeWebCamsWorld.m3u
+#EXTINF:0,Free world TV
+http://iptv.slynet.pw/FreeWorldTV.m3u
+#EXTINF:0,Channel 148
+http://pastebin.com/raw.php?i=0v7dwrnb
+#EXTINF:0,Channel 149
+http://slynet.do.am/FreeWorldTV.m3u
+#EXTINF:0,iptv di hi
+http://diforfree.org/pls/di_hi.m3u
+#EXTINF:0,Radio slynet 1
+http://slynet.do.am/RadioSlyNet.m3u
+#EXTINF:0,Radio slynet 2
+http://iptv.slynet.pw/RadioSlyNet.m3u
+#EXTINF:0,Radio slynet
+http://slynet.pw/RadioSlyNet.m3u
+#EXTINF:0,Radio tunes
+http://iptv56.ru/radiotunes.m3u
+#EXTINF:0,Radio
+http://2kom.tv/channels/radio.m3u
+#EXTINF:0,Channel 156
+http://slynet.pw/FreeBestTV.m3u
+#EXTINF:0,Channel 157
+http://slynet.do.am/FreeBestTV.m3u
+#EXTINF:0,Channel 158
+http://slynet.do.am/PeerstvSlyNet.m3u
+#EXTINF:0,Channel 159
+http://slynet.do.am/ZabavaSlyUkraine.m3u
+#EXTINF:0,Kino drom slynet
+http://slynet.pw/KinodromSlyNet.m3u
+#EXTINF:0,Channel 161
+http://slynet.pw/PeerstvSlyNet.m3u
+#EXTINF:0,Lanet TV
+http://www.lanet.tv/playlist.m3u
+#EXTINF:0,FreeSlyNet_(ex_ZabavaSlyUkraine) 
+http://iptv.slynet.tv/FreeSlyNet.m3u
+#EXTINF:0,Channel 163
+http://iptv.slynet.tv/FreeBestTV.m3u
+#EXTINF:0,Free web cams world
+http://iptv.slynet.tv/FreeWebCamsWorld.m3u
+#EXTINF:0,Adults Slynet
+http://iptv.slynet.tv/AdultsSlyNet.m3u
+#EXTINF:0,Channel 166
+http://iptv.slynet.tv/KinodromSlyNet.m3u
+#EXTINF:0,Radio Slynet
+http://iptv.slynet.tv/RadioSlyNet.m3u
+#EXTINF:0,Channel 168
+http://samsungparts.tk/skachat-pleilisty-iptv/skachat-iptv/skachat-pleilisty-iptv.m3u
+#EXTINF:0,Channel 169
+http://langamepp.com/iptv/check.m3u
+#EXTINF:0,Channel 170
+https://pastebin.com/raw/U7Fcg2CC
+#EXTINF:0,Channel 171
+http://isv.net/iptv/iptv-rus.m3u
+#EXTINF:0,Channel 172
+http://ruedelatnt.blog.free.fr/public/Sport/ad_mac7.m3u
+#EXTINF:0,Channel 173
+http://ruedelatnt.blog.free.fr/public/word/39_fr.m3u
+#EXTINF:0,Channel 174
+http://62.210.245.19:8000/get.php?username=5245G0LCKqd94P&password=25TE014mD41788&type=m3u&output=hls
+#EXTINF:0,Channel 175
+http://senka.hd.free.fr/private/kiptv.m3u
+#EXTINF:0,Channel 176
+http://www.astsystems.ru/files/iptv/unicast.m3u
+#EXTINF:0,Channel 177
+https://pastebin.com/raw/uxEW2sr3 
+#EXTINF:0,Channel 178
+https://mega.nz/#!MJdGBBYB!mmFfNLa9LHouImVFNBlyW37SyD_dIBXrdsbeU37K144 
+#EXTINF:0,Channel 179
+https://mega.nz/#!ZEsjFT7a!ub6Cuxa5Innn8Z70Lfwz0QJ11cmEDV1ySQUCcgSwWRs zipfile 
+#EXTINF:0,Channel 180
+https://mega.nz/#!cZFV2K5T!_6aRpWrhoEkisxEtEMzBsy3BmE4c4Zxe4EUauLGZImI zip
+#EXTINF:0,Channel 181
+https://mega.nz/#!8MM3ASAC!GIIGJo6jPMIFeHQQESYq3mY9AaK_nV05lw09dr1cMf4 zip
+#EXTINF:0,Channel 182
+http://62.210.82.102:8000/get.php?username=71195780a0921j&password=obYdzi9j2B4450&type=m3u&output=hls 
+#EXTINF:0,Channel 183
+http://163.172.52.83:8000/get.php?username=5245G0LCKqd94P&password=25TE014mD41788&type=m3u&output=hls 
+#EXTINF:0,Channel 184
+http://list9.isonline.me:8000/get.php?username=5245G0LCKqd94P&password=25TE014mD41788&type=m3u&output=hls 
+#EXTINF:0,Channel 185
+http://62.210.94.86:8000/get.php?username=303040977B03cC&password=040007400Y4282&type=m3u&output=hls  
+#EXTINF:0,Channel 186
+https://m.vk.com/doc329529343_450664502?hash=517705ddf4f3556556&dl=9b28939ce60d776d69
+#EXTINF:0,Channel 187
+https://m.vk.com/doc329529343_449168711?hash=6b78708ab63fc71a40&dl=a015a7f456b0923a4d
+#EXTINF:0,Channel 188
+https://m.vk.com/doc329529343_449168732?hash=52aaf86b7fdbd972fe&dl=2cb7b4c1741c871719
+#EXTINF:0,Channel 189
+https://m.vk.com/doc329529343_449942313?hash=d7e6e3983ca3378466&dl=107410fb162a28a139
+#EXTINF:0,Channel 190
+https://m.vk.com/doc329529343_449749157?hash=0de49bd6d56a4a0191&dl=e98c4c0913d8eef8cb
+#EXTINF:0,Channel 191
+https://m.vk.com/doc400853220_449315625?hash=3bfafaaae9ea7f62d5&dl=c80a1ddf901295ad43
+#EXTINF:0,Channel 192
+https://pastebin.com/raw/TxxNaUvF
+#EXTINF:0,Channel 193
+http://mafreebox.freebox.fr/freeboxtv/playlist.m3u
+#EXTINF:0,Channel 194
+https://raw.githubusercontent.com/fluxustv/IPTV/master/list.m3u
+#EXTINF:0,Channel 195
+https://raw.githubusercontent.com/fluxustv/IPTV/master/cinema.m3u
+#EXTINF:0,Channel 196
+https://raw.githubusercontent.com/fluxustv/IPTV/master/faith.m3u
+#EXTINF:0,Channel 197
+https://raw.githubusercontent.com/fluxustv/IPTV/master/cctv.m3u
+#EXTINF:0,Channel 198
+https://raw.githubusercontent.com/fluxustv/IPTV/master/xxx.m3u
+#EXTINF:0,Channel 199
+http://tecnotv.xyz/lista.m3u
+#EXTINF:0,Channel 200
+http://www.apsattv.com/kiwitv2.m3u
+#EXTINF:0,Channel 201
+http://iptvfalas.com/list/
+#EXTINF:0,Channel 202
+http://ikino.in/TV/IPTVIPLA2016.05.06.m3u
+#EXTINF:0,Channel 203
+http://www.exabytetv.info/LA1.m3u
+#EXTINF:0,Channel 204
+http://www.exabytetv.info/LA2.m3u
+#EXTINF:0,Channel 205
+http://www.exabytetv.info/LA3.m3u
+#EXTINF:0,Channel 206
+http://www.exabytetv.info/LA4.m3u
+#EXTINF:0,Channel 207
+http://www.exabytetv.info/AMERICA.m3u
+#EXTINF:0,Channel 208
+http://www.exabytetv.info/CABLEMX.m3u
+#EXTINF:0,Channel 209
+http://www.exabytetv.info/UK.m3u
+#EXTINF:0,Channel 210
+http://www.exabytetv.info/USA.m3u
+#EXTINF:0,Channel 211
+http://www.exabytetv.info/PRT.m3u
+#EXTINF:0,Channel 212
+http://www.exabytetv.info/DEU.m3u
+#EXTINF:0,Channel 213
+http://www.exabytetv.info/ITA.m3u
+#EXTINF:0,Channel 214
+http://www.exabytetv.info/SAU.m3u
+#EXTINF:0,Channel 215
+http://www.exabytetv.info/TUR.m3u
+#EXTINF:0,Channel 216
+http://www.exabytetv.info/NLD.m3u
+#EXTINF:0,Channel 217
+http://www.exabytetv.info/ALB.m3u
+#EXTINF:0,Channel 218
+http://www.exabytetv.info/IND.m3u
+#EXTINF:0,Channel 219
+http://exabytetv.info/listax.m3u
+#EXTINF:0,Channel 220
+http://exabytetv.info/lista.m3u
+#EXTINF:0,Channel 221
+http://exabytetv.info/guia.xml
+#EXTINF:0,Channel 222
+http://super-pomoyka.us.to/trash/ttv-list/as.direct.m3u
+#EXTINF:0,Channel 223
+https://forum.evpro.lt/iptv/2017-nemokami-playlistai/?action=dlattach;attach=58
+#EXTINF:0,Tecno TV
+http://tecnotv.info/alterna.m3u
+#EXTINF:0,Channel 225
+http://remyteam.xp3.biz/ReMy_IpTvList.m3u
+#EXTINF:0,Channel 226
+http://payeerzone.hotpoint.lviv.ua/TvZoom.m3u
+#EXTINF:0,Channel 227
+http://payeerzone.hotpoint.lviv.ua/TvZoomHD.m3u 
+#EXTINF:0,Channel 228
+http://payeerzone.hotpoint.lviv.ua/TvZoom(18).m3u
+#EXTINF:0,Channel 229
+https://sites.google.com/site/zonaiptvru/home/Russkie-kanaly.m3u
+#EXTINF:0,Channel 230
+http://www.saigoncom.com/iptv.m3u
+#EXTINF:0,Channel 231
+http://xmedia.bossna-caffe.com/playlist.m3u?type=m3u&deviceMac=00000000
+#EXTINF:0,Channel 232
+http://yilmaztv.com/1.m3u
+#EXTINF:0,Channel 233
+https://comunidadiptv.cf/online/lista.php?proxy=
+#EXTINF:0,Channel 234
+http://tvfo.co/tvfoco
+#EXTINF:0,Channel 235
+http://iptv.servzp.pp.ua/?page_id=822
+#EXTINF:0,Channel 236
+https://www.iptvsource.com/dl/arab021017_iptvsource_com.m3u
+#EXTINF:0,Channel 237
+http://www.pandasat.info/iptv/kodi
