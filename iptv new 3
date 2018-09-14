@@ -1,0 +1,660 @@
+ #EXTM3U
+#EXTINF:-1,IT: FOX HD
+http://163.172.103.251:80/live/Kareem/Dash/4309.ts
+#EXTINF:-1,IT: Fox Life HD
+http://163.172.103.251:80/live/Kareem/Dash/4310.ts
+#EXTINF:-1,IT: FOX Sport HD
+http://163.172.103.251:80/live/Kareem/Dash/4311.ts
+#EXTINF:-1,IT: Inter Channel
+http://163.172.103.251:80/live/Kareem/Dash/4312.ts
+#EXTINF:-1,IT: Italia 2
+http://163.172.103.251:80/live/Kareem/Dash/4254.ts
+#EXTINF:-1,IT: italia1 HD
+http://163.172.103.251:80/live/Kareem/Dash/4255.ts
+#EXTINF:-1,IT: Rai Movie
+http://163.172.103.251:80/live/Kareem/Dash/4270.ts
+#EXTINF:-1,IT: Rai Premium
+http://163.172.103.251:80/live/Kareem/Dash/4271.ts
+#EXTINF:-1,IT: Rai Sport1
+http://163.172.103.251:80/live/Kareem/Dash/4272.ts
+#EXTINF:-1,IT: Rai Sport2
+http://163.172.103.251:80/live/Kareem/Dash/4273.ts
+#EXTINF:-1,IT: Rai Yoyo
+http://163.172.103.251:80/live/Kareem/Dash/4323.ts
+#EXTINF:-1,IT: Rai3 HD
+http://163.172.103.251:80/live/Kareem/Dash/4276.ts
+#EXTINF:-1,IT: Rai5
+http://163.172.103.251:80/live/Kareem/Dash/4278.ts
+#EXTINF:-1,IT: Real Time
+http://163.172.103.251:80/live/Kareem/Dash/4345.ts
+#EXTINF:-1,IT: Rete4 HD
+http://163.172.103.251:80/live/Kareem/Dash/4279.ts
+#EXTINF:-1,IT: RSI La1 HD
+http://163.172.103.251:80/live/Kareem/Dash/4280.ts
+#EXTINF:-1,IT: RSI La2 HD
+http://163.172.103.251:80/live/Kareem/Dash/4281.ts
+#EXTINF:-1,IT: Fox Crime HD
+http://163.172.103.251:80/live/Kareem/Dash/4308.ts
+#EXTINF:-1,IT | Premium Cinema Energy
+http://163.172.103.251:80/live/Kareem/Dash/4264.ts
+#EXTINF:-1,IT | Premium Joy
+http://163.172.103.251:80/live/Kareem/Dash/4268.ts
+#EXTINF:-1,IT | Premium Stories
+http://163.172.103.251:80/live/Kareem/Dash/4269.ts
+#EXTINF:-1,IT | Rai1 HD
+http://163.172.103.251:80/live/Kareem/Dash/4274.ts
+#EXTINF:-1,IT | Rai2 HD
+http://163.172.103.251:80/live/Kareem/Dash/4275.ts
+#EXTINF:-1,IT | Rai4 HD
+http://163.172.103.251:80/live/Kareem/Dash/4277.ts
+#EXTINF:-1,IT | Sky Cinema 1 HD
+http://163.172.103.251:80/live/Kareem/Dash/4282.ts
+#EXTINF:-1,IT | Sky Cinema Classic HD
+http://163.172.103.251:80/live/Kareem/Dash/4283.ts
+#EXTINF:-1,IT | Sky Cinema Family HD
+http://163.172.103.251:80/live/Kareem/Dash/4285.ts
+#EXTINF:-1,IT | Sky Foxcrime HD
+http://163.172.103.251:80/live/Kareem/Dash/4291.ts
+#EXTINF:-1,IT: Animal Planet
+http://163.172.103.251:80/live/Kareem/Dash/4301.ts
+#EXTINF:-1,IT: Canal 5 HD
+http://163.172.103.251:80/live/Kareem/Dash/4302.ts
+#EXTINF:-1,IT: Canale5 HD
+http://163.172.103.251:80/live/Kareem/Dash/4248.ts
+#EXTINF:-1,IT: Cartoonito
+http://163.172.103.251:80/live/Kareem/Dash/4303.ts
+#EXTINF:-1,IT: Cielo
+http://163.172.103.251:80/live/Kareem/Dash/4304.ts
+#EXTINF:-1,IT: Discovery HD
+http://163.172.103.251:80/live/Kareem/Dash/4305.ts
+#EXTINF:-1,IT: Discovery Science HD
+http://163.172.103.251:80/live/Kareem/Dash/4306.ts
+#EXTINF:-1,IT: Discovery Travel&Living HD
+http://163.172.103.251:80/live/Kareem/Dash/4307.ts
+#EXTINF:-1,IT: Dmax HD
+http://163.172.103.251:80/live/Kareem/Dash/4249.ts
+#EXTINF:-1,IT: Eurosport 2 HD
+http://163.172.103.251:80/live/Kareem/Dash/4251.ts
+#EXTINF:-1,IT: Juventus TV
+http://163.172.103.251:80/live/Kareem/Dash/4300.ts
+#EXTINF:-1,IT: Mediaset Extra
+http://163.172.103.251:80/live/Kareem/Dash/4313.ts
+#EXTINF:-1,IT: Mediaset Iris
+http://163.172.103.251:80/live/Kareem/Dash/4341.ts
+#EXTINF:-1,IT: Milan Channel
+http://163.172.103.251:80/live/Kareem/Dash/4342.ts
+#EXTINF:-1,IT: Nat Geo Wild HD
+http://163.172.103.251:80/live/Kareem/Dash/4314.ts
+#EXTINF:-1,IT: NATIONAL GEOGRAPHIC HD
+http://163.172.103.251:80/live/Kareem/Dash/4315.ts
+#EXTINF:-1,IT: Sky Calcio 1
+http://163.172.103.251:80/live/Kareem/Dash/4324.ts
+#EXTINF:-1,IT: Sky Calcio 2
+http://163.172.103.251:80/live/Kareem/Dash/4325.ts
+#EXTINF:-1,IT: Sky Calcio 3
+http://163.172.103.251:80/live/Kareem/Dash/4326.ts
+#EXTINF:-1,IT: Sky Calcio 4
+http://163.172.103.251:80/live/Kareem/Dash/4327.ts
+#EXTINF:-1,IT: Sky Calcio 5
+http://163.172.103.251:80/live/Kareem/Dash/4328.ts
+#EXTINF:-1,IT: Sky Calcio 6
+http://163.172.103.251:80/live/Kareem/Dash/4329.ts
+#EXTINF:-1,IT: Sky Calcio 7
+http://163.172.103.251:80/live/Kareem/Dash/4330.ts
+#EXTINF:-1,IT: Sky Cinema Comedy HD
+http://163.172.103.251:80/live/Kareem/Dash/4284.ts
+#EXTINF:-1,IT: Sky Cinema Max HD
+http://163.172.103.251:80/live/Kareem/Dash/4286.ts
+#EXTINF:-1,IT: Sky Cinema Passion HD
+http://163.172.103.251:80/live/Kareem/Dash/4287.ts
+#EXTINF:-1,IT: Sky Cinema1 HD
+http://163.172.103.251:80/live/Kareem/Dash/4288.ts
+#EXTINF:-1,IT: SKY CINEMA24 HD
+http://163.172.103.251:80/live/Kareem/Dash/4289.ts
+#EXTINF:-1,IT:SKY Primafila 1
+http://163.172.103.251:80/live/Kareem/Dash/4347.ts
+#EXTINF:-1,IT:SKY Primafila 2
+http://163.172.103.251:80/live/Kareem/Dash/4352.ts
+#EXTINF:-1,IT: SKY Primafila 3
+http://163.172.103.251:80/live/Kareem/Dash/4332.ts
+#EXTINF:-1,IT:Sky Primafila 4
+http://163.172.103.251:80/live/Kareem/Dash/4353.ts
+#EXTINF:-1,IT:Sky Primafila 5
+http://163.172.103.251:80/live/Kareem/Dash/4354.ts
+#EXTINF:-1,IT: Sky Primafila 6
+http://163.172.103.251:80/live/Kareem/Dash/4333.ts
+#EXTINF:-1,IT: Sky Primafila 7
+http://163.172.103.251:80/live/Kareem/Dash/4334.ts
+#EXTINF:-1,IT: Sky Primafila 8
+http://163.172.103.251:80/live/Kareem/Dash/4335.ts
+#EXTINF:-1,IT:Sky Primafila 9
+http://163.172.103.251:80/live/Kareem/Dash/4355.ts
+#EXTINF:-1,IT:Sky Primafila 10
+http://163.172.103.251:80/live/Kareem/Dash/4348.ts
+#EXTINF:-1,IT:Sky Primafila 12
+http://163.172.103.251:80/live/Kareem/Dash/4349.ts
+#EXTINF:-1,IT:Sky Primafila 13
+http://163.172.103.251:80/live/Kareem/Dash/4350.ts
+#EXTINF:-1,IT:Sky Primafila 14
+http://163.172.103.251:80/live/Kareem/Dash/4351.ts
+#EXTINF:-1,IT:SKY Cinema 3D
+http://163.172.103.251:80/live/Kareem/Dash/4346.ts
+#EXTINF:-1,IT: Pesca e Caccia
+http://163.172.103.251:80/live/Kareem/Dash/4316.ts
+#EXTINF:-1,IT: Premium Action
+http://163.172.103.251:80/live/Kareem/Dash/4317.ts
+#EXTINF:-1,IT: Premium Calcio
+http://163.172.103.251:80/live/Kareem/Dash/4318.ts
+#EXTINF:-1,IT: Premium Calcio 3*
+http://163.172.103.251:80/live/Kareem/Dash/4260.ts
+#EXTINF:-1,IT: Premium Cinema 2
+http://163.172.103.251:80/live/Kareem/Dash/4265.ts
+#EXTINF:-1,IT: Premium Comedy
+http://163.172.103.251:80/live/Kareem/Dash/4319.ts
+#EXTINF:-1,IT: Premium Crime
+http://163.172.103.251:80/live/Kareem/Dash/4266.ts
+#EXTINF:-1,IT: Premium Disney Junior
+http://163.172.103.251:80/live/Kareem/Dash/4320.ts
+#EXTINF:-1,IT: Premium Emotion
+http://163.172.103.251:80/live/Kareem/Dash/4267.ts
+#EXTINF:-1,IT: Premium Sport 2
+http://163.172.103.251:80/live/Kareem/Dash/4321.ts
+#EXTINF:-1,IT: Premium Sport HD
+http://163.172.103.251:80/live/Kareem/Dash/4298.ts
+#EXTINF:-1,IT: Premium Studio Universal
+http://163.172.103.251:80/live/Kareem/Dash/4322.ts
+#EXTINF:-1,IT: Rai Gulp
+http://163.172.103.251:80/live/Kareem/Dash/4344.ts
+#EXTINF:-1,IT : Sky Uno HD
+http://163.172.103.251:80/live/Kareem/Dash/4299.ts
+#EXTINF:-1,IT | Alice
+http://163.172.103.251:80/live/Kareem/Dash/4247.ts
+#EXTINF:-1,IT | Eurosport 1 HD
+http://163.172.103.251:80/live/Kareem/Dash/4250.ts
+#EXTINF:-1,IT | Fox Comedy HD
+http://163.172.103.251:80/live/Kareem/Dash/4252.ts
+#EXTINF:-1,IT | Fox Crime HD
+http://163.172.103.251:80/live/Kareem/Dash/4253.ts
+#EXTINF:-1,IT | La7
+http://163.172.103.251:80/live/Kareem/Dash/4256.ts
+#EXTINF:-1,IT | Mediaset Extra
+http://163.172.103.251:80/live/Kareem/Dash/4257.ts
+#EXTINF:-1,IT | Premium Calcio 1*
+http://163.172.103.251:80/live/Kareem/Dash/4258.ts
+#EXTINF:-1,IT | Premium Calcio 2*
+http://163.172.103.251:80/live/Kareem/Dash/4259.ts
+#EXTINF:-1,IT | Premium Calcio 4
+http://163.172.103.251:80/live/Kareem/Dash/4261.ts
+#EXTINF:-1,IT | Premium Calcio 5*
+http://163.172.103.251:80/live/Kareem/Dash/4262.ts
+#EXTINF:-1,IT | Premium Cinema
+http://163.172.103.251:80/live/Kareem/Dash/4263.ts
+#EXTINF:-1,IT: SKY F1 HD
+http://163.172.103.251:80/live/Kareem/Dash/4290.ts
+#EXTINF:-1,IT: Sky Fox Comedy HD
+http://163.172.103.251:80/live/Kareem/Dash/4331.ts
+#EXTINF:-1,IT: Sky Moto GP HD
+http://163.172.103.251:80/live/Kareem/Dash/4292.ts
+#EXTINF:-1,IT: Sky Sport 24 HD
+http://163.172.103.251:80/live/Kareem/Dash/4293.ts
+#EXTINF:-1,IT: Sky Sport F1 HD
+http://163.172.103.251:80/live/Kareem/Dash/4294.ts
+#EXTINF:-1,IT: Sky Sport1 HD
+http://163.172.103.251:80/live/Kareem/Dash/4295.ts
+#EXTINF:-1,IT: Sky Sport2 HD
+http://163.172.103.251:80/live/Kareem/Dash/4296.ts
+#EXTINF:-1,IT: Sky Sport3 HD
+http://163.172.103.251:80/live/Kareem/Dash/4297.ts
+#EXTINF:-1,IT: SKY TG 24
+http://163.172.103.251:80/live/Kareem/Dash/4336.ts
+#EXTINF:-1,IT: SPORT ITALIA
+http://163.172.103.251:80/live/Kareem/Dash/4337.ts
+#EXTINF:-1,IT: Supercalcio HD
+http://163.172.103.251:80/live/Kareem/Dash/4338.ts
+#EXTINF:-1,IT: Teleticino
+http://163.172.103.251:80/live/Kareem/Dash/4357.ts
+#EXTINF:-1,IT: TOP CRIME
+http://163.172.103.251:80/live/Kareem/Dash/4358.ts
+#EXTINF:-1,IT:CARTOON NETWORK
+http://163.172.103.251:80/live/Kareem/Dash/4339.ts
+#EXTINF:-1,IT:Discovery Focus
+http://163.172.103.251:80/live/Kareem/Dash/4340.ts
+#EXTINF:-1,IT:Premium Disney Junior
+http://163.172.103.251:80/live/Kareem/Dash/4343.ts
+#EXTINF:-1,IT:Super Tennis
+http://163.172.103.251:80/live/Kareem/Dash/4356.ts
+#EXTINF:-1,[IT] RETE 4HD
+http://195.154.107.246:1155/live/kandil/kandil/209.ts
+#EXTINF:-1,[IT] CANAL 5HD
+http://195.154.107.246:1155/live/kandil/kandil/210.ts
+#EXTINF:-1,[IT] ITALIA 1HD
+http://195.154.107.246:1155/live/kandil/kandil/211.ts
+#EXTINF:-1,[IT] RAI 1HD
+http://195.154.107.246:1155/live/kandil/kandil/1494.ts
+#EXTINF:-1,[IT] RAI 2HD
+http://195.154.107.246:1155/live/kandil/kandil/1495.ts
+#EXTINF:-1,[IT] RAI 3HD
+http://195.154.107.246:1155/live/kandil/kandil/1496.ts
+#EXTINF:-1,[IT] RAI 4HD
+http://195.154.107.246:1155/live/kandil/kandil/1497.ts
+#EXTINF:-1,[IT] RAI PREMUIM HD
+http://195.154.107.246:1155/live/kandil/kandil/1498.ts
+#EXTINF:-1,[IT] RSi LA 1
+http://195.154.107.246:1155/live/kandil/kandil/2150.ts
+#EXTINF:-1,[IT] RSI LA 2HD
+http://195.154.107.246:1155/live/kandil/kandil/190.ts
+#EXTINF:-1,[IT] CINIMA Uno HD
+http://195.154.107.246:1155/live/kandil/kandil/219.ts
+#EXTINF:-1,[IT] ALTO ADIGE TV HD
+http://195.154.107.246:1155/live/kandil/kandil/217.ts
+#EXTINF:-1,[IT] CANALE 7HD
+http://195.154.107.246:1155/live/kandil/kandil/220.ts
+#EXTINF:-1,[IT] HISTORY HD
+http://195.154.107.246:1155/live/kandil/kandil/1092.ts
+#EXTINF:-1,[IT] CALCIO 1HD
+http://195.154.107.246:1155/live/kandil/kandil/1353.ts
+#EXTINF:-1,[IT] CALCIO 1HD
+http://195.154.107.246:1155/live/kandil/kandil/2687.ts
+#EXTINF:-1,[IT] CALCIO 2HD
+http://195.154.107.246:1155/live/kandil/kandil/1354.ts
+#EXTINF:-1,[IT] CALCIO 2HD
+http://195.154.107.246:1155/live/kandil/kandil/2688.ts
+#EXTINF:-1,[IT] CALCIO 4HD
+http://195.154.107.246:1155/live/kandil/kandil/2681.ts
+#EXTINF:-1,[IT] CALCIO 3HD
+http://195.154.107.246:1155/live/kandil/kandil/2083.ts
+#EXTINF:-1,[IT] SPORT GP HD
+http://195.154.107.246:1155/live/kandil/kandil/1348.ts
+#EXTINF:-1,[IT] SPORT F1HD
+http://195.154.107.246:1155/live/kandil/kandil/1349.ts
+#EXTINF:-1,[IT] JUVENTUS CHANNEL HD
+http://195.154.107.246:1155/live/kandil/kandil/2689.ts
+#EXTINF:-1,[IT] RAI SPORT 1HD
+http://195.154.107.246:1155/live/kandil/kandil/2674.ts
+#EXTINF:-1,[IT] RAI SPORT 2HD
+http://195.154.107.246:1155/live/kandil/kandil/2678.ts
+#EXTINF:-1,Rai 1
+http://178.132.5.243:25461/live/Lara/1234/8787.ts
+#EXTINF:-1,Rai 2
+http://178.132.5.243:25461/live/Lara/1234/8786.ts
+#EXTINF:-1,Rai 3
+http://178.132.5.243:25461/live/Lara/1234/8785.ts
+#EXTINF:-1,Rai 4
+http://178.132.5.243:25461/live/Lara/1234/8784.ts
+#EXTINF:-1,Rai 5
+http://178.132.5.243:25461/live/Lara/1234/8783.ts
+#EXTINF:-1,Rai Gulp
+http://178.132.5.243:25461/live/Lara/1234/8776.ts
+#EXTINF:-1,Rai Movie
+http://178.132.5.243:25461/live/Lara/1234/8777.ts
+#EXTINF:-1,Rai News 24
+http://178.132.5.243:25461/live/Lara/1234/8778.ts
+#EXTINF:-1,Rai Premium
+http://178.132.5.243:25461/live/Lara/1234/8779.ts
+#EXTINF:-1,Rai Scuola
+http://178.132.5.243:25461/live/Lara/1234/8780.ts
+#EXTINF:-1,Rai Sport
+http://178.132.5.243:25461/live/Lara/1234/8781.ts
+#EXTINF:-1,Rai YoYo
+http://178.132.5.243:25461/live/Lara/1234/8782.ts
+#EXTINF:-1,Rete 4
+http://178.132.5.243:25461/live/Lara/1234/8775.ts
+#EXTINF:-1,La 5
+http://178.132.5.243:25461/live/Lara/1234/8773.ts
+#EXTINF:-1,La7
+http://178.132.5.243:25461/live/Lara/1234/8774.ts
+#EXTINF:-1,Italia 1
+http://178.132.5.243:25461/live/Lara/1234/8772.ts
+#EXTINF:-1,Mediasat Italia Due
+http://178.132.5.243:25461/live/Lara/1234/8766.ts
+#EXTINF:-1,Boing
+http://178.132.5.243:25461/live/Lara/1234/8768.ts
+#EXTINF:-1,Canale 5
+http://178.132.5.243:25461/live/Lara/1234/8769.ts
+#EXTINF:-1,Cielo
+http://178.132.5.243:25461/live/Lara/1234/8770.ts
+#EXTINF:-1,Iris
+http://178.132.5.243:25461/live/Lara/1234/8771.ts
+#EXTINF:-1,Alice
+http://178.132.5.243:25461/live/Lara/1234/8767.ts
+#EXTINF:-1,Premium Calcio 1
+http://178.132.5.243:25461/live/Lara/1234/1463.ts
+#EXTINF:-1,Premium Calcio 2
+http://178.132.5.243:25461/live/Lara/1234/1462.ts
+#EXTINF:-1,Premium Calcio 3
+http://178.132.5.243:25461/live/Lara/1234/1461.ts
+#EXTINF:-1,Premium Calcio 4
+http://178.132.5.243:25461/live/Lara/1234/1460.ts
+#EXTINF:-1,Premium Calcio 5
+http://178.132.5.243:25461/live/Lara/1234/1459.ts
+#EXTINF:-1,Premium Calcio 6
+http://178.132.5.243:25461/live/Lara/1234/1458.ts
+#EXTINF:-1,IT: Rai 1 HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19064.ts
+#EXTINF:-1,IT: Rai 2 HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11815.ts
+#EXTINF:-1,IT: Rai 3 HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11814.ts
+#EXTINF:-1,IT: Rai 4 HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11813.ts
+#EXTINF:-1,IT: Premium Cinema Emotion
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11784.ts
+#EXTINF:-1,IT: Espansione TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/14257.ts
+#EXTINF:-1,IT: Rai Movie HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11783.ts
+#EXTINF:-1,IT: RAI NEWS 24
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/14239.ts
+#EXTINF:-1,IT: Antenna 3
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22164.ts
+#EXTINF:-1,IT: RMC
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15600.ts
+#EXTINF:-1,IT: Canale 5 HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11812.ts
+#EXTINF:-1,IT: Rai Premium HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11782.ts
+#EXTINF:-1,IT: RAI YOYO
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22191.ts
+#EXTINF:-1,IT: Rai Scuola
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11781.ts
+#EXTINF:-1,IT: Rai Sport 1 HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11780.ts
+#EXTINF:-1,IT: Sky TG24 TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11777.ts
+#EXTINF:-1,IT: CANALE 8
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11778.ts
+#EXTINF:-1,IT: TMN
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22738.ts
+#EXTINF:-1,IT: TeleAmbiente
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/14258.ts
+#EXTINF:-1,IT: Tevere tv
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11776.ts
+#EXTINF:-1,IT: VH1 Italia TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22333.ts
+#EXTINF:-1,IT: SENATO TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/14255.ts
+#EXTINF:-1,IT: Radio 105
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11788.ts
+#EXTINF:-1,IT: Rai Sport 2
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19058.ts
+#EXTINF:-1,IT: Azzura TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19101.ts
+#EXTINF:-1,IT: Video Calabria
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19103.ts
+#EXTINF:-1,IT: TeleArena
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19099.ts
+#EXTINF:-1,IT: SuperTV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19098.ts
+#EXTINF:-1,IT: Vera TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22186.ts
+#EXTINF:-1,IT: Canale 8 Teleficarazzi
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22739.ts
+#EXTINF:-1,IT: TVRS
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22184.ts
+#EXTINF:-1,IT: Nettuno TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19097.ts
+#EXTINF:-1,IT: Rete 4 HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19063.ts
+#EXTINF:-1,IT: Canale 85
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19102.ts
+#EXTINF:-1,IT: Fox crime
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11807.ts
+#EXTINF:-1,IT: SKT TG 24
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/14256.ts
+#EXTINF:-1,IT: Super Tenis
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11775.ts
+#EXTINF:-1,IT: Virgin Radio TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11774.ts
+#EXTINF:-1,IT: Telearte
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11802.ts
+#EXTINF:-1,IT: Carina tv
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19094.ts
+#EXTINF:-1,IT: Antenna Sud TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/14253.ts
+#EXTINF:-1,IT: Radio Italia TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11787.ts
+#EXTINF:-1,IT: Radio Monte Carlo TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11786.ts
+#EXTINF:-1,IT: Company TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19095.ts
+#EXTINF:-1,IT: SKY TG24
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18389.ts
+#EXTINF:-1,IT: 90 numeri sat TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22154.ts
+#EXTINF:-1,IT: Antenna Sicilia TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22149.ts
+#EXTINF:-1,IT: Automoto TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22173.ts
+#EXTINF:-1,IT: Canale 7 Puglia
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22174.ts
+#EXTINF:-1,IT: Canale 8 Campania
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22175.ts
+#EXTINF:-1,IT: Rai Gulp HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11756.ts
+#EXTINF:-1,IT: Eden 86 TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22153.ts
+#EXTINF:-1,IT: Esperia TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22139.ts
+#EXTINF:-1,IT: ETV Rete 7
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22157.ts
+#EXTINF:-1,IT: Euronews
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22189.ts
+#EXTINF:-1,IT: Fano TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11758.ts
+#EXTINF:-1,IT: HSE 24 Italia TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22170.ts
+#EXTINF:-1,IT: Italia 2 TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22171.ts
+#EXTINF:-1,IT: La C TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22178.ts
+#EXTINF:-1,IT: Rai Storia
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11754.ts
+#EXTINF:-1,IT: LaC News 24 TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/14259.ts
+#EXTINF:-1,IT: Lucania TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22145.ts
+#EXTINF:-1,IT: M2o TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22150.ts
+#EXTINF:-1,IT: Monza Race TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22187.ts
+#EXTINF:-1,IT: OK Italia TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22161.ts
+#EXTINF:-1,IT: Onda TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22162.ts
+#EXTINF:-1,IT: TV 2000
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11771.ts
+#EXTINF:-1,IT: Prima Tivvú
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22141.ts
+#EXTINF:-1,IT: PromoVideo TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22138.ts
+#EXTINF:-1,IT: Radio 105 TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22176.ts
+#EXTINF:-1,IT: Radio 51 News TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22147.ts
+#EXTINF:-1,IT: Radio Number One TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22172.ts
+#EXTINF:-1,IT: Radio Studio 7 TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22146.ts
+#EXTINF:-1,IT: RadioNorba TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22163.ts
+#EXTINF:-1,IT: RETE 55
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19053.ts
+#EXTINF:-1,IT: Rete Biella
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22177.ts
+#EXTINF:-1,IT: Reteconomy TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22155.ts
+#EXTINF:-1,IT: Cartoonito
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19059.ts
+#EXTINF:-1,IT: Extra tv
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22740.ts
+#EXTINF:-1,IT: Sardegna 1 Sat TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22152.ts
+#EXTINF:-1,IT: Siena TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22167.ts
+#EXTINF:-1,IT: MILAN TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19100.ts
+#EXTINF:-1,IT: Standby TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22151.ts
+#EXTINF:-1,IT: Studio 100 Sat
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22169.ts
+#EXTINF:-1,IT: Super TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22179.ts
+#EXTINF:-1,IT: Tele Arena
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22182.ts
+#EXTINF:-1,IT: Tele Foggia
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22142.ts
+#EXTINF:-1,IT: Tele Jonio
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11759.ts
+#EXTINF:-1,IT: Telefriuli
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22148.ts
+#EXTINF:-1,IT: TeleMantova
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11763.ts
+#EXTINF:-1,IT: TeleMia +1
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22185.ts
+#EXTINF:-1,IT: Telequattro
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22160.ts
+#EXTINF:-1,IT: Telesud Trapani
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22159.ts
+#EXTINF:-1,IT: TeleTruria
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22165.ts
+#EXTINF:-1,IT: Teletruria 2
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22156.ts
+#EXTINF:-1,IT: TG Norba 24 TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22180.ts
+#EXTINF:-1,IT: TGR tv
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11762.ts
+#EXTINF:-1,IT: TSN Livigno TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22168.ts
+#EXTINF:-1,IT: CANALE 7
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22825.ts
+#EXTINF:-1,IT: TSN TeleSondrio News
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22183.ts
+#EXTINF:-1,IT: Radio Taormina
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22828.ts
+#EXTINF:-1,IT: Radio Azzurra
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22826.ts
+#EXTINF:-1,IT: TV Parma
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22166.ts
+#EXTINF:-1,IT: Video Brescia
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22829.ts
+#EXTINF:-1,IT: TV Qui
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22143.ts
+#EXTINF:-1,IT: TVA Vicenza
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22181.ts
+#EXTINF:-1,IT: Video Calabria TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22158.ts
+#EXTINF:-1,IT: Video Mediterraneo TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22144.ts
+#EXTINF:-1,IT: Video Star
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22140.ts
+#EXTINF:-1,~ Italy TV ~
+#EXTINF:-1,AutoMoto TV
+http://178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.m3u8
+#EXTINF:-1,Canale 7
+http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
+#EXTINF:-1,Canale 10
+http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
+#EXTINF:-1,Carina TV
+http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
+#EXTINF:-1,Class TV Moda
+http://liveclass.edgesuite.net/i/classtvmoda_1@199801/master.m3u8
+#EXTINF:-1,Cremona 1
+http://cremona1.econcept.it/live/cremona1_high.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,eTV Marche
+http://live.streamcaster.net:1935/etvmarche_live/etvmarche/livestream.m3u8
+#EXTINF:-1,Fano TV
+http://live.streamcaster.net:1935/live/fanotv/livestream.m3u8
+#EXTINF:-1,History Lab
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
+#EXTINF:-1,La 7 [Geo]
+http://la7livehls-lh.akamaihd.net/i/livebkup_1@372883/index_1_av-p.m3u8
+#EXTINF:-1,m20 TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1,Napoli Canale 21
+http://live.streamcaster.net:1935/canale21_live/canale21/livestream.m3u8
+#EXTINF:-1,Napoli Canale 21*
+http://live.Kronopress.com:1935/canale21_live/canale21/livestream.m3u8
+#EXTINF:-1,Orler TV
+http://77.92.76.135:1935/orler/livestream/live.m3u8
+#EXTINF:-1,OttoFM TV
+http://live.youiptv.ch:1935/8FM/8FM/playlist.m3u8
+#EXTINF:-1,Radio 105 TV
+http://wow01.105.net:1935/live/105Test1/livestream.m3u8
+#EXTINF:-1,Radio Capital TiVu
+http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8
+#EXTINF:-1,Radio Iglesias
+http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
+#EXTINF:-1,Radio Italia TV
+http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
+#EXTINF:-1,Radio Monte Carlo
+http://wow01.105.net:1935/live/rmc1/livestream.m3u8
+#EXTINF:-1,Radio Taormina
+http://flash5.streaming.xdevel.com/taorminatv/taorminatv/playlist.m3u8
+#EXTINF:-1,Radio Virgin TV
+http://wow01.105.net:1935/live/virgin1/livestream.m3u8
+#EXTINF:-1,Rai 5
+http://stream12.rai.it/live/smil:rai5.smil/playlist.m3u8
+#EXTINF:-1,Rai Gulp
+http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1200_av-p.m3u8
+#EXTINF:-1,Rai Movie
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1,Rai News 24
+http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/master.m3u8
+#EXTINF:-1,Rai Premium
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+#EXTINF:-1,Rai Scuola
+http://originstream6.rai.it/italy/smil:raiscuola.smil/chunklist_b900000.m3u8
+#EXTINF:-1,Rai Storia
+http://everyrai-lh.akamaihd.net/i/raistoria_1@308058/master.m3u8
+#EXTINF:-1,Rai Yoyo
+http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1200_av-b.m3u8
+#EXTINF:-1,Rete 55
+http://live.youiptv.ch:1935/Rete55/ngrp:R55.stream_all/livestream.m3u8
+#EXTINF:-1,Rete 55*
+http://live.youiptv.ch:1935/Rete55/R55.stream_source/livestream.m3u8
+#EXTINF:-1,Retesole
+http://flash2.bsnewline.com:1935/retesolelazio/retesolelazio/playlist.m3u8
+#EXTINF:-1,RTV 38
+http://splive-lh.akamaihd.net/i/livertv38_1@396529/master.m3u8
+#EXTINF:-1,RTL 102.5
+http://rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione/playlist.m3u8
+#EXTINF:-1,Saronno TV
+http://msh0193.stream.seeweb.it:1935/live/stream00.sdp/livestream.m3u8
+#EXTINF:-1,Sky TG24
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
+#EXTINF:-1,Sudtirol TV
+http://77.72.196.214:8554/live/SuedtirolTV/livestream.m3u8
+#EXTINF:-1,SuperTV
+http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+#EXTINF:-1,TeleArena
+http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
+#EXTINF:-1,teleMonteneve
+http://wms.shared.streamshow.it:1935/telemonteneve/telemonteneve/live.m3u8
+#EXTINF:-1,telePAVIA
+http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
+#EXTINF:-1,TeleStudio Modena
+http://wms.shared.streamshow.it:1935/telestudiomo/telestudiomo/live.m3u8
+#EXTINF:-1,Tele Milano
+http://91.121.222.160:1935/piublu/piublu.sdp/live.m3u8
+#EXTINF:-1,TG Norba 24
+http://85.17.80.132:1935/tgnorba_24/tgnorba_24_source.stream/live.m3u8
+#EXTINF:-1,Trentino TV
+http://77.72.196.214:8554/live/TrentinoTV/livestream.m3u8
+#EXTINF:-1,Trentino TV*
+http://77.72.196.214:8554/live/TrentinoSAT/livestream.m3u8
+#EXTINF:-1,TSN
+http://wms.shared.streamshow.it:1935/tsn2/tsn2/live.m3u8
+#EXTINF:-1,TRM h24
+http://flash.streamingmedia.it:1935/TRM/livestream/live.m3u8
+#EXTINF:-1,TVRS
+http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
+#EXTINF:-1,TV Luna
+http://live.streamcaster.net:1935/test_live/teleluna/livestream.m3u8
+#EXTINF:-1,TV Luna*
+http://live.Kronopress.com:1935/test_live/teleluna/livestream.m3u8
+#EXTINF:-1,Videolina
+http://178.33.229.111:1935/live/Videolina/livestream.m3u8
+#EXTINF:-1,Video Brescia
+http://wms.shared.streamshow.it:1935/videobrescia/videobrescia/live.m3u8
+#EXTINF:-1,Video Calabria
+http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8
