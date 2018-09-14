@@ -1,3415 +1,1163 @@
-
-
-
-#EXTINF:-1,IT: RAI  4 HD
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11813.ts
-#EXTINF:-1,IT: RAI  1 HD
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11816.ts
-#EXTINF:-1,IT: Rai 2 HD
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11815.ts
-#EXTINF:-1,IT: Rai 3 HD
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11814.ts
-#EXTINF:-1,IT:  Premium Cinema Emotion
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11784.ts
-#EXTINF:-1,IT: Espansione TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/14257.ts
-#EXTINF:-1,IT: Rai Movie
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/13073.ts
-#EXTINF:-1,IT: Rai Movie HD
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11783.ts
-#EXTINF:-1,IT: RAI NEWS 24
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/14239.ts
-#EXTINF:-1,IT: RAI PREMIUM
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15600.ts
-#EXTINF:-1,IT: Rai Premium HD
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11782.ts
-#EXTINF:-1,IT: Rai Scuola
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11781.ts
-#EXTINF:-1,IT: Rai Sport 1 HD
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11780.ts
-#EXTINF:-1,IT: Sky TG24 TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11777.ts
-#EXTINF:-1,IT: CANALE 8
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11778.ts
-#EXTINF:-1,IT: TMN
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22738.ts
-#EXTINF:-1,IT: TeleAmbiente
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/14258.ts
-#EXTINF:-1,IT: Tevere  tv
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11776.ts
-#EXTINF:-1,IT: VH1 Italia TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22333.ts
-#EXTINF:-1,IT: SENATO TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/14255.ts
-#EXTINF:-1,IT: Radio 105
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11788.ts
-#EXTINF:-1,IT: Rai Sport 2
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19058.ts
-#EXTINF:-1,IT: Azzura TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19101.ts
-#EXTINF:-1,IT: Video Calabria
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19103.ts
-#EXTINF:-1,IT: TeleArena
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19099.ts
-#EXTINF:-1,IT: SuperTV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19098.ts
-#EXTINF:-1,IT: Vera TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22186.ts
-#EXTINF:-1,IT: Canale 8 Teleficarazzi
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22739.ts
-#EXTINF:-1,IT: TVRS
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22184.ts
-#EXTINF:-1,IT: Nettuno TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19097.ts
-#EXTINF:-1,IT: Rete 4 HD
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19063.ts
-#EXTINF:-1,IT: Canale 85
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19102.ts
-#EXTINF:-1,IT: Fox crime
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11807.ts
-#EXTINF:-1,IT: SKT TG 24
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/14256.ts
-#EXTINF:-1,IT: Super Tenis
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11775.ts
-#EXTINF:-1,IT: Virgin Radio TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11774.ts
-#EXTINF:-1,IT: Telearte
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11802.ts
-#EXTINF:-1,IT: Carina tv
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19094.ts
-#EXTINF:-1,IT: Antenna Sud TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/14253.ts
-#EXTINF:-1,IT: Radio Italia TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11787.ts
-#EXTINF:-1,IT: Radio Monte Carlo TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11786.ts
-#EXTINF:-1,IT: Topcrime
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11772.ts
-#EXTINF:-1,IT: Company TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19095.ts
-#EXTINF:-1,IT: SKY TG24
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18389.ts
-#EXTINF:-1,IT: 90 numeri sat TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22154.ts
-#EXTINF:-1,IT: Antenna Sicilia TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22149.ts
-#EXTINF:-1,IT: Automoto TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22173.ts
-#EXTINF:-1,IT: Canale 7 Puglia
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22174.ts
-#EXTINF:-1,IT: Canale 8 Campania
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22175.ts
-#EXTINF:-1,IT: Class CNBC TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11756.ts
-#EXTINF:-1,IT: Eden 86 TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22153.ts
-#EXTINF:-1,IT: Esperia TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22139.ts
-#EXTINF:-1,IT: ETV Rete 7
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22157.ts
-#EXTINF:-1,IT: Euronews
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22189.ts
-#EXTINF:-1,IT: Fano TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11758.ts
-#EXTINF:-1,IT: HSE 24 Italia TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22170.ts
-#EXTINF:-1,IT: Italia 2 TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22171.ts
-#EXTINF:-1,IT: La C TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22178.ts
-#EXTINF:-1,IT: La Nuova TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11754.ts
-#EXTINF:-1,IT: LaC News 24 TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/14259.ts
-#EXTINF:-1,IT: Lucania TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22145.ts
-#EXTINF:-1,IT: M2o TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22150.ts
-#EXTINF:-1,IT: Monza Race TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22187.ts
-#EXTINF:-1,IT: OK Italia TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22161.ts
-#EXTINF:-1,IT: Onda TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22162.ts
-#EXTINF:-1,IT: TV 2000
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11771.ts
-#EXTINF:-1,IT: Prima Tivvú
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22141.ts
-#EXTINF:-1,IT: PromoVideo TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22138.ts
-#EXTINF:-1,IT: Radio 105 TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22176.ts
-#EXTINF:-1,IT: Radio 51 News TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22147.ts
-#EXTINF:-1,IT: Radio Number One TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22172.ts
-#EXTINF:-1,IT: Radio Studio 7 TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22146.ts
-#EXTINF:-1,IT: RadioNorba TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22163.ts
-#EXTINF:-1,IT: RETE 55
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19053.ts
-#EXTINF:-1,IT: Rete Biella
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22177.ts
-#EXTINF:-1,IT: Reteconomy TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22155.ts
-#EXTINF:-1,IT: Cartoonito
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19059.ts
-#EXTINF:-1,IT: Extra tv
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22740.ts
-#EXTINF:-1,IT: Sardegna 1 Sat TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22152.ts
-#EXTINF:-1,IT: Siena TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22167.ts
-#EXTINF:-1,IT: MILAN TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19100.ts
-#EXTINF:-1,IT: Standby TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22151.ts
-#EXTINF:-1,IT: Studio 100 Sat
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22169.ts
-#EXTINF:-1,IT: Super TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22179.ts
-#EXTINF:-1,IT: Tele Arena
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22182.ts
-#EXTINF:-1,IT: Tele Foggia
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22142.ts
-#EXTINF:-1,IT: Tele Jonio
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11759.ts
-#EXTINF:-1,IT: Telefriuli
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22148.ts
-#EXTINF:-1,IT: TeleMantova
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11763.ts
-#EXTINF:-1,IT: TeleMia +1
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22185.ts
-#EXTINF:-1,IT: Telequattro
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22160.ts
-#EXTINF:-1,IT: Telesud Trapani
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22159.ts
-#EXTINF:-1,IT: TeleTruria
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22165.ts
-#EXTINF:-1,IT: Teletruria 2
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22156.ts
-#EXTINF:-1,IT: TG Norba 24 TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22180.ts
-#EXTINF:-1,IT: TGR tv
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11762.ts
-#EXTINF:-1,IT: TSN Livigno TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22168.ts
-#EXTINF:-1,IT: CANALE 7
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22825.ts
-#EXTINF:-1,IT: TSN TeleSondrio News
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22183.ts
-#EXTINF:-1,IT: Radio Taormina
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22828.ts
-#EXTINF:-1,IT: Radio Azzurra
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22826.ts
-#EXTINF:-1,IT: TV Parma
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22166.ts
-#EXTINF:-1,IT: Video Brescia
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22829.ts
-#EXTINF:-1,IT: TV Qui
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22143.ts
-#EXTINF:-1,IT: TVA Vicenza
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22181.ts
-#EXTINF:-1,IT: Video Calabria TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22158.ts
-#EXTINF:-1,IT: Video Mediterraneo TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22144.ts
-#EXTINF:-1,IT: Video Star
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22140.ts
-
-#EXTINF:-1,Tabela - Brasileirao 2018
-http://178.132.5.243:25461/live/Lara/1234/9936.ts
-#EXTINF:-1,PFC 4K
-http://178.132.5.243:25461/live/Lara/1234/9585.ts
-#EXTINF:-1,FOX Sports 4K
-http://178.132.5.243:25461/live/Lara/1234/10030.ts
-#EXTINF:-1,SporTV 4K
-http://178.132.5.243:25461/live/Lara/1234/10029.ts
-#EXTINF:-1,Globo RJ FHD
-http://178.132.5.243:25461/live/Lara/1234/6287.ts
-#EXTINF:-1,Globo SP FHD
-http://178.132.5.243:25461/live/Lara/1234/7406.ts
-#EXTINF:-1,Globo SP FHD (2)
-http://178.132.5.243:25461/live/Lara/1234/10522.ts
-#EXTINF:-1,Globo Minas FHD
-http://178.132.5.243:25461/live/Lara/1234/7405.ts
-#EXTINF:-1,Globo Minas FHD (2)
-http://178.132.5.243:25461/live/Lara/1234/9937.ts
-#EXTINF:-1,Globo Brasilia FHD
-http://178.132.5.243:25461/live/Lara/1234/10970.ts
-#EXTINF:-1,Globo Nordeste FHD
-http://178.132.5.243:25461/live/Lara/1234/10965.ts
-#EXTINF:-1,RBS TV Porto Alegre FHD - Globo RS
-http://178.132.5.243:25461/live/Lara/1234/10964.ts
-#EXTINF:-1,RBS TV Porto Alegre FHD - Globo RS (2)
-http://178.132.5.243:25461/live/Lara/1234/10523.ts
-#EXTINF:-1,TV Gazeta Vitoria FHD - Globo ES (2)
-http://178.132.5.243:25461/live/Lara/1234/6172.ts
-#EXTINF:-1,TV Gazeta Vitoria FHD - Globo ES
-http://178.132.5.243:25461/live/Lara/1234/10763.ts
-#EXTINF:-1,NSC TV Florianopolis FHD - Globo SC
-http://178.132.5.243:25461/live/Lara/1234/10958.ts
-#EXTINF:-1,NSC TV Chapeco FHD - Globo SC
-http://178.132.5.243:25461/live/Lara/1234/10764.ts
-#EXTINF:-1,EPTV Campinas FHD - Globo SP
-http://178.132.5.243:25461/live/Lara/1234/10963.ts
-#EXTINF:-1,TV TEM SJRP FHD - Globo SP
-http://178.132.5.243:25461/live/Lara/1234/10957.ts
-#EXTINF:-1,RPC Curitiba FHD - Globo PR
-http://178.132.5.243:25461/live/Lara/1234/7831.ts
-#EXTINF:-1,RPC Foz do Iguacu FHD - Globo PR
-http://178.132.5.243:25461/live/Lara/1234/10765.ts
-#EXTINF:-1,TV Anhanguera Goiania FHD - Globo GO
-http://178.132.5.243:25461/live/Lara/1234/10962.ts
-#EXTINF:-1,TV Anhanguera Goiania FHD - Globo GO (2)
-http://178.132.5.243:25461/live/Lara/1234/1445.ts
-#EXTINF:-1,TV Morena FHD - Globo MS
-http://178.132.5.243:25461/live/Lara/1234/10959.ts
-#EXTINF:-1,TV Bahia FHD - Globo BA
-http://178.132.5.243:25461/live/Lara/1234/10961.ts
-#EXTINF:-1,TV Sergipe FHD - Globo SE
-http://178.132.5.243:25461/live/Lara/1234/10762.ts
-#EXTINF:-1,TV Gazeta FHD - Globo AL
-http://178.132.5.243:25461/live/Lara/1234/11755.ts
-#EXTINF:-1,TV Mirante Sao Luis FHD - Globo MA
-http://178.132.5.243:25461/live/Lara/1234/10960.ts
-#EXTINF:-1,TV Clube FHD - Globo PI
-http://178.132.5.243:25461/live/Lara/1234/10761.ts
-#EXTINF:-1,Globo Internacional  FHD - Americas (2)
-http://178.132.5.243:25461/live/Lara/1234/5084.ts
-#EXTINF:-1,Band FHD
-http://178.132.5.243:25461/live/Lara/1234/6269.ts
-#EXTINF:-1,SBT FHD
-http://178.132.5.243:25461/live/Lara/1234/6267.ts
-#EXTINF:-1,TV Alterosa FHD - SBT MG (2)
-http://178.132.5.243:25461/live/Lara/1234/10103.ts
-#EXTINF:-1,RecordTV FHD
-http://178.132.5.243:25461/live/Lara/1234/6268.ts
-#EXTINF:-1,Futura FHD
-http://178.132.5.243:25461/live/Lara/1234/11113.ts
-#EXTINF:-1,Telecine Premium FHD
-http://178.132.5.243:25461/live/Lara/1234/5050.ts
-#EXTINF:-1,Telecine Action FHD
-http://178.132.5.243:25461/live/Lara/1234/6169.ts
-#EXTINF:-1,Telecine Touch FHD
-http://178.132.5.243:25461/live/Lara/1234/6171.ts
-#EXTINF:-1,Telecine Pipoca FHD
-http://178.132.5.243:25461/live/Lara/1234/6170.ts
-#EXTINF:-1,Telecine Fun FHD
-http://178.132.5.243:25461/live/Lara/1234/6243.ts
-#EXTINF:-1,Telecine Cult FHD
-http://178.132.5.243:25461/live/Lara/1234/11086.ts
-#EXTINF:-1,Telecine Cult FHD2
-http://178.132.5.243:25461/live/Lara/1234/7536.ts
-#EXTINF:-1,HBO FHD
-http://178.132.5.243:25461/live/Lara/1234/6271.ts
-#EXTINF:-1,HBO 2 FHD
-http://178.132.5.243:25461/live/Lara/1234/6270.ts
-#EXTINF:-1,HBO Plus FHD
-http://178.132.5.243:25461/live/Lara/1234/11107.ts
-#EXTINF:-1,HBO Family FHD
-http://178.132.5.243:25461/live/Lara/1234/11108.ts
-#EXTINF:-1,HBO Signature FHD
-http://178.132.5.243:25461/live/Lara/1234/11106.ts
-#EXTINF:-1,Max FHD
-http://178.132.5.243:25461/live/Lara/1234/11103.ts
-#EXTINF:-1,Max FHD2
-http://178.132.5.243:25461/live/Lara/1234/7546.ts
-#EXTINF:-1,Max UP FHD
-http://178.132.5.243:25461/live/Lara/1234/11101.ts
-#EXTINF:-1,Max UP FHD2
-http://178.132.5.243:25461/live/Lara/1234/7544.ts
-#EXTINF:-1,Max Prime FHD
-http://178.132.5.243:25461/live/Lara/1234/11102.ts
-#EXTINF:-1,Max Prime FHD2
-http://178.132.5.243:25461/live/Lara/1234/7545.ts
-#EXTINF:-1,Cinemax FHD
-http://178.132.5.243:25461/live/Lara/1234/11126.ts
-#EXTINF:-1,Cinemax FHD2
-http://178.132.5.243:25461/live/Lara/1234/7559.ts
-#EXTINF:-1,FOX FHD
-http://178.132.5.243:25461/live/Lara/1234/6272.ts
-#EXTINF:-1,FOX Premium 1 FHD
-http://178.132.5.243:25461/live/Lara/1234/11114.ts
-#EXTINF:-1,FOX Premium 2 FHD
-http://178.132.5.243:25461/live/Lara/1234/7760.ts
-#EXTINF:-1,FOX Life FHD
-http://178.132.5.243:25461/live/Lara/1234/11115.ts
-#EXTINF:-1,FX FHD
-http://178.132.5.243:25461/live/Lara/1234/11112.ts
-#EXTINF:-1,Canal Sony FHD
-http://178.132.5.243:25461/live/Lara/1234/11128.ts
-#EXTINF:-1,AMC FHD
-http://178.132.5.243:25461/live/Lara/1234/11133.ts
-#EXTINF:-1,AMC FHD2
-http://178.132.5.243:25461/live/Lara/1234/7564.ts
-#EXTINF:-1,AXN FHD
-http://178.132.5.243:25461/live/Lara/1234/11131.ts
-#EXTINF:-1,Warner Channel FHD
-http://178.132.5.243:25461/live/Lara/1234/7755.ts
-#EXTINF:-1,Space FHD
-http://178.132.5.243:25461/live/Lara/1234/11090.ts
-#EXTINF:-1,TNT FHD
-http://178.132.5.243:25461/live/Lara/1234/11084.ts
-#EXTINF:-1,TNT Series FHD
-http://178.132.5.243:25461/live/Lara/1234/11083.ts
-#EXTINF:-1,TBS FHD
-http://178.132.5.243:25461/live/Lara/1234/11087.ts
-#EXTINF:-1,Megapix FHD
-http://178.132.5.243:25461/live/Lara/1234/11756.ts
-#EXTINF:-1,Universal TV FHD
-http://178.132.5.243:25461/live/Lara/1234/11080.ts
-#EXTINF:-1,Studio Universal FHD
-http://178.132.5.243:25461/live/Lara/1234/11089.ts
-#EXTINF:-1,Studio Universal FHD2
-http://178.132.5.243:25461/live/Lara/1234/7539.ts
-#EXTINF:-1,Syfy FHD
-http://178.132.5.243:25461/live/Lara/1234/11088.ts
-#EXTINF:-1,Syfy FHD2
-http://178.132.5.243:25461/live/Lara/1234/7538.ts
-#EXTINF:-1,Mais Globosat FHD
-http://178.132.5.243:25461/live/Lara/1234/7547.ts
-#EXTINF:-1,A&E FHD
-http://178.132.5.243:25461/live/Lara/1234/11134.ts
-#EXTINF:-1,A&E FHD2
-http://178.132.5.243:25461/live/Lara/1234/7565.ts
-#EXTINF:-1,Paramount Channel FHD
-http://178.132.5.243:25461/live/Lara/1234/11094.ts
-#EXTINF:-1,Canal Brasil FHD2
-http://178.132.5.243:25461/live/Lara/1234/7561.ts
-#EXTINF:-1,Prime Box Brazil FHD
-http://178.132.5.243:25461/live/Lara/1234/11092.ts
-#EXTINF:-1,SporTV FHD
-http://178.132.5.243:25461/live/Lara/1234/6208.ts
-#EXTINF:-1,SporTV 2 FHD
-http://178.132.5.243:25461/live/Lara/1234/7600.ts
-#EXTINF:-1,SporTV 3 FHD
-http://178.132.5.243:25461/live/Lara/1234/7599.ts
-#EXTINF:-1,FOX Sports FHD
-http://178.132.5.243:25461/live/Lara/1234/6207.ts
-#EXTINF:-1,FOX Sports 2 FHD
-http://178.132.5.243:25461/live/Lara/1234/7602.ts
-#EXTINF:-1,ESPN Brasil FHD
-http://178.132.5.243:25461/live/Lara/1234/7407.ts
-#EXTINF:-1,ESPN Brasil FHD2
-http://178.132.5.243:25461/live/Lara/1234/10521.ts
-#EXTINF:-1,ESPN + FHD
-http://178.132.5.243:25461/live/Lara/1234/11118.ts
-#EXTINF:-1,ESPN FHD
-http://178.132.5.243:25461/live/Lara/1234/7605.ts
-#EXTINF:-1,ESPN Extra FHD
-http://178.132.5.243:25461/live/Lara/1234/8549.ts
-#EXTINF:-1,Esporte Interativo FHD
-http://178.132.5.243:25461/live/Lara/1234/7603.ts
-#EXTINF:-1,Esporte Interativo 2 FHD
-http://178.132.5.243:25461/live/Lara/1234/7604.ts
-#EXTINF:-1,Esporte Interativo BR FHD
-http://178.132.5.243:25461/live/Lara/1234/7830.ts
-#EXTINF:-1,BandSports FHD
-http://178.132.5.243:25461/live/Lara/1234/11130.ts
-#EXTINF:-1,Canal Off FHD
-http://178.132.5.243:25461/live/Lara/1234/11129.ts
-#EXTINF:-1,Woohoo FHD
-http://178.132.5.243:25461/live/Lara/1234/11078.ts
-#EXTINF:-1,Woohoo FHD2
-http://178.132.5.243:25461/live/Lara/1234/7534.ts
-#EXTINF:-1,FishTV FHD
-http://178.132.5.243:25461/live/Lara/1234/11117.ts
-#EXTINF:-1,Combate FHD
-http://178.132.5.243:25461/live/Lara/1234/5206.ts
-#EXTINF:-1,Premiere Clubes FHD
-http://178.132.5.243:25461/live/Lara/1234/7404.ts
-#EXTINF:-1,Premiere 2 FHD
-http://178.132.5.243:25461/live/Lara/1234/7413.ts
-#EXTINF:-1,Premiere 3 FHD
-http://178.132.5.243:25461/live/Lara/1234/7412.ts
-#EXTINF:-1,Premiere 4 FHD
-http://178.132.5.243:25461/live/Lara/1234/7411.ts
-#EXTINF:-1,Premiere 5 FHD
-http://178.132.5.243:25461/live/Lara/1234/7410.ts
-#EXTINF:-1,Premiere 6 FHD
-http://178.132.5.243:25461/live/Lara/1234/7416.ts
-#EXTINF:-1,Premiere 7 FHD
-http://178.132.5.243:25461/live/Lara/1234/7415.ts
-#EXTINF:-1,Boomerang FHD
-http://178.132.5.243:25461/live/Lara/1234/7765.ts
-#EXTINF:-1,Cartoon Network FHD
-http://178.132.5.243:25461/live/Lara/1234/11127.ts
-#EXTINF:-1,Cartoon Network FHD2
-http://178.132.5.243:25461/live/Lara/1234/7560.ts
-#EXTINF:-1,Nick FHD
-http://178.132.5.243:25461/live/Lara/1234/7757.ts
-#EXTINF:-1,Nick FHD2
-http://178.132.5.243:25461/live/Lara/1234/7540.ts
-#EXTINF:-1,Nick Jr. FHD
-http://178.132.5.243:25461/live/Lara/1234/7756.ts
-#EXTINF:-1,Nick Jr. FHD2
-http://178.132.5.243:25461/live/Lara/1234/7541.ts
-#EXTINF:-1,Disney Channel FHD
-http://178.132.5.243:25461/live/Lara/1234/7606.ts
-#EXTINF:-1,Disney Channel FHD2
-http://178.132.5.243:25461/live/Lara/1234/7554.ts
-#EXTINF:-1,Disney Junior FHD
-http://178.132.5.243:25461/live/Lara/1234/11120.ts
-#EXTINF:-1,Discovery Kids FHD
-http://178.132.5.243:25461/live/Lara/1234/7763.ts
-#EXTINF:-1,Discovery Kids FHD2
-http://178.132.5.243:25461/live/Lara/1234/7556.ts
-#EXTINF:-1,Nat Geo Kids FHD
-http://178.132.5.243:25461/live/Lara/1234/11095.ts
-#EXTINF:-1,Nat Geo Kids FHD2
-http://178.132.5.243:25461/live/Lara/1234/7542.ts
-#EXTINF:-1,Gloob FHD
-http://178.132.5.243:25461/live/Lara/1234/7601.ts
-#EXTINF:-1,Gloob FHD2
-http://178.132.5.243:25461/live/Lara/1234/7549.ts
-#EXTINF:-1,Gloobinho FHD
-http://178.132.5.243:25461/live/Lara/1234/11111.ts
-#EXTINF:-1,TV Ra Tim Bum FHD
-http://178.132.5.243:25461/live/Lara/1234/11081.ts
-#EXTINF:-1,GNT FHD
-http://178.132.5.243:25461/live/Lara/1234/11110.ts
-#EXTINF:-1,Viva FHD
-http://178.132.5.243:25461/live/Lara/1234/7598.ts
-#EXTINF:-1,Multishow FHD
-http://178.132.5.243:25461/live/Lara/1234/11098.ts
-#EXTINF:-1,BIS FHD
-http://178.132.5.243:25461/live/Lara/1234/7607.ts
-#EXTINF:-1,MTV FHD
-http://178.132.5.243:25461/live/Lara/1234/11100.ts
-#EXTINF:-1,MTV FHD2
-http://178.132.5.243:25461/live/Lara/1234/7543.ts
-#EXTINF:-1,MTV Live FHD
-http://178.132.5.243:25461/live/Lara/1234/11099.ts
-#EXTINF:-1,VH1 FHD
-http://178.132.5.243:25461/live/Lara/1234/11079.ts
-#EXTINF:-1,VH1 FHD2
-http://178.132.5.243:25461/live/Lara/1234/7535.ts
-#EXTINF:-1,Music Box Brazil FHD
-http://178.132.5.243:25461/live/Lara/1234/11097.ts
-#EXTINF:-1,Discovery Turbo FHD
-http://178.132.5.243:25461/live/Lara/1234/7762.ts
-#EXTINF:-1,TruTV FHD
-http://178.132.5.243:25461/live/Lara/1234/11082.ts
-#EXTINF:-1,Comedy Central FHD
-http://178.132.5.243:25461/live/Lara/1234/11125.ts
-#EXTINF:-1,Comedy Central FHD2
-http://178.132.5.243:25461/live/Lara/1234/7558.ts
-#EXTINF:-1,Investigacao Discovery FHD
-http://178.132.5.243:25461/live/Lara/1234/11105.ts
-#EXTINF:-1,Discovery Home&Health FHD
-http://178.132.5.243:25461/live/Lara/1234/7764.ts
-#EXTINF:-1,Lifetime FHD
-http://178.132.5.243:25461/live/Lara/1234/11104.ts
-#EXTINF:-1,Lifetime FHD2
-http://178.132.5.243:25461/live/Lara/1234/7548.ts
-#EXTINF:-1,E! FHD
-http://178.132.5.243:25461/live/Lara/1234/11119.ts
-#EXTINF:-1,E! FHD2
-http://178.132.5.243:25461/live/Lara/1234/7553.ts
-#EXTINF:-1,TLC FHD
-http://178.132.5.243:25461/live/Lara/1234/11085.ts
-#EXTINF:-1,TLC FHD2
-http://178.132.5.243:25461/live/Lara/1234/7537.ts
-#EXTINF:-1,Food Network FHD
-http://178.132.5.243:25461/live/Lara/1234/11116.ts
-#EXTINF:-1,Food Network FHD2
-http://178.132.5.243:25461/live/Lara/1234/7552.ts
-#EXTINF:-1,Curta! FHD
-http://178.132.5.243:25461/live/Lara/1234/11124.ts
-#EXTINF:-1,Animal Planet FHD
-http://178.132.5.243:25461/live/Lara/1234/7767.ts
-#EXTINF:-1,Discovery Channel FHD
-http://178.132.5.243:25461/live/Lara/1234/7437.ts
-#EXTINF:-1,Discovery Theater FHD
-http://178.132.5.243:25461/live/Lara/1234/11121.ts
-#EXTINF:-1,Discovery World FHD
-http://178.132.5.243:25461/live/Lara/1234/7761.ts
-#EXTINF:-1,Discovery Science FHD
-http://178.132.5.243:25461/live/Lara/1234/11122.ts
-#EXTINF:-1,Discovery Science FHD2
-http://178.132.5.243:25461/live/Lara/1234/7555.ts
-#EXTINF:-1,Discovery Civilization FHD
-http://178.132.5.243:25461/live/Lara/1234/11123.ts
-#EXTINF:-1,Discovery Civilization FHD2
-http://178.132.5.243:25461/live/Lara/1234/7557.ts
-#EXTINF:-1,Nat Geo Wild FHD
-http://178.132.5.243:25461/live/Lara/1234/7758.ts
-#EXTINF:-1,Nat Geo FHD
-http://178.132.5.243:25461/live/Lara/1234/11096.ts
-#EXTINF:-1,History FHD
-http://178.132.5.243:25461/live/Lara/1234/7759.ts
-#EXTINF:-1,H2 FHD
-http://178.132.5.243:25461/live/Lara/1234/11109.ts
-#EXTINF:-1,Arte 1 FHD
-http://178.132.5.243:25461/live/Lara/1234/11132.ts
-#EXTINF:-1,Arte 1 FHD2
-http://178.132.5.243:25461/live/Lara/1234/7563.ts
-#EXTINF:-1,GloboNews FHD
-http://178.132.5.243:25461/live/Lara/1234/7550.ts
-#EXTINF:-1,GloboNews FHD2
-http://178.132.5.243:25461/live/Lara/1234/7499.ts
-#EXTINF:-1,BandNews FHD
-http://178.132.5.243:25461/live/Lara/1234/7766.ts
-#EXTINF:-1,Record News FHD
-http://178.132.5.243:25461/live/Lara/1234/11091.ts
-#EXTINF:-1,Boa Vontade FHD2
-http://178.132.5.243:25461/live/Lara/1234/5087.ts
-#EXTINF:-1,Globo RJ FHD H265
-http://178.132.5.243:25461/live/Lara/1234/1917.ts
-#EXTINF:-1,SBT FHD H265
-http://178.132.5.243:25461/live/Lara/1234/1900.ts
-#EXTINF:-1,Telecine Premium FHD H265
-http://178.132.5.243:25461/live/Lara/1234/1895.ts
-#EXTINF:-1,Telecine Action FHD H265
-http://178.132.5.243:25461/live/Lara/1234/1897.ts
-#EXTINF:-1,Telecine Touch FHD H265
-http://178.132.5.243:25461/live/Lara/1234/1894.ts
-#EXTINF:-1,Telecine Pipoca FHD H265
-http://178.132.5.243:25461/live/Lara/1234/1896.ts
-#EXTINF:-1,Telecine Fun FHD H265
-http://178.132.5.243:25461/live/Lara/1234/10518.ts
-#EXTINF:-1,Telecine Cult FHD H265
-http://178.132.5.243:25461/live/Lara/1234/7493.ts
-#EXTINF:-1,HBO FHD H265
-http://178.132.5.243:25461/live/Lara/1234/1914.ts
-#EXTINF:-1,HBO 2 FHD H265
-http://178.132.5.243:25461/live/Lara/1234/1911.ts
-#EXTINF:-1,HBO Plus FHD H265
-http://178.132.5.243:25461/live/Lara/1234/1913.ts
-#EXTINF:-1,HBO Family FHD H265
-http://178.132.5.243:25461/live/Lara/1234/1915.ts
-#EXTINF:-1,HBO Signature FHD H265
-http://178.132.5.243:25461/live/Lara/1234/1912.ts
-#EXTINF:-1,FOX FHD H265
-http://178.132.5.243:25461/live/Lara/1234/7850.ts
-#EXTINF:-1,FOX Premium 1 FHD H265
-http://178.132.5.243:25461/live/Lara/1234/1921.ts
-#EXTINF:-1,FX FHD H265
-http://178.132.5.243:25461/live/Lara/1234/1918.ts
-#EXTINF:-1,Canal Sony FHD H265
-http://178.132.5.243:25461/live/Lara/1234/10527.ts
-#EXTINF:-1,AXN FHD H265
-http://178.132.5.243:25461/live/Lara/1234/1932.ts
-#EXTINF:-1,Warner FHD H265
-http://178.132.5.243:25461/live/Lara/1234/1889.ts
-#EXTINF:-1,Space FHD H265
-http://178.132.5.243:25461/live/Lara/1234/10530.ts
-#EXTINF:-1,TNT FHD H265
-http://178.132.5.243:25461/live/Lara/1234/1893.ts
-#EXTINF:-1,TNT Series FHD H265
-http://178.132.5.243:25461/live/Lara/1234/1892.ts
-#EXTINF:-1,TBS FHD H265
-http://178.132.5.243:25461/live/Lara/1234/1898.ts
-#EXTINF:-1,Megapix FHD H265
-http://178.132.5.243:25461/live/Lara/1234/1908.ts
-#EXTINF:-1,Universal TV FHD H265
-http://178.132.5.243:25461/live/Lara/1234/1891.ts
-#EXTINF:-1,Studio Universal FHD H265
-http://178.132.5.243:25461/live/Lara/1234/10520.ts
-#EXTINF:-1,A&E FHD H265
-http://178.132.5.243:25461/live/Lara/1234/10528.ts
-#EXTINF:-1,Paramount Channel FHD H265
-http://178.132.5.243:25461/live/Lara/1234/1905.ts
-#EXTINF:-1,SporTV 2 H265
-http://178.132.5.243:25461/live/Lara/1234/7496.ts
-#EXTINF:-1,SporTV 3 H265
-http://178.132.5.243:25461/live/Lara/1234/7733.ts
-#EXTINF:-1,SporTV H265
-http://178.132.5.243:25461/live/Lara/1234/7495.ts
-#EXTINF:-1,FOX Sports H265
-http://178.132.5.243:25461/live/Lara/1234/7734.ts
-#EXTINF:-1,FOX Sports 2 FHD H265
-http://178.132.5.243:25461/live/Lara/1234/1919.ts
-#EXTINF:-1,ESPN Brasil FHD H265
-http://178.132.5.243:25461/live/Lara/1234/1923.ts
-#EXTINF:-1,ESPN + FHD  H265
-http://178.132.5.243:25461/live/Lara/1234/1922.ts
-#EXTINF:-1,Esporte Interativo FHD H265
-http://178.132.5.243:25461/live/Lara/1234/1924.ts
-#EXTINF:-1,Esporte Interativo 2 FHD H265
-http://178.132.5.243:25461/live/Lara/1234/1925.ts
-#EXTINF:-1,Esporte Interativo BR FHD H265
-http://178.132.5.243:25461/live/Lara/1234/1934.ts
-#EXTINF:-1,BandSports FHD H265
-http://178.132.5.243:25461/live/Lara/1234/1931.ts
-#EXTINF:-1,FishTV FHD H265
-http://178.132.5.243:25461/live/Lara/1234/10526.ts
-#EXTINF:-1,Combate FHD H265
-http://178.132.5.243:25461/live/Lara/1234/7735.ts
-#EXTINF:-1,Premiere Clubes FHD H265
-http://178.132.5.243:25461/live/Lara/1234/1901.ts
-#EXTINF:-1,Premiere 3 FHD H265
-http://178.132.5.243:25461/live/Lara/1234/7497.ts
-#EXTINF:-1,Premiere 2 FHD H265
-http://178.132.5.243:25461/live/Lara/1234/1904.ts
-#EXTINF:-1,Premiere 4 H265
-http://178.132.5.243:25461/live/Lara/1234/1903.ts
-#EXTINF:-1,Premiere 5 H265
-http://178.132.5.243:25461/live/Lara/1234/1902.ts
-#EXTINF:-1,Cartoon Network FHD H265
-http://178.132.5.243:25461/live/Lara/1234/7486.ts
-#EXTINF:-1,Nat Geo Kids FHD H265
-http://178.132.5.243:25461/live/Lara/1234/10529.ts
-#EXTINF:-1,GNT H265
-http://178.132.5.243:25461/live/Lara/1234/1916.ts
-#EXTINF:-1,Viva FHD H265
-http://178.132.5.243:25461/live/Lara/1234/1890.ts
-#EXTINF:-1,Multishow FHD H265
-http://178.132.5.243:25461/live/Lara/1234/1907.ts
-#EXTINF:-1,Discovery Turbo FHD H265
-http://178.132.5.243:25461/live/Lara/1234/1927.ts
-#EXTINF:-1,Investigacao Discovery FHD H265
-http://178.132.5.243:25461/live/Lara/1234/1909.ts
-#EXTINF:-1,Discovery Home&Health FHD H265
-http://178.132.5.243:25461/live/Lara/1234/1929.ts
-#EXTINF:-1,Lifetime FHD H265
-http://178.132.5.243:25461/live/Lara/1234/10524.ts
-#EXTINF:-1,Food Network FHD H265
-http://178.132.5.243:25461/live/Lara/1234/10525.ts
-#EXTINF:-1,Animal Planet FHD H265
-http://178.132.5.243:25461/live/Lara/1234/1933.ts
-#EXTINF:-1,Discovery Channel FHD H265
-http://178.132.5.243:25461/live/Lara/1234/1930.ts
-#EXTINF:-1,Discovery Theater FHD H265
-http://178.132.5.243:25461/live/Lara/1234/1928.ts
-#EXTINF:-1,Discovery World FHD H265
-http://178.132.5.243:25461/live/Lara/1234/1926.ts
-#EXTINF:-1,Discovery Science FHD H265
-http://178.132.5.243:25461/live/Lara/1234/7500.ts
-#EXTINF:-1,Discovery Civilization FHD H265
-http://178.132.5.243:25461/live/Lara/1234/7501.ts
-#EXTINF:-1,Nat Geo FHD H265
-http://178.132.5.243:25461/live/Lara/1234/1906.ts
-#EXTINF:-1,History FHD H265
-http://178.132.5.243:25461/live/Lara/1234/7487.ts
-#EXTINF:-1,H2 FHD H265
-http://178.132.5.243:25461/live/Lara/1234/1910.ts
-#EXTINF:-1,GloboNews FHD H265
-http://178.132.5.243:25461/live/Lara/1234/10519.ts
-#EXTINF:-1,Globo RJ HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1818.ts
-#EXTINF:-1,Globo RJ Principal
-http://178.132.5.243:25461/live/Lara/1234/2059.ts
-#EXTINF:-1,Globo RJ HD
-http://178.132.5.243:25461/live/Lara/1234/170.ts
-#EXTINF:-1,Globo RJ
-http://178.132.5.243:25461/live/Lara/1234/1448.ts
-#EXTINF:-1,Globo SP HD Principal
-http://178.132.5.243:25461/live/Lara/1234/5095.ts
-#EXTINF:-1,Globo SP Principal
-http://178.132.5.243:25461/live/Lara/1234/1978.ts
-#EXTINF:-1,Globo SP HD
-http://178.132.5.243:25461/live/Lara/1234/1676.ts
-#EXTINF:-1,Globo SP
-http://178.132.5.243:25461/live/Lara/1234/1493.ts
-#EXTINF:-1,Globo Minas HD Principal
-http://178.132.5.243:25461/live/Lara/1234/3492.ts
-#EXTINF:-1,Globo Minas Principal
-http://178.132.5.243:25461/live/Lara/1234/3491.ts
-#EXTINF:-1,Globo Minas HD
-http://178.132.5.243:25461/live/Lara/1234/9093.ts
-#EXTINF:-1,Globo Minas
-http://178.132.5.243:25461/live/Lara/1234/1443.ts
-#EXTINF:-1,Globo Brasilia HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1446.ts
-#EXTINF:-1,Globo Brasilia Principal
-http://178.132.5.243:25461/live/Lara/1234/7777.ts
-#EXTINF:-1,Globo Brasilia HD
-http://178.132.5.243:25461/live/Lara/1234/7842.ts
-#EXTINF:-1,Globo Brasilia
-http://178.132.5.243:25461/live/Lara/1234/2062.ts
-#EXTINF:-1,Globo Nordeste HD
-http://178.132.5.243:25461/live/Lara/1234/7839.ts
-#EXTINF:-1,Globo Nordeste Principal
-http://178.132.5.243:25461/live/Lara/1234/7776.ts
-#EXTINF:-1,Globo Nordeste HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1677.ts
-#EXTINF:-1,Globo Nordeste
-http://178.132.5.243:25461/live/Lara/1234/5080.ts
-#EXTINF:-1,RBS TV Porto Alegre HD1 - Globo RS
-http://178.132.5.243:25461/live/Lara/1234/7634.ts
-#EXTINF:-1,RBS TV Porto Alegre - Globo RS Principal
-http://178.132.5.243:25461/live/Lara/1234/2033.ts
-#EXTINF:-1,RBS TV Porto Alegre - Globo RS
-http://178.132.5.243:25461/live/Lara/1234/43.ts
-#EXTINF:-1,TV Gazeta Vitoria HD1 - Globo ES
-http://178.132.5.243:25461/live/Lara/1234/10768.ts
-#EXTINF:-1,TV Gazeta Vitoria 1 - Globo ES
-http://178.132.5.243:25461/live/Lara/1234/10769.ts
-#EXTINF:-1,NSC TV Florianopolis HD1 - Globo SC
-http://178.132.5.243:25461/live/Lara/1234/1765.ts
-#EXTINF:-1,NSC TV Florianopolis 1 - Globo SC
-http://178.132.5.243:25461/live/Lara/1234/7833.ts
-#EXTINF:-1,NSC TV Chapeco HD1 - Globo SC
-http://178.132.5.243:25461/live/Lara/1234/10772.ts
-#EXTINF:-1,NSC TV Chapeco 1 - Globo SC
-http://178.132.5.243:25461/live/Lara/1234/6187.ts
-#EXTINF:-1,EPTV Campinas HD1 - Globo SP
-http://178.132.5.243:25461/live/Lara/1234/1662.ts
-#EXTINF:-1,EPTV Campinas HD - Globo SP
-http://178.132.5.243:25461/live/Lara/1234/7851.ts
-#EXTINF:-1,EPTV Campinas 1 - Globo SP
-http://178.132.5.243:25461/live/Lara/1234/5082.ts
-#EXTINF:-1,EPTV Central Sao Carlos - Globo SP
-http://178.132.5.243:25461/live/Lara/1234/6166.ts
-#EXTINF:-1,EPTV Central Araraquara 1 - Globo SP
-http://178.132.5.243:25461/live/Lara/1234/6167.ts
-#EXTINF:-1,EPTV Ribeirao HD1 - Globo SP
-http://178.132.5.243:25461/live/Lara/1234/5083.ts
-#EXTINF:-1,EPTV Ribeirao 1 - Globo SP
-http://178.132.5.243:25461/live/Lara/1234/7775.ts
-#EXTINF:-1,TV TEM Bauru - Globo SP
-http://178.132.5.243:25461/live/Lara/1234/1764.ts
-#EXTINF:-1,TV TEM Bauru 1 - Globo SP
-http://178.132.5.243:25461/live/Lara/1234/1444.ts
-#EXTINF:-1,TV TEM SJRP HD1 - Globo SP
-http://178.132.5.243:25461/live/Lara/1234/5065.ts
-#EXTINF:-1,TV TEM SJRP - Globo SP
-http://178.132.5.243:25461/live/Lara/1234/5074.ts
-#EXTINF:-1,TV TEM Sorocaba 2 - Globo SP
-http://178.132.5.243:25461/live/Lara/1234/1447.ts
-#EXTINF:-1,TV TEM Sorocaba 1 - Globo SP
-http://178.132.5.243:25461/live/Lara/1234/5093.ts
-#EXTINF:-1,TV Tribuna 1 - Globo SP
-http://178.132.5.243:25461/live/Lara/1234/7774.ts
-#EXTINF:-1,TV Vanguarda S.J. dos Campos - Globo SP
-http://178.132.5.243:25461/live/Lara/1234/6164.ts
-#EXTINF:-1,TV Vanguarda S. J. dos Campos 1 - Globo SP
-http://178.132.5.243:25461/live/Lara/1234/7773.ts
-#EXTINF:-1,RPC Curitiba HD1 - Globo PR
-http://178.132.5.243:25461/live/Lara/1234/7832.ts
-#EXTINF:-1,RPC Curitiba 1 - Globo PR
-http://178.132.5.243:25461/live/Lara/1234/6163.ts
-#EXTINF:-1,RPC Foz do Iguacu HD - Globo PR
-http://178.132.5.243:25461/live/Lara/1234/6175.ts
-#EXTINF:-1,RPC Foz do Iguacu HD1 - Globo PR
-http://178.132.5.243:25461/live/Lara/1234/10773.ts
-#EXTINF:-1,RPC Foz do Iguacu 1 - Globo PR
-http://178.132.5.243:25461/live/Lara/1234/6186.ts
-#EXTINF:-1,TV Anhanguera Goiania HD1 - Globo GO
-http://178.132.5.243:25461/live/Lara/1234/5094.ts
-#EXTINF:-1,TV Anhanguera Goiania - Globo GO
-http://178.132.5.243:25461/live/Lara/1234/3490.ts
-#EXTINF:-1,TV Anhanguera Goiania 1 - Globo GO
-http://178.132.5.243:25461/live/Lara/1234/7771.ts
-#EXTINF:-1,TV Morena HD - Globo MS
-http://178.132.5.243:25461/live/Lara/1234/10969.ts
-#EXTINF:-1,TV Morena - Globo MS
-http://178.132.5.243:25461/live/Lara/1234/10966.ts
-#EXTINF:-1,TV Centro America - Globo MT
-http://178.132.5.243:25461/live/Lara/1234/6165.ts
-#EXTINF:-1,TV Amazonas - Globo AM (2)
-http://178.132.5.243:25461/live/Lara/1234/5079.ts
-#EXTINF:-1,TV Amazonas - Globo AM
-http://178.132.5.243:25461/live/Lara/1234/7772.ts
-#EXTINF:-1,TV Liberal Belem - Globo PA
-http://178.132.5.243:25461/live/Lara/1234/1664.ts
-#EXTINF:-1,TV Liberal Belem 1 - Globo PA
-http://178.132.5.243:25461/live/Lara/1234/2010.ts
-#EXTINF:-1,TV Bahia HD - Globo BA
-http://178.132.5.243:25461/live/Lara/1234/7633.ts
-#EXTINF:-1,TV Bahia - Globo BA
-http://178.132.5.243:25461/live/Lara/1234/1767.ts
-#EXTINF:-1,TV Bahia - Globo BA (2)
-http://178.132.5.243:25461/live/Lara/1234/6178.ts
-#EXTINF:-1,TV Verdes Mares - Globo FO
-http://178.132.5.243:25461/live/Lara/1234/5072.ts
-#EXTINF:-1,TV Verdes Mares 1 - Globo FO
-http://178.132.5.243:25461/live/Lara/1234/7769.ts
-#EXTINF:-1,TV Sergipe HD - Globo SE
-http://178.132.5.243:25461/live/Lara/1234/10766.ts
-#EXTINF:-1,TV Sergipe - Globo SE
-http://178.132.5.243:25461/live/Lara/1234/10767.ts
-#EXTINF:-1,TV Gazeta HD - Globo AL
-http://178.132.5.243:25461/live/Lara/1234/11754.ts
-#EXTINF:-1,TV Gazeta - Globo AL
-http://178.132.5.243:25461/live/Lara/1234/11753.ts
-#EXTINF:-1,Inter TV Cabugi - Globo RN
-http://178.132.5.243:25461/live/Lara/1234/6177.ts
-#EXTINF:-1,Inter TV Cabugi 1 - Globo RN
-http://178.132.5.243:25461/live/Lara/1234/592.ts
-#EXTINF:-1,TV Mirante Sao Luis HD - Globo MA
-http://178.132.5.243:25461/live/Lara/1234/10968.ts
-#EXTINF:-1,TV Mirante Sao Luis - Globo MA
-http://178.132.5.243:25461/live/Lara/1234/10967.ts
-#EXTINF:-1,TV Clube HD - Globo PI
-http://178.132.5.243:25461/live/Lara/1234/10770.ts
-#EXTINF:-1,TV Clube - Globo PI
-http://178.132.5.243:25461/live/Lara/1234/10771.ts
-#EXTINF:-1,Globo Internacional HD - Americas
-http://178.132.5.243:25461/live/Lara/1234/7841.ts
-#EXTINF:-1,Globo Internacional - Portugal
-http://178.132.5.243:25461/live/Lara/1234/448.ts
-#EXTINF:-1,Globo Internacional Alternativo - Portugal
-http://178.132.5.243:25461/live/Lara/1234/2061.ts
-#EXTINF:-1,Globo Now - Portugal
-http://178.132.5.243:25461/live/Lara/1234/449.ts
-#EXTINF:-1,Band HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1816.ts
-#EXTINF:-1,Band Principal
-http://178.132.5.243:25461/live/Lara/1234/2083.ts
-#EXTINF:-1,Band HD
-http://178.132.5.243:25461/live/Lara/1234/193.ts
-#EXTINF:-1,Band
-http://178.132.5.243:25461/live/Lara/1234/124.ts
-#EXTINF:-1,TV Taroba Cascavel HD - Band PR
-http://178.132.5.243:25461/live/Lara/1234/7852.ts
-#EXTINF:-1,SBT HD Principal
-http://178.132.5.243:25461/live/Lara/1234/5088.ts
-#EXTINF:-1,SBT Principal
-http://178.132.5.243:25461/live/Lara/1234/2027.ts
-#EXTINF:-1,SBT HD
-http://178.132.5.243:25461/live/Lara/1234/147.ts
-#EXTINF:-1,SBT
-http://178.132.5.243:25461/live/Lara/1234/36.ts
-#EXTINF:-1,SBT Interior SP
-http://178.132.5.243:25461/live/Lara/1234/5048.ts
-#EXTINF:-1,SBT Nordeste HD
-http://178.132.5.243:25461/live/Lara/1234/5052.ts
-#EXTINF:-1,TV Serra Dourada HD -SBT GO
-http://178.132.5.243:25461/live/Lara/1234/5049.ts
-#EXTINF:-1,TV Cidade Verde - SBT PI
-http://178.132.5.243:25461/live/Lara/1234/5047.ts
-#EXTINF:-1,TV Difusora Sul - SBT MA
-http://178.132.5.243:25461/live/Lara/1234/5053.ts
-#EXTINF:-1,RecordTV HD Principal
-http://178.132.5.243:25461/live/Lara/1234/3494.ts
-#EXTINF:-1,RecordTV Principal
-http://178.132.5.243:25461/live/Lara/1234/2030.ts
-#EXTINF:-1,RecordTV HD
-http://178.132.5.243:25461/live/Lara/1234/149.ts
-#EXTINF:-1,RecordTV
-http://178.132.5.243:25461/live/Lara/1234/41.ts
-#EXTINF:-1,RIC TV HD - RecordTV SC
-http://178.132.5.243:25461/live/Lara/1234/5055.ts
-#EXTINF:-1,RIC TV Curitiba - RecordTV PR
-http://178.132.5.243:25461/live/Lara/1234/7791.ts
-#EXTINF:-1,TV Vila Real - RecordTV MT
-http://178.132.5.243:25461/live/Lara/1234/5057.ts
-#EXTINF:-1,TV Tropical - RecordTV RN
-http://178.132.5.243:25461/live/Lara/1234/5056.ts
-#EXTINF:-1,RecordTV Internacional HD - Africa
-http://178.132.5.243:25461/live/Lara/1234/5063.ts
-#EXTINF:-1,RecordTV Internacional - Europa
-http://178.132.5.243:25461/live/Lara/1234/6173.ts
-#EXTINF:-1,RecordTV Internacional Alternativo - Europa
-http://178.132.5.243:25461/live/Lara/1234/2029.ts
-#EXTINF:-1,RecordTV Portugal
-http://178.132.5.243:25461/live/Lara/1234/1124.ts
-#EXTINF:-1,RedeTV! HD
-http://178.132.5.243:25461/live/Lara/1234/148.ts
-#EXTINF:-1,RedeTV!
-http://178.132.5.243:25461/live/Lara/1234/39.ts
-#EXTINF:-1,RedeTV! HD Principal
-http://178.132.5.243:25461/live/Lara/1234/5069.ts
-#EXTINF:-1,RedeTV! Principal
-http://178.132.5.243:25461/live/Lara/1234/1954.ts
-#EXTINF:-1,RedeTV! Nordeste HD
-http://178.132.5.243:25461/live/Lara/1234/5062.ts
-#EXTINF:-1,RedeTV! Rondonia - RO
-http://178.132.5.243:25461/live/Lara/1234/5054.ts
-#EXTINF:-1,Rede Brasil
-http://178.132.5.243:25461/live/Lara/1234/40.ts
-#EXTINF:-1,Rede Brasil Principal
-http://178.132.5.243:25461/live/Lara/1234/2031.ts
-#EXTINF:-1,TV Gazeta HD
-http://178.132.5.243:25461/live/Lara/1234/570.ts
-#EXTINF:-1,TV Cultura HD Principal
-http://178.132.5.243:25461/live/Lara/1234/564.ts
-#EXTINF:-1,TV Cultura Principal
-http://178.132.5.243:25461/live/Lara/1234/8.ts
-#EXTINF:-1,TV Cultura
-http://178.132.5.243:25461/live/Lara/1234/1766.ts
-#EXTINF:-1,Futura HD
-http://178.132.5.243:25461/live/Lara/1234/7635.ts
-#EXTINF:-1,Futura
-http://178.132.5.243:25461/live/Lara/1234/91.ts
-#EXTINF:-1,Futura Principal
-http://178.132.5.243:25461/live/Lara/1234/2064.ts
-#EXTINF:-1,TV Escola HD
-http://178.132.5.243:25461/live/Lara/1234/565.ts
-#EXTINF:-1,TV Escola
-http://178.132.5.243:25461/live/Lara/1234/5042.ts
-#EXTINF:-1,TV Brasil
-http://178.132.5.243:25461/live/Lara/1234/9.ts
-#EXTINF:-1,Rede Família HD
-http://178.132.5.243:25461/live/Lara/1234/569.ts
-#EXTINF:-1,Terra Viva
-http://178.132.5.243:25461/live/Lara/1234/16.ts
-#EXTINF:-1,Canal Rural
-http://178.132.5.243:25461/live/Lara/1234/119.ts
-#EXTINF:-1,NBR
-http://178.132.5.243:25461/live/Lara/1234/63.ts
-#EXTINF:-1,TV Senado
-http://178.132.5.243:25461/live/Lara/1234/5041.ts
-#EXTINF:-1,TV Câmara
-http://178.132.5.243:25461/live/Lara/1234/567.ts
-#EXTINF:-1,TV Justiça
-http://178.132.5.243:25461/live/Lara/1234/5038.ts
-#EXTINF:-1,Telecine Premium HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1773.ts
-#EXTINF:-1,Telecine Premium Principal
-http://178.132.5.243:25461/live/Lara/1234/2016.ts
-#EXTINF:-1,Telecine Premium HD
-http://178.132.5.243:25461/live/Lara/1234/138.ts
-#EXTINF:-1,Telecine Premium
-http://178.132.5.243:25461/live/Lara/1234/18.ts
-#EXTINF:-1,Telecine Action HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1776.ts
-#EXTINF:-1,Telecine Action Principal
-http://178.132.5.243:25461/live/Lara/1234/2020.ts
-#EXTINF:-1,Telecine Action HD
-http://178.132.5.243:25461/live/Lara/1234/141.ts
-#EXTINF:-1,Telecine Action
-http://178.132.5.243:25461/live/Lara/1234/22.ts
-#EXTINF:-1,Telecine Touch HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1772.ts
-#EXTINF:-1,Telecine Touch Principal
-http://178.132.5.243:25461/live/Lara/1234/2015.ts
-#EXTINF:-1,Telecine Touch HD
-http://178.132.5.243:25461/live/Lara/1234/137.ts
-#EXTINF:-1,Telecine Touch
-http://178.132.5.243:25461/live/Lara/1234/17.ts
-#EXTINF:-1,Telecine Pipoca HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1774.ts
-#EXTINF:-1,Telecine Pipoca Principal
-http://178.132.5.243:25461/live/Lara/1234/2017.ts
-#EXTINF:-1,Telecine Pipoca HD
-http://178.132.5.243:25461/live/Lara/1234/139.ts
-#EXTINF:-1,Telecine Pipoca
-http://178.132.5.243:25461/live/Lara/1234/19.ts
-#EXTINF:-1,Telecine Fun HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1775.ts
-#EXTINF:-1,Telecine Fun Principal
-http://178.132.5.243:25461/live/Lara/1234/2018.ts
-#EXTINF:-1,Telecine Fun HD
-http://178.132.5.243:25461/live/Lara/1234/140.ts
-#EXTINF:-1,Telecine Fun
-http://178.132.5.243:25461/live/Lara/1234/20.ts
-#EXTINF:-1,Telecine Cult HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1873.ts
-#EXTINF:-1,Telecine Cult Principal
-http://178.132.5.243:25461/live/Lara/1234/2019.ts
-#EXTINF:-1,Telecine Cult HD
-http://178.132.5.243:25461/live/Lara/1234/1666.ts
-#EXTINF:-1,Telecine Cult
-http://178.132.5.243:25461/live/Lara/1234/21.ts
-#EXTINF:-1,HBO HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1789.ts
-#EXTINF:-1,HBO Principal
-http://178.132.5.243:25461/live/Lara/1234/2057.ts
-#EXTINF:-1,HBO HD
-http://178.132.5.243:25461/live/Lara/1234/165.ts
-#EXTINF:-1,HBO
-http://178.132.5.243:25461/live/Lara/1234/84.ts
-#EXTINF:-1,HBO 2 HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1791.ts
-#EXTINF:-1,HBO 2 Principal
-http://178.132.5.243:25461/live/Lara/1234/2058.ts
-#EXTINF:-1,HBO 2 HD
-http://178.132.5.243:25461/live/Lara/1234/167.ts
-#EXTINF:-1,HBO 2
-http://178.132.5.243:25461/live/Lara/1234/79.ts
-#EXTINF:-1,HBO Plus HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1788.ts
-#EXTINF:-1,HBO Plus Principal
-http://178.132.5.243:25461/live/Lara/1234/2055.ts
-#EXTINF:-1,HBO Plus HD
-http://178.132.5.243:25461/live/Lara/1234/164.ts
-#EXTINF:-1,HBO Plus
-http://178.132.5.243:25461/live/Lara/1234/82.ts
-#EXTINF:-1,HBO Plus Panregional Principal
-http://178.132.5.243:25461/live/Lara/1234/2056.ts
-#EXTINF:-1,HBO Plus Panregional
-http://178.132.5.243:25461/live/Lara/1234/81.ts
-#EXTINF:-1,HBO Family HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1790.ts
-#EXTINF:-1,HBO Family Principal
-http://178.132.5.243:25461/live/Lara/1234/2053.ts
-#EXTINF:-1,HBO Family HD
-http://178.132.5.243:25461/live/Lara/1234/166.ts
-#EXTINF:-1,HBO Family
-http://178.132.5.243:25461/live/Lara/1234/83.ts
-#EXTINF:-1,HBO Signature HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1787.ts
-#EXTINF:-1,HBO Signature Principal
-http://178.132.5.243:25461/live/Lara/1234/2054.ts
-#EXTINF:-1,HBO Signature HD
-http://178.132.5.243:25461/live/Lara/1234/163.ts
-#EXTINF:-1,HBO Signature
-http://178.132.5.243:25461/live/Lara/1234/80.ts
-#EXTINF:-1,Max HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1879.ts
-#EXTINF:-1,Max Principal
-http://178.132.5.243:25461/live/Lara/1234/3481.ts
-#EXTINF:-1,Max HD
-http://178.132.5.243:25461/live/Lara/1234/1672.ts
-#EXTINF:-1,Max
-http://178.132.5.243:25461/live/Lara/1234/73.ts
-#EXTINF:-1,Max UP HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1877.ts
-#EXTINF:-1,Max UP Principal
-http://178.132.5.243:25461/live/Lara/1234/3480.ts
-#EXTINF:-1,Max UP HD
-http://178.132.5.243:25461/live/Lara/1234/1670.ts
-#EXTINF:-1,Max UP
-http://178.132.5.243:25461/live/Lara/1234/70.ts
-#EXTINF:-1,Max Prime HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1878.ts
-#EXTINF:-1,Max Prime Principal
-http://178.132.5.243:25461/live/Lara/1234/3482.ts
-#EXTINF:-1,Max Prime HD
-http://178.132.5.243:25461/live/Lara/1234/1671.ts
-#EXTINF:-1,Max Prime
-http://178.132.5.243:25461/live/Lara/1234/72.ts
-#EXTINF:-1,Max Prime Panregional Principal
-http://178.132.5.243:25461/live/Lara/1234/2050.ts
-#EXTINF:-1,Max Prime Panregional
-http://178.132.5.243:25461/live/Lara/1234/71.ts
-#EXTINF:-1,Cinemax HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1887.ts
-#EXTINF:-1,Cinemax Principal
-http://178.132.5.243:25461/live/Lara/1234/2078.ts
-#EXTINF:-1,Cinemax HD
-http://178.132.5.243:25461/live/Lara/1234/1682.ts
-#EXTINF:-1,Cinemax
-http://178.132.5.243:25461/live/Lara/1234/115.ts
-#EXTINF:-1,FOX HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1799.ts
-#EXTINF:-1,FOX Principal
-http://178.132.5.243:25461/live/Lara/1234/1982.ts
-#EXTINF:-1,FOX HD
-http://178.132.5.243:25461/live/Lara/1234/175.ts
-#EXTINF:-1,FOX
-http://178.132.5.243:25461/live/Lara/1234/95.ts
-#EXTINF:-1,FOX Premium 1 HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1798.ts
-#EXTINF:-1,FOX Premium 1 Principal
-http://178.132.5.243:25461/live/Lara/1234/7779.ts
-#EXTINF:-1,FOX Premium 1 HD
-http://178.132.5.243:25461/live/Lara/1234/177.ts
-#EXTINF:-1,FOX Premium 2 HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1797.ts
-#EXTINF:-1,FOX Premium 2 Principal
-http://178.132.5.243:25461/live/Lara/1234/7778.ts
-#EXTINF:-1,FOX Premium 2 HD
-http://178.132.5.243:25461/live/Lara/1234/176.ts
-#EXTINF:-1,FOX Life HD Principal
-http://178.132.5.243:25461/live/Lara/1234/5067.ts
-#EXTINF:-1,FOX Life Principal
-http://178.132.5.243:25461/live/Lara/1234/5068.ts
-#EXTINF:-1,FOX Life HD
-http://178.132.5.243:25461/live/Lara/1234/174.ts
-#EXTINF:-1,FOX Life
-http://178.132.5.243:25461/live/Lara/1234/94.ts
-#EXTINF:-1,FX HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1794.ts
-#EXTINF:-1,FX Principal
-http://178.132.5.243:25461/live/Lara/1234/2063.ts
-#EXTINF:-1,FX HD
-http://178.132.5.243:25461/live/Lara/1234/171.ts
-#EXTINF:-1,FX
-http://178.132.5.243:25461/live/Lara/1234/90.ts
-#EXTINF:-1,Canal Sony HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1813.ts
-#EXTINF:-1,Canal Sony Principal
-http://178.132.5.243:25461/live/Lara/1234/3487.ts
-#EXTINF:-1,Canal Sony HD
-http://178.132.5.243:25461/live/Lara/1234/190.ts
-#EXTINF:-1,Canal Sony
-http://178.132.5.243:25461/live/Lara/1234/118.ts
-#EXTINF:-1,AXN HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1817.ts
-#EXTINF:-1,AXN Principal
-http://178.132.5.243:25461/live/Lara/1234/2004.ts
-#EXTINF:-1,AXN HD
-http://178.132.5.243:25461/live/Lara/1234/194.ts
-#EXTINF:-1,AXN
-http://178.132.5.243:25461/live/Lara/1234/128.ts
-#EXTINF:-1,AMC HD Principal
-http://178.132.5.243:25461/live/Lara/1234/7451.ts
-#EXTINF:-1,AMC Principal
-http://178.132.5.243:25461/live/Lara/1234/6209.ts
-#EXTINF:-1,AMC HD
-http://178.132.5.243:25461/live/Lara/1234/5051.ts
-#EXTINF:-1,AMC
-http://178.132.5.243:25461/live/Lara/1234/6238.ts
-#EXTINF:-1,Warner Channel HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1761.ts
-#EXTINF:-1,Warner Channel Principal
-http://178.132.5.243:25461/live/Lara/1234/1938.ts
-#EXTINF:-1,Warner Channel HD
-http://178.132.5.243:25461/live/Lara/1234/580.ts
-#EXTINF:-1,Warner Channel
-http://178.132.5.243:25461/live/Lara/1234/2.ts
-#EXTINF:-1,Space HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1780.ts
-#EXTINF:-1,Space Principal
-http://178.132.5.243:25461/live/Lara/1234/3486.ts
-#EXTINF:-1,Space HD
-http://178.132.5.243:25461/live/Lara/1234/146.ts
-#EXTINF:-1,Space
-http://178.132.5.243:25461/live/Lara/1234/32.ts
-#EXTINF:-1,TNT HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1769.ts
-#EXTINF:-1,TNT Principal
-http://178.132.5.243:25461/live/Lara/1234/2014.ts
-#EXTINF:-1,TNT HD
-http://178.132.5.243:25461/live/Lara/1234/136.ts
-#EXTINF:-1,TNT
-http://178.132.5.243:25461/live/Lara/1234/13.ts
-#EXTINF:-1,TNT Series HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1768.ts
-#EXTINF:-1,TNT Series Principal
-http://178.132.5.243:25461/live/Lara/1234/2013.ts
-#EXTINF:-1,TNT Series HD
-http://178.132.5.243:25461/live/Lara/1234/135.ts
-#EXTINF:-1,TNT Series
-http://178.132.5.243:25461/live/Lara/1234/12.ts
-#EXTINF:-1,Universal TV HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1763.ts
-#EXTINF:-1,Universal TV Principal
-http://178.132.5.243:25461/live/Lara/1234/3483.ts
-#EXTINF:-1,Universal TV HD
-http://178.132.5.243:25461/live/Lara/1234/134.ts
-#EXTINF:-1,Universal TV
-http://178.132.5.243:25461/live/Lara/1234/5.ts
-#EXTINF:-1,Megapix HD Principal
-http://178.132.5.243:25461/live/Lara/1234/4770.ts
-#EXTINF:-1,Megapix Principal
-http://178.132.5.243:25461/live/Lara/1234/3485.ts
-#EXTINF:-1,Megapix HD
-http://178.132.5.243:25461/live/Lara/1234/160.ts
-#EXTINF:-1,Megapix
-http://178.132.5.243:25461/live/Lara/1234/69.ts
-#EXTINF:-1,TBS HD Principal
-http://178.132.5.243:25461/live/Lara/1234/4769.ts
-#EXTINF:-1,TBS Principal
-http://178.132.5.243:25461/live/Lara/1234/2021.ts
-#EXTINF:-1,TBS HD
-http://178.132.5.243:25461/live/Lara/1234/142.ts
-#EXTINF:-1,TBS
-http://178.132.5.243:25461/live/Lara/1234/24.ts
-#EXTINF:-1,Sundance TV HD Principal
-http://178.132.5.243:25461/live/Lara/1234/5066.ts
-#EXTINF:-1,Sundance TV
-http://178.132.5.243:25461/live/Lara/1234/1101.ts
-#EXTINF:-1,TCM Principal
-http://178.132.5.243:25461/live/Lara/1234/5064.ts
-#EXTINF:-1,TCM
-http://178.132.5.243:25461/live/Lara/1234/23.ts
-#EXTINF:-1,I.Sat Principal
-http://178.132.5.243:25461/live/Lara/1234/2052.ts
-#EXTINF:-1,I.Sat
-http://178.132.5.243:25461/live/Lara/1234/78.ts
-#EXTINF:-1,Studio Universal HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1875.ts
-#EXTINF:-1,Studio Universal Principal
-http://178.132.5.243:25461/live/Lara/1234/3484.ts
-#EXTINF:-1,Studio Universal HD
-http://178.132.5.243:25461/live/Lara/1234/1668.ts
-#EXTINF:-1,Studio Universal
-http://178.132.5.243:25461/live/Lara/1234/26.ts
-#EXTINF:-1,Syfy HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1874.ts
-#EXTINF:-1,Syfy Principal
-http://178.132.5.243:25461/live/Lara/1234/6241.ts
-#EXTINF:-1,Syfy HD
-http://178.132.5.243:25461/live/Lara/1234/1667.ts
-#EXTINF:-1,Syfy
-http://178.132.5.243:25461/live/Lara/1234/25.ts
-#EXTINF:-1,Mais Globosat HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1880.ts
-#EXTINF:-1,Mais Globosat Principal
-http://178.132.5.243:25461/live/Lara/1234/5091.ts
-#EXTINF:-1,Mais Globosat HD
-http://178.132.5.243:25461/live/Lara/1234/1675.ts
-#EXTINF:-1,Mais Globosat
-http://178.132.5.243:25461/live/Lara/1234/74.ts
-#EXTINF:-1,A&E HD Principal
-http://178.132.5.243:25461/live/Lara/1234/2084.ts
-#EXTINF:-1,A&E Principal
-http://178.132.5.243:25461/live/Lara/1234/3489.ts
-#EXTINF:-1,A&E HD
-http://178.132.5.243:25461/live/Lara/1234/1824.ts
-#EXTINF:-1,A&E
-http://178.132.5.243:25461/live/Lara/1234/132.ts
-#EXTINF:-1,Paramount Channel HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1782.ts
-#EXTINF:-1,Paramount Channel Principal
-http://178.132.5.243:25461/live/Lara/1234/1955.ts
-#EXTINF:-1,Paramount Channel HD
-http://178.132.5.243:25461/live/Lara/1234/155.ts
-#EXTINF:-1,Paramount Channel
-http://178.132.5.243:25461/live/Lara/1234/57.ts
-#EXTINF:-1,Canal Brasil HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1888.ts
-#EXTINF:-1,Canal Brasil Principal
-http://178.132.5.243:25461/live/Lara/1234/3488.ts
-#EXTINF:-1,Canal Brasil HD
-http://178.132.5.243:25461/live/Lara/1234/1683.ts
-#EXTINF:-1,Canal Brasil
-http://178.132.5.243:25461/live/Lara/1234/120.ts
-#EXTINF:-1,Prime Box Brazil HD Principal
-http://178.132.5.243:25461/live/Lara/1234/7630.ts
-#EXTINF:-1,Prime Box Brazil Principal
-http://178.132.5.243:25461/live/Lara/1234/2034.ts
-#EXTINF:-1,Prime Box Brazil
-http://178.132.5.243:25461/live/Lara/1234/45.ts
-#EXTINF:-1,Telecine Premium HD LEG
-http://178.132.5.243:25461/live/Lara/1234/9747.ts
-#EXTINF:-1,Telecine Premium LEG
-http://178.132.5.243:25461/live/Lara/1234/8011.ts
-#EXTINF:-1,Telecine Action HD LEG
-http://178.132.5.243:25461/live/Lara/1234/8922.ts
-#EXTINF:-1,Telecine Action LEG
-http://178.132.5.243:25461/live/Lara/1234/8921.ts
-#EXTINF:-1,Telecine Touch HD LEG
-http://178.132.5.243:25461/live/Lara/1234/8916.ts
-#EXTINF:-1,Telecine Touch LEG
-http://178.132.5.243:25461/live/Lara/1234/8915.ts
-#EXTINF:-1,Telecine Pipoca HD LEG
-http://178.132.5.243:25461/live/Lara/1234/8918.ts
-#EXTINF:-1,Telecine Pipoca LEG
-http://178.132.5.243:25461/live/Lara/1234/8917.ts
-#EXTINF:-1,Telecine Fun HD LEG
-http://178.132.5.243:25461/live/Lara/1234/8920.ts
-#EXTINF:-1,Telecine Fun LEG
-http://178.132.5.243:25461/live/Lara/1234/8919.ts
-#EXTINF:-1,HBO HD LEG
-http://178.132.5.243:25461/live/Lara/1234/8912.ts
-#EXTINF:-1,HBO LEG
-http://178.132.5.243:25461/live/Lara/1234/8909.ts
-#EXTINF:-1,HBO Plus HD LEG
-http://178.132.5.243:25461/live/Lara/1234/8911.ts
-#EXTINF:-1,HBO Plus LEG
-http://178.132.5.243:25461/live/Lara/1234/8910.ts
-#EXTINF:-1,Max LEG
-http://178.132.5.243:25461/live/Lara/1234/8009.ts
-#EXTINF:-1,Max UP HD LEG
-http://178.132.5.243:25461/live/Lara/1234/9753.ts
-#EXTINF:-1,Max UP LEG
-http://178.132.5.243:25461/live/Lara/1234/9752.ts
-#EXTINF:-1,Max Prime LEG
-http://178.132.5.243:25461/live/Lara/1234/8010.ts
-#EXTINF:-1,FOX HD LEG
-http://178.132.5.243:25461/live/Lara/1234/8914.ts
-#EXTINF:-1,FOX LEG
-http://178.132.5.243:25461/live/Lara/1234/8913.ts
-#EXTINF:-1,FX HD LEG
-http://178.132.5.243:25461/live/Lara/1234/9755.ts
-#EXTINF:-1,FX LEG
-http://178.132.5.243:25461/live/Lara/1234/9754.ts
-#EXTINF:-1,Canal Sony HD LEG
-http://178.132.5.243:25461/live/Lara/1234/11136.ts
-#EXTINF:-1,Canal Sony LEG
-http://178.132.5.243:25461/live/Lara/1234/11135.ts
-#EXTINF:-1,Warner HD LEG
-http://178.132.5.243:25461/live/Lara/1234/9744.ts
-#EXTINF:-1,Warner LEG
-http://178.132.5.243:25461/live/Lara/1234/9743.ts
-#EXTINF:-1,AXN HD LEG
-http://178.132.5.243:25461/live/Lara/1234/8926.ts
-#EXTINF:-1,AXN LEG
-http://178.132.5.243:25461/live/Lara/1234/8925.ts
-#EXTINF:-1,TNT HD LEG
-http://178.132.5.243:25461/live/Lara/1234/8924.ts
-#EXTINF:-1,TNT LEG
-http://178.132.5.243:25461/live/Lara/1234/8923.ts
-#EXTINF:-1,TNT Series HD LEG
-http://178.132.5.243:25461/live/Lara/1234/9746.ts
-#EXTINF:-1,TNT Series LEG
-http://178.132.5.243:25461/live/Lara/1234/9745.ts
-#EXTINF:-1,Megapix HD LEG
-http://178.132.5.243:25461/live/Lara/1234/9751.ts
-#EXTINF:-1,Megapix LEG
-http://178.132.5.243:25461/live/Lara/1234/9750.ts
-#EXTINF:-1,Space HD LEG
-http://178.132.5.243:25461/live/Lara/1234/9749.ts
-#EXTINF:-1,Space LEG
-http://178.132.5.243:25461/live/Lara/1234/9748.ts
-#EXTINF:-1,SporTV HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1777.ts
-#EXTINF:-1,SporTV Principal
-http://178.132.5.243:25461/live/Lara/1234/2022.ts
-#EXTINF:-1,SporTV HD
-http://178.132.5.243:25461/live/Lara/1234/143.ts
-#EXTINF:-1,SporTV
-http://178.132.5.243:25461/live/Lara/1234/31.ts
-#EXTINF:-1,SporTV 2 HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1779.ts
-#EXTINF:-1,SporTV 2 Principal
-http://178.132.5.243:25461/live/Lara/1234/2024.ts
-#EXTINF:-1,SporTV 2 HD
-http://178.132.5.243:25461/live/Lara/1234/145.ts
-#EXTINF:-1,SporTV 2
-http://178.132.5.243:25461/live/Lara/1234/30.ts
-#EXTINF:-1,SporTV 3 HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1778.ts
-#EXTINF:-1,SporTV 3 Principal
-http://178.132.5.243:25461/live/Lara/1234/2023.ts
-#EXTINF:-1,SporTV 3 HD
-http://178.132.5.243:25461/live/Lara/1234/144.ts
-#EXTINF:-1,SporTV 3
-http://178.132.5.243:25461/live/Lara/1234/28.ts
-#EXTINF:-1,FOX Sports HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1795.ts
-#EXTINF:-1,FOX Sports Principal
-http://178.132.5.243:25461/live/Lara/1234/2066.ts
-#EXTINF:-1,FOX Sports HD
-http://178.132.5.243:25461/live/Lara/1234/173.ts
-#EXTINF:-1,FOX Sports
-http://178.132.5.243:25461/live/Lara/1234/93.ts
-#EXTINF:-1,FOX Sports 2 HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1796.ts
-#EXTINF:-1,FOX Sports 2 Principal
-http://178.132.5.243:25461/live/Lara/1234/2065.ts
-#EXTINF:-1,FOX Sports 2 HD
-http://178.132.5.243:25461/live/Lara/1234/172.ts
-#EXTINF:-1,FOX Sports 2
-http://178.132.5.243:25461/live/Lara/1234/92.ts
-#EXTINF:-1,ESPN Brasil HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1801.ts
-#EXTINF:-1,ESPN Brasil Principal
-http://178.132.5.243:25461/live/Lara/1234/2067.ts
-#EXTINF:-1,ESPN Brasil HD
-http://178.132.5.243:25461/live/Lara/1234/180.ts
-#EXTINF:-1,ESPN Brasil
-http://178.132.5.243:25461/live/Lara/1234/98.ts
-#EXTINF:-1,ESPN HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1800.ts
-#EXTINF:-1,ESPN Principal
-http://178.132.5.243:25461/live/Lara/1234/1986.ts
-#EXTINF:-1,ESPN HD
-http://178.132.5.243:25461/live/Lara/1234/179.ts
-#EXTINF:-1,ESPN
-http://178.132.5.243:25461/live/Lara/1234/99.ts
-#EXTINF:-1,ESPN +  HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1802.ts
-#EXTINF:-1,ESPN + Principal
-http://178.132.5.243:25461/live/Lara/1234/1985.ts
-#EXTINF:-1,ESPN +  HD
-http://178.132.5.243:25461/live/Lara/1234/1450.ts
-#EXTINF:-1,ESPN +
-http://178.132.5.243:25461/live/Lara/1234/181.ts
-#EXTINF:-1,ESPN Extra HD Principal
-http://178.132.5.243:25461/live/Lara/1234/5092.ts
-#EXTINF:-1,ESPN Extra
-http://178.132.5.243:25461/live/Lara/1234/5085.ts
-#EXTINF:-1,Esporte Interativo HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1805.ts
-#EXTINF:-1,Esporte Interativo Principal
-http://178.132.5.243:25461/live/Lara/1234/2068.ts
-#EXTINF:-1,Esporte Interativo HD
-http://178.132.5.243:25461/live/Lara/1234/182.ts
-#EXTINF:-1,Esporte Interativo
-http://178.132.5.243:25461/live/Lara/1234/101.ts
-#EXTINF:-1,Esporte Interativo 2 HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1804.ts
-#EXTINF:-1,Esporte Interativo 2 Principal
-http://178.132.5.243:25461/live/Lara/1234/2069.ts
-#EXTINF:-1,Esporte Interativo 2 HD
-http://178.132.5.243:25461/live/Lara/1234/183.ts
-#EXTINF:-1,Esporte Interativo 2
-http://178.132.5.243:25461/live/Lara/1234/100.ts
-#EXTINF:-1,Esporte Interativo BR HD Principal
-http://178.132.5.243:25461/live/Lara/1234/7834.ts
-#EXTINF:-1,Esporte Interativo BR
-http://178.132.5.243:25461/live/Lara/1234/7835.ts
-#EXTINF:-1,Esporte Interativo BR HD
-http://178.132.5.243:25461/live/Lara/1234/178.ts
-#EXTINF:-1,BandSports HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1815.ts
-#EXTINF:-1,BandSports Principal
-http://178.132.5.243:25461/live/Lara/1234/2081.ts
-#EXTINF:-1,BandSports HD
-http://178.132.5.243:25461/live/Lara/1234/192.ts
-#EXTINF:-1,BandSports
-http://178.132.5.243:25461/live/Lara/1234/125.ts
-#EXTINF:-1,Canal Off HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1783.ts
-#EXTINF:-1,Canal Off Principal
-http://178.132.5.243:25461/live/Lara/1234/1965.ts
-#EXTINF:-1,Canal Off HD
-http://178.132.5.243:25461/live/Lara/1234/156.ts
-#EXTINF:-1,Canal Off
-http://178.132.5.243:25461/live/Lara/1234/58.ts
-#EXTINF:-1,Woohoo HD Principal
-http://178.132.5.243:25461/live/Lara/1234/7454.ts
-#EXTINF:-1,Woohoo Principal
-http://178.132.5.243:25461/live/Lara/1234/5046.ts
-#EXTINF:-1,Woohoo HD
-http://178.132.5.243:25461/live/Lara/1234/7432.ts
-#EXTINF:-1,Woohoo
-http://178.132.5.243:25461/live/Lara/1234/1.ts
-#EXTINF:-1,FishTV HD Principal
-http://178.132.5.243:25461/live/Lara/1234/7825.ts
-#EXTINF:-1,FishTV Principal
-http://178.132.5.243:25461/live/Lara/1234/1980.ts
-#EXTINF:-1,FishTV
-http://178.132.5.243:25461/live/Lara/1234/97.ts
-#EXTINF:-1,FishTV HD
-http://178.132.5.243:25461/live/Lara/1234/10760.ts
-#EXTINF:-1,Combate HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1811.ts
-#EXTINF:-1,Combate Principal
-http://178.132.5.243:25461/live/Lara/1234/2076.ts
-#EXTINF:-1,Combate HD
-http://178.132.5.243:25461/live/Lara/1234/189.ts
-#EXTINF:-1,Combate
-http://178.132.5.243:25461/live/Lara/1234/114.ts
-#EXTINF:-1,Premiere Interativo
-http://178.132.5.243:25461/live/Lara/1234/7827.ts
-#EXTINF:-1,PFC Internacional Alternativo
-http://178.132.5.243:25461/live/Lara/1234/1633.ts
-#EXTINF:-1,PFC Internacional
-http://178.132.5.243:25461/live/Lara/1234/588.ts
-#EXTINF:-1,Premiere Clubes HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1781.ts
-#EXTINF:-1,Premiere Clubes Principal
-http://178.132.5.243:25461/live/Lara/1234/2044.ts
-#EXTINF:-1,Premiere Clubes HD
-http://178.132.5.243:25461/live/Lara/1234/154.ts
-#EXTINF:-1,Premiere Clubes
-http://178.132.5.243:25461/live/Lara/1234/46.ts
-#EXTINF:-1,Premiere 2 HD Principal
-http://178.132.5.243:25461/live/Lara/1234/5078.ts
-#EXTINF:-1,Premiere 2 Principal
-http://178.132.5.243:25461/live/Lara/1234/2043.ts
-#EXTINF:-1,Premiere 2 HD
-http://178.132.5.243:25461/live/Lara/1234/153.ts
-#EXTINF:-1,Premiere 2
-http://178.132.5.243:25461/live/Lara/1234/54.ts
-#EXTINF:-1,Premiere 3 HD Principal
-http://178.132.5.243:25461/live/Lara/1234/5077.ts
-#EXTINF:-1,Premiere 3 Principal
-http://178.132.5.243:25461/live/Lara/1234/2042.ts
-#EXTINF:-1,Premiere 3 HD
-http://178.132.5.243:25461/live/Lara/1234/152.ts
-#EXTINF:-1,Premiere 3
-http://178.132.5.243:25461/live/Lara/1234/53.ts
-#EXTINF:-1,Premiere 4 HD Principal
-http://178.132.5.243:25461/live/Lara/1234/5071.ts
-#EXTINF:-1,Premiere 4 Principal
-http://178.132.5.243:25461/live/Lara/1234/2041.ts
-#EXTINF:-1,Premiere 4 HD
-http://178.132.5.243:25461/live/Lara/1234/151.ts
-#EXTINF:-1,Premiere 4
-http://178.132.5.243:25461/live/Lara/1234/52.ts
-#EXTINF:-1,Premiere 5 HD Principal
-http://178.132.5.243:25461/live/Lara/1234/5070.ts
-#EXTINF:-1,Premiere 5 Principal
-http://178.132.5.243:25461/live/Lara/1234/2040.ts
-#EXTINF:-1,Premiere 5 HD
-http://178.132.5.243:25461/live/Lara/1234/150.ts
-#EXTINF:-1,Premiere 5
-http://178.132.5.243:25461/live/Lara/1234/51.ts
-#EXTINF:-1,Premiere 6 HD Principal
-http://178.132.5.243:25461/live/Lara/1234/7691.ts
-#EXTINF:-1,Premiere 6 Principal
-http://178.132.5.243:25461/live/Lara/1234/2039.ts
-#EXTINF:-1,Premiere 6 HD
-http://178.132.5.243:25461/live/Lara/1234/6219.ts
-#EXTINF:-1,Premiere 6
-http://178.132.5.243:25461/live/Lara/1234/50.ts
-#EXTINF:-1,Premiere 7 HD Principal
-http://178.132.5.243:25461/live/Lara/1234/7690.ts
-#EXTINF:-1,Premiere 7 Principal
-http://178.132.5.243:25461/live/Lara/1234/2038.ts
-#EXTINF:-1,Premiere 7 HD
-http://178.132.5.243:25461/live/Lara/1234/6218.ts
-#EXTINF:-1,Premiere 7
-http://178.132.5.243:25461/live/Lara/1234/49.ts
-#EXTINF:-1,Mosaico Multijogos HD
-http://178.132.5.243:25461/live/Lara/1234/6217.ts
-#EXTINF:-1,Mosaico Multijogos Principal
-http://178.132.5.243:25461/live/Lara/1234/2037.ts
-#EXTINF:-1,Mosaico Multijogos
-http://178.132.5.243:25461/live/Lara/1234/48.ts
-#EXTINF:-1,Premiere 9 HD
-http://178.132.5.243:25461/live/Lara/1234/6216.ts
-#EXTINF:-1,Premiere 9 Principal
-http://178.132.5.243:25461/live/Lara/1234/2036.ts
-#EXTINF:-1,Premiere 9
-http://178.132.5.243:25461/live/Lara/1234/47.ts
-#EXTINF:-1,Boomerang HD Principal
-http://178.132.5.243:25461/live/Lara/1234/7636.ts
-#EXTINF:-1,Boomerang Principal
-http://178.132.5.243:25461/live/Lara/1234/2079.ts
-#EXTINF:-1,Boomerang HD
-http://178.132.5.243:25461/live/Lara/1234/10758.ts
-#EXTINF:-1,Boomerang
-http://178.132.5.243:25461/live/Lara/1234/121.ts
-#EXTINF:-1,Cartoon Network HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1812.ts
-#EXTINF:-1,Cartoon Network Principal
-http://178.132.5.243:25461/live/Lara/1234/1995.ts
-#EXTINF:-1,Cartoon Network HD
-http://178.132.5.243:25461/live/Lara/1234/127.ts
-#EXTINF:-1,Cartoon Network
-http://178.132.5.243:25461/live/Lara/1234/116.ts
-#EXTINF:-1,Tooncast Principal
-http://178.132.5.243:25461/live/Lara/1234/11.ts
-#EXTINF:-1,Tooncast
-http://178.132.5.243:25461/live/Lara/1234/2012.ts
-#EXTINF:-1,Nick HD Principal
-http://178.132.5.243:25461/live/Lara/1234/7638.ts
-#EXTINF:-1,Nick Principal
-http://178.132.5.243:25461/live/Lara/1234/2047.ts
-#EXTINF:-1,Nick HD
-http://178.132.5.243:25461/live/Lara/1234/1820.ts
-#EXTINF:-1,Nick
-http://178.132.5.243:25461/live/Lara/1234/60.ts
-#EXTINF:-1,Nick Jr. HD Principal
-http://178.132.5.243:25461/live/Lara/1234/7631.ts
-#EXTINF:-1,Nick Jr. Principal
-http://178.132.5.243:25461/live/Lara/1234/2048.ts
-#EXTINF:-1,Nick Jr. HD
-http://178.132.5.243:25461/live/Lara/1234/7455.ts
-#EXTINF:-1,Nick Jr.
-http://178.132.5.243:25461/live/Lara/1234/61.ts
-#EXTINF:-1,Disney XD Principal
-http://178.132.5.243:25461/live/Lara/1234/2071.ts
-#EXTINF:-1,Disney XD
-http://178.132.5.243:25461/live/Lara/1234/103.ts
-#EXTINF:-1,Disney Channel + HD Principal
-http://178.132.5.243:25461/live/Lara/1234/4772.ts
-#EXTINF:-1,Disney Channel + Principal
-http://178.132.5.243:25461/live/Lara/1234/3496.ts
-#EXTINF:-1,Disney Channel + HD
-http://178.132.5.243:25461/live/Lara/1234/1680.ts
-#EXTINF:-1,Disney Channel
-http://178.132.5.243:25461/live/Lara/1234/105.ts
-#EXTINF:-1,Disney Junior HD Principal
-http://178.132.5.243:25461/live/Lara/1234/10759.ts
-#EXTINF:-1,Disney Junior Principal
-http://178.132.5.243:25461/live/Lara/1234/2072.ts
-#EXTINF:-1,Disney Junior HD (2)
-http://178.132.5.243:25461/live/Lara/1234/11757.ts
-#EXTINF:-1,Disney Junior
-http://178.132.5.243:25461/live/Lara/1234/104.ts
-#EXTINF:-1,Discovery Kids HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1886.ts
-#EXTINF:-1,Discovery Kids Principal
-http://178.132.5.243:25461/live/Lara/1234/1991.ts
-#EXTINF:-1,Discovery Kids HD
-http://178.132.5.243:25461/live/Lara/1234/1681.ts
-#EXTINF:-1,Discovery Kids
-http://178.132.5.243:25461/live/Lara/1234/108.ts
-#EXTINF:-1,Nat Geo Kids HD Principal
-http://178.132.5.243:25461/live/Lara/1234/5044.ts
-#EXTINF:-1,Nat Geo Kids Principal
-http://178.132.5.243:25461/live/Lara/1234/5045.ts
-#EXTINF:-1,Nat Geo Kids HD
-http://178.132.5.243:25461/live/Lara/1234/5075.ts
-#EXTINF:-1,Nat Geo Kids
-http://178.132.5.243:25461/live/Lara/1234/5032.ts
-#EXTINF:-1,Gloob HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1882.ts
-#EXTINF:-1,Gloob Principal
-http://178.132.5.243:25461/live/Lara/1234/1977.ts
-#EXTINF:-1,Gloob HD
-http://178.132.5.243:25461/live/Lara/1234/1674.ts
-#EXTINF:-1,Gloob
-http://178.132.5.243:25461/live/Lara/1234/87.ts
-#EXTINF:-1,Gloobinho HD Principal
-http://178.132.5.243:25461/live/Lara/1234/5073.ts
-#EXTINF:-1,Gloobinho Principal
-http://178.132.5.243:25461/live/Lara/1234/5076.ts
-#EXTINF:-1,Gloobinho HD
-http://178.132.5.243:25461/live/Lara/1234/6227.ts
-#EXTINF:-1,Zoomoo (2)
-http://178.132.5.243:25461/live/Lara/1234/11758.ts
-#EXTINF:-1,PlayTV Principal
-http://178.132.5.243:25461/live/Lara/1234/3495.ts
-#EXTINF:-1,PlayTV
-http://178.132.5.243:25461/live/Lara/1234/56.ts
-#EXTINF:-1,TV Ra Tim Bum HD Principal
-http://178.132.5.243:25461/live/Lara/1234/7629.ts
-#EXTINF:-1,TV Ra Tim Bum Principal
-http://178.132.5.243:25461/live/Lara/1234/5060.ts
-#EXTINF:-1,TV Ra Tim Bum
-http://178.132.5.243:25461/live/Lara/1234/7.ts
-#EXTINF:-1,BabyTV Principal
-http://178.132.5.243:25461/live/Lara/1234/5034.ts
-#EXTINF:-1,BabyTV
-http://178.132.5.243:25461/live/Lara/1234/5033.ts
-#EXTINF:-1,24H Peppa Pig
-http://178.132.5.243:25461/live/Lara/1234/9015.ts
-#EXTINF:-1,24H Mr. Bean Animado
-http://178.132.5.243:25461/live/Lara/1234/5105.ts
-#EXTINF:-1,24H Mr. Bean
-http://178.132.5.243:25461/live/Lara/1234/9028.ts
-#EXTINF:-1,24H Chaves & Chapolin
-http://178.132.5.243:25461/live/Lara/1234/5100.ts
-#EXTINF:-1,GNT HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1793.ts
-#EXTINF:-1,GNT Principal
-http://178.132.5.243:25461/live/Lara/1234/6228.ts
-#EXTINF:-1,GNT HD
-http://178.132.5.243:25461/live/Lara/1234/169.ts
-#EXTINF:-1,GNT
-http://178.132.5.243:25461/live/Lara/1234/86.ts
-#EXTINF:-1,Viva HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1762.ts
-#EXTINF:-1,Viva Principal
-http://178.132.5.243:25461/live/Lara/1234/6229.ts
-#EXTINF:-1,Viva HD
-http://178.132.5.243:25461/live/Lara/1234/133.ts
-#EXTINF:-1,Viva
-http://178.132.5.243:25461/live/Lara/1234/3.ts
-#EXTINF:-1,Multishow HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1786.ts
-#EXTINF:-1,Multishow Principal
-http://178.132.5.243:25461/live/Lara/1234/1967.ts
-#EXTINF:-1,Multishow HD
-http://178.132.5.243:25461/live/Lara/1234/159.ts
-#EXTINF:-1,Multishow
-http://178.132.5.243:25461/live/Lara/1234/67.ts
-#EXTINF:-1,BIS HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1814.ts
-#EXTINF:-1,BIS Principal
-http://178.132.5.243:25461/live/Lara/1234/3500.ts
-#EXTINF:-1,BIS HD
-http://178.132.5.243:25461/live/Lara/1234/191.ts
-#EXTINF:-1,BIS
-http://178.132.5.243:25461/live/Lara/1234/122.ts
-#EXTINF:-1,MTV HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1876.ts
-#EXTINF:-1,MTV Principal
-http://178.132.5.243:25461/live/Lara/1234/6230.ts
-#EXTINF:-1,MTV HD
-http://178.132.5.243:25461/live/Lara/1234/1669.ts
-#EXTINF:-1,MTV
-http://178.132.5.243:25461/live/Lara/1234/68.ts
-#EXTINF:-1,MTV Live HD Principal
-http://178.132.5.243:25461/live/Lara/1234/8550.ts
-#EXTINF:-1,MTV Live Principal
-http://178.132.5.243:25461/live/Lara/1234/8551.ts
-#EXTINF:-1,VH1 HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1871.ts
-#EXTINF:-1,VH1 HD
-http://178.132.5.243:25461/live/Lara/1234/1663.ts
-#EXTINF:-1,VH1
-http://178.132.5.243:25461/live/Lara/1234/7780.ts
-#EXTINF:-1,Vh1 MegaHits Principal
-http://178.132.5.243:25461/live/Lara/1234/2008.ts
-#EXTINF:-1,VH1 MegaHits
-http://178.132.5.243:25461/live/Lara/1234/4.ts
-#EXTINF:-1,Music Box Brazil HD Principal
-http://178.132.5.243:25461/live/Lara/1234/7632.ts
-#EXTINF:-1,Music Box Brazil Principal
-http://178.132.5.243:25461/live/Lara/1234/2049.ts
-#EXTINF:-1,Music Box Brazil
-http://178.132.5.243:25461/live/Lara/1234/66.ts
-#EXTINF:-1,Discovery Turbo HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1807.ts
-#EXTINF:-1,Discovery Turbo Principal
-http://178.132.5.243:25461/live/Lara/1234/1993.ts
-#EXTINF:-1,Discovery Turbo HD
-http://178.132.5.243:25461/live/Lara/1234/185.ts
-#EXTINF:-1,Discovery Turbo
-http://178.132.5.243:25461/live/Lara/1234/106.ts
-#EXTINF:-1,TruTV HD Principal
-http://178.132.5.243:25461/live/Lara/1234/7826.ts
-#EXTINF:-1,TruTV Principal
-http://178.132.5.243:25461/live/Lara/1234/3497.ts
-#EXTINF:-1,TruTV
-http://178.132.5.243:25461/live/Lara/1234/10.ts
-#EXTINF:-1,Comedy Central HD Principal
-http://178.132.5.243:25461/live/Lara/1234/7453.ts
-#EXTINF:-1,Comedy Central Principal
-http://178.132.5.243:25461/live/Lara/1234/2075.ts
-#EXTINF:-1,Comedy Central HD
-http://178.132.5.243:25461/live/Lara/1234/6189.ts
-#EXTINF:-1,Comedy Central
-http://178.132.5.243:25461/live/Lara/1234/113.ts
-#EXTINF:-1,Investigacao Discovery HD Principal
-http://178.132.5.243:25461/live/Lara/1234/2086.ts
-#EXTINF:-1,Investigacao Discovery Principal
-http://178.132.5.243:25461/live/Lara/1234/6242.ts
-#EXTINF:-1,Investigacao Discovery HD
-http://178.132.5.243:25461/live/Lara/1234/161.ts
-#EXTINF:-1,Investigacao Discovery
-http://178.132.5.243:25461/live/Lara/1234/77.ts
-#EXTINF:-1,Discovery Home&Health HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1809.ts
-#EXTINF:-1,Discovery Home&Health Principal
-http://178.132.5.243:25461/live/Lara/1234/3499.ts
-#EXTINF:-1,Discovery Home&Health HD
-http://178.132.5.243:25461/live/Lara/1234/187.ts
-#EXTINF:-1,Discovery Home&Health
-http://178.132.5.243:25461/live/Lara/1234/109.ts
-#EXTINF:-1,Lifetime HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1881.ts
-#EXTINF:-1,Lifetime Principal
-http://178.132.5.243:25461/live/Lara/1234/2051.ts
-#EXTINF:-1,Lifetime HD
-http://178.132.5.243:25461/live/Lara/1234/1673.ts
-#EXTINF:-1,Lifetime
-http://178.132.5.243:25461/live/Lara/1234/75.ts
-#EXTINF:-1,TLC HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1872.ts
-#EXTINF:-1,TLC Principal
-http://178.132.5.243:25461/live/Lara/1234/6231.ts
-#EXTINF:-1,TLC HD
-http://178.132.5.243:25461/live/Lara/1234/1665.ts
-#EXTINF:-1,TLC
-http://178.132.5.243:25461/live/Lara/1234/14.ts
-#EXTINF:-1,E! HD Principal
-http://178.132.5.243:25461/live/Lara/1234/4771.ts
-#EXTINF:-1,E! Principal
-http://178.132.5.243:25461/live/Lara/1234/2070.ts
-#EXTINF:-1,E! HD
-http://178.132.5.243:25461/live/Lara/1234/1823.ts
-#EXTINF:-1,E!
-http://178.132.5.243:25461/live/Lara/1234/102.ts
-#EXTINF:-1,Food Network HD Principal
-http://178.132.5.243:25461/live/Lara/1234/6232.ts
-#EXTINF:-1,Food Network Principal
-http://178.132.5.243:25461/live/Lara/1234/1981.ts
-#EXTINF:-1,Food Network HD
-http://178.132.5.243:25461/live/Lara/1234/1679.ts
-#EXTINF:-1,Food Network
-http://178.132.5.243:25461/live/Lara/1234/96.ts
-#EXTINF:-1,Curta! HD Principal
-http://178.132.5.243:25461/live/Lara/1234/7435.ts
-#EXTINF:-1,Curta!
-http://178.132.5.243:25461/live/Lara/1234/112.ts
-#EXTINF:-1,Curta! Principal
-http://178.132.5.243:25461/live/Lara/1234/7781.ts
-#EXTINF:-1,Animal Planet HD Principal
-http://178.132.5.243:25461/live/Lara/1234/2003.ts
-#EXTINF:-1,Animal Planet Principal
-http://178.132.5.243:25461/live/Lara/1234/4773.ts
-#EXTINF:-1,Animal Planet HD
-http://178.132.5.243:25461/live/Lara/1234/195.ts
-#EXTINF:-1,Animal Planet
-http://178.132.5.243:25461/live/Lara/1234/131.ts
-#EXTINF:-1,Discovery Channel HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1810.ts
-#EXTINF:-1,Discovery Channel Principal
-http://178.132.5.243:25461/live/Lara/1234/1990.ts
-#EXTINF:-1,Discovery Channel HD
-http://178.132.5.243:25461/live/Lara/1234/188.ts
-#EXTINF:-1,Discovery Channel
-http://178.132.5.243:25461/live/Lara/1234/111.ts
-#EXTINF:-1,Discovery Theater HD Principal
-http://178.132.5.243:25461/live/Lara/1234/186.ts
-#EXTINF:-1,Discovery Theater
-http://178.132.5.243:25461/live/Lara/1234/7843.ts
-#EXTINF:-1,Discovery Theater HD
-http://178.132.5.243:25461/live/Lara/1234/1808.ts
-#EXTINF:-1,Discovery Theater Principal
-http://178.132.5.243:25461/live/Lara/1234/3498.ts
-#EXTINF:-1,Discovery World HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1806.ts
-#EXTINF:-1,Discovery World
-http://178.132.5.243:25461/live/Lara/1234/7783.ts
-#EXTINF:-1,Discovery World HD
-http://178.132.5.243:25461/live/Lara/1234/184.ts
-#EXTINF:-1,Discovery Science HD Principal
-http://178.132.5.243:25461/live/Lara/1234/7456.ts
-#EXTINF:-1,Discovery Science Principal
-http://178.132.5.243:25461/live/Lara/1234/2073.ts
-#EXTINF:-1,Discovery Science HD
-http://178.132.5.243:25461/live/Lara/1234/7433.ts
-#EXTINF:-1,Discovery Civilization HD Principal
-http://178.132.5.243:25461/live/Lara/1234/7457.ts
-#EXTINF:-1,Discovery Civilization Principal
-http://178.132.5.243:25461/live/Lara/1234/2074.ts
-#EXTINF:-1,Discovery Civilization HD
-http://178.132.5.243:25461/live/Lara/1234/7434.ts
-#EXTINF:-1,Nat Geo HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1785.ts
-#EXTINF:-1,Nat Geo Principal
-http://178.132.5.243:25461/live/Lara/1234/1966.ts
-#EXTINF:-1,Nat Geo HD
-http://178.132.5.243:25461/live/Lara/1234/157.ts
-#EXTINF:-1,Nat Geo
-http://178.132.5.243:25461/live/Lara/1234/64.ts
-#EXTINF:-1,Nat Geo Wild HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1784.ts
-#EXTINF:-1,Nat Geo Wild Principal
-http://178.132.5.243:25461/live/Lara/1234/6233.ts
-#EXTINF:-1,Nat Geo Wild HD
-http://178.132.5.243:25461/live/Lara/1234/158.ts
-#EXTINF:-1,Nat Geo Wild
-http://178.132.5.243:25461/live/Lara/1234/65.ts
-#EXTINF:-1,History HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1771.ts
-#EXTINF:-1,History Principal
-http://178.132.5.243:25461/live/Lara/1234/1969.ts
-#EXTINF:-1,History HD
-http://178.132.5.243:25461/live/Lara/1234/162.ts
-#EXTINF:-1,History
-http://178.132.5.243:25461/live/Lara/1234/15.ts
-#EXTINF:-1,H2 HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1792.ts
-#EXTINF:-1,H2 Principal
-http://178.132.5.243:25461/live/Lara/1234/1970.ts
-#EXTINF:-1,H2 HD
-http://178.132.5.243:25461/live/Lara/1234/168.ts
-#EXTINF:-1,H2
-http://178.132.5.243:25461/live/Lara/1234/85.ts
-#EXTINF:-1,Arte 1 HD Principal
-http://178.132.5.243:25461/live/Lara/1234/7452.ts
-#EXTINF:-1,Arte 1 Principal
-http://178.132.5.243:25461/live/Lara/1234/7782.ts
-#EXTINF:-1,Arte 1 HD
-http://178.132.5.243:25461/live/Lara/1234/7436.ts
-#EXTINF:-1,Arte 1
-http://178.132.5.243:25461/live/Lara/1234/129.ts
-#EXTINF:-1,GloboNews HD Principal
-http://178.132.5.243:25461/live/Lara/1234/1883.ts
-#EXTINF:-1,GloboNews Principal
-http://178.132.5.243:25461/live/Lara/1234/6234.ts
-#EXTINF:-1,GloboNews HD
-http://178.132.5.243:25461/live/Lara/1234/1678.ts
-#EXTINF:-1,GloboNews
-http://178.132.5.243:25461/live/Lara/1234/88.ts
-#EXTINF:-1,BandNews HD Principal
-http://178.132.5.243:25461/live/Lara/1234/7637.ts
-#EXTINF:-1,BandNews
-http://178.132.5.243:25461/live/Lara/1234/126.ts
-#EXTINF:-1,BandNews Principal
-http://178.132.5.243:25461/live/Lara/1234/2082.ts
-#EXTINF:-1,Record News HD Principal
-http://178.132.5.243:25461/live/Lara/1234/42.ts
-#EXTINF:-1,Record News
-http://178.132.5.243:25461/live/Lara/1234/2032.ts
-#EXTINF:-1,Record News Principal
-http://178.132.5.243:25461/live/Lara/1234/7784.ts
-#EXTINF:-1,Cancao Nova
-http://178.132.5.243:25461/live/Lara/1234/5086.ts
-#EXTINF:-1,Rede Vida
-http://178.132.5.243:25461/live/Lara/1234/38.ts
-#EXTINF:-1,TV Aparecida
-http://178.132.5.243:25461/live/Lara/1234/130.ts
-#EXTINF:-1,TV Aparecida Web
-http://178.132.5.243:25461/live/Lara/1234/6179.ts
-#EXTINF:-1,Rede Século 21
-http://178.132.5.243:25461/live/Lara/1234/574.ts
-#EXTINF:-1,TV Evangelizar
-http://178.132.5.243:25461/live/Lara/1234/7854.ts
-#EXTINF:-1,TV Vianney
-http://178.132.5.243:25461/live/Lara/1234/7853.ts
-#EXTINF:-1,Rede Super
-http://178.132.5.243:25461/live/Lara/1234/575.ts
-#EXTINF:-1,RIT
-http://178.132.5.243:25461/live/Lara/1234/37.ts
-#EXTINF:-1,TV Novo Tempo
-http://178.132.5.243:25461/live/Lara/1234/59.ts
-#EXTINF:-1,RBI
-http://178.132.5.243:25461/live/Lara/1234/44.ts
-#EXTINF:-1,TV Gideoes
-http://178.132.5.243:25461/live/Lara/1234/1214.ts
-#EXTINF:-1,Ideal TV
-http://178.132.5.243:25461/live/Lara/1234/76.ts
-#EXTINF:-1,Shoptime
-http://178.132.5.243:25461/live/Lara/1234/1621.ts
-#EXTINF:-1,Polishop
-http://178.132.5.243:25461/live/Lara/1234/5040.ts
-#EXTINF:-1,Praia Copacabana RJ
-http://178.132.5.243:25461/live/Lara/1234/7417.ts
-#EXTINF:-1,New York
-http://178.132.5.243:25461/live/Lara/1234/7418.ts
-#EXTINF:-1,Miami Beach
-http://178.132.5.243:25461/live/Lara/1234/7427.ts
-#EXTINF:-1,Tóquio - Japão
-http://178.132.5.243:25461/live/Lara/1234/7425.ts
-#EXTINF:-1,Cataratas do Niágara
-http://178.132.5.243:25461/live/Lara/1234/10119.ts
-#EXTINF:-1,Dublin Ireland
-http://178.132.5.243:25461/live/Lara/1234/10122.ts
-#EXTINF:-1,Itajaí - SC
-http://178.132.5.243:25461/live/Lara/1234/10123.ts
-#EXTINF:-1,Moscow Russia
-http://178.132.5.243:25461/live/Lara/1234/10120.ts
-#EXTINF:-1,Santiago - Chile
-http://178.132.5.243:25461/live/Lara/1234/10126.ts
-#EXTINF:-1,Thailand - Pattaya
-http://178.132.5.243:25461/live/Lara/1234/10125.ts
-#EXTINF:-1,Times Square
-http://178.132.5.243:25461/live/Lara/1234/10124.ts
-#EXTINF:-1,Times Square, NYC
-http://178.132.5.243:25461/live/Lara/1234/10117.ts
-#EXTINF:-1,Toronto Canadá
-http://178.132.5.243:25461/live/Lara/1234/10118.ts
-#EXTINF:-1,TVC1 FHD
-http://178.132.5.243:25461/live/Lara/1234/1111.ts
-#EXTINF:-1,TVC2 FHD
-http://178.132.5.243:25461/live/Lara/1234/1110.ts
-#EXTINF:-1,TVC3 FHD
-http://178.132.5.243:25461/live/Lara/1234/1109.ts
-#EXTINF:-1,TVC4 FHD
-http://178.132.5.243:25461/live/Lara/1234/1108.ts
-#EXTINF:-1,TVS FHD
-http://178.132.5.243:25461/live/Lara/1234/1107.ts
-#EXTINF:-1,FOX FHD Portugal
-http://178.132.5.243:25461/live/Lara/1234/1051.ts
-#EXTINF:-1,FOX Crime FHD
-http://178.132.5.243:25461/live/Lara/1234/1050.ts
-#EXTINF:-1,FOX Comedy FHD
-http://178.132.5.243:25461/live/Lara/1234/1049.ts
-#EXTINF:-1,FOX Life HD Portugal
-http://178.132.5.243:25461/live/Lara/1234/1052.ts
-#EXTINF:-1,FOX Movies HD
-http://178.132.5.243:25461/live/Lara/1234/1054.ts
-#EXTINF:-1,AXN Black FHD
-http://178.132.5.243:25461/live/Lara/1234/1014.ts
-#EXTINF:-1,AXN FHD Portugal
-http://178.132.5.243:25461/live/Lara/1234/1015.ts
-#EXTINF:-1,AXN White FHD
-http://178.132.5.243:25461/live/Lara/1234/1016.ts
-#EXTINF:-1,Hollywood FHD
-http://178.132.5.243:25461/live/Lara/1234/1057.ts
-#EXTINF:-1,SyFy PT
-http://178.132.5.243:25461/live/Lara/1234/1102.ts
-#EXTINF:-1,AMC FHD Portugal
-http://178.132.5.243:25461/live/Lara/1234/1013.ts
-#EXTINF:-1,Blaze
-http://178.132.5.243:25461/live/Lara/1234/1011.ts
-#EXTINF:-1,Cinemundo
-http://178.132.5.243:25461/live/Lara/1234/1030.ts
-#EXTINF:-1,Nick Jr. Portugal
-http://178.132.5.243:25461/live/Lara/1234/1019.ts
-#EXTINF:-1,SPORT·TV+ FHD
-http://178.132.5.243:25461/live/Lara/1234/1099.ts
-#EXTINF:-1,SPORT·TV1 FHD
-http://178.132.5.243:25461/live/Lara/1234/1098.ts
-#EXTINF:-1,SPORT·TV2 FHD
-http://178.132.5.243:25461/live/Lara/1234/1097.ts
-#EXTINF:-1,SPORT·TV3 FHD
-http://178.132.5.243:25461/live/Lara/1234/1096.ts
-#EXTINF:-1,SPORT·TV4 FHD
-http://178.132.5.243:25461/live/Lara/1234/1095.ts
-#EXTINF:-1,SPORT·TV5 FHD
-http://178.132.5.243:25461/live/Lara/1234/1094.ts
-#EXTINF:-1,Eleven Sports 1 FHD
-http://178.132.5.243:25461/live/Lara/1234/11940.ts
-#EXTINF:-1,Eleven Sports 2 FHD
-http://178.132.5.243:25461/live/Lara/1234/11939.ts
-#EXTINF:-1,Eleven Sports 3 FHD
-http://178.132.5.243:25461/live/Lara/1234/11938.ts
-#EXTINF:-1,Eleven Sports 4 FHD
-http://178.132.5.243:25461/live/Lara/1234/11937.ts
-#EXTINF:-1,Eleven Sports 5 FHD
-http://178.132.5.243:25461/live/Lara/1234/11936.ts
-#EXTINF:-1,Eleven Sports 6 FHD
-http://178.132.5.243:25461/live/Lara/1234/11935.ts
-#EXTINF:-1,BTV FHD
-http://178.132.5.243:25461/live/Lara/1234/1022.ts
-#EXTINF:-1,Sporting TV HD
-http://178.132.5.243:25461/live/Lara/1234/1100.ts
-#EXTINF:-1,Eurosport 1 Portugal
-http://178.132.5.243:25461/live/Lara/1234/1044.ts
-#EXTINF:-1,Eurosport 2 Portugal
-http://178.132.5.243:25461/live/Lara/1234/1043.ts
-#EXTINF:-1,Eurosport News
-http://178.132.5.243:25461/live/Lara/1234/1041.ts
-#EXTINF:-1,A Bola TV
-http://178.132.5.243:25461/live/Lara/1234/1010.ts
-#EXTINF:-1,Fuel TV HD
-http://178.132.5.243:25461/live/Lara/1234/1055.ts
-#EXTINF:-1,MCS Extreme
-http://178.132.5.243:25461/live/Lara/1234/1065.ts
-#EXTINF:-1,Kombat Sport
-http://178.132.5.243:25461/live/Lara/1234/1060.ts
-#EXTINF:-1,Motorvision
-http://178.132.5.243:25461/live/Lara/1234/1069.ts
-#EXTINF:-1,Motorsport.tv
-http://178.132.5.243:25461/live/Lara/1234/1068.ts
-#EXTINF:-1,Clubbing TV
-http://178.132.5.243:25461/live/Lara/1234/1076.ts
-#EXTINF:-1,Caça e Pesca
-http://178.132.5.243:25461/live/Lara/1234/1024.ts
-#EXTINF:-1,Cacavision
-http://178.132.5.243:25461/live/Lara/1234/1025.ts
-#EXTINF:-1,Toros TV
-http://178.132.5.243:25461/live/Lara/1234/1104.ts
-#EXTINF:-1,TVI Reality
-http://178.132.5.243:25461/live/Lara/1234/1121.ts
-#EXTINF:-1,TVI Reality Camara Exclusiva 1
-http://178.132.5.243:25461/live/Lara/1234/1120.ts
-#EXTINF:-1,TVI Reality Camara Exclusiva 2
-http://178.132.5.243:25461/live/Lara/1234/1119.ts
-#EXTINF:-1,TVI Reality Camara Exclusiva 3
-http://178.132.5.243:25461/live/Lara/1234/1118.ts
-#EXTINF:-1,TVI Reality Camara Exclusiva 4
-http://178.132.5.243:25461/live/Lara/1234/1117.ts
-#EXTINF:-1,TVI Reality Mosaico
-http://178.132.5.243:25461/live/Lara/1234/1116.ts
-#EXTINF:-1,RTP1 FHD
-http://178.132.5.243:25461/live/Lara/1234/1078.ts
-#EXTINF:-1,RTP2 FHD
-http://178.132.5.243:25461/live/Lara/1234/1079.ts
-#EXTINF:-1,RTP Açores
-http://178.132.5.243:25461/live/Lara/1234/1081.ts
-#EXTINF:-1,RTP Madeira
-http://178.132.5.243:25461/live/Lara/1234/1084.ts
-#EXTINF:-1,RTP Africa
-http://178.132.5.243:25461/live/Lara/1234/1082.ts
-#EXTINF:-1,RTP Memória
-http://178.132.5.243:25461/live/Lara/1234/1085.ts
-#EXTINF:-1,SIC FHD
-http://178.132.5.243:25461/live/Lara/1234/1086.ts
-#EXTINF:-1,SIC Radical FHD
-http://178.132.5.243:25461/live/Lara/1234/1092.ts
-#EXTINF:-1,SIC Mulher
-http://178.132.5.243:25461/live/Lara/1234/1090.ts
-#EXTINF:-1,SIC Caras FHD
-http://178.132.5.243:25461/live/Lara/1234/1087.ts
-#EXTINF:-1,TVI FHD
-http://178.132.5.243:25461/live/Lara/1234/1112.ts
-#EXTINF:-1,TVI Ficção
-http://178.132.5.243:25461/live/Lara/1234/1114.ts
-#EXTINF:-1,Canal Q
-http://178.132.5.243:25461/live/Lara/1234/1027.ts
-#EXTINF:-1,Porto Canal
-http://178.132.5.243:25461/live/Lara/1234/1077.ts
-#EXTINF:-1,E! Portugal
-http://178.132.5.243:25461/live/Lara/1234/1038.ts
-#EXTINF:-1,My Cuisine
-http://178.132.5.243:25461/live/Lara/1234/1066.ts
-#EXTINF:-1,Fine Living Network HD
-http://178.132.5.243:25461/live/Lara/1234/1047.ts
-#EXTINF:-1,Travel Channel HD
-http://178.132.5.243:25461/live/Lara/1234/1106.ts
-#EXTINF:-1,24Kitchen HD
-http://178.132.5.243:25461/live/Lara/1234/1009.ts
-#EXTINF:-1,Food Network FHD Portugal
-http://178.132.5.243:25461/live/Lara/1234/1048.ts
-#EXTINF:-1,CBS Reality
-http://178.132.5.243:25461/live/Lara/1234/1029.ts
-#EXTINF:-1,Crime+Investigation
-http://178.132.5.243:25461/live/Lara/1234/1032.ts
-#EXTINF:-1,TLC Portugal
-http://178.132.5.243:25461/live/Lara/1234/1103.ts
-#EXTINF:-1,FashionTV
-http://178.132.5.243:25461/live/Lara/1234/1045.ts
-#EXTINF:-1,MTV Portugal HD
-http://178.132.5.243:25461/live/Lara/1234/1071.ts
-#EXTINF:-1,VH1 Portugal
-http://178.132.5.243:25461/live/Lara/1234/1122.ts
-#EXTINF:-1,Discovery Channel Portugal
-http://178.132.5.243:25461/live/Lara/1234/1033.ts
-#EXTINF:-1,Discovery HD Showcase
-http://178.132.5.243:25461/live/Lara/1234/1034.ts
-#EXTINF:-1,National Geographic Channel HD Portugal
-http://178.132.5.243:25461/live/Lara/1234/1073.ts
-#EXTINF:-1,Nat Geo Wild HD Portugal
-http://178.132.5.243:25461/live/Lara/1234/1072.ts
-#EXTINF:-1,Historia
-http://178.132.5.243:25461/live/Lara/1234/1056.ts
-#EXTINF:-1,Odisseia
-http://178.132.5.243:25461/live/Lara/1234/1075.ts
-#EXTINF:-1,SIC Noticias FHD
-http://178.132.5.243:25461/live/Lara/1234/1091.ts
-#EXTINF:-1,RTP3
-http://178.132.5.243:25461/live/Lara/1234/1080.ts
-#EXTINF:-1,RTP Internacional
-http://178.132.5.243:25461/live/Lara/1234/1083.ts
-#EXTINF:-1,TVI24
-http://178.132.5.243:25461/live/Lara/1234/1113.ts
-#EXTINF:-1,CMTV FHD
-http://178.132.5.243:25461/live/Lara/1234/1031.ts
-#EXTINF:-1,Euronews
-http://178.132.5.243:25461/live/Lara/1234/1040.ts
-#EXTINF:-1,Cartoon Network Portugal
-http://178.132.5.243:25461/live/Lara/1234/1028.ts
-#EXTINF:-1,Disney Channel Portugal
-http://178.132.5.243:25461/live/Lara/1234/1035.ts
-#EXTINF:-1,Disney Junior Portugal
-http://178.132.5.243:25461/live/Lara/1234/1036.ts
-#EXTINF:-1,Nickelodeon Portugal
-http://178.132.5.243:25461/live/Lara/1234/1074.ts
-#EXTINF:-1,Canal Panda
-http://178.132.5.243:25461/live/Lara/1234/1026.ts
-#EXTINF:-1,Biggs
-http://178.132.5.243:25461/live/Lara/1234/1020.ts
-#EXTINF:-1,SIC K
-http://178.132.5.243:25461/live/Lara/1234/1088.ts
-#EXTINF:-1,JimJam
-http://178.132.5.243:25461/live/Lara/1234/1059.ts
-#EXTINF:-1,BabyTV Portugal
-http://178.132.5.243:25461/live/Lara/1234/1018.ts
-#EXTINF:-1,ABC
-http://178.132.5.243:25461/live/Lara/1234/992.ts
-#EXTINF:-1,Freeform
-http://178.132.5.243:25461/live/Lara/1234/1281.ts
-#EXTINF:-1,Usa Network
-http://178.132.5.243:25461/live/Lara/1234/1284.ts
-#EXTINF:-1,NBC
-http://178.132.5.243:25461/live/Lara/1234/1286.ts
-#EXTINF:-1,The CW
-http://178.132.5.243:25461/live/Lara/1234/1285.ts
-#EXTINF:-1,AMC US
-http://178.132.5.243:25461/live/Lara/1234/1275.ts
-#EXTINF:-1,CBS
-http://178.132.5.243:25461/live/Lara/1234/1288.ts
-#EXTINF:-1,HBO US
-http://178.132.5.243:25461/live/Lara/1234/991.ts
-#EXTINF:-1,HBO Comedy
-http://178.132.5.243:25461/live/Lara/1234/990.ts
-#EXTINF:-1,FOX US
-http://178.132.5.243:25461/live/Lara/1234/598.ts
-#EXTINF:-1,FX US
-http://178.132.5.243:25461/live/Lara/1234/989.ts
-#EXTINF:-1,Starz
-http://178.132.5.243:25461/live/Lara/1234/993.ts
-#EXTINF:-1,A&E US
-http://178.132.5.243:25461/live/Lara/1234/1289.ts
-#EXTINF:-1,Showtime
-http://178.132.5.243:25461/live/Lara/1234/1278.ts
-#EXTINF:-1,Paramount Network
-http://178.132.5.243:25461/live/Lara/1234/1277.ts
-#EXTINF:-1,Bravo
-http://178.132.5.243:25461/live/Lara/1234/986.ts
-#EXTINF:-1,Cinemax US
-http://178.132.5.243:25461/live/Lara/1234/988.ts
-#EXTINF:-1,Discovery Channel US
-http://178.132.5.243:25461/live/Lara/1234/1279.ts
-#EXTINF:-1,Discovery Science CA
-http://178.132.5.243:25461/live/Lara/1234/1276.ts
-#EXTINF:-1,Cartoon Network US
-http://178.132.5.243:25461/live/Lara/1234/1283.ts
-#EXTINF:-1,Nick US
-http://178.132.5.243:25461/live/Lara/1234/994.ts
-#EXTINF:-1,HGTV Canada
-http://178.132.5.243:25461/live/Lara/1234/4959.ts
-#EXTINF:-1,CTV Canada
-http://178.132.5.243:25461/live/Lara/1234/4958.ts
-#EXTINF:-1,Global Canada
-http://178.132.5.243:25461/live/Lara/1234/4957.ts
-#EXTINF:-1,Super Ecran 1
-http://178.132.5.243:25461/live/Lara/1234/4956.ts
-#EXTINF:-1,Super Ecran 2
-http://178.132.5.243:25461/live/Lara/1234/4955.ts
-#EXTINF:-1,HBO 1 Canada
-http://178.132.5.243:25461/live/Lara/1234/4948.ts
-#EXTINF:-1,HBO 2 Canada
-http://178.132.5.243:25461/live/Lara/1234/4947.ts
-#EXTINF:-1,Rai 1
-http://178.132.5.243:25461/live/Lara/1234/8787.ts
-#EXTINF:-1,Rai 2
-http://178.132.5.243:25461/live/Lara/1234/8786.ts
-#EXTINF:-1,Rai 3
-http://178.132.5.243:25461/live/Lara/1234/8785.ts
-#EXTINF:-1,Rai 4
-http://178.132.5.243:25461/live/Lara/1234/8784.ts
-#EXTINF:-1,Rai 5
-http://178.132.5.243:25461/live/Lara/1234/8783.ts
-#EXTINF:-1,Rai Gulp
-http://178.132.5.243:25461/live/Lara/1234/8776.ts
-#EXTINF:-1,Rai Movie
-http://178.132.5.243:25461/live/Lara/1234/8777.ts
-#EXTINF:-1,Rai News 24
-http://178.132.5.243:25461/live/Lara/1234/8778.ts
-#EXTINF:-1,Rai Premium
-http://178.132.5.243:25461/live/Lara/1234/8779.ts
-#EXTINF:-1,Rai Scuola
-http://178.132.5.243:25461/live/Lara/1234/8780.ts
-#EXTINF:-1,Rai Sport
-http://178.132.5.243:25461/live/Lara/1234/8781.ts
-#EXTINF:-1,Rai YoYo
-http://178.132.5.243:25461/live/Lara/1234/8782.ts
-#EXTINF:-1,Rete 4
-http://178.132.5.243:25461/live/Lara/1234/8775.ts
-#EXTINF:-1,La 5
-http://178.132.5.243:25461/live/Lara/1234/8773.ts
-#EXTINF:-1,La7
-http://178.132.5.243:25461/live/Lara/1234/8774.ts
-#EXTINF:-1,Italia 1
-http://178.132.5.243:25461/live/Lara/1234/8772.ts
-#EXTINF:-1,Mediasat Italia Due
-http://178.132.5.243:25461/live/Lara/1234/8766.ts
-#EXTINF:-1,Boing
-http://178.132.5.243:25461/live/Lara/1234/8768.ts
-#EXTINF:-1,Canale 5
-http://178.132.5.243:25461/live/Lara/1234/8769.ts
-#EXTINF:-1,Cielo
-http://178.132.5.243:25461/live/Lara/1234/8770.ts
-#EXTINF:-1,Iris
-http://178.132.5.243:25461/live/Lara/1234/8771.ts
-#EXTINF:-1,Alice
-http://178.132.5.243:25461/live/Lara/1234/8767.ts
-#EXTINF:-1,MLB Extra Innings 721
-http://178.132.5.243:25461/live/Lara/1234/4875.ts
-#EXTINF:-1,MLB Extra Innings 722
-http://178.132.5.243:25461/live/Lara/1234/4876.ts
-#EXTINF:-1,MLB Extra Innings 723
-http://178.132.5.243:25461/live/Lara/1234/4877.ts
-#EXTINF:-1,MLB Extra Innings 724
-http://178.132.5.243:25461/live/Lara/1234/4878.ts
-#EXTINF:-1,MLB Extra Innings 725
-http://178.132.5.243:25461/live/Lara/1234/4879.ts
-#EXTINF:-1,MLB Extra Innings 726
-http://178.132.5.243:25461/live/Lara/1234/4880.ts
-#EXTINF:-1,MLB Extra Innings 727
-http://178.132.5.243:25461/live/Lara/1234/4881.ts
-#EXTINF:-1,MLB Extra Innings 728
-http://178.132.5.243:25461/live/Lara/1234/4882.ts
-#EXTINF:-1,MLB Extra Innings 729
-http://178.132.5.243:25461/live/Lara/1234/4883.ts
-#EXTINF:-1,MLB Extra Innings 730
-http://178.132.5.243:25461/live/Lara/1234/4884.ts
-#EXTINF:-1,BT Sport Extra 1
-http://178.132.5.243:25461/live/Lara/1234/4911.ts
-#EXTINF:-1,BT Sport Extra 2
-http://178.132.5.243:25461/live/Lara/1234/4912.ts
-#EXTINF:-1,BT Sport Extra 3
-http://178.132.5.243:25461/live/Lara/1234/4913.ts
-#EXTINF:-1,BT Sport Extra 4
-http://178.132.5.243:25461/live/Lara/1234/4914.ts
-#EXTINF:-1,BT Sport Extra 5
-http://178.132.5.243:25461/live/Lara/1234/4915.ts
-#EXTINF:-1,BeIN Sports Max 4
-http://178.132.5.243:25461/live/Lara/1234/1157.ts
-#EXTINF:-1,BeIN Sports Max 5
-http://178.132.5.243:25461/live/Lara/1234/1156.ts
-#EXTINF:-1,BeIN Sports Max 6
-http://178.132.5.243:25461/live/Lara/1234/1155.ts
-#EXTINF:-1,BeIN Sports Max 7
-http://178.132.5.243:25461/live/Lara/1234/1154.ts
-#EXTINF:-1,beIN Sports Max 8
-http://178.132.5.243:25461/live/Lara/1234/4908.ts
-#EXTINF:-1,beIN Sports Max 9
-http://178.132.5.243:25461/live/Lara/1234/4909.ts
-#EXTINF:-1,beIN Sports Max 10
-http://178.132.5.243:25461/live/Lara/1234/4910.ts
-#EXTINF:-1,TSN1
-http://178.132.5.243:25461/live/Lara/1234/1008.ts
-#EXTINF:-1,TSN2
-http://178.132.5.243:25461/live/Lara/1234/1007.ts
-#EXTINF:-1,TSN3
-http://178.132.5.243:25461/live/Lara/1234/1006.ts
-#EXTINF:-1,TSN4
-http://178.132.5.243:25461/live/Lara/1234/1005.ts
-#EXTINF:-1,TSN5
-http://178.132.5.243:25461/live/Lara/1234/1004.ts
-#EXTINF:-1,SNO
-http://178.132.5.243:25461/live/Lara/1234/4968.ts
-#EXTINF:-1,SNP
-http://178.132.5.243:25461/live/Lara/1234/4969.ts
-#EXTINF:-1,SEC Network
-http://178.132.5.243:25461/live/Lara/1234/4970.ts
-#EXTINF:-1,SNE
-http://178.132.5.243:25461/live/Lara/1234/4966.ts
-#EXTINF:-1,SN1
-http://178.132.5.243:25461/live/Lara/1234/4967.ts
-#EXTINF:-1,SN360
-http://178.132.5.243:25461/live/Lara/1234/4965.ts
-#EXTINF:-1,SNWL
-http://178.132.5.243:25461/live/Lara/1234/4971.ts
-#EXTINF:-1,NBA TV
-http://178.132.5.243:25461/live/Lara/1234/1003.ts
-#EXTINF:-1,NFL RedZone
-http://178.132.5.243:25461/live/Lara/1234/5011.ts
-#EXTINF:-1,NFL Network
-http://178.132.5.243:25461/live/Lara/1234/1000.ts
-#EXTINF:-1,MLB Network
-http://178.132.5.243:25461/live/Lara/1234/1282.ts
-#EXTINF:-1,WWE Network
-http://178.132.5.243:25461/live/Lara/1234/1002.ts
-#EXTINF:-1,Fight Network
-http://178.132.5.243:25461/live/Lara/1234/4946.ts
-#EXTINF:-1,NHL Network
-http://178.132.5.243:25461/live/Lara/1234/4961.ts
-#EXTINF:-1,ESPN US
-http://178.132.5.243:25461/live/Lara/1234/1270.ts
-#EXTINF:-1,ESPN2 US
-http://178.132.5.243:25461/live/Lara/1234/4964.ts
-#EXTINF:-1,ESPNews
-http://178.132.5.243:25461/live/Lara/1234/4963.ts
-#EXTINF:-1,ESPNU
-http://178.132.5.243:25461/live/Lara/1234/4962.ts
-#EXTINF:-1,UFC Fight Pass
-http://178.132.5.243:25461/live/Lara/1234/4960.ts
-#EXTINF:-1,FOX Sports 1 US
-http://178.132.5.243:25461/live/Lara/1234/998.ts
-#EXTINF:-1,FOX Sports 2 US
-http://178.132.5.243:25461/live/Lara/1234/997.ts
-#EXTINF:-1,NBCSN
-http://178.132.5.243:25461/live/Lara/1234/1280.ts
-#EXTINF:-1,NBC Sports Bay Area
-http://178.132.5.243:25461/live/Lara/1234/4870.ts
-#EXTINF:-1,NBC Sports Boston
-http://178.132.5.243:25461/live/Lara/1234/4871.ts
-#EXTINF:-1,NBC Sports California
-http://178.132.5.243:25461/live/Lara/1234/4872.ts
-#EXTINF:-1,NBC Sports Chicago
-http://178.132.5.243:25461/live/Lara/1234/4873.ts
-#EXTINF:-1,NBC Sports Northwest
-http://178.132.5.243:25461/live/Lara/1234/4874.ts
-#EXTINF:-1,NBC Sports Philadelphia
-http://178.132.5.243:25461/live/Lara/1234/4869.ts
-#EXTINF:-1,Golf Channel
-http://178.132.5.243:25461/live/Lara/1234/1001.ts
-#EXTINF:-1,Movistar Futbol
-http://178.132.5.243:25461/live/Lara/1234/1132.ts
-#EXTINF:-1,Movistar Deportes 1
-http://178.132.5.243:25461/live/Lara/1234/1131.ts
-#EXTINF:-1,Movistar Deportes 2
-http://178.132.5.243:25461/live/Lara/1234/1130.ts
-#EXTINF:-1,Movistar MotoGP
-http://178.132.5.243:25461/live/Lara/1234/1129.ts
-#EXTINF:-1,Movistar F1
-http://178.132.5.243:25461/live/Lara/1234/1482.ts
-#EXTINF:-1,Movistar Golf
-http://178.132.5.243:25461/live/Lara/1234/1133.ts
-#EXTINF:-1,beIN LaLiga
-http://178.132.5.243:25461/live/Lara/1234/1140.ts
-#EXTINF:-1,beIN Spots
-http://178.132.5.243:25461/live/Lara/1234/1137.ts
-#EXTINF:-1,LaLiga TV
-http://178.132.5.243:25461/live/Lara/1234/1145.ts
-#EXTINF:-1,Barça TV
-http://178.132.5.243:25461/live/Lara/1234/1141.ts
-#EXTINF:-1,Real Madrid TV
-http://178.132.5.243:25461/live/Lara/1234/1128.ts
-#EXTINF:-1,BT Sport 3
-http://178.132.5.243:25461/live/Lara/1234/1183.ts
-#EXTINF:-1,BT Sport//ESPN
-http://178.132.5.243:25461/live/Lara/1234/1182.ts
-#EXTINF:-1,Sky Sports Main Event
-http://178.132.5.243:25461/live/Lara/1234/1166.ts
-#EXTINF:-1,Sky Sports Premier League
-http://178.132.5.243:25461/live/Lara/1234/1162.ts
-#EXTINF:-1,Sky Sports Cricket
-http://178.132.5.243:25461/live/Lara/1234/1165.ts
-#EXTINF:-1,Sky Sports Golf
-http://178.132.5.243:25461/live/Lara/1234/1163.ts
-#EXTINF:-1,Sky Sports News
-http://178.132.5.243:25461/live/Lara/1234/1167.ts
-#EXTINF:-1,BoxNation
-http://178.132.5.243:25461/live/Lara/1234/1190.ts
-#EXTINF:-1,Chelsea TV
-http://178.132.5.243:25461/live/Lara/1234/1181.ts
-#EXTINF:-1,MUTV
-http://178.132.5.243:25461/live/Lara/1234/1179.ts
-#EXTINF:-1,beIN Sports 1 FR
-http://178.132.5.243:25461/live/Lara/1234/1160.ts
-#EXTINF:-1,beIN Sports 2 FR
-http://178.132.5.243:25461/live/Lara/1234/1159.ts
-#EXTINF:-1,beIN Sports 3 FR
-http://178.132.5.243:25461/live/Lara/1234/1158.ts
-#EXTINF:-1,Canal+  Sport
-http://178.132.5.243:25461/live/Lara/1234/1161.ts
-#EXTINF:-1,Premium Calcio 1
-http://178.132.5.243:25461/live/Lara/1234/1463.ts
-#EXTINF:-1,Premium Calcio 2
-http://178.132.5.243:25461/live/Lara/1234/1462.ts
-#EXTINF:-1,Premium Calcio 3
-http://178.132.5.243:25461/live/Lara/1234/1461.ts
-#EXTINF:-1,Premium Calcio 4
-http://178.132.5.243:25461/live/Lara/1234/1460.ts
-#EXTINF:-1,Premium Calcio 5
-http://178.132.5.243:25461/live/Lara/1234/1459.ts
-#EXTINF:-1,Premium Calcio 6
-http://178.132.5.243:25461/live/Lara/1234/1458.ts
-#EXTINF:-1,Foot+ 24/24
-http://178.132.5.243:25461/live/Lara/1234/1152.ts
-#EXTINF:-1,SFR Sport 1
-http://178.132.5.243:25461/live/Lara/1234/1149.ts
-#EXTINF:-1,SFR Sport 2
-http://178.132.5.243:25461/live/Lara/1234/1148.ts
-#EXTINF:-1,SFR Sport 3
-http://178.132.5.243:25461/live/Lara/1234/1147.ts
-#EXTINF:-1,Sky Bundesliga 1
-http://178.132.5.243:25461/live/Lara/1234/1629.ts
-#EXTINF:-1,FOX Sports 1 Eredivisie
-http://178.132.5.243:25461/live/Lara/1234/1178.ts
-#EXTINF:-1,FOX Sports 2 International
-http://178.132.5.243:25461/live/Lara/1234/1176.ts
-#EXTINF:-1,FOX Sports 3 Eredivisie
-http://178.132.5.243:25461/live/Lara/1234/1177.ts
-#EXTINF:-1,FOX Sports 4 International
-http://178.132.5.243:25461/live/Lara/1234/1175.ts
-#EXTINF:-1,FOX Sports 5 Eredivisie
-http://178.132.5.243:25461/live/Lara/1234/1173.ts
-#EXTINF:-1,FOX Sports 6 International
-http://178.132.5.243:25461/live/Lara/1234/1174.ts
-#EXTINF:-1,Ziggo Sport Voetbal
-http://178.132.5.243:25461/live/Lara/1234/1469.ts
-#EXTINF:-1,Ziggo Sport Select
-http://178.132.5.243:25461/live/Lara/1234/1467.ts
-#EXTINF:-1,Ziggo Sport Golf
-http://178.132.5.243:25461/live/Lara/1234/1466.ts
-#EXTINF:-1,Ziggo Sport Racing
-http://178.132.5.243:25461/live/Lara/1234/1468.ts
-#EXTINF:-1,Ziggo Sport Extra 1
-http://178.132.5.243:25461/live/Lara/1234/1471.ts
-#EXTINF:-1,Ziggo Sport Extra 2
-http://178.132.5.243:25461/live/Lara/1234/1470.ts
-#EXTINF:-1,Arena Sport 1
-http://178.132.5.243:25461/live/Lara/1234/1453.ts
-#EXTINF:-1,Arena Sport 2
-http://178.132.5.243:25461/live/Lara/1234/1454.ts
-#EXTINF:-1,Arena Sport 3
-http://178.132.5.243:25461/live/Lara/1234/1455.ts
-#EXTINF:-1,Arena Sport 4
-http://178.132.5.243:25461/live/Lara/1234/1456.ts
-#EXTINF:-1,Arena Sport 5
-http://178.132.5.243:25461/live/Lara/1234/1457.ts
-#EXTINF:-1,Sport Klub 1
-http://178.132.5.243:25461/live/Lara/1234/1475.ts
-#EXTINF:-1,Sport Klub 2
-http://178.132.5.243:25461/live/Lara/1234/1473.ts
-#EXTINF:-1,Sport Klub 3
-http://178.132.5.243:25461/live/Lara/1234/1474.ts
-#EXTINF:-1,Sport Klub 4
-http://178.132.5.243:25461/live/Lara/1234/1472.ts
-#EXTINF:-1,NFL Now
-http://178.132.5.243:25461/live/Lara/1234/1465.ts
-#EXTINF:-1,Premium Sport 2
-http://178.132.5.243:25461/live/Lara/1234/1464.ts
-#EXTINF:-1,CNN
-http://178.132.5.243:25461/live/Lara/1234/1187.ts
-#EXTINF:-1,ABC News HD
-http://178.132.5.243:25461/live/Lara/1234/1192.ts
-#EXTINF:-1,BBC World News
-http://178.132.5.243:25461/live/Lara/1234/1188.ts
-#EXTINF:-1,Sky News
-http://178.132.5.243:25461/live/Lara/1234/1093.ts
-#EXTINF:-1,CBS News Internacional
-http://178.132.5.243:25461/live/Lara/1234/1191.ts
-#EXTINF:-1,MSNBC
-http://178.132.5.243:25461/live/Lara/1234/4857.ts
-#EXTINF:-1,FOX News
-http://178.132.5.243:25461/live/Lara/1234/1189.ts
-#EXTINF:-1,FOX 5 News Atlanta
-http://178.132.5.243:25461/live/Lara/1234/4907.ts
-#EXTINF:-1,FOX 23 Oklahoma
-http://178.132.5.243:25461/live/Lara/1234/4976.ts
-#EXTINF:-1,FOX 25 Boston
-http://178.132.5.243:25461/live/Lara/1234/4977.ts
-#EXTINF:-1,FOX 30 Florida
-http://178.132.5.243:25461/live/Lara/1234/4978.ts
-#EXTINF:-1,CBS 47 Florida
-http://178.132.5.243:25461/live/Lara/1234/4975.ts
-#EXTINF:-1,France 24
-http://178.132.5.243:25461/live/Lara/1234/4972.ts
-#EXTINF:-1,Bloomberg
-http://178.132.5.243:25461/live/Lara/1234/1021.ts
-#EXTINF:-1,Deutsche Welle
-http://178.132.5.243:25461/live/Lara/1234/4974.ts
-#EXTINF:-1,Deutsche Welle Espanol
-http://178.132.5.243:25461/live/Lara/1234/4973.ts
-#EXTINF:-1,SIC Internacional
-http://178.132.5.243:25461/live/Lara/1234/33.ts
-#EXTINF:-1,TVE Internacional
-http://178.132.5.243:25461/live/Lara/1234/5043.ts
-#EXTINF:-1,NHK
-http://178.132.5.243:25461/live/Lara/1234/62.ts
-#EXTINF:-1,MTV Rocks
-http://178.132.5.243:25461/live/Lara/1234/1180.ts
-#EXTINF:-1,MTV Base
-http://178.132.5.243:25461/live/Lara/1234/1070.ts
-#EXTINF:-1,MTV Dance
-http://178.132.5.243:25461/live/Lara/1234/1062.ts
-#EXTINF:-1,MTV Hits
-http://178.132.5.243:25461/live/Lara/1234/4999.ts
-#EXTINF:-1,MTV Music
-http://178.132.5.243:25461/live/Lara/1234/4998.ts
-#EXTINF:-1,VH1 Classic
-http://178.132.5.243:25461/live/Lara/1234/1123.ts
-#EXTINF:-1,MCM Pop
-http://178.132.5.243:25461/live/Lara/1234/1063.ts
-#EXTINF:-1,MCM Top
-http://178.132.5.243:25461/live/Lara/1234/1064.ts
-#EXTINF:-1,Afro Music Channel
-http://178.132.5.243:25461/live/Lara/1234/1012.ts
-#EXTINF:-1,Trace Urban
-http://178.132.5.243:25461/live/Lara/1234/1105.ts
-#EXTINF:-1,C Music TV
-http://178.132.5.243:25461/live/Lara/1234/1023.ts
-#EXTINF:-1,Stingray iConcerts HD
-http://178.132.5.243:25461/live/Lara/1234/1058.ts
-#EXTINF:-1,Mexicana
-http://178.132.5.243:25461/live/Lara/1234/4997.ts
-#EXTINF:-1,Alternative
-http://178.132.5.243:25461/live/Lara/1234/4996.ts
-#EXTINF:-1,Brits Hits
-http://178.132.5.243:25461/live/Lara/1234/4995.ts
-#EXTINF:-1,Dance/EDM
-http://178.132.5.243:25461/live/Lara/1234/4994.ts
-#EXTINF:-1,Hip-Hop And R&B
-http://178.132.5.243:25461/live/Lara/1234/4993.ts
-#EXTINF:-1,Hit List
-http://178.132.5.243:25461/live/Lara/1234/4992.ts
-#EXTINF:-1,Indie
-http://178.132.5.243:25461/live/Lara/1234/4991.ts
-#EXTINF:-1,MC Play
-http://178.132.5.243:25461/live/Lara/1234/4990.ts
-#EXTINF:-1,Metal International
-http://178.132.5.243:25461/live/Lara/1234/4989.ts
-#EXTINF:-1,Pop & Country
-http://178.132.5.243:25461/live/Lara/1234/4979.ts
-#EXTINF:-1,Pop and Hits
-http://178.132.5.243:25461/live/Lara/1234/4987.ts
-#EXTINF:-1,Pop Latino
-http://178.132.5.243:25461/live/Lara/1234/4986.ts
-#EXTINF:-1,R&B Soul
-http://178.132.5.243:25461/live/Lara/1234/4985.ts
-#EXTINF:-1,Rap
-http://178.132.5.243:25461/live/Lara/1234/4984.ts
-#EXTINF:-1,Rock
-http://178.132.5.243:25461/live/Lara/1234/4983.ts
-#EXTINF:-1,Throwback Jamz
-http://178.132.5.243:25461/live/Lara/1234/4982.ts
-#EXTINF:-1,Teen Beats
-http://178.132.5.243:25461/live/Lara/1234/4981.ts
-#EXTINF:-1,RAP 2K
-http://178.132.5.243:25461/live/Lara/1234/4980.ts
-#EXTINF:-1,FX MX
-http://178.132.5.243:25461/live/Lara/1234/4856.ts
-#EXTINF:-1,A&E Latino
-http://178.132.5.243:25461/live/Lara/1234/4855.ts
-#EXTINF:-1,FOX Sports 2 Latino
-http://178.132.5.243:25461/live/Lara/1234/4853.ts
-#EXTINF:-1,Univision
-http://178.132.5.243:25461/live/Lara/1234/4852.ts
-#EXTINF:-1,ESPN 2 Latino
-http://178.132.5.243:25461/live/Lara/1234/4851.ts
-#EXTINF:-1,FOX Premium Action
-http://178.132.5.243:25461/live/Lara/1234/4850.ts
-#EXTINF:-1,Distrito Comedia
-http://178.132.5.243:25461/live/Lara/1234/4849.ts
-#EXTINF:-1,Telemundo
-http://178.132.5.243:25461/live/Lara/1234/4848.ts
-#EXTINF:-1,Discovery Kids Latino
-http://178.132.5.243:25461/live/Lara/1234/4847.ts
-#EXTINF:-1,FXM
-http://178.132.5.243:25461/live/Lara/1234/4846.ts
-#EXTINF:-1,ESPN 3 Latino
-http://178.132.5.243:25461/live/Lara/1234/4845.ts
-#EXTINF:-1,Golden
-http://178.132.5.243:25461/live/Lara/1234/4844.ts
-#EXTINF:-1,FOX Deportes
-http://178.132.5.243:25461/live/Lara/1234/4843.ts
-#EXTINF:-1,beIN ñ Sports
-http://178.132.5.243:25461/live/Lara/1234/4842.ts
-#EXTINF:-1,Warner Channel Latino
-http://178.132.5.243:25461/live/Lara/1234/4841.ts
-#EXTINF:-1,Space Latino
-http://178.132.5.243:25461/live/Lara/1234/4840.ts
-#EXTINF:-1,ESPN Deportes
-http://178.132.5.243:25461/live/Lara/1234/4839.ts
-#EXTINF:-1,ESPN Latino
-http://178.132.5.243:25461/live/Lara/1234/4838.ts
-#EXTINF:-1,Tooncast Latino
-http://178.132.5.243:25461/live/Lara/1234/4837.ts
-#EXTINF:-1,Discovery Home&Health Latino
-http://178.132.5.243:25461/live/Lara/1234/4836.ts
-#EXTINF:-1,Discovery Civilization Latino
-http://178.132.5.243:25461/live/Lara/1234/4835.ts
-#EXTINF:-1,Univision TDN
-http://178.132.5.243:25461/live/Lara/1234/4834.ts
-#EXTINF:-1,De Pelicula
-http://178.132.5.243:25461/live/Lara/1234/4833.ts
-#EXTINF:-1,FOX Premium Series
-http://178.132.5.243:25461/live/Lara/1234/4832.ts
-#EXTINF:-1,Unicable
-http://178.132.5.243:25461/live/Lara/1234/4831.ts
-#EXTINF:-1,Cartoon Network Latino
-http://178.132.5.243:25461/live/Lara/1234/4830.ts
-#EXTINF:-1,Golden Edge
-http://178.132.5.243:25461/live/Lara/1234/4829.ts
-#EXTINF:-1,TyC Sports
-http://178.132.5.243:25461/live/Lara/1234/4828.ts
-#EXTINF:-1,Multimedios Monterrey
-http://178.132.5.243:25461/live/Lara/1234/4827.ts
-#EXTINF:-1,Cinecanal
-http://178.132.5.243:25461/live/Lara/1234/4826.ts
-#EXTINF:-1,FOX Premium Cinéma
-http://178.132.5.243:25461/live/Lara/1234/4825.ts
-#EXTINF:-1,Max UP Latino
-http://178.132.5.243:25461/live/Lara/1234/4824.ts
-#EXTINF:-1,Boomerang Latino
-http://178.132.5.243:25461/live/Lara/1234/4823.ts
-#EXTINF:-1,TNT Latino
-http://178.132.5.243:25461/live/Lara/1234/4822.ts
-#EXTINF:-1,TNT Series (MX)
-http://178.132.5.243:25461/live/Lara/1234/4821.ts
-#EXTINF:-1,AXN Latino
-http://178.132.5.243:25461/live/Lara/1234/4820.ts
-#EXTINF:-1,Canal 5
-http://178.132.5.243:25461/live/Lara/1234/4819.ts
-#EXTINF:-1,Discovery Channel Latino
-http://178.132.5.243:25461/live/Lara/1234/4818.ts
-#EXTINF:-1,AMC Latino
-http://178.132.5.243:25461/live/Lara/1234/4817.ts
-#EXTINF:-1,FOX Latino
-http://178.132.5.243:25461/live/Lara/1234/4816.ts
-#EXTINF:-1,Milenio TV
-http://178.132.5.243:25461/live/Lara/1234/4815.ts
-#EXTINF:-1,Disney XD Latino
-http://178.132.5.243:25461/live/Lara/1234/4814.ts
-#EXTINF:-1,Gala TV
-http://178.132.5.243:25461/live/Lara/1234/4813.ts
-#EXTINF:-1,Comedy Central Latino
-http://178.132.5.243:25461/live/Lara/1234/4812.ts
-#EXTINF:-1,Nat Geo Wild Latino
-http://178.132.5.243:25461/live/Lara/1234/4811.ts
-#EXTINF:-1,Nat Geo Latino
-http://178.132.5.243:25461/live/Lara/1234/4810.ts
-#EXTINF:-1,TIIN
-http://178.132.5.243:25461/live/Lara/1234/4809.ts
-#EXTINF:-1,Animal Planet Latino
-http://178.132.5.243:25461/live/Lara/1234/4808.ts
-#EXTINF:-1,Syfy Latino
-http://178.132.5.243:25461/live/Lara/1234/4807.ts
-#EXTINF:-1,El Gourmet
-http://178.132.5.243:25461/live/Lara/1234/4806.ts
-#EXTINF:-1,Studio Universal Latino
-http://178.132.5.243:25461/live/Lara/1234/4805.ts
-#EXTINF:-1,FOX Life Latino
-http://178.132.5.243:25461/live/Lara/1234/4804.ts
-#EXTINF:-1,TCM Latino
-http://178.132.5.243:25461/live/Lara/1234/4802.ts
-#EXTINF:-1,Glitz*
-http://178.132.5.243:25461/live/Lara/1234/4801.ts
-#EXTINF:-1,History Latino
-http://178.132.5.243:25461/live/Lara/1234/4800.ts
-#EXTINF:-1,TruTV Latino
-http://178.132.5.243:25461/live/Lara/1234/4799.ts
-#EXTINF:-1,Nick Latino
-http://178.132.5.243:25461/live/Lara/1234/4798.ts
-#EXTINF:-1,FOX Premium Movies
-http://178.132.5.243:25461/live/Lara/1234/4797.ts
-#EXTINF:-1,Investigacion Discovery Latino
-http://178.132.5.243:25461/live/Lara/1234/4796.ts
-#EXTINF:-1,Discovery Turbo Latino
-http://178.132.5.243:25461/live/Lara/1234/4795.ts
-#EXTINF:-1,Disney Channel Latino
-http://178.132.5.243:25461/live/Lara/1234/4794.ts
-#EXTINF:-1,AZ Clic
-http://178.132.5.243:25461/live/Lara/1234/4793.ts
-#EXTINF:-1,Nick Jr. Latino
-http://178.132.5.243:25461/live/Lara/1234/4792.ts
-#EXTINF:-1,Disney Junior Latino
-http://178.132.5.243:25461/live/Lara/1234/4791.ts
-#EXTINF:-1,TLC Latino
-http://178.132.5.243:25461/live/Lara/1234/4790.ts
-#EXTINF:-1,HBO Plus Latino
-http://178.132.5.243:25461/live/Lara/1234/4789.ts
-#EXTINF:-1,Canal Sony Latino
-http://178.132.5.243:25461/live/Lara/1234/4788.ts
-#EXTINF:-1,Discovery Theater Latino
-http://178.132.5.243:25461/live/Lara/1234/4787.ts
-#EXTINF:-1,Max Prime Latino
-http://178.132.5.243:25461/live/Lara/1234/4786.ts
-#EXTINF:-1,TV Publica - Argentina
-http://178.132.5.243:25461/live/Lara/1234/4785.ts
-#EXTINF:-1,ESPN +  Latino
-http://178.132.5.243:25461/live/Lara/1234/4784.ts
-#EXTINF:-1,WOBI
-http://178.132.5.243:25461/live/Lara/1234/4783.ts
-#EXTINF:-1,Nicktoons
-http://178.132.5.243:25461/live/Lara/1234/4782.ts
-#EXTINF:-1,Las Estrellas
-http://178.132.5.243:25461/live/Lara/1234/4781.ts
-#EXTINF:-1,Win Sports HD
-http://178.132.5.243:25461/live/Lara/1234/4780.ts
-#EXTINF:-1,RCN
-http://178.132.5.243:25461/live/Lara/1234/4779.ts
-#EXTINF:-1,El Garage TV
-http://178.132.5.243:25461/live/Lara/1234/4778.ts
-#EXTINF:-1,SexZone
-http://178.132.5.243:25461/live/Lara/1234/5061.ts
-#EXTINF:-1,Playboy TV
-http://178.132.5.243:25461/live/Lara/1234/55.ts
-#EXTINF:-1,Playboy FHD
-http://178.132.5.243:25461/live/Lara/1234/11093.ts
-#EXTINF:-1,Playboy TV HD Principal
-http://178.132.5.243:25461/live/Lara/1234/2045.ts
-#EXTINF:-1,Playboy TV HD
-http://178.132.5.243:25461/live/Lara/1234/10756.ts
-#EXTINF:-1,Sextreme
-http://178.132.5.243:25461/live/Lara/1234/35.ts
-#EXTINF:-1,Sextreme Principal
-http://178.132.5.243:25461/live/Lara/1234/2026.ts
-#EXTINF:-1,Venus HD
-http://178.132.5.243:25461/live/Lara/1234/1200.ts
-#EXTINF:-1,Venus Principal
-http://178.132.5.243:25461/live/Lara/1234/2009.ts
-#EXTINF:-1,Sexy Hot Principal
-http://178.132.5.243:25461/live/Lara/1234/2025.ts
-#EXTINF:-1,Sexy Hot
-http://178.132.5.243:25461/live/Lara/1234/34.ts
-#EXTINF:-1,Brasileirinhas
-http://178.132.5.243:25461/live/Lara/1234/9938.ts
-#EXTINF:-1,HOT HD
-http://178.132.5.243:25461/live/Lara/1234/1204.ts
-#EXTINF:-1,Hustler HD
-http://178.132.5.243:25461/live/Lara/1234/1205.ts
-#EXTINF:-1,Redlight HD
-http://178.132.5.243:25461/live/Lara/1234/1201.ts
-#EXTINF:-1,Dorcel HD
-http://178.132.5.243:25461/live/Lara/1234/1203.ts
-#EXTINF:-1,Dusk
-http://178.132.5.243:25461/live/Lara/1234/1206.ts
-#EXTINF:-1,Penthouse HD1
-http://178.132.5.243:25461/live/Lara/1234/1202.ts
-#EXTINF:-1,PinkoTV
-http://178.132.5.243:25461/live/Lara/1234/4939.ts
-#EXTINF:-1,Meiden Van Holland Hard
-http://178.132.5.243:25461/live/Lara/1234/4921.ts
-#EXTINF:-1,Reality Kings TV
-http://178.132.5.243:25461/live/Lara/1234/4940.ts
-#EXTINF:-1,Evil Angel HD
-http://178.132.5.243:25461/live/Lara/1234/4941.ts
-#EXTINF:-1,XMuvi
-http://178.132.5.243:25461/live/Lara/1234/4942.ts
-#EXTINF:-1,GolTV
-http://178.132.5.243:25461/live/Lara/1234/4943.ts
-#EXTINF:-1,XXL
-http://178.132.5.243:25461/live/Lara/1234/4918.ts
-#EXTINF:-1,SCT
-http://178.132.5.243:25461/live/Lara/1234/4923.ts
-#EXTINF:-1,Brazzers TV Europe
-http://178.132.5.243:25461/live/Lara/1234/4920.ts
-#EXTINF:-1,CentoXCento
-http://178.132.5.243:25461/live/Lara/1234/4919.ts
-#EXTINF:-1,Sext6senso
-http://178.132.5.243:25461/live/Lara/1234/4917.ts
-#EXTINF:-1,X-Mo
-http://178.132.5.243:25461/live/Lara/1234/8788.ts
-#EXTINF:-1,CBN
-http://178.132.5.243:25461/live/Lara/1234/985.ts
-#EXTINF:-1,Mega FM
-http://178.132.5.243:25461/live/Lara/1234/984.ts
-#EXTINF:-1,Rádio Globo SP
-http://178.132.5.243:25461/live/Lara/1234/983.ts
-#EXTINF:-1,BH FM
-http://178.132.5.243:25461/live/Lara/1234/982.ts
-#EXTINF:-1,Jovem Pan AM
-http://178.132.5.243:25461/live/Lara/1234/981.ts
-#EXTINF:-1,Jovem Pan FM
-http://178.132.5.243:25461/live/Lara/1234/980.ts
-#EXTINF:-1,Rádio Gaúcha
-http://178.132.5.243:25461/live/Lara/1234/979.ts
-#EXTINF:-1,RFI
-http://178.132.5.243:25461/live/Lara/1234/978.ts
-#EXTINF:-1,Rádio Globo RJ
-http://178.132.5.243:25461/live/Lara/1234/977.ts
-#EXTINF:-1,Rádio Disney
-http://178.132.5.243:25461/live/Lara/1234/5039.ts
-#EXTINF:-1,Transamérica
-http://178.132.5.243:25461/live/Lara/1234/976.ts
-#EXTINF:-1,Nativa
-http://178.132.5.243:25461/live/Lara/1234/975.ts
-#EXTINF:-1,BandNews FM
-http://178.132.5.243:25461/live/Lara/1234/974.ts
-#EXTINF:-1,Itatiaia AM-FM
-http://178.132.5.243:25461/live/Lara/1234/973.ts
-#EXTINF:-1,Verdes Mares
-http://178.132.5.243:25461/live/Lara/1234/972.ts
-#EXTINF:-1,Clube FM
-http://178.132.5.243:25461/live/Lara/1234/971.ts
-#EXTINF:-1,Rádio Bandeirantes
-http://178.132.5.243:25461/live/Lara/1234/970.ts
-#EXTINF:-1,Band FM
-http://178.132.5.243:25461/live/Lara/1234/969.ts
-#EXTINF:-1,NBA Radio (USA)
-http://178.132.5.243:25461/live/Lara/1234/8557.ts
-#EXTINF:-1,ESPN Deportes (USA)
-http://178.132.5.243:25461/live/Lara/1234/8556.ts
-#EXTINF:-1,ESPN Radio (USA)
-http://178.132.5.243:25461/live/Lara/1234/8554.ts
-#EXTINF:-1,NBC Sports Radio (USA)
-http://178.132.5.243:25461/live/Lara/1234/8558.ts
-#EXTINF:-1,TSN 1200 - Ottawa (CA)
-http://178.132.5.243:25461/live/Lara/1234/8560.ts
-#EXTINF:-1,Kids
-http://178.132.5.243:25461/live/Lara/1234/557.ts
-#EXTINF:-1,MPB
-http://178.132.5.243:25461/live/Lara/1234/556.ts
-#EXTINF:-1,Bossa Nova
-http://178.132.5.243:25461/live/Lara/1234/555.ts
-#EXTINF:-1,Forró
-http://178.132.5.243:25461/live/Lara/1234/554.ts
-#EXTINF:-1,Pagode
-http://178.132.5.243:25461/live/Lara/1234/553.ts
-#EXTINF:-1,Anos 2000
-http://178.132.5.243:25461/live/Lara/1234/552.ts
-#EXTINF:-1,Sertanejo
-http://178.132.5.243:25461/live/Lara/1234/551.ts
-#EXTINF:-1,Funk
-http://178.132.5.243:25461/live/Lara/1234/550.ts
-#EXTINF:-1,Rock Clássico
-http://178.132.5.243:25461/live/Lara/1234/549.ts
-#EXTINF:-1,Lounge
-http://178.132.5.243:25461/live/Lara/1234/548.ts
-#EXTINF:-1,Pop Rock
-http://178.132.5.243:25461/live/Lara/1234/547.ts
-#EXTINF:-1,Anos 70
-http://178.132.5.243:25461/live/Lara/1234/546.ts
-#EXTINF:-1,Anos 80
-http://178.132.5.243:25461/live/Lara/1234/545.ts
-#EXTINF:-1,Anos 90
-http://178.132.5.243:25461/live/Lara/1234/544.ts
-#EXTINF:-1,Românticas
-http://178.132.5.243:25461/live/Lara/1234/543.ts
-#EXTINF:-1,Rap Nacional
-http://178.132.5.243:25461/live/Lara/1234/542.ts
-#EXTINF:-1,Rock Brasil
-http://178.132.5.243:25461/live/Lara/1234/541.ts
-#EXTINF:-1,Eletrônica
-http://178.132.5.243:25461/live/Lara/1234/540.ts
-#EXTINF:-1,Festa
-http://178.132.5.243:25461/live/Lara/1234/539.ts
-#EXTINF:-1,Gospel
-http://178.132.5.243:25461/live/Lara/1234/538.ts
-#EXTINF:-1,Hip Hop
-http://178.132.5.243:25461/live/Lara/1234/537.ts
-#EXTINF:-1,Jazz
-http://178.132.5.243:25461/live/Lara/1234/536.ts
-#EXTINF:-1,Axé
-http://178.132.5.243:25461/live/Lara/1234/535.ts
-#EXTINF:-1,Brega
-http://178.132.5.243:25461/live/Lara/1234/534.ts
-#EXTINF:-1,Música Clássica
-http://178.132.5.243:25461/live/Lara/1234/533.ts
-#EXTINF:-1,New Rock
-http://178.132.5.243:25461/live/Lara/1234/532.ts
-#EXTINF:-1,Reggae
-http://178.132.5.243:25461/live/Lara/1234/531.ts
-#EXTINF:-1,Sertanejo Universitário
-http://178.132.5.243:25461/live/Lara/1234/530.ts
-#EXTINF:-1,Samba de Raiz
-http://178.132.5.243:25461/live/Lara/1234/529.ts
-#EXTINF:-1,Pop Hits
-http://178.132.5.243:25461/live/Lara/1234/528.ts
-#EXTINF:-1,Metal
-http://178.132.5.243:25461/live/Lara/1234/527.ts
-#EXTINF:-1,Trilhas Sonoras
-http://178.132.5.243:25461/live/Lara/1234/526.ts
-#EXTINF:-1,24H 101 Dalmatas
-http://178.132.5.243:25461/live/Lara/1234/9092.ts
-#EXTINF:-1,24H 3Palavrinhas
-http://178.132.5.243:25461/live/Lara/1234/8563.ts
-#EXTINF:-1,24H 3Palavrinhas - Hora de Dormir
-http://178.132.5.243:25461/live/Lara/1234/8564.ts
-#EXTINF:-1,24H A Bruxinha Sabrina
-http://178.132.5.243:25461/live/Lara/1234/9091.ts
-#EXTINF:-1,24H A Familia Addams
-http://178.132.5.243:25461/live/Lara/1234/9090.ts
-#EXTINF:-1,24H A Mansao Foster Para Amigos Imaginarios
-http://178.132.5.243:25461/live/Lara/1234/9089.ts
-#EXTINF:-1,24H A Nossa Turma
-http://178.132.5.243:25461/live/Lara/1234/9088.ts
-#EXTINF:-1,24H A Pantera Cor de Rosa
-http://178.132.5.243:25461/live/Lara/1234/9158.ts
-#EXTINF:-1,24H A Pequena Sereia
-http://178.132.5.243:25461/live/Lara/1234/9087.ts
-#EXTINF:-1,24H A Turma Do Pateta
-http://178.132.5.243:25461/live/Lara/1234/9085.ts
-#EXTINF:-1,24H A Turma do Pernalonga
-http://178.132.5.243:25461/live/Lara/1234/8846.ts
-#EXTINF:-1,24H A Vaca e o Frango
-http://178.132.5.243:25461/live/Lara/1234/9084.ts
-#EXTINF:-1,24H A Vida Moderna De Rocko
-http://178.132.5.243:25461/live/Lara/1234/9083.ts
-#EXTINF:-1,24H Aladdin
-http://178.132.5.243:25461/live/Lara/1234/10447.ts
-#EXTINF:-1,24H Animaniacs
-http://178.132.5.243:25461/live/Lara/1234/9082.ts
-#EXTINF:-1,24H Arrow T1
-http://178.132.5.243:25461/live/Lara/1234/8841.ts
-#EXTINF:-1,24H Arrow T2
-http://178.132.5.243:25461/live/Lara/1234/8840.ts
-#EXTINF:-1,24H Arrow T3
-http://178.132.5.243:25461/live/Lara/1234/8839.ts
-#EXTINF:-1,24H Arrow T4
-http://178.132.5.243:25461/live/Lara/1234/8838.ts
-#EXTINF:-1,24H Arrow T5
-http://178.132.5.243:25461/live/Lara/1234/8837.ts
-#EXTINF:-1,24H As Aventuras de Jackie Chan
-http://178.132.5.243:25461/live/Lara/1234/6206.ts
-#EXTINF:-1,24H As Meninas Super Poderosas
-http://178.132.5.243:25461/live/Lara/1234/8844.ts
-#EXTINF:-1,24H As Terriveis Aventuras de Billy e Mandy
-http://178.132.5.243:25461/live/Lara/1234/9157.ts
-#EXTINF:-1,24H As Trapalhadas De Flapjack
-http://178.132.5.243:25461/live/Lara/1234/9081.ts
-#EXTINF:-1,24H Backyardigans
-http://178.132.5.243:25461/live/Lara/1234/9948.ts
-#EXTINF:-1,24H Bakugan
-http://178.132.5.243:25461/live/Lara/1234/9080.ts
-#EXTINF:-1,24H Ben 10
-http://178.132.5.243:25461/live/Lara/1234/7836.ts
-#EXTINF:-1,24H Beyblade
-http://178.132.5.243:25461/live/Lara/1234/9079.ts
-#EXTINF:-1,24H Bibo Pai E Bob Filho
-http://178.132.5.243:25461/live/Lara/1234/9078.ts
-#EXTINF:-1,24H Bicudo
-http://178.132.5.243:25461/live/Lara/1234/9077.ts
-#EXTINF:-1,24H Bob Esponja
-http://178.132.5.243:25461/live/Lara/1234/6190.ts
-#EXTINF:-1,24H Bob Zoom
-http://178.132.5.243:25461/live/Lara/1234/9072.ts
-#EXTINF:-1,24H Bucky Jibaku Kun
-http://178.132.5.243:25461/live/Lara/1234/9076.ts
-#EXTINF:-1,24H Buzz Lightyear do Comando Estelar
-http://178.132.5.243:25461/live/Lara/1234/10446.ts
-#EXTINF:-1,24H Cadillacs e Dinossauros
-http://178.132.5.243:25461/live/Lara/1234/10445.ts
-#EXTINF:-1,24H Caillou
-http://178.132.5.243:25461/live/Lara/1234/5109.ts
-#EXTINF:-1,24H Cameras Escondidas
-http://178.132.5.243:25461/live/Lara/1234/9951.ts
-#EXTINF:-1,24H Capitao Planeta
-http://178.132.5.243:25461/live/Lara/1234/10444.ts
-#EXTINF:-1,24H Carmen Sandiego
-http://178.132.5.243:25461/live/Lara/1234/10443.ts
-#EXTINF:-1,24H Castelo Ra-Tim-Bum
-http://178.132.5.243:25461/live/Lara/1234/9075.ts
-#EXTINF:-1,24H Caverna do Dragao
-http://178.132.5.243:25461/live/Lara/1234/5114.ts
-#EXTINF:-1,24H Changeman
-http://178.132.5.243:25461/live/Lara/1234/9939.ts
-#EXTINF:-1,24H Charlie Brown e Snoopy
-http://178.132.5.243:25461/live/Lara/1234/9086.ts
-#EXTINF:-1,24H Chaves
-http://178.132.5.243:25461/live/Lara/1234/7837.ts
-#EXTINF:-1,24H Classicos Disney
-http://178.132.5.243:25461/live/Lara/1234/6197.ts
-#EXTINF:-1,24H Clifford Meu Gigante Cao Vermelho
-http://178.132.5.243:25461/live/Lara/1234/9074.ts
-#EXTINF:-1,24H Coelho Ricochete
-http://178.132.5.243:25461/live/Lara/1234/9073.ts
-#EXTINF:-1,24H Contos Da Crypta
-http://178.132.5.243:25461/live/Lara/1234/9071.ts
-#EXTINF:-1,24H Coragem O Cao Covarde
-http://178.132.5.243:25461/live/Lara/1234/9070.ts
-#EXTINF:-1,24H Corrida Espacial
-http://178.132.5.243:25461/live/Lara/1234/9069.ts
-#EXTINF:-1,24H Corrida Maluca
-http://178.132.5.243:25461/live/Lara/1234/9068.ts
-#EXTINF:-1,24H Corrida Maluca (2)
-http://178.132.5.243:25461/live/Lara/1234/6210.ts
-#EXTINF:-1,24H Denis o Pimentinha
-http://178.132.5.243:25461/live/Lara/1234/9067.ts
-#EXTINF:-1,24H Desenhos Biblicos
-http://178.132.5.243:25461/live/Lara/1234/5110.ts
-#EXTINF:-1,24H Desenhos Warner
-http://178.132.5.243:25461/live/Lara/1234/8843.ts
-#EXTINF:-1,24H Digimon
-http://178.132.5.243:25461/live/Lara/1234/6247.ts
-#EXTINF:-1,24H Dois Homens e Meio T1 - T4
-http://178.132.5.243:25461/live/Lara/1234/6184.ts
-#EXTINF:-1,24H Dois Homens e Meio T5 - T8
-http://178.132.5.243:25461/live/Lara/1234/7855.ts
-#EXTINF:-1,24H Dois Homens e Meio T9 - T12
-http://178.132.5.243:25461/live/Lara/1234/8562.ts
-#EXTINF:-1,24H Don Dracula
-http://178.132.5.243:25461/live/Lara/1234/9066.ts
-#EXTINF:-1,24H Dora A Aventureira
-http://178.132.5.243:25461/live/Lara/1234/9065.ts
-#EXTINF:-1,24H Dr. House T1
-http://178.132.5.243:25461/live/Lara/1234/9119.ts
-#EXTINF:-1,24H Dr. House T2
-http://178.132.5.243:25461/live/Lara/1234/9118.ts
-#EXTINF:-1,24H Dr. House T3
-http://178.132.5.243:25461/live/Lara/1234/9117.ts
-#EXTINF:-1,24H Dr. House T4
-http://178.132.5.243:25461/live/Lara/1234/9116.ts
-#EXTINF:-1,24H Dr. House T5
-http://178.132.5.243:25461/live/Lara/1234/9115.ts
-#EXTINF:-1,24H Dr. House T6
-http://178.132.5.243:25461/live/Lara/1234/9114.ts
-#EXTINF:-1,24H Dr. House T7
-http://178.132.5.243:25461/live/Lara/1234/9113.ts
-#EXTINF:-1,24H Dr. House T8
-http://178.132.5.243:25461/live/Lara/1234/9112.ts
-#EXTINF:-1,24H Dragon Ball
-http://178.132.5.243:25461/live/Lara/1234/6159.ts
-#EXTINF:-1,24H Dragon Ball Filmes
-http://178.132.5.243:25461/live/Lara/1234/9156.ts
-#EXTINF:-1,24H Dragon Ball GT
-http://178.132.5.243:25461/live/Lara/1234/9110.ts
-#EXTINF:-1,24H Dragon Ball Super
-http://178.132.5.243:25461/live/Lara/1234/5113.ts
-#EXTINF:-1,24H Dragon Ball Z Saga de Cell
-http://178.132.5.243:25461/live/Lara/1234/9064.ts
-#EXTINF:-1,24H Dragon Ball Z Saga de Freeza
-http://178.132.5.243:25461/live/Lara/1234/9063.ts
-#EXTINF:-1,24H Dragon Ball Z Saga de Garlic Jr
-http://178.132.5.243:25461/live/Lara/1234/9062.ts
-#EXTINF:-1,24H Dragon Ball Z Saga de Majin Boo
-http://178.132.5.243:25461/live/Lara/1234/9061.ts
-#EXTINF:-1,24H Dragon Ball Z Saga do Torneio do Outro Mundo
-http://178.132.5.243:25461/live/Lara/1234/9059.ts
-#EXTINF:-1,24H Dragon Ball Z Saga dos Androides
-http://178.132.5.243:25461/live/Lara/1234/9060.ts
-#EXTINF:-1,24H Dragon Ball Z Saga dos Sayajins
-http://178.132.5.243:25461/live/Lara/1234/9058.ts
-#EXTINF:-1,24H Drake & Josh
-http://178.132.5.243:25461/live/Lara/1234/9057.ts
-#EXTINF:-1,24H Droopy Dog
-http://178.132.5.243:25461/live/Lara/1234/8842.ts
-#EXTINF:-1,24H Duck Tales
-http://178.132.5.243:25461/live/Lara/1234/9056.ts
-#EXTINF:-1,24H Ducktales
-http://178.132.5.243:25461/live/Lara/1234/8847.ts
-#EXTINF:-1,24H Eek! The Cat
-http://178.132.5.243:25461/live/Lara/1234/9055.ts
-#EXTINF:-1,24H Escolinha do Prof Raimundo
-http://178.132.5.243:25461/live/Lara/1234/9470.ts
-#EXTINF:-1,24H Esquilo Sem Grilo
-http://178.132.5.243:25461/live/Lara/1234/9054.ts
-#EXTINF:-1,24H Eu a Patroa e as Criancas T1
-http://178.132.5.243:25461/live/Lara/1234/8590.ts
-#EXTINF:-1,24H Eu a Patroa e as Criancas T2
-http://178.132.5.243:25461/live/Lara/1234/8589.ts
-#EXTINF:-1,24H Eu a Patroa e as Criancas T3
-http://178.132.5.243:25461/live/Lara/1234/8588.ts
-#EXTINF:-1,24H Eu a Patroa e as Criancas T4
-http://178.132.5.243:25461/live/Lara/1234/8587.ts
-#EXTINF:-1,24H Eu a Patroa e as Criancas T5
-http://178.132.5.243:25461/live/Lara/1234/8586.ts
-#EXTINF:-1,24H Fabulas Da Disney
-http://178.132.5.243:25461/live/Lara/1234/9053.ts
-#EXTINF:-1,24H Familia Dinossauro
-http://178.132.5.243:25461/live/Lara/1234/10442.ts
-#EXTINF:-1,24H Flash T1
-http://178.132.5.243:25461/live/Lara/1234/8836.ts
-#EXTINF:-1,24H Flash T2
-http://178.132.5.243:25461/live/Lara/1234/8835.ts
-#EXTINF:-1,24H Flash T3
-http://178.132.5.243:25461/live/Lara/1234/8834.ts
-#EXTINF:-1,24H Formiga Atomica
-http://178.132.5.243:25461/live/Lara/1234/9052.ts
-#EXTINF:-1,24H Frankenstein Junior
-http://178.132.5.243:25461/live/Lara/1234/9051.ts
-#EXTINF:-1,24H Freakazoid
-http://178.132.5.243:25461/live/Lara/1234/9050.ts
-#EXTINF:-1,24H Funk
-http://178.132.5.243:25461/live/Lara/1234/9159.ts
-#EXTINF:-1,24H Futurama
-http://178.132.5.243:25461/live/Lara/1234/6196.ts
-#EXTINF:-1,24H Galaxy Rangers
-http://178.132.5.243:25461/live/Lara/1234/10441.ts
-#EXTINF:-1,24H Galinha Pintadinha
-http://178.132.5.243:25461/live/Lara/1234/6182.ts
-#EXTINF:-1,24H Garfield e Seus Amigos
-http://178.132.5.243:25461/live/Lara/1234/9947.ts
-#EXTINF:-1,24H Gato Felix
-http://178.132.5.243:25461/live/Lara/1234/9155.ts
-#EXTINF:-1,24H Go Diego Go
-http://178.132.5.243:25461/live/Lara/1234/10111.ts
-#EXTINF:-1,24H Gospel
-http://178.132.5.243:25461/live/Lara/1234/9584.ts
-#EXTINF:-1,24H Gundam Wing
-http://178.132.5.243:25461/live/Lara/1234/9049.ts
-#EXTINF:-1,24H Hamtaro
-http://178.132.5.243:25461/live/Lara/1234/9048.ts
-#EXTINF:-1,24H Hercules
-http://178.132.5.243:25461/live/Lara/1234/9005.ts
-#EXTINF:-1,24H Homem Passaro
-http://178.132.5.243:25461/live/Lara/1234/9047.ts
-#EXTINF:-1,24H Hot Wheels Battle Force 5
-http://178.132.5.243:25461/live/Lara/1234/9046.ts
-#EXTINF:-1,24H Ilha Dos Desafios
-http://178.132.5.243:25461/live/Lara/1234/9045.ts
-#EXTINF:-1,24H Invasor Zim
-http://178.132.5.243:25461/live/Lara/1234/9946.ts
-#EXTINF:-1,24H Irmao Do Jorel
-http://178.132.5.243:25461/live/Lara/1234/9044.ts
-#EXTINF:-1,24H Jambo e Ruivao
-http://178.132.5.243:25461/live/Lara/1234/9043.ts
-#EXTINF:-1,24H Jaspion
-http://178.132.5.243:25461/live/Lara/1234/9945.ts
-#EXTINF:-1,24H Johnny Bravo
-http://178.132.5.243:25461/live/Lara/1234/9042.ts
-#EXTINF:-1,24H Johnny Test
-http://178.132.5.243:25461/live/Lara/1234/5103.ts
-#EXTINF:-1,24H Jonny Quest
-http://178.132.5.243:25461/live/Lara/1234/9041.ts
-#EXTINF:-1,24H Josie e as Gatinhas
-http://178.132.5.243:25461/live/Lara/1234/10440.ts
-#EXTINF:-1,24H Jubei Chan The Ninja Girl
-http://178.132.5.243:25461/live/Lara/1234/9040.ts
-#EXTINF:-1,24H Juca Bala e Ze Bolha
-http://178.132.5.243:25461/live/Lara/1234/7823.ts
-#EXTINF:-1,24H Kenan E Kel
-http://178.132.5.243:25461/live/Lara/1234/9039.ts
-#EXTINF:-1,24H Kick Buttowski
-http://178.132.5.243:25461/live/Lara/1234/9038.ts
-#EXTINF:-1,24H KND A Turma Do Bairro
-http://178.132.5.243:25461/live/Lara/1234/9037.ts
-#EXTINF:-1,24H Larva
-http://178.132.5.243:25461/live/Lara/1234/10112.ts
-#EXTINF:-1,24H Looney Tunes
-http://178.132.5.243:25461/live/Lara/1234/9109.ts
-#EXTINF:-1,24H Lula Lele
-http://178.132.5.243:25461/live/Lara/1234/9036.ts
-#EXTINF:-1,24H Luluzinha
-http://178.132.5.243:25461/live/Lara/1234/6180.ts
-#EXTINF:-1,24H Manda Chuva
-http://178.132.5.243:25461/live/Lara/1234/9035.ts
-#EXTINF:-1,24H Manual de Sobrevivencia Escolar Do Ned
-http://178.132.5.243:25461/live/Lara/1234/9034.ts
-#EXTINF:-1,24H Masha e o Urso
-http://178.132.5.243:25461/live/Lara/1234/10116.ts
-#EXTINF:-1,24H MasterChef
-http://178.132.5.243:25461/live/Lara/1234/9569.ts
-#EXTINF:-1,24H Medabots
-http://178.132.5.243:25461/live/Lara/1234/9033.ts
-#EXTINF:-1,24H Megaman
-http://178.132.5.243:25461/live/Lara/1234/9032.ts
-#EXTINF:-1,24H Megas XRL
-http://178.132.5.243:25461/live/Lara/1234/9031.ts
-#EXTINF:-1,24H Meu Melhor Amigo Da Escola E Um Macaco
-http://178.132.5.243:25461/live/Lara/1234/9030.ts
-#EXTINF:-1,24H MIB - Homens de Preto
-http://178.132.5.243:25461/live/Lara/1234/10439.ts
-#EXTINF:-1,24H Mickey e Donald
-http://178.132.5.243:25461/live/Lara/1234/6158.ts
-#EXTINF:-1,24H Mortal Kombat
-http://178.132.5.243:25461/live/Lara/1234/9029.ts
-#EXTINF:-1,24H Mosquito Mosquete e Moscardo
-http://178.132.5.243:25461/live/Lara/1234/10438.ts
-#EXTINF:-1,24H Mucha Lucha
-http://178.132.5.243:25461/live/Lara/1234/9027.ts
-#EXTINF:-1,24H Mundo Bita
-http://178.132.5.243:25461/live/Lara/1234/8552.ts
-#EXTINF:-1,24H Naruto
-http://178.132.5.243:25461/live/Lara/1234/7811.ts
-#EXTINF:-1,24H O Acampamento De Lazlo
-http://178.132.5.243:25461/live/Lara/1234/9026.ts
-#EXTINF:-1,24H O Inspetor
-http://178.132.5.243:25461/live/Lara/1234/9025.ts
-#EXTINF:-1,24H O Maskara
-http://178.132.5.243:25461/live/Lara/1234/9024.ts
-#EXTINF:-1,24H O Onibus Magico
-http://178.132.5.243:25461/live/Lara/1234/9023.ts
-#EXTINF:-1,24H O Show da Luna
-http://178.132.5.243:25461/live/Lara/1234/10115.ts
-#EXTINF:-1,24H O Show Do Ze Colmeia
-http://178.132.5.243:25461/live/Lara/1234/9021.ts
-#EXTINF:-1,24H Os Castores Pirados
-http://178.132.5.243:25461/live/Lara/1234/9020.ts
-#EXTINF:-1,24H Os Cavaleiros do Zodiaco Lost Canvas
-http://178.132.5.243:25461/live/Lara/1234/8591.ts
-#EXTINF:-1,24H Os Cavaleiros dos Zodiaco Saga As Doze Casas
-http://178.132.5.243:25461/live/Lara/1234/6161.ts
-#EXTINF:-1,24H Os Cavaleiros dos Zodiaco Saga De Asgard
-http://178.132.5.243:25461/live/Lara/1234/7296.ts
-#EXTINF:-1,24H Os Cavaleiros dos Zodiaco Saga De Hades
-http://178.132.5.243:25461/live/Lara/1234/7414.ts
-#EXTINF:-1,24H Os Cavaleiros dos Zodiaco Saga De Poseidon
-http://178.132.5.243:25461/live/Lara/1234/7297.ts
-#EXTINF:-1,24H Os Jetsons
-http://178.132.5.243:25461/live/Lara/1234/9019.ts
-#EXTINF:-1,24H Os Oblongs
-http://178.132.5.243:25461/live/Lara/1234/8995.ts
-#EXTINF:-1,24H Os Simpsons
-http://178.132.5.243:25461/live/Lara/1234/5119.ts
-#EXTINF:-1,24H Os Super Patos
-http://178.132.5.243:25461/live/Lara/1234/9018.ts
-#EXTINF:-1,24H Os Trapalhoes
-http://178.132.5.243:25461/live/Lara/1234/6162.ts
-#EXTINF:-1,24H Os Trapalhoes Filmes
-http://178.132.5.243:25461/live/Lara/1234/8831.ts
-#EXTINF:-1,24H Os Ursinhos Gummi
-http://178.132.5.243:25461/live/Lara/1234/10437.ts
-#EXTINF:-1,24H Os Valentes Cowboys De Moo Mesa
-http://178.132.5.243:25461/live/Lara/1234/9017.ts
-#EXTINF:-1,24H Padrinhos Magicos
-http://178.132.5.243:25461/live/Lara/1234/9108.ts
-#EXTINF:-1,24H Pagode
-http://178.132.5.243:25461/live/Lara/1234/9471.ts
-#EXTINF:-1,24H Panico - Entrevistas
-http://178.132.5.243:25461/live/Lara/1234/10110.ts
-#EXTINF:-1,24H Panico - WebBullyng
-http://178.132.5.243:25461/live/Lara/1234/10109.ts
-#EXTINF:-1,24H Papa-Leguas e E Coyote
-http://178.132.5.243:25461/live/Lara/1234/9007.ts
-#EXTINF:-1,24H Patrulha Canina
-http://178.132.5.243:25461/live/Lara/1234/8561.ts
-#EXTINF:-1,24H Patrulha Estelar
-http://178.132.5.243:25461/live/Lara/1234/9016.ts
-#EXTINF:-1,24H Perdidos no Espaco
-http://178.132.5.243:25461/live/Lara/1234/10436.ts
-#EXTINF:-1,24H Phineas e Ferb
-http://178.132.5.243:25461/live/Lara/1234/7807.ts
-#EXTINF:-1,24H Pica-Pau
-http://178.132.5.243:25461/live/Lara/1234/9022.ts
-#EXTINF:-1,24H Pica-Pau Classico
-http://178.132.5.243:25461/live/Lara/1234/9014.ts
-#EXTINF:-1,24H Pinky E Cerebro
-http://178.132.5.243:25461/live/Lara/1234/9013.ts
-#EXTINF:-1,24H Planet Survival
-http://178.132.5.243:25461/live/Lara/1234/9012.ts
-#EXTINF:-1,24H Pocoyo
-http://178.132.5.243:25461/live/Lara/1234/10114.ts
-#EXTINF:-1,24H Policia 24h
-http://178.132.5.243:25461/live/Lara/1234/9950.ts
-#EXTINF:-1,24H Popeye
-http://178.132.5.243:25461/live/Lara/1234/9011.ts
-#EXTINF:-1,24H Power Rangers 1
-http://178.132.5.243:25461/live/Lara/1234/9583.ts
-#EXTINF:-1,24H Power Rangers 2
-http://178.132.5.243:25461/live/Lara/1234/9582.ts
-#EXTINF:-1,24H Power Rangers 3
-http://178.132.5.243:25461/live/Lara/1234/9581.ts
-#EXTINF:-1,24H Power Rangers Dino Trovao
-http://178.132.5.243:25461/live/Lara/1234/9580.ts
-#EXTINF:-1,24H Power Rangers Galaxia Perdida
-http://178.132.5.243:25461/live/Lara/1234/9579.ts
-#EXTINF:-1,24H Power Rangers Super Patrulha Delta
-http://178.132.5.243:25461/live/Lara/1234/9578.ts
-#EXTINF:-1,24H Power Rangers Tempestade Ninja
-http://178.132.5.243:25461/live/Lara/1234/9577.ts
-#EXTINF:-1,24H Power Rangers Turbo
-http://178.132.5.243:25461/live/Lara/1234/9576.ts
-#EXTINF:-1,24H Power Rangers Zeo
-http://178.132.5.243:25461/live/Lara/1234/9575.ts
-#EXTINF:-1,24H Power Stone
-http://178.132.5.243:25461/live/Lara/1234/9944.ts
-#EXTINF:-1,24H Projeto Zeta
-http://178.132.5.243:25461/live/Lara/1234/9010.ts
-#EXTINF:-1,24H Rap
-http://178.132.5.243:25461/live/Lara/1234/10104.ts
-#EXTINF:-1,24H Recruta Zero
-http://178.132.5.243:25461/live/Lara/1234/9009.ts
-#EXTINF:-1,24H Riquinho
-http://178.132.5.243:25461/live/Lara/1234/9008.ts
-#EXTINF:-1,24H Rocket Power
-http://178.132.5.243:25461/live/Lara/1234/10435.ts
-#EXTINF:-1,24H Sakura Card Captors
-http://178.132.5.243:25461/live/Lara/1234/9943.ts
-#EXTINF:-1,24H Samurai Warriors
-http://178.132.5.243:25461/live/Lara/1234/9006.ts
-#EXTINF:-1,24H Scooby Doo!
-http://178.132.5.243:25461/live/Lara/1234/7810.ts
-#EXTINF:-1,24H Sertanejo Universitario
-http://178.132.5.243:25461/live/Lara/1234/9111.ts
-#EXTINF:-1,24H Shaman King
-http://178.132.5.243:25461/live/Lara/1234/9004.ts
-#EXTINF:-1,24H She-Ra
-http://178.132.5.243:25461/live/Lara/1234/10108.ts
-#EXTINF:-1,24H Shinzo
-http://178.132.5.243:25461/live/Lara/1234/9003.ts
-#EXTINF:-1,24H Shurato
-http://178.132.5.243:25461/live/Lara/1234/9002.ts
-#EXTINF:-1,24H Silverhawks
-http://178.132.5.243:25461/live/Lara/1234/9001.ts
-#EXTINF:-1,24H Sitio do Picapau Amarelo Classico
-http://178.132.5.243:25461/live/Lara/1234/9949.ts
-#EXTINF:-1,24H South Park
-http://178.132.5.243:25461/live/Lara/1234/6195.ts
-#EXTINF:-1,24H Space Gost
-http://178.132.5.243:25461/live/Lara/1234/9000.ts
-#EXTINF:-1,24H Steven Universe
-http://178.132.5.243:25461/live/Lara/1234/10107.ts
-#EXTINF:-1,24H Super Choque
-http://178.132.5.243:25461/live/Lara/1234/9154.ts
-#EXTINF:-1,24H Super Herois DC
-http://178.132.5.243:25461/live/Lara/1234/10106.ts
-#EXTINF:-1,24H Super Mario Bros 3
-http://178.132.5.243:25461/live/Lara/1234/8999.ts
-#EXTINF:-1,24H Supernatural T1
-http://178.132.5.243:25461/live/Lara/1234/8730.ts
-#EXTINF:-1,24H Supernatural T10
-http://178.132.5.243:25461/live/Lara/1234/8721.ts
-#EXTINF:-1,24H Supernatural T11
-http://178.132.5.243:25461/live/Lara/1234/8833.ts
-#EXTINF:-1,24H Supernatural T12
-http://178.132.5.243:25461/live/Lara/1234/8832.ts
-#EXTINF:-1,24H Supernatural T2
-http://178.132.5.243:25461/live/Lara/1234/8729.ts
-#EXTINF:-1,24H Supernatural T3
-http://178.132.5.243:25461/live/Lara/1234/8728.ts
-#EXTINF:-1,24H Supernatural T4
-http://178.132.5.243:25461/live/Lara/1234/8727.ts
-#EXTINF:-1,24H Supernatural T5
-http://178.132.5.243:25461/live/Lara/1234/8726.ts
-#EXTINF:-1,24H Supernatural T6
-http://178.132.5.243:25461/live/Lara/1234/8725.ts
-#EXTINF:-1,24H Supernatural T7
-http://178.132.5.243:25461/live/Lara/1234/8724.ts
-#EXTINF:-1,24H Supernatural T8
-http://178.132.5.243:25461/live/Lara/1234/8723.ts
-#EXTINF:-1,24H Supernatural T9
-http://178.132.5.243:25461/live/Lara/1234/8722.ts
-#EXTINF:-1,24H Tartaruga Touche e Dum Dum
-http://178.132.5.243:25461/live/Lara/1234/8998.ts
-#EXTINF:-1,24H Tarzan
-http://178.132.5.243:25461/live/Lara/1234/8997.ts
-#EXTINF:-1,24H Taz-Mania
-http://178.132.5.243:25461/live/Lara/1234/8996.ts
-#EXTINF:-1,24H Teletubbies
-http://178.132.5.243:25461/live/Lara/1234/5112.ts
-#EXTINF:-1,24H The Big Bang Theory T1 - T4
-http://178.132.5.243:25461/live/Lara/1234/6244.ts
-#EXTINF:-1,24H The Big Bang Theory T5 - T8
-http://178.132.5.243:25461/live/Lara/1234/8565.ts
-#EXTINF:-1,24H The Big Bang Theory T9 - T11
-http://178.132.5.243:25461/live/Lara/1234/9586.ts
-#EXTINF:-1,24H The Noite
-http://178.132.5.243:25461/live/Lara/1234/9941.ts
-#EXTINF:-1,24H The Noite - Entrevistas
-http://178.132.5.243:25461/live/Lara/1234/9940.ts
-#EXTINF:-1,24H Thundercats
-http://178.132.5.243:25461/live/Lara/1234/8994.ts
-#EXTINF:-1,24H Tico e Teco
-http://178.132.5.243:25461/live/Lara/1234/6204.ts
-#EXTINF:-1,24H Timao e Pumba
-http://178.132.5.243:25461/live/Lara/1234/8993.ts
-#EXTINF:-1,24H Todo Mundo Odeia o Chris T1
-http://178.132.5.243:25461/live/Lara/1234/5107.ts
-#EXTINF:-1,24H Todo Mundo Odeia o Chris T2
-http://178.132.5.243:25461/live/Lara/1234/7421.ts
-#EXTINF:-1,24H Todo Mundo Odeia o Chris T3
-http://178.132.5.243:25461/live/Lara/1234/7423.ts
-#EXTINF:-1,24H Todo Mundo Odeia o Chris T4
-http://178.132.5.243:25461/live/Lara/1234/7424.ts
-#EXTINF:-1,24H Tom & Jerry
-http://178.132.5.243:25461/live/Lara/1234/8992.ts
-#EXTINF:-1,24H Tres Espias Demais
-http://178.132.5.243:25461/live/Lara/1234/9153.ts
-#EXTINF:-1,24H Tunel do Tempo
-http://178.132.5.243:25461/live/Lara/1234/8991.ts
-#EXTINF:-1,24H Turma da Monica
-http://178.132.5.243:25461/live/Lara/1234/5111.ts
-#EXTINF:-1,24H Tutubarao
-http://178.132.5.243:25461/live/Lara/1234/8990.ts
-#EXTINF:-1,24H Um Maluco no Pedaco
-http://178.132.5.243:25461/live/Lara/1234/6181.ts
-#EXTINF:-1,24H Uma Familia da Pesada
-http://178.132.5.243:25461/live/Lara/1234/6160.ts
-#EXTINF:-1,24H Ursinhos Carinhos
-http://178.132.5.243:25461/live/Lara/1234/8989.ts
-#EXTINF:-1,24H Vai que Cola T1
-http://178.132.5.243:25461/live/Lara/1234/9574.ts
-#EXTINF:-1,24H Vai que Cola T2
-http://178.132.5.243:25461/live/Lara/1234/9573.ts
-#EXTINF:-1,24H Vai que Cola T3
-http://178.132.5.243:25461/live/Lara/1234/9572.ts
-#EXTINF:-1,24H Vai que Cola T4
-http://178.132.5.243:25461/live/Lara/1234/9571.ts
-#EXTINF:-1,24H Vai que Cola T5
-http://178.132.5.243:25461/live/Lara/1234/9570.ts
-#EXTINF:-1,24H Vale dos Dinossauros
-http://178.132.5.243:25461/live/Lara/1234/8988.ts
-#EXTINF:-1,24H Wally Gator
-http://178.132.5.243:25461/live/Lara/1234/8987.ts
-#EXTINF:-1,24H Winspector
-http://178.132.5.243:25461/live/Lara/1234/10105.ts
-#EXTINF:-1,24H Xuxa So Para Baixinhos
-http://178.132.5.243:25461/live/Lara/1234/8553.ts
-#EXTINF:-1,24H Yuyu Hakusho
-http://178.132.5.243:25461/live/Lara/1234/9942.ts
-#EXTINF:-1,24H Zatch Bell
-http://178.132.5.243:25461/live/Lara/1234/8986.ts
-#EXTINF:-1,24H Ze Buscape
-http://178.132.5.243:25461/live/Lara/1234/8985.ts
+#EXTM3U
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/236.ts
+#EXTINF:-1,•●★★--- BEIN SPORT ARABIC HD ---★★●•
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/245.ts
+#EXTINF:-1,|AR| BeIN SPORT NEWS
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/336.ts
+#EXTINF:-1,|AR|  BeIN SPORT 1 HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/119.ts
+#EXTINF:-1,|AR|  BeIN SPORT 2 HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/127.ts
+#EXTINF:-1,|AR|  BeIN SPORT 3 HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/126.ts
+#EXTINF:-1,|AR|  BeIN SPORT 4 HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/125.ts
+#EXTINF:-1,|AR|  BeIN SPORT 5 HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/124.ts
+#EXTINF:-1,|AR|  BeIN SPORT 6 HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/123.ts
+#EXTINF:-1,|AR|  BeIN SPORT 7 HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/122.ts
+#EXTINF:-1,|AR|  BeIN SPORT 8 HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/121.ts
+#EXTINF:-1,|AR|  BeIN SPORT 9 HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/120.ts
+#EXTINF:-1,|AR|  BeIN SPORT 10 HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/118.ts
+#EXTINF:-1,|AR|  BeIN SPORT 11 HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/117.ts
+#EXTINF:-1,|AR|  BeIN SPORT 12 HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/116.ts
+#EXTINF:-1,•●★★--- BEIN SPORT ARABIC 4K ---★★●•
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/351.ts
+#EXTINF:-1,|AR| beIN SPORT 1 4K
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1659.ts
+#EXTINF:-1,|AR| beIN SPORT 2 4K
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1660.ts
+#EXTINF:-1,|AR| beIN SPORT 3 4K
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1661.ts
+#EXTINF:-1,|AR| beIN SPORT 4 4K
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1662.ts
+#EXTINF:-1,|AR| beIN SPORT 5 4K
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1663.ts
+#EXTINF:-1,|AR| beIN SPORT 6 4K
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1664.ts
+#EXTINF:-1,|AR| beIN SPORT 7 4K
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1665.ts
+#EXTINF:-1,|AR| beIN SPORT 8 4K
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1666.ts
+#EXTINF:-1,|AR| beIN SPORT 9 4K
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1667.ts
+#EXTINF:-1,|AR| beIN SPORT 10 4K
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1668.ts
+#EXTINF:-1,|AR| beIN SPORT 11 4K
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1669.ts
+#EXTINF:-1,|AR| beIN SPORT 12 4K
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1670.ts
+#EXTINF:-1,•●★★--- BEIN SPORT ARABIC SD ---★★●•
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/247.ts
+#EXTINF:-1,|AR| beIN SPORT  1 SD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1691.ts
+#EXTINF:-1,|AR| beIN SPORT  2 SD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1692.ts
+#EXTINF:-1,|AR| beIN SPORT  3 SD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1693.ts
+#EXTINF:-1,|AR| beIN SPORT  4 SD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1694.ts
+#EXTINF:-1,|AR| beIN SPORT  5 SD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1695.ts
+#EXTINF:-1,|AR| beIN SPORT  7 SD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1696.ts
+#EXTINF:-1,|AR| beIN SPORT  8 SD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1697.ts
+#EXTINF:-1,|AR| beIN SPORT  9 SD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1698.ts
+#EXTINF:-1,|AR| beIN SPORT  10 SD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1699.ts
+#EXTINF:-1,•●★★--- BEIN SPORT ARABIC LOW ---★★●•
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/248.ts
+#EXTINF:-1,|AR| beIN SPORT 1FD(1M)
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1681.ts
+#EXTINF:-1,|AR| beIN SPORT 2FD(1M)
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1682.ts
+#EXTINF:-1,|AR| beIN SPORT 3FD(1M)
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1683.ts
+#EXTINF:-1,|AR| beIN SPORT 4FD(1M)
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1684.ts
+#EXTINF:-1,|AR| beIN SPORT 5FD(1M)
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1685.ts
+#EXTINF:-1,|AR| beIN SPORT 6FD(1M)
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1686.ts
+#EXTINF:-1,|AR| beIN SPORT 7FD(1M)
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1687.ts
+#EXTINF:-1,|AR| beIN SPORT 8FD(1M)
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1688.ts
+#EXTINF:-1,|AR| beIN SPORT 9FD(1M)
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1689.ts
+#EXTINF:-1,|AR| beIN SPORT 10FD(1M)
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1690.ts
+#EXTINF:-1,•●★★--- BEIN SPORT ARABIC VeryLOW---★★●•
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1700.ts
+#EXTINF:-1,|AR| beIN SPORT 1FD(512)
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1671.ts
+#EXTINF:-1,|AR| beIN SPORT 2FD(512)
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1672.ts
+#EXTINF:-1,|AR| beIN SPORT 3FD(512)
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1673.ts
+#EXTINF:-1,|AR| beIN SPORT 4FD(512)
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1674.ts
+#EXTINF:-1,|AR| beIN SPORT 5FD(512)
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1675.ts
+#EXTINF:-1,|AR| beIN SPORT 6FD(512)
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1676.ts
+#EXTINF:-1,|AR| beIN SPORT 7FD(512)
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1677.ts
+#EXTINF:-1,|AR| beIN SPORT 8FD(512)
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1678.ts
+#EXTINF:-1,|AR| beIN SPORT 9FD(512)
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1679.ts
+#EXTINF:-1,|AR| beIN SPORT 10FD(512)
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1680.ts
+#EXTINF:-1,•●★★--- BEIN Channels ---★★●•
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/250.ts
+#EXTINF:-1,|AR|  BeIN Movies 1 Premiere
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/109.ts
+#EXTINF:-1,|AR|  BeIN Movies 2 Action
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/108.ts
+#EXTINF:-1,|AR|  BeIN Movies 3 Drama
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/107.ts
+#EXTINF:-1,|AR|  BeIN Movies 4 Family
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/106.ts
+#EXTINF:-1,|AR|BeIN BOX OFFICE 1
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/591.ts
+#EXTINF:-1,|AR|BeIN BOX OFFICE 2
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/592.ts
+#EXTINF:-1,|AR|BeIN BOX OFFICE 3
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/593.ts
+#EXTINF:-1,|AR|BeIN BOX OFFICE 4
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/594.ts
+#EXTINF:-1,|AR|  BeIN_GROUMMET
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/103.ts
+#EXTINF:-1,|AR|  BeIN_Fatafeat_HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/104.ts
+#EXTINF:-1,|AR|  BeIN Series 1 HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/105.ts
+#EXTINF:-1,|AR|  BeIN junior
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/110.ts
+#EXTINF:-1,|AR|  BeIN Fox Movies Action
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/111.ts
+#EXTINF:-1,|AR|  BeIN Fox Family Movies
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/113.ts
+#EXTINF:-1,|AR|  BeIN Boomerang
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/115.ts
+#EXTINF:-1,•●★★--- OSN ARABIC  ---★★●•
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/249.ts
+#EXTINF:-1,|AR| OSN BOX OFFICE 1
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/128.ts
+#EXTINF:-1,|AR| OSN BOX OFFICE 3
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/130.ts
+#EXTINF:-1,|AR|OSN yahala-shabab
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/22.ts
+#EXTINF:-1,|AR|OSN yahala-2
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/25.ts
+#EXTINF:-1,|AR|OSN TLC-HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/28.ts
+#EXTINF:-1,|AR|OSN star-movies-HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/31.ts
+#EXTINF:-1,|AR|OSN nickelodeon
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/33.ts
+#EXTINF:-1,|AR|OSN movie-kids
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/40.ts
+#EXTINF:-1,|AR|OSN movie-festival-HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/41.ts
+#EXTINF:-1,|AR|OSN movie-family
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/42.ts
+#EXTINF:-1,|AR|OSN movie-action
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/46.ts
+#EXTINF:-1,|AR|OSN movie-action-2
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/45.ts
+#EXTINF:-1,|AR|OSN ART-Hekayat2
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/15.ts
+#EXTINF:-1,|AR|OSN ART-Aflem2
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/12.ts
+#EXTINF:-1,|AR|OSN ART-Aflem1
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/13.ts
+#EXTINF:-1,|AR|OSN animal-planet
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/74.ts
+#EXTINF:-1,|AR|  OSNYahala Cinema HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/131.ts
+#EXTINF:-1,|AR|  OSNYa Hala HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/132.ts
+#EXTINF:-1,|AR|  OSNSeeVii_Drama HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/137.ts
+#EXTINF:-1,|AR|  OSNSeeVii_Beelink Prime HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/138.ts
+#EXTINF:-1,|AR|  OSNSeeVii_Al oula HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/139.ts
+#EXTINF:-1,|AR|  OSNOn Demand 1HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/142.ts
+#EXTINF:-1,|AR|  OSNOn Demand 2HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/141.ts
+#EXTINF:-1,|AR|  OSNON_Demand 3HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/140.ts
+#EXTINF:-1,|AR|OSN sport 1 HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/20.ts
+#EXTINF:-1,|AR|OSN sport 2 HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/19.ts
+#EXTINF:-1,|AR| OSN AlfaCinema
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/321.ts
+#EXTINF:-1,|AR| OSN AlfaAction
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/320.ts
+#EXTINF:-1,•●★★--- MH  Channels ---★★●•
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1701.ts
+#EXTINF:-1,|AR|MH_action_1
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1720.ts
+#EXTINF:-1,|AR|MH_action_2
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1719.ts
+#EXTINF:-1,|AR|MH_FALAM_1
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1718.ts
+#EXTINF:-1,|AR|MH_FALAM_2
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1717.ts
+#EXTINF:-1,|AR|MH_FALAM_3
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1716.ts
+#EXTINF:-1,|AR|MH_FALAM_4
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1715.ts
+#EXTINF:-1,|AR|MH_Go_Movies
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1704.ts
+#EXTINF:-1,|AR|MH_HISTORY
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1707.ts
+#EXTINF:-1,|AR|MH_horror_1
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1714.ts
+#EXTINF:-1,|AR|MH_horror_2
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1713.ts
+#EXTINF:-1,|AR|MH_Legendary
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1705.ts
+#EXTINF:-1,|AR|MH_masr7yat
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1706.ts
+#EXTINF:-1,|AR|MH_Masrah_Masr
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1712.ts
+#EXTINF:-1,|AR|MH_Netflix
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1703.ts
+#EXTINF:-1,|AR|MH_Tom_Jerry
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1702.ts
+#EXTINF:-1,|AR|MH_War_Movies
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1709.ts
+#EXTINF:-1,|AR|MH_WWE
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1711.ts
+#EXTINF:-1,|AR|MH_ZaMaN_1
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1710.ts
+#EXTINF:-1,|AR|MH_ZaMaN_2
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1708.ts
+#EXTINF:-1,•●★★--- Arabic Channels ---★★●•
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/251.ts
+#EXTINF:-1,|AR|MBC_1
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/238.ts
+#EXTINF:-1,|AR|MBC_2
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/239.ts
+#EXTINF:-1,|AR|MBC_3
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/240.ts
+#EXTINF:-1,|AR|MBC_4
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/241.ts
+#EXTINF:-1,|AR|MBC_BOLLYWOOD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/243.ts
+#EXTINF:-1,|AR|MBC_ACTION
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/242.ts
+#EXTINF:-1,|AR|  Tunisia_first_tv
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/213.ts
+#EXTINF:-1,|AR|  Tamazight
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/197.ts
+#EXTINF:-1,|AR|  Samira_TV
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/196.ts
+#EXTINF:-1,|AR|  ROTANA_MUSIC
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/194.ts
+#EXTINF:-1,|AR|  ROTANA_KHALIJI
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/193.ts
+#EXTINF:-1,|AR|  Numidia1
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/172.ts
+#EXTINF:-1,|AR|  Numidia
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/190.ts
+#EXTINF:-1,|AR|  Nessma
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/171.ts
+#EXTINF:-1,|AR|  M_tunisia
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/210.ts
+#EXTINF:-1,|AR|  M_Ettounsia
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/189.ts
+#EXTINF:-1,|AR|  kbc_algeria
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/207.ts
+#EXTINF:-1,|AR|  hanibal
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/188.ts
+#EXTINF:-1,|AR|  ENTV 1
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/170.ts
+#EXTINF:-1,|AR|  ENTV
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/187.ts
+#EXTINF:-1,|AR|  Ennahar_Laki
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/186.ts
+#EXTINF:-1,|AR|  Ennahar Laki
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/169.ts
+#EXTINF:-1,|AR|  EL Heddaf_DZ
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/173.ts
+#EXTINF:-1,|AR|  Echourouknews
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/183.ts
+#EXTINF:-1,|AR|  ECHOUROUK BENNA
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/205.ts
+#EXTINF:-1,|AR|  EchoroukTV
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/204.ts
+#EXTINF:-1,|AR|  dzair tv
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/182.ts
+#EXTINF:-1,|AR|  Beur tv
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/168.ts
+#EXTINF:-1,|AR|  Berebe tv
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/203.ts
+#EXTINF:-1,|AR|  berbere music
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/181.ts
+#EXTINF:-1,|AR|  berbere jeunesse
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/180.ts
+#EXTINF:-1,|AR|  Bahia
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/167.ts
+#EXTINF:-1,|AR|  Attessia TV
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/179.ts
+#EXTINF:-1,|AR|  Al_Hiwar_Ettounsi
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/202.ts
+#EXTINF:-1,|AR|  AlMagharibia
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/176.ts
+#EXTINF:-1,|AR|  AL-Choruk
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/166.ts
+#EXTINF:-1,|AR|  al magharabia
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/165.ts
+#EXTINF:-1,|AR|  Al Bilad
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/164.ts
+#EXTINF:-1,|AR|   Toyor-Baby
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/230.ts
+#EXTINF:-1,|AR|   TOYOR-AL-JANAH
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/229.ts
+#EXTINF:-1,|AR|   SPACETOONARABIC
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/228.ts
+#EXTINF:-1,|AR|   SKY-NEWS-ARABIA
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/227.ts
+#EXTINF:-1,|AR|   France24
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/226.ts
+#EXTINF:-1,|AR|   CBC-Extra
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/224.ts
+#EXTINF:-1,|AR|   CBC-Drama
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/223.ts
+#EXTINF:-1,|AR|   CBC
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/222.ts
+#EXTINF:-1,|AR|   Al mMajd3
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/215.ts
+#EXTINF:-1,|AR|   BBC-ARABIC
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/221.ts
+#EXTINF:-1,|AR|   AlJazerra
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/219.ts
+#EXTINF:-1,|AR|   AL-HADATH
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/216.ts
+#EXTINF:-1,|AR|TAMAZIGHT MA
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/298.ts
+#EXTINF:-1,|AR|Arriadia Sat
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/293.ts
+#EXTINF:-1,|AR|Arrabiaa
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/292.ts
+#EXTINF:-1,|AR|AL RESALA
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/301.ts
+#EXTINF:-1,|AR|Al Maghribia
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/291.ts
+#EXTINF:-1,|AR|Al Arabiya
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/299.ts
+#EXTINF:-1,|AR|Al AoulaLaayoun
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/290.ts
+#EXTINF:-1,|AR|Al Adjwaa
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/288.ts
+#EXTINF:-1,•●★★---  SPORT ARABIC Channels ---★★●•
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/340.ts
+#EXTINF:-1,|AR| MBC SPORTS1
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/330.ts
+#EXTINF:-1,|AR| MBC SPORTS2
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/329.ts
+#EXTINF:-1,|AR| AD Sports 1HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/324.ts
+#EXTINF:-1,|AR| AD Sports 2HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/323.ts
+#EXTINF:-1,|AR| Yas Sport
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/335.ts
+#EXTINF:-1,|AR| ONTV Live
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/325.ts
+#EXTINF:-1,|AR| ON Sport HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/326.ts
+#EXTINF:-1,|AR| NileSport
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/328.ts
+#EXTINF:-1,|AR| ktv sports plus
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/334.ts
+#EXTINF:-1,|AR| Iraqiya Sports
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/331.ts
+#EXTINF:-1,|AR| Dubai Sports
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/332.ts
+#EXTINF:-1,|AR| DMC SPORT HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/333.ts
+#EXTINF:-1,•●★★--- France Channels (FR)  ---★★●•
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/600.ts
+#EXTINF:-1,|FR|Canal Play 1 (FR)
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/505.ts
+#EXTINF:-1,|FR|Canal Play 2 (FR)
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/503.ts
+#EXTINF:-1,|FR|Canal Play 3 (FR)
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/502.ts
+#EXTINF:-1,|FR|Canal Play 4 (FR)
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/501.ts
+#EXTINF:-1,|FR|Canal Play 5 (FR)
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/500.ts
+#EXTINF:-1,|FR|Canal Play 6 (FR)
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/499.ts
+#EXTINF:-1,|FR|Canal Play 7 (FR)
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/498.ts
+#EXTINF:-1,|FR|Canal Play 8 (FR)
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/497.ts
+#EXTINF:-1,|FR|Canal Play 9 (FR)
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/496.ts
+#EXTINF:-1,|FR|Canal Play 10 (FR)
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/504.ts
+#EXTINF:-1,|FR|BEIN SPORTS MAX 4 HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/495.ts
+#EXTINF:-1,|FR|BEIN SPORTS MAX 5 HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/494.ts
+#EXTINF:-1,|FR|BEIN SPORTS MAX 7 HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/492.ts
+#EXTINF:-1,|FR|BEIN SPORTS MAX 6 HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/493.ts
+#EXTINF:-1,|FR|BEIN SPORTS MAX 8 HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/491.ts
+#EXTINF:-1,|FR|BEIN SPORTS MAX 9 HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/490.ts
+#EXTINF:-1,|FR|A LA CARTE 1 (FR)
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/511.ts
+#EXTINF:-1,|FR|A LA CARTE 3 (FR)
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/509.ts
+#EXTINF:-1,|FR|A LA CARTE 4 (FR)
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/508.ts
+#EXTINF:-1,|FR|A LA CARTE 5 (FR)
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/507.ts
+#EXTINF:-1,|FR|A LA CARTE 6 (FR)
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/506.ts
+#EXTINF:-1,|FR| SFR SPORT 1HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/485.ts
+#EXTINF:-1,|FR|SFR SPORT 2HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/484.ts
+#EXTINF:-1,|FR|SFR SPORT 3HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/483.ts
+#EXTINF:-1,|FR|Planet _CI
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/514.ts
+#EXTINF:-1,|FR|GAME ONE HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/473.ts
+#EXTINF:-1,|FR|FR_TOUTE_L_HISTOIRE
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/519.ts
+#EXTINF:-1,|FR|FR_RMC_DECOUVERTE
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/520.ts
+#EXTINF:-1,|FR|FR_CHERIE_25
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/521.ts
+#EXTINF:-1,|FR|FRA: OCS City HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/515.ts
+#EXTINF:-1,|FR|FRA: OCS CHOC HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/516.ts
+#EXTINF:-1,|FR|FRA-PIWI
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/525.ts
+#EXTINF:-1,|FR|FRA-Music VOX
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/526.ts
+#EXTINF:-1,|FR|FR W9 HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/554.ts
+#EXTINF:-1,|FR|FR Voyage TV
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/528.ts
+#EXTINF:-1,|FR|FR :OCS Geants
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/550.ts
+#EXTINF:-1,|FR|FR :Chasse et Peche  HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/488.ts
+#EXTINF:-1,|FR|(BE) La une
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/541.ts
+#EXTINF:-1,|FR| TV5 Monde
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/529.ts
+#EXTINF:-1,|FR| TV BREIZH HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/486.ts
+#EXTINF:-1,|FR| TRACE URBAN HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/487.ts
+#EXTINF:-1,|FR| TMC
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/530.ts
+#EXTINF:-1,|FR| Tiji
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/531.ts
+#EXTINF:-1,|FR| TF1 FR
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/559.ts
+#EXTINF:-1,|FR| TEVA HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/549.ts
+#EXTINF:-1,|FR| TELETOON   HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/482.ts
+#EXTINF:-1,|FR| Serie club
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/561.ts
+#EXTINF:-1,|FR| Seasons
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/590.ts
+#EXTINF:-1,|FR| RTS UN
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/532.ts
+#EXTINF:-1,|FR| RTS Deux
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/533.ts
+#EXTINF:-1,|FR| Planete
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/563.ts
+#EXTINF:-1,|FR| Paris Premiere
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/535.ts
+#EXTINF:-1,|FR| NT1
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/536.ts
+#EXTINF:-1,|FR| NRJ 12
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/564.ts
+#EXTINF:-1,|FR| NICKELODEON JR HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/476.ts
+#EXTINF:-1,|FR| NICKELODEON 4TEEN
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/581.ts
+#EXTINF:-1,|FR| National Geo. Wild HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/565.ts
+#EXTINF:-1,|FR| National Geo.
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/566.ts
+#EXTINF:-1,|FR| MTV Hits
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/537.ts
+#EXTINF:-1,|FR| M6 FR
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/556.ts
+#EXTINF:-1,|FR| L Equipe 21
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/555.ts
+#EXTINF:-1,|FR| INFOSPORTS HD (FR)
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/479.ts
+#EXTINF:-1,|FR| I Tele
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/542.ts
+#EXTINF:-1,|FR| Gulli
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/589.ts
+#EXTINF:-1,|FR| GOLF  HD (FR)
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/474.ts
+#EXTINF:-1,|FR| France O
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/588.ts
+#EXTINF:-1,|FR| France 5 HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/587.ts
+#EXTINF:-1,|FR| France 4 HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/523.ts
+#EXTINF:-1,|FR| France 3
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/567.ts
+#EXTINF:-1,|FR| France 24
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/524.ts
+#EXTINF:-1,|FR| France 2
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/568.ts
+#EXTINF:-1,|FR| Eurosport 2HD FR
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/513.ts
+#EXTINF:-1,|FR| Eurosport 1 FR
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/560.ts
+#EXTINF:-1,|FR| ELLE GIRL HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/472.ts
+#EXTINF:-1,|FR| E! ENTERTAINEMENT HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/481.ts
+#EXTINF:-1,|FR| DISNEY CINEMA FR HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/480.ts
+#EXTINF:-1,|FR| Disney Channel
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/512.ts
+#EXTINF:-1,|FR| DISCOVERY SCIENCE HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/551.ts
+#EXTINF:-1,|FR| DISCOVERY
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/552.ts
+#EXTINF:-1,|FR| Cine  Premiere
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/569.ts
+#EXTINF:-1,|FR| CINE  FRISSON HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/547.ts
+#EXTINF:-1,|FR| Cine  Famiz
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/574.ts
+#EXTINF:-1,|FR| CARTOON NETWORK  HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/489.ts
+#EXTINF:-1,|FR| CanalJ
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/527.ts
+#EXTINF:-1,|FR| CANAL SPORT_LOW
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/580.ts
+#EXTINF:-1,|FR| CANAL SERIES_LOW
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/579.ts
+#EXTINF:-1,|FR| Canal Plus Series HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/548.ts
+#EXTINF:-1,|FR| Canal Family
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/570.ts
+#EXTINF:-1,|FR| CANAL DECALE_LOW
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/577.ts
+#EXTINF:-1,|FR| CANAL CINEMA LOW
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/576.ts
+#EXTINF:-1,|FR| Canal  Sport HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/571.ts
+#EXTINF:-1,|FR| Canal  HD LOW
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/575.ts
+#EXTINF:-1,|FR| Canal  HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/573.ts
+#EXTINF:-1,|FR| Canal  Decale
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/518.ts
+#EXTINF:-1,|FR| Canal  Cinema HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/572.ts
+#EXTINF:-1,|FR| C8 HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/586.ts
+#EXTINF:-1,|FR| C STAR HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/585.ts
+#EXTINF:-1,|FR| Boomerang
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/522.ts
+#EXTINF:-1,|FR| Best Music
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/538.ts
+#EXTINF:-1,|FR| Action
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/517.ts
+#EXTINF:-1,|FR| AB1
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/545.ts
+#EXTINF:-1,|FR| A LA CARTE 2
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/510.ts
+#EXTINF:-1,|FR| 6ter HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/582.ts
+#EXTINF:-1,|FR| 13eme Rue
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/584.ts
+#EXTINF:-1,|TR| |TR|T Turk
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1417.ts
+#EXTINF:-1,|TR| |TR|T Spor HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1400.ts
+#EXTINF:-1,|TR| |TR|T Spor
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1409.ts
+#EXTINF:-1,|TR| |TR|T Muzik
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1441.ts
+#EXTINF:-1,|TR| |TR|T Haber HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1399.ts
+#EXTINF:-1,|TR| |TR|T Haber
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1418.ts
+#EXTINF:-1,|TR| |TR|T Cocuk
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1421.ts
+#EXTINF:-1,|TR| |TR|T Belgesel HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1398.ts
+#EXTINF:-1,|TR| |TR|T Avaz
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1420.ts
+#EXTINF:-1,|TR| |TR|T Anadolu
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1419.ts
+#EXTINF:-1,|TR| |TR|T 1 HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1397.ts
+#EXTINF:-1,|TR| |TR|T 1
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1416.ts
+#EXTINF:-1,|TR| Yasin TV
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1432.ts
+#EXTINF:-1,|TR| Yaban TV
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1447.ts
+#EXTINF:-1,|TR| Viyana TV w
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1524.ts
+#EXTINF:-1,|TR| Vatan TV
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1439.ts
+#EXTINF:-1,|TR| Ulke TV HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1403.ts
+#EXTINF:-1,|TR| Ulke TV
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1450.ts
+#EXTINF:-1,|TR| TVT
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1449.ts
+#EXTINF:-1,|TR| TV8.5
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1390.ts
+#EXTINF:-1,|TR| TV8 HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1388.ts
+#EXTINF:-1,|TR| TV360 HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1525.ts
+#EXTINF:-1,|TR| TV2 HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1393.ts
+#EXTINF:-1,|TR| TV2
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1437.ts
+#EXTINF:-1,|TR| TV 8 INT
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1389.ts
+#EXTINF:-1,|TR| TV 8
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1387.ts
+#EXTINF:-1,|TR| TMB
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1529.ts
+#EXTINF:-1,|TR| TGRT Haber w
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1530.ts
+#EXTINF:-1,|TR| TGRT EU w
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1531.ts
+#EXTINF:-1,|TR| Tele1
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1575.ts
+#EXTINF:-1,|TR| TARIM TV w
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1533.ts
+#EXTINF:-1,|TR| STAR HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1376.ts
+#EXTINF:-1,|TR| STAR
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1375.ts
+#EXTINF:-1,|TR| Sports TV
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1576.ts
+#EXTINF:-1,|TR| Sony Channel Türkiye
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1429.ts
+#EXTINF:-1,|TR| SHOW TV
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1378.ts
+#EXTINF:-1,|TR| SHOW TüRK
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1380.ts
+#EXTINF:-1,|TR| SHOW MAX
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1381.ts
+#EXTINF:-1,|TR| SHOW HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1379.ts
+#EXTINF:-1,|TR| Semerkand TV
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1431.ts
+#EXTINF:-1,|TR| PowerTurk
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1445.ts
+#EXTINF:-1,|TR| Planet Turk
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1428.ts
+#EXTINF:-1,|TR| Planet Mutfak
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1430.ts
+#EXTINF:-1,|TR| Planet Cocuk
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1425.ts
+#EXTINF:-1,|TR| OrangeTech Yesilicam
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1495.ts
+#EXTINF:-1,|TR| OrangeTech Turk Korku
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1494.ts
+#EXTINF:-1,|TR| OrangeTech Türk Sinema 5
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1500.ts
+#EXTINF:-1,|TR| OrangeTech Türk Sinema 4
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1499.ts
+#EXTINF:-1,|TR| OrangeTech Türk Sinema 3
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1498.ts
+#EXTINF:-1,|TR| OrangeTech Türk Sinema 2
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1497.ts
+#EXTINF:-1,|TR| OrangeTech Türk Sinema 1
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1496.ts
+#EXTINF:-1,|TR| OrangeTech Mix 9
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1509.ts
+#EXTINF:-1,|TR| OrangeTech Mix 8
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1508.ts
+#EXTINF:-1,|TR| OrangeTech Mix 7
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1507.ts
+#EXTINF:-1,|TR| OrangeTech Mix 6
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1506.ts
+#EXTINF:-1,|TR| OrangeTech Mix 5
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1505.ts
+#EXTINF:-1,|TR| OrangeTech Mix 4
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1504.ts
+#EXTINF:-1,|TR| OrangeTech Mix 3
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1503.ts
+#EXTINF:-1,|TR| OrangeTech Mix 2
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1502.ts
+#EXTINF:-1,|TR| OrangeTech Mix 19
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1519.ts
+#EXTINF:-1,|TR| OrangeTech Mix 18
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1518.ts
+#EXTINF:-1,|TR| OrangeTech Mix 17
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1517.ts
+#EXTINF:-1,|TR| OrangeTech Mix 16
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1516.ts
+#EXTINF:-1,|TR| OrangeTech Mix 15
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1515.ts
+#EXTINF:-1,|TR| OrangeTech Mix 14
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1514.ts
+#EXTINF:-1,|TR| OrangeTech Mix 13
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1513.ts
+#EXTINF:-1,|TR| OrangeTech Mix 12
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1512.ts
+#EXTINF:-1,|TR| OrangeTech Mix 11
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1511.ts
+#EXTINF:-1,|TR| OrangeTech Mix 10
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1510.ts
+#EXTINF:-1,|TR| OrangeTech Mix 1
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1501.ts
+#EXTINF:-1,|TR| OrangeTech Korku 4
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1493.ts
+#EXTINF:-1,|TR| OrangeTech Korku 3
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1492.ts
+#EXTINF:-1,|TR| OrangeTech Korku 2
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1491.ts
+#EXTINF:-1,|TR| OrangeTech Korku 1
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1490.ts
+#EXTINF:-1,|TR| OrangeTech Komedi 5
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1489.ts
+#EXTINF:-1,|TR| OrangeTech Komedi 4
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1488.ts
+#EXTINF:-1,|TR| OrangeTech Komedi 3
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1487.ts
+#EXTINF:-1,|TR| OrangeTech Komedi 2
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1486.ts
+#EXTINF:-1,|TR| OrangeTech Komedi 1
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1485.ts
+#EXTINF:-1,|TR| OrangeTech Kemal Sunal kino
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1521.ts
+#EXTINF:-1,|TR| OrangeTech Drama 6
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1478.ts
+#EXTINF:-1,|TR| OrangeTech Drama 5
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1477.ts
+#EXTINF:-1,|TR| OrangeTech Drama 4
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1476.ts
+#EXTINF:-1,|TR| OrangeTech Drama 3
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1475.ts
+#EXTINF:-1,|TR| OrangeTech Drama 2
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1474.ts
+#EXTINF:-1,|TR| OrangeTech Drama 1
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1473.ts
+#EXTINF:-1,|TR| OrangeTech Deutsche Kinderfilme
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1484.ts
+#EXTINF:-1,|TR| OrangeTech Cocuk
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1480.ts
+#EXTINF:-1,|TR| OrangeTech Bilimkurgu 3
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1472.ts
+#EXTINF:-1,|TR| OrangeTech BilimKurgu 2
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1471.ts
+#EXTINF:-1,|TR| OrangeTech Bilimkurgu 1
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1470.ts
+#EXTINF:-1,|TR| OrangeTech Belgesel
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1479.ts
+#EXTINF:-1,|TR| OrangeTech Animasyon 3
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1483.ts
+#EXTINF:-1,|TR| OrangeTech Animasyon 2
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1482.ts
+#EXTINF:-1,|TR| OrangeTech Animasyon 1
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1481.ts
+#EXTINF:-1,|TR| OrangeTech Aksiyon 6
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1469.ts
+#EXTINF:-1,|TR| OrangeTech Aksiyon 5
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1468.ts
+#EXTINF:-1,|TR| OrangeTech aksiyon 4
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1467.ts
+#EXTINF:-1,|TR| OrangeTech Aksiyon 3
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1466.ts
+#EXTINF:-1,|TR| OrangeTech Aksiyon 2
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1465.ts
+#EXTINF:-1,|TR| OrangeTech Aksiyon 1
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1464.ts
+#EXTINF:-1,|TR| OrangeTech 3D
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1520.ts
+#EXTINF:-1,|TR| NursTV
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1433.ts
+#EXTINF:-1,|TR| NUMBER 1 TURK
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1442.ts
+#EXTINF:-1,|TR| NUMBER 1 TÜRK HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1536.ts
+#EXTINF:-1,|TR| NTV SPOR HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1407.ts
+#EXTINF:-1,|TR| NTV Spor
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1410.ts
+#EXTINF:-1,|TR| NTV HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1406.ts
+#EXTINF:-1,|TR| NTV
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1415.ts
+#EXTINF:-1,|TR| NR1 HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1570.ts
+#EXTINF:-1,|TR| NR1
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1443.ts
+#EXTINF:-1,|TR| Minika GO
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1422.ts
+#EXTINF:-1,|TR| Minika Cocuk
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1423.ts
+#EXTINF:-1,|TR| Mavi Karadeniz
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1538.ts
+#EXTINF:-1,|TR| Makine TV w
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1539.ts
+#EXTINF:-1,|TR| Lifetime Türk
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1540.ts
+#EXTINF:-1,|TR| Lalegül Tv
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1541.ts
+#EXTINF:-1,|TR| Kral TV
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1448.ts
+#EXTINF:-1,|TR| Kral Pop TV
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1444.ts
+#EXTINF:-1,|TR| Kon TV Konya
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1457.ts
+#EXTINF:-1,|TR| KIDZ
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1427.ts
+#EXTINF:-1,|TR| Karadeniz TV
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1434.ts
+#EXTINF:-1,|TR| KANAL7 |TR|
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1401.ts
+#EXTINF:-1,|TR| KANAL3
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1453.ts
+#EXTINF:-1,|TR| KANAL URFA
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1544.ts
+#EXTINF:-1,|TR| Kanal T
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1412.ts
+#EXTINF:-1,|TR| KANAL D HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1383.ts
+#EXTINF:-1,|TR| Kanal D
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1382.ts
+#EXTINF:-1,|TR| Kanal Avrupa
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1455.ts
+#EXTINF:-1,|TR| Kanal 7 Avrupa
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1391.ts
+#EXTINF:-1,|TR| Kanal 24 w
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1546.ts
+#EXTINF:-1,|TR| KANAL 19 W
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1547.ts
+#EXTINF:-1,|TR| KABE AL QURAN w
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1548.ts
+#EXTINF:-1,|TR| ISVICRE TV w
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1549.ts
+#EXTINF:-1,|TR| Istanbul TV HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1550.ts
+#EXTINF:-1,|TR| Halk TV
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1435.ts
+#EXTINF:-1,|TR| Habertürk HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1402.ts
+#EXTINF:-1,|TR| FOX HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1386.ts
+#EXTINF:-1,|TR| FOX
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1385.ts
+#EXTINF:-1,|TR| Flash TV
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1438.ts
+#EXTINF:-1,|TR| FIL HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1573.ts
+#EXTINF:-1,|TR| EuroStar
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1377.ts
+#EXTINF:-1,|TR| Euronews
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1414.ts
+#EXTINF:-1,|TR| Euro D
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1384.ts
+#EXTINF:-1,|TR| Ekin TV
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1436.ts
+#EXTINF:-1,|TR| Ege TV
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1440.ts
+#EXTINF:-1,|TR| DRT Denizli w
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1558.ts
+#EXTINF:-1,|TR| Dream TV w
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1559.ts
+#EXTINF:-1,|TR| Dream Turk
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1446.ts
+#EXTINF:-1,|TR| Dost TV w
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1560.ts
+#EXTINF:-1,|TR| Disney Channel
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1426.ts
+#EXTINF:-1,|TR| DHA (Dogan Haber Ajansi) w
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1561.ts
+#EXTINF:-1,|TR| CNN Turk
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1413.ts
+#EXTINF:-1,|TR| CNN HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1392.ts
+#EXTINF:-1,|TR| CEM TV
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1411.ts
+#EXTINF:-1,|TR| Cartoon Network
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1424.ts
+#EXTINF:-1,|TR| Bursa Spor w
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1562.ts
+#EXTINF:-1,|TR| Bloomberg HT w
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1563.ts
+#EXTINF:-1,|TR| Beyaz TV HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1394.ts
+#EXTINF:-1,|TR| Beyaz TV
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1395.ts
+#EXTINF:-1,|TR| BenguTurk Tv
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1456.ts
+#EXTINF:-1,|TR| ATV HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1373.ts
+#EXTINF:-1,|TR| ATV
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1372.ts
+#EXTINF:-1,|TR| Aksaray TV w
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1567.ts
+#EXTINF:-1,|TR| AKIT TV w
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1568.ts
+#EXTINF:-1,|TR| A2
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1374.ts
+#EXTINF:-1,|TR| A Spor HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1396.ts
+#EXTINF:-1,|TR| A Spor
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1408.ts
+#EXTINF:-1,|TR| A Haber HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1405.ts
+#EXTINF:-1,|TR| A Haber
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1404.ts
+#EXTINF:-1,|IT|Sky-Net-Sport6
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1795.ts
+#EXTINF:-1,|IT|Sky-Net-Sport5
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1796.ts
+#EXTINF:-1,|IT|Sky-Net-Sport4
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1797.ts
+#EXTINF:-1,|IT|Sky-Net-Sport3
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1798.ts
+#EXTINF:-1,|IT|Sky-Net-Sport2
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1799.ts
+#EXTINF:-1,|IT|Sky-Net-Sport1
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1800.ts
+#EXTINF:-1,|IT|Sky Primafila 1 HD IT
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1740.ts
+#EXTINF:-1,|IT| Super!
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1829.ts
+#EXTINF:-1,|IT| Super Tennis HD (IT)
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1732.ts
+#EXTINF:-1,|IT| Sky Uno HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1733.ts
+#EXTINF:-1,|IT| Sky TG 24HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1734.ts
+#EXTINF:-1,|IT| Sky Super Calcio HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1766.ts
+#EXTINF:-1,|IT| Sky sport plus HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1726.ts
+#EXTINF:-1,|IT| Sky Sport F1 HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1735.ts
+#EXTINF:-1,|IT| Sky sport 3HD IT
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1736.ts
+#EXTINF:-1,|IT| Sky Sport 24HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1737.ts
+#EXTINF:-1,|IT| Sky sport 2 HD IT
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1738.ts
+#EXTINF:-1,|IT| Sky sport 1 HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1739.ts
+#EXTINF:-1,|IT| Sky moto gp
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1741.ts
+#EXTINF:-1,|IT| Sky Cinema UNO HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1749.ts
+#EXTINF:-1,|IT| Sky Cinema Passion HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1742.ts
+#EXTINF:-1,|IT| Sky Cinema MAX HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1743.ts
+#EXTINF:-1,|IT| Sky Cinema Max  1 HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1724.ts
+#EXTINF:-1,|IT| Sky Cinema Hits HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1744.ts
+#EXTINF:-1,|IT| Sky Cinema Family HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1745.ts
+#EXTINF:-1,|IT| Sky Cinema Cult HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1746.ts
+#EXTINF:-1,|IT| Sky Cinema Comedy HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1747.ts
+#EXTINF:-1,|IT| Sky Cinema Classics
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1727.ts
+#EXTINF:-1,|IT| Sky Cinema 24 HD IT
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1748.ts
+#EXTINF:-1,|IT| Sky Calcio1
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1750.ts
+#EXTINF:-1,|IT| Sky Calcio 9 HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1828.ts
+#EXTINF:-1,|IT| Sky Calcio 8 HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1827.ts
+#EXTINF:-1,|IT| Sky Calcio 7 HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1826.ts
+#EXTINF:-1,|IT| Sky Calcio 6 HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1728.ts
+#EXTINF:-1,|IT| Sky Calcio 5 HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1729.ts
+#EXTINF:-1,|IT| Sky Calcio 4 HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1730.ts
+#EXTINF:-1,|IT| Sky Calcio 3 HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1751.ts
+#EXTINF:-1,|IT| Sky Calcio 2 HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1752.ts
+#EXTINF:-1,|IT| Sky Calcio 10 HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1825.ts
+#EXTINF:-1,|IT| Sky Calcio 1 HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1753.ts
+#EXTINF:-1,|IT| Sky Atlantic HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1754.ts
+#EXTINF:-1,|IT| Sky Arte HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1755.ts
+#EXTINF:-1,|IT| Rete 4
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1759.ts
+#EXTINF:-1,|IT| Real Time HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1824.ts
+#EXTINF:-1,|IT| Rai yoyo IT
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1823.ts
+#EXTINF:-1,|IT| Rai Scuola
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1822.ts
+#EXTINF:-1,|IT| Rai News 24
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1756.ts
+#EXTINF:-1,|IT| Rai Movie
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1757.ts
+#EXTINF:-1,|IT| Rai Gulp
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1758.ts
+#EXTINF:-1,|IT| Rai 3 (IT)
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1760.ts
+#EXTINF:-1,|IT| Rai 2
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1761.ts
+#EXTINF:-1,|IT| Rai 1
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1762.ts
+#EXTINF:-1,|IT| Premium Studio Universal
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1771.ts
+#EXTINF:-1,|IT| Premium Stories
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1772.ts
+#EXTINF:-1,|IT| Premium Joy
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1773.ts
+#EXTINF:-1,|IT| Premium Emotion
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1775.ts
+#EXTINF:-1,|IT| Premium Crime  24
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1776.ts
+#EXTINF:-1,|IT| Premium Crime
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1777.ts
+#EXTINF:-1,|IT| Premium Cinema Comedy
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1778.ts
+#EXTINF:-1,|IT| Premium Cinema
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1779.ts
+#EXTINF:-1,|IT| Premium Cartoon Network
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1780.ts
+#EXTINF:-1,|IT| Premium Calcio 3
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1764.ts
+#EXTINF:-1,|IT| Premium Calcio 2
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1765.ts
+#EXTINF:-1,|IT| Net Geo people HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1767.ts
+#EXTINF:-1,|IT| National Georgaphic HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1768.ts
+#EXTINF:-1,|IT| Nat Geo Wild HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1769.ts
+#EXTINF:-1,|IT| Milan Channel
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1723.ts
+#EXTINF:-1,|IT| Mediaset Extra
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1821.ts
+#EXTINF:-1,|IT| MARCOPOLO
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1820.ts
+#EXTINF:-1,|IT| MANGA IT
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1819.ts
+#EXTINF:-1,|IT| lazio channel
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1817.ts
+#EXTINF:-1,|IT| LA 7
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1770.ts
+#EXTINF:-1,|IT| K2 IT
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1818.ts
+#EXTINF:-1,|IT| Inter
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1781.ts
+#EXTINF:-1,|IT| History HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1782.ts
+#EXTINF:-1,|IT| Giallo
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1816.ts
+#EXTINF:-1,|IT| Gambero rosso
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1783.ts
+#EXTINF:-1,|IT| Frisbee IT
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1815.ts
+#EXTINF:-1,|IT| Fox Sport 1HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1784.ts
+#EXTINF:-1,|IT| Fox Life
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1785.ts
+#EXTINF:-1,|IT| Fox HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1786.ts
+#EXTINF:-1,|IT| Fox Crime
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1787.ts
+#EXTINF:-1,|IT| Fox Comedy HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1788.ts
+#EXTINF:-1,|IT| Fox Animation HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1789.ts
+#EXTINF:-1,|IT| Focus IT
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1814.ts
+#EXTINF:-1,|IT| Fine living
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1813.ts
+#EXTINF:-1,|IT| Eurosport HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1790.ts
+#EXTINF:-1,|IT| Eurosport 2HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1791.ts
+#EXTINF:-1,|IT| DMAX HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1792.ts
+#EXTINF:-1,|IT| Disney XD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1722.ts
+#EXTINF:-1,|IT| Disney HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1793.ts
+#EXTINF:-1,|IT| Discovery Travel & Living HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1721.ts
+#EXTINF:-1,|IT| Discovery Science HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1812.ts
+#EXTINF:-1,|IT| Discovery HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1794.ts
+#EXTINF:-1,|IT| Dea Kids
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1811.ts
+#EXTINF:-1,|IT| Dea Junior
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1810.ts
+#EXTINF:-1,|IT| Crime & Investigation HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1801.ts
+#EXTINF:-1,|IT| Comedy Central Italy
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1809.ts
+#EXTINF:-1,|IT| CLASSICA HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1808.ts
+#EXTINF:-1,|IT| Cielo
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1802.ts
+#EXTINF:-1,|IT| Cartoonito IT
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1731.ts
+#EXTINF:-1,|IT| Canale 5 IT
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1803.ts
+#EXTINF:-1,|IT| CACCIA e Pesca
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1807.ts
+#EXTINF:-1,|IT| Boing
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1806.ts
+#EXTINF:-1,|IT| Bike Channel Italy
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1805.ts
+#EXTINF:-1,|IT| AXN HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1804.ts
+#EXTINF:-1,|IT| Alice IT
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1725.ts
+#EXTINF:-1,IT Premium Cinema Energy
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1774.ts
 #EXTINF:-1,(500) Dias com Ela (2009)
 http://178.132.5.243:25461/movie/Lara/1234/11251.mp4
 #EXTINF:-1,+Velozes +Furiosos (2003)
