@@ -251,3 +251,105 @@ http://iptv-webtv.at:8000/live/orangetech/stream/5521.m3u8
 http://98.142.98.125:1935/ulusaltv/ulusaltv/master.m3u8
 #EXTINF:0 group-title="(TR) Turkey",VIYANA TV W | SD
 http://149.202.196.91:8000/live/orangetech/stream/563.m3u8
+
+
+#EXTINF:0 group-title="(US) United States",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(US) United States",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(US) United States",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(US) United States",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(US) United States",A&E TV | HD
+http://195.154.107.246:1155/live/kandil/kandil/1458.m3u8
+#EXTINF:0 group-title="(US) United States",ALBANIAN TV OF | SD
+http://stream.shqiptv.com:7080/altvusa/index.m3u8
+#EXTINF:0 group-title="(US) United States",ALKARMA TV | SD
+http://e2.iudtv.org:8080/live/preston/preston1/3698.m3u8
+#EXTINF:0 group-title="(US) United States",ANIMAL PLANET | HD
+http://195.154.107.246:1155/live/kandil/kandil/2996.m3u8
+#EXTINF:0 group-title="(US) United States",BETTER HEALTH | SD
+http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
+#EXTINF:0 group-title="(US) United States",BETTER LIFE | SD
+http://uni5rtmp.tulix.tv:1935/betterlife/betterlife/playlist.m3u8
+#EXTINF:0 group-title="(US) United States",BETTER NATURE | SD
+http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8
+#EXTINF:0 group-title="(US) United States",BOOMBERANG | SD
+http://195.154.107.246:1155/live/kandil/kandil/2190.m3u8
+#EXTINF:0 group-title="(US) United States",CBS ACTION | HD
+http://195.154.107.246:1155/live/kandil/kandil/2331.m3u8
+#EXTINF:0 group-title="(US) United States",COLORS TV | SD
+http://e2.iudtv.org:8080/live/preston/preston1/1830.m3u8
+#EXTINF:0 group-title="(US) United States",CORNERSTONE TV | SD
+http://cdn.media9.truegod.tv/ctvnlive/smil:ctvn.smil/chunklist_w1852678767_b2328000_sleng.m3u8
+#EXTINF:0 group-title="(US) United States",CTNI ES | SD
+http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8
+#EXTINF:0 group-title="(US) United States",DISCOVERY | HD
+http://195.154.107.246:1155/live/kandil/kandil/2993.m3u8
+#EXTINF:0 group-title="(US) United States",DISCOVERY INVESTIGATION ID | SD
+http://195.154.107.246:1155/live/kandil/kandil/2191.m3u8
+#EXTINF:0 group-title="(US) United States",DISCOVERY SCIENCE | HD
+http://195.154.107.246:1155/live/kandil/kandil/2992.m3u8
+#EXTINF:0 group-title="(US) United States",DISCOVERY SHED | SD
+http://195.154.107.246:1155/live/kandil/kandil/2991.m3u8
+#EXTINF:0 group-title="(US) United States",FLOWERS | SD
+http://e2.iudtv.org:8080/live/preston/preston1/1749.m3u8
+#EXTINF:0 group-title="(US) United States",FOOD NETWORK | HD
+http://195.154.107.246:1155/live/kandil/kandil/1461.m3u8
+#EXTINF:0 group-title="(US) United States",GEB | SD
+http://184.173.203.50:1935/live/smil:geb/chunklist.m3u8
+#EXTINF:0 group-title="(US) United States",GEM TV | SD
+http://63.237.48.3/ios/GEM_USA/GEM_USA.m3u8
+#EXTINF:0 group-title="(US) United States",HBO | SD
+http://195.154.107.246:1155/live/kandil/kandil/2192.m3u8
+#EXTINF:0 group-title="(US) United States",HBO COMEDY | SD
+http://195.154.107.246:1155/live/kandil/kandil/2989.m3u8
+#EXTINF:0 group-title="(US) United States",HBO SIGNATURE | SD
+http://195.154.107.246:1155/live/kandil/kandil/2988.m3u8
+#EXTINF:0 group-title="(US) United States",HBO ZONE | SD
+http://195.154.107.246:1155/live/kandil/kandil/2987.m3u8
+#EXTINF:0 group-title="(US) United States",HOUSE OF YAHWEH | SD
+http://198.57.164.156:1935/live/SermonLoop/chunklist_w1535326969.m3u8
+#EXTINF:0 group-title="(US) United States",HVCC RO | SD
+http://cdn.credonet.tv:8081/hvcc/smil:livehv.smil/playlist.m3u8
+#EXTINF:0 group-title="(US) United States",JAYA MAX | SD
+http://e2.iudtv.org:8080/live/preston/preston1/2976.m3u8
+#EXTINF:0 group-title="(US) United States",JRES TV ES | SD
+http://teleredmcp.com:1935/jrestv/jrestv/chunklist_w1193494329.m3u8
+#EXTINF:0 group-title="(US) United States",KTV | SD
+http://e2.iudtv.org:8080/live/preston/preston1/2953.m3u8
+#EXTINF:0 group-title="(US) United States",LIFEVISION TV | SD
+http://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
+#EXTINF:0 group-title="(US) United States",NATIONAL GEOGRAPHIC | HD
+http://195.154.107.246:1155/live/kandil/kandil/1765.m3u8
+#EXTINF:0 group-title="(US) United States",SUPER CHANNEL | SD
+http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-128/mp4:wacx/playlist.m3u8
+#EXTINF:0 group-title="(US) United States",SYFY | HD
+http://195.154.107.246:1155/live/kandil/kandil/2328.m3u8
+#EXTINF:0 group-title="(US) United States",TBS | HD
+http://195.154.107.246:1155/live/kandil/kandil/2994.m3u8
+#EXTINF:0 group-title="(US) United States",TELEDUNAMIS ES | SD
+http://f.dc.edge.2.christianworldmedia.com:1935/teledunamis/mp4:teledunamis/playlist.m3u8
+#EXTINF:0 group-title="(US) United States",TELEVISION ESNE | SD
+http://198.154.228.82:1935/esne-live/smil:esnetv.smil/chunklist_w431608397_b1298000_sleng.m3u8
+#EXTINF:0 group-title="(US) United States",TSN 1HD | SD
+http://195.154.107.246:1155/live/kandil/kandil/1460.m3u8
+#EXTINF:0 group-title="(US) United States",TSN 2HD | SD
+http://195.154.107.246:1155/live/kandil/kandil/1459.m3u8
+#EXTINF:0 group-title="(US) United States",TSN 3 | HD
+http://195.154.107.246:1155/live/kandil/kandil/1456.m3u8
+#EXTINF:0 group-title="(US) United States",TSN 4 | HD
+http://195.154.107.246:1155/live/kandil/kandil/1455.m3u8
+#EXTINF:0 group-title="(US) United States",TSN 5 | HD
+http://195.154.107.246:1155/live/kandil/kandil/1454.m3u8
+#EXTINF:0 group-title="(US) United States",TV LT | SD
+http://e2.iudtv.org:8080/live/preston/preston1/2602.m3u8
+#EXTINF:0 group-title="(US) United States",UDAYA TV | SD
+http://e2.iudtv.org:8080/live/preston/preston1/3059.m3u8
+#EXTINF:0 group-title="(US) United States",VICTORY TELEVISION NETWORK | SD
+http://184.173.179.163:1935/victorytelevisionnetwork/victorytelevisionnetwork/playlist.m3u8
+#EXTINF:0 group-title="(US) United States",VIDA MEJOR | SD
+http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8
+#EXTINF:0 group-title="(US) United States",WGGS-TV | SD
+https://d202lge9i6ts6.cloudfront.net/origin1ingest1/c7956aac88/chunklist.m3u8
