@@ -1,0 +1,253 @@
+#EXTM3U
+
+
+#EXTINF:0 group-title="(TR) Turkey",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(TR) Turkey",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(TR) Turkey",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(TR) Turkey",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(TR) Turkey",AKSIYON 1 | SD
+http://e2.iudtv.org:8080/live/preston/preston1/1935.m3u8
+#EXTINF:0 group-title="(TR) Turkey",ANIMAL PLANET | HD
+http://e2.iudtv.org:8080/live/preston/preston1/1955.m3u8
+#EXTINF:0 group-title="(TR) Turkey",ANIMASYON 1 | HD
+http://e2.iudtv.org:8080/live/preston/preston1/2164.m3u8
+#EXTINF:0 group-title="(TR) Turkey",ATV | SD
+http://e2.iudtv.org:8080/live/preston/preston1/1978.m3u8
+#EXTINF:0 group-title="(TR) Turkey",ATV AVRUPA | SD
+http://e2.iudtv.org:8080/live/preston/preston1/1957.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN BOX OFFICE 1 | HD
+http://e2.iudtv.org:8080/live/preston/preston1/2167.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN BOX OFFICE 2 | HD
+http://e2.iudtv.org:8080/live/preston/preston1/2175.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN BOX OFFICE 3 | HD
+http://e2.iudtv.org:8080/live/preston/preston1/2176.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN MAX 1 | HD
+http://195.154.107.246:1155/live/kandil/kandil/163.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN MAX 2 | HD
+http://195.154.107.246:1155/live/kandil/kandil/162.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEYAZ TV | HD
+http://e2.iudtv.org:8080/live/preston/preston1/1951.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BREKET TV | SD
+http://e2.iudtv.org:8080/live/preston/preston1/2173.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BRT 1 | SD
+http://wms.brtk.net:1935/live/brt1/playlist.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BRT 2 | SD
+http://wms.brtk.net:1935/live/brt2/playlist.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINSTAR KORKU | HD
+http://e2.iudtv.org:8080/live/preston/preston1/2177.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINSTAR VIZON 1 | HD
+http://e2.iudtv.org:8080/live/preston/preston1/2184.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CRIME | HD
+http://e2.iudtv.org:8080/live/preston/preston1/1933.m3u8
+#EXTINF:0 group-title="(TR) Turkey",DA VINCI LEARNING | SD
+http://e2.iudtv.org:8080/live/preston/preston1/2012.m3u8
+#EXTINF:0 group-title="(TR) Turkey",DIGI MAX | HD
+http://e2.iudtv.org:8080/live/preston/preston1/1967.m3u8
+#EXTINF:0 group-title="(TR) Turkey",DISCOVERY CHANNLE | SD
+http://e2.iudtv.org:8080/live/preston/preston1/2005.m3u8
+#EXTINF:0 group-title="(TR) Turkey",DISCOVERY IDX | HD
+http://e2.iudtv.org:8080/live/preston/preston1/2160.m3u8
+#EXTINF:0 group-title="(TR) Turkey",DISCOVERY SCIENCE | HD
+http://e2.iudtv.org:8080/live/preston/preston1/2025.m3u8
+#EXTINF:0 group-title="(TR) Turkey",DISCOVERY SHOWCASE | HD
+http://e2.iudtv.org:8080/live/preston/preston1/2163.m3u8
+#EXTINF:0 group-title="(TR) Turkey",DOST TV W | SD
+http://149.202.196.91:8000/live/orangetech/stream/567.m3u8
+#EXTINF:0 group-title="(TR) Turkey",DREAM | SD
+http://e2.iudtv.org:8080/live/preston/preston1/1944.m3u8
+#EXTINF:0 group-title="(TR) Turkey",DREAM TV W | SD
+http://149.202.196.91:8000/live/orangetech/stream/571.m3u8
+#EXTINF:0 group-title="(TR) Turkey",EGE TV | SD
+http://e2.iudtv.org:8080/live/preston/preston1/2014.m3u8
+#EXTINF:0 group-title="(TR) Turkey",EKIN TV | SD
+http://149.202.196.91:8000/live/orangetech/stream/51.m3u8
+#EXTINF:0 group-title="(TR) Turkey",EURO D | SD
+http://e2.iudtv.org:8080/live/preston/preston1/1952.m3u8
+#EXTINF:0 group-title="(TR) Turkey",EUROSTAR | SD
+http://iptv-webtv.at:8000/live/orangetech/stream/5.m3u8
+#EXTINF:0 group-title="(TR) Turkey",FIL TV | SD
+http://e2.iudtv.org:8080/live/preston/preston1/2030.m3u8
+#EXTINF:0 group-title="(TR) Turkey",FILM BOX KEMAL SUNAL TV | SD
+http://e2.iudtv.org:8080/live/preston/preston1/2179.m3u8
+#EXTINF:0 group-title="(TR) Turkey",FILMBOX ACTION | HD
+http://e2.iudtv.org:8080/live/preston/preston1/2159.m3u8
+#EXTINF:0 group-title="(TR) Turkey",FILMBOX ADRENALIN | HD
+http://e2.iudtv.org:8080/live/preston/preston1/2021.m3u8
+#EXTINF:0 group-title="(TR) Turkey",FILMBOX BILIMKURGU | HD
+http://e2.iudtv.org:8080/live/preston/preston1/2020.m3u8
+#EXTINF:0 group-title="(TR) Turkey",FILMBOX DRAMA | HD
+http://e2.iudtv.org:8080/live/preston/preston1/2016.m3u8
+#EXTINF:0 group-title="(TR) Turkey",FILMBOX FANTASTIK | HD
+http://e2.iudtv.org:8080/live/preston/preston1/2161.m3u8
+#EXTINF:0 group-title="(TR) Turkey",FILMBOX PREMIER | HD
+http://e2.iudtv.org:8080/live/preston/preston1/2018.m3u8
+#EXTINF:0 group-title="(TR) Turkey",FLASH TV | SD
+http://iptv-webtv.at:8000/live/orangetech/stream/53.m3u8
+#EXTINF:0 group-title="(TR) Turkey",FOX CRIME TV | SD
+http://e2.iudtv.org:8080/live/preston/preston1/2011.m3u8
+#EXTINF:0 group-title="(TR) Turkey",FOX TV | HD
+http://e2.iudtv.org:8080/live/preston/preston1/1988.m3u8
+#EXTINF:0 group-title="(TR) Turkey",FX TV | SD
+http://e2.iudtv.org:8080/live/preston/preston1/2010.m3u8
+#EXTINF:0 group-title="(TR) Turkey",HALK TV | SD
+http://iptv-webtv.at:8000/live/orangetech/stream/49.m3u8
+#EXTINF:0 group-title="(TR) Turkey",HILAL TV | SD
+http://e2.iudtv.org:8080/live/preston/preston1/1973.m3u8
+#EXTINF:0 group-title="(TR) Turkey",HISTORY CHANNLE | SD
+http://e2.iudtv.org:8080/live/preston/preston1/2007.m3u8
+#EXTINF:0 group-title="(TR) Turkey",IDMAN TV AZER | SD
+http://e2.iudtv.org:8080/live/preston/preston1/2015.m3u8
+#EXTINF:0 group-title="(TR) Turkey",ISTANBUL TV | HD
+http://iptv-webtv.at:8000/live/orangetech/stream/579.m3u8
+#EXTINF:0 group-title="(TR) Turkey",KANAL | SD
+http://e2.iudtv.org:8080/live/preston/preston1/1947.m3u8
+#EXTINF:0 group-title="(TR) Turkey",KANAL 19 W | SD
+http://live.arkumedia.com:1935/kanal19tv/kanal19tv/playlist.m3u8
+#EXTINF:0 group-title="(TR) Turkey",KANAL 7 | SD
+http://e2.iudtv.org:8080/live/preston/preston1/1961.m3u8
+#EXTINF:0 group-title="(TR) Turkey",KANAL 7 AVRUPA | SD
+http://e2.iudtv.org:8080/live/preston/preston1/1958.m3u8
+#EXTINF:0 group-title="(TR) Turkey",KANAL 7 AVRUPA (1+) | SD
+http://iptv-webtv.at:8000/live/orangetech/stream/11.m3u8
+#EXTINF:0 group-title="(TR) Turkey",KANAL A | SD
+http://e2.iudtv.org:8080/live/preston/preston1/1994.m3u8
+#EXTINF:0 group-title="(TR) Turkey",KANAL AVRUPA | SD
+http://213.202.242.12:8080/hls/kanalavrupa.m3u8
+#EXTINF:0 group-title="(TR) Turkey",KANAL D | SD
+http://e2.iudtv.org:8080/live/preston/preston1/1993.m3u8
+#EXTINF:0 group-title="(TR) Turkey",KANAL URFA | SD
+http://e2.iudtv.org:8080/live/preston/preston1/1945.m3u8
+#EXTINF:0 group-title="(TR) Turkey",KIDZ / ANIMEZ TV | SD
+http://e2.iudtv.org:8080/live/preston/preston1/1991.m3u8
+#EXTINF:0 group-title="(TR) Turkey",KRAL POP | SD
+http://e2.iudtv.org:8080/live/preston/preston1/1972.m3u8
+#EXTINF:0 group-title="(TR) Turkey",KRAL TV | SD
+http://e2.iudtv.org:8080/live/preston/preston1/1966.m3u8
+#EXTINF:0 group-title="(TR) Turkey",LIFETIME T | SD
+http://iptv-webtv.at:8000/live/orangetech/stream/575.m3u8
+#EXTINF:0 group-title="(TR) Turkey",LOCA 1 | HD
+http://e2.iudtv.org:8080/live/preston/preston1/2028.m3u8
+#EXTINF:0 group-title="(TR) Turkey",MAGIC BOX 1 | HD
+http://e2.iudtv.org:8080/live/preston/preston1/1974.m3u8
+#EXTINF:0 group-title="(TR) Turkey",MAGIC BOX 2 | HD
+http://e2.iudtv.org:8080/live/preston/preston1/1975.m3u8
+#EXTINF:0 group-title="(TR) Turkey",MAGIC BOX 3 | HD
+http://e2.iudtv.org:8080/live/preston/preston1/1976.m3u8
+#EXTINF:0 group-title="(TR) Turkey",MAGICBOX KOMEDI | HD
+http://e2.iudtv.org:8080/live/preston/preston1/2166.m3u8
+#EXTINF:0 group-title="(TR) Turkey",MAGICBOX WESTERN | HD
+http://e2.iudtv.org:8080/live/preston/preston1/2168.m3u8
+#EXTINF:0 group-title="(TR) Turkey",MAKINE TV W | SD
+http://iptv-webtv.at:8000/live/orangetech/stream/557.m3u8
+#EXTINF:0 group-title="(TR) Turkey",MAX GURME | HD
+http://e2.iudtv.org:8080/live/preston/preston1/2029.m3u8
+#EXTINF:0 group-title="(TR) Turkey",MINIKA GO | SD
+http://e2.iudtv.org:8080/live/preston/preston1/1963.m3u8
+#EXTINF:0 group-title="(TR) Turkey",NATIONAL GEO PEOPLE | HD
+http://e2.iudtv.org:8080/live/preston/preston1/2006.m3u8
+#EXTINF:0 group-title="(TR) Turkey",NATIONAL GEO WILD | HD
+http://e2.iudtv.org:8080/live/preston/preston1/1985.m3u8
+#EXTINF:0 group-title="(TR) Turkey",NATIONAL GEOGRAPHIC | HD
+http://e2.iudtv.org:8080/live/preston/preston1/1984.m3u8
+#EXTINF:0 group-title="(TR) Turkey",PLANET COCUK | SD
+http://195.154.107.246:1155/live/kandil/kandil/537.m3u8
+#EXTINF:0 group-title="(TR) Turkey",PLANET COCUK (1+) | SD
+http://e2.iudtv.org:8080/live/preston/preston1/1986.m3u8
+#EXTINF:0 group-title="(TR) Turkey",POWER | SD
+http://e2.iudtv.org:8080/live/preston/preston1/1946.m3u8
+#EXTINF:0 group-title="(TR) Turkey",POWER TV | SD
+http://195.154.107.246:1155/live/kandil/kandil/533.m3u8
+#EXTINF:0 group-title="(TR) Turkey",SHOW | SD
+http://e2.iudtv.org:8080/live/preston/preston1/1989.m3u8
+#EXTINF:0 group-title="(TR) Turkey",SHOW TV | SD
+http://e2.iudtv.org:8080/live/preston/preston1/1990.m3u8
+#EXTINF:0 group-title="(TR) Turkey",SINEMA 1 | HD
+http://e2.iudtv.org:8080/live/preston/preston1/1970.m3u8
+#EXTINF:0 group-title="(TR) Turkey",SINEMA 2 | HD
+http://e2.iudtv.org:8080/live/preston/preston1/2157.m3u8
+#EXTINF:0 group-title="(TR) Turkey",SINEMA 3 | HD
+http://e2.iudtv.org:8080/live/preston/preston1/2032.m3u8
+#EXTINF:0 group-title="(TR) Turkey",SINEMA 4 | HD
+http://e2.iudtv.org:8080/live/preston/preston1/2180.m3u8
+#EXTINF:0 group-title="(TR) Turkey",SINEMA KOMEDI | HD
+http://e2.iudtv.org:8080/live/preston/preston1/2181.m3u8
+#EXTINF:0 group-title="(TR) Turkey",SINEMA TV | HD
+http://e2.iudtv.org:8080/live/preston/preston1/2178.m3u8
+#EXTINF:0 group-title="(TR) Turkey",SINEMA TV 1001 | HD
+http://e2.iudtv.org:8080/live/preston/preston1/2022.m3u8
+#EXTINF:0 group-title="(TR) Turkey",SINEMA TV 2 | HD
+http://e2.iudtv.org:8080/live/preston/preston1/2024.m3u8
+#EXTINF:0 group-title="(TR) Turkey",SINEMA TV AILE | HD
+http://e2.iudtv.org:8080/live/preston/preston1/2169.m3u8
+#EXTINF:0 group-title="(TR) Turkey",SINEMA TV AKSIYON | HD
+http://e2.iudtv.org:8080/live/preston/preston1/1968.m3u8
+#EXTINF:0 group-title="(TR) Turkey",SINEMAX NOSTALGIA | HD
+http://e2.iudtv.org:8080/live/preston/preston1/2162.m3u8
+#EXTINF:0 group-title="(TR) Turkey",SKYTURK 360 | SD
+http://e2.iudtv.org:8080/live/preston/preston1/2172.m3u8
+#EXTINF:0 group-title="(TR) Turkey",SLTV GOLD | HD
+http://e2.iudtv.org:8080/live/preston/preston1/2183.m3u8
+#EXTINF:0 group-title="(TR) Turkey",SLTV KOMEDI | HD
+http://e2.iudtv.org:8080/live/preston/preston1/2019.m3u8
+#EXTINF:0 group-title="(TR) Turkey",SONY CHANNEL TURKIYE | HD
+http://e2.iudtv.org:8080/live/preston/preston1/2027.m3u8
+#EXTINF:0 group-title="(TR) Turkey",STAR TV | HD
+http://e2.iudtv.org:8080/live/preston/preston1/1987.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TARIM TV W | SD
+http://iptv-webtv.at:8000/live/orangetech/stream/577.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TARSUSGUNEYT | SD
+http://e2.iudtv.org:8080/live/preston/preston1/2174.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TELERO LT | SD
+http://e2.iudtv.org:8080/live/preston/preston1/2604.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TEVE 2 | HD
+http://e2.iudtv.org:8080/live/preston/preston1/1962.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TGRT EU W | SD
+http://149.202.196.91:8000/live/orangetech/stream/554.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TGRT HABER | SD
+http://e2.iudtv.org:8080/live/preston/preston1/1949.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TJK TV | SD
+http://e2.iudtv.org:8080/live/preston/preston1/2008.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TLC | HD
+http://e2.iudtv.org:8080/live/preston/preston1/2165.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TRT | SD
+http://iptv-webtv.at:8000/live/orangetech/stream/28.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TRT 1 | HD
+http://195.154.107.246:1155/live/kandil/kandil/1021.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TRT 1 | SD
+http://e2.iudtv.org:8080/live/preston/preston1/1977.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TRT 1 (1+) | SD
+http://iptv-webtv.at:8000/live/orangetech/stream/27.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TRT 1 AVRUPA | SD
+http://e2.iudtv.org:8080/live/preston/preston1/1959.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TRT AVAZ | SD
+http://e2.iudtv.org:8080/live/preston/preston1/1983.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TRT BELGESEL | SD
+http://e2.iudtv.org:8080/live/preston/preston1/1937.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TRT COCUK | SD
+http://e2.iudtv.org:8080/live/preston/preston1/1940.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TRT DIYANET | SD
+http://e2.iudtv.org:8080/live/preston/preston1/1938.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TRT HABER | HD
+http://e2.iudtv.org:8080/live/preston/preston1/1982.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TRT MUZIK | SD
+http://e2.iudtv.org:8080/live/preston/preston1/1971.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TRT OKUL | SD
+http://e2.iudtv.org:8080/live/preston/preston1/1939.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TV 2 | SD
+http://e2.iudtv.org:8080/live/preston/preston1/1960.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TV 41 | SD
+http://e2.iudtv.org:8080/live/preston/preston1/1954.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TV KAYSERI | SD
+http://e2.iudtv.org:8080/live/preston/preston1/2004.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TV8 | SD
+http://e2.iudtv.org:8080/live/preston/preston1/1980.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TV8 5 | SD
+http://iptv-webtv.at:8000/live/orangetech/stream/5521.m3u8
+#EXTINF:0 group-title="(TR) Turkey",ULUSAL KANAL | SD
+http://98.142.98.125:1935/ulusaltv/ulusaltv/master.m3u8
+#EXTINF:0 group-title="(TR) Turkey",VIYANA TV W | SD
+http://149.202.196.91:8000/live/orangetech/stream/563.m3u8
