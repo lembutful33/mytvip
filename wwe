@@ -426,9 +426,6 @@ http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1387.ts
 #EXTINF:-1,Arrabia
 http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1386.ts
 
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:7856
-#EXT-X-TARGETDURATION:7
 #EXTINF:6.172,
 10804-7856.ts
 #EXTINF:6.140,
