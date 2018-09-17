@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1,1 TR FUTBOL 7/24 (720X480)
-http://87.98.162.77:8090/playlist
 #EXTINF:wwe
-https://manifest.googlevideo.com/api/manifest/hls_variant/ratebypass/yes/ipbits/0/hfr/1/ei/oJydW76_L4Pj1wLa76yACA/maudio/1/keepalive/yes/source/yt_live_broadcast/key/yt6/itag/0/playlist_type/DVR/gcr/mt/expire/1537077504/ip/46.11.80.146/go/1/dover/11/tx/23753340/signature/D054984D13E5DE16977344BF8DCEE1FB651405BA.B19665057D05560D27E9A0E7CEC5FD177E779366/txs/23753339%2C23753340%2C23753341%2C23753342%2C23753343%2C23753344%2C23753345%2C23753346/id/plV-mGR19IQ.0/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/requiressl/yes/file/index.m3u8
-
+http://ww7.primego.org/x264/dOOKbV8dQu2mJuN/dOOKbV8dQu2mJuN.m3u8
+#EXTINF:wwe1
+http://cdnak6.cast4u.info/channels/4/10804.m3u8
