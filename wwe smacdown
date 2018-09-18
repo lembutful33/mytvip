@@ -898,10 +898,7 @@
 73JogDOuoKrQOah446.ts
 #EXTINF:1.935267,
 73JogDOuoKrQOah447.ts
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:16
-#EXT-X-MEDIA-SEQUENCE:0
+http://ww8.primego.org/x264/73JogDOuoKrQOah/73JogDOuoKrQOah.m3u8
 #EXTINF:15.648967,
 yIy9y8xwnec8J4v0.ts
 #EXTINF:3.470133,
@@ -1801,5 +1798,4 @@ yIy9y8xwnec8J4v447.ts
 #EXTINF:0.100100,
 yIy9y8xwnec8J4v448.ts
 #EXT-X-ENDLIST
-http://ww8.primego.org/x264/73JogDOuoKrQOah/73JogDOuoKrQOah.m3u8
 http://ww6.primego.org/x264/yIy9y8xwnec8J4v/yIy9y8xwnec8J4v.m3u8
