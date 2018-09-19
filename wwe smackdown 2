@@ -1,12 +1,12 @@
 #EXTM3U
 
 
-#EXTINF:-1,11/09/18:smackdown part 1
+#EXTINF:-1,11/09/18:smackdown part 1 tvg-logo="https://lordsofpain.net/wp-content/uploads/2018/04/smackdown-900x480.jpg
 http://ww8.primego.org/x264/73JogDOuoKrQOah/73JogDOuoKrQOah.m3u8
-#EXTINF:-2,11/09/18:smackdown part 2
+#EXTINF:-2,11/09/18:smackdown part 2 tvg-logo="https://lordsofpain.net/wp-content/uploads/2018/04/smackdown-900x480.jpg
 http://ww6.primego.org/x264/yIy9y8xwnec8J4v/yIy9y8xwnec8J4v.m3u8
 
-#EXTINF:-1,18/09/18:smackdown part 1
+#EXTINF:-1,18/09/18:smackdown part 1 tvg-logo="https://lordsofpain.net/wp-content/uploads/2018/04/smackdown-900x480.jpg
 http://ww8.primego.org/x264/7FohVT5YA2gPqUB/7FohVT5YA2gPqUB.m3u8
-#EXTINF:-2,18/09/18:smackdown part 2
+#EXTINF:-2,18/09/18:smackdown part 2 tvg-logo="https://lordsofpain.net/wp-content/uploads/2018/04/smackdown-900x480.jpg
 http://ww6.primego.org/x264/x8HnTLGA8sWRpTH/x8HnTLGA8sWRpTH.m3u8
