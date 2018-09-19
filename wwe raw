@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1,raw-10/09/18-part 1
+http://ww3.primego.org/x264/EVHzNuTu4y9YZr2/EVHzNuTu4y9YZr2.m3u8
+#EXTINF:-1,raw-10/09/18-part 2
+http://ww5.primego.org/x264/TxiiJ8rOZAM0s3j/TxiiJ8rOZAM0s3j.m3u8
+#EXTINF:-1,raw-10/09/18-part 3
+http://ww11.primego.org/x264/6H1bkYXVaFAzkj0/6H1bkYXVaFAzkj0.m3u8
 
 #EXTINF:-1,raw-17/09/18-part 1
 http://ww5.primego.org/x264/7MyISI9C1CGR0l0/7MyISI9C1CGR0l0.m3u8
