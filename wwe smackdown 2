@@ -1,3 +1,12 @@
-http://ww8.primego.org/x264/7FohVT5YA2gPqUB/7FohVT5YA2gPqUB.m3u8
+#EXTM3U
 
+
+#EXTINF:11/09/18:smackdown part 1
+http://ww8.primego.org/x264/73JogDOuoKrQOah/73JogDOuoKrQOah.m3u8
+#EXTINF:11/09/18:smackdown part 2
+http://ww6.primego.org/x264/yIy9y8xwnec8J4v/yIy9y8xwnec8J4v.m3u8
+
+#EXTINF:18/09/18:smackdown part 1
+http://ww8.primego.org/x264/7FohVT5YA2gPqUB/7FohVT5YA2gPqUB.m3u8
+#EXTINF:18/09/18:smackdown part 2
 http://ww6.primego.org/x264/x8HnTLGA8sWRpTH/x8HnTLGA8sWRpTH.m3u8
