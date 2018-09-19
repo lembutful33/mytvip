@@ -1,5 +1,8 @@
+#EXTM3U
+
+#EXTINF:-1,raw-17/09/18-part 1
 http://ww5.primego.org/x264/7MyISI9C1CGR0l0/7MyISI9C1CGR0l0.m3u8
-
+#EXTINF:-2,raw-17/09/18-part 2
 http://ww13.primego.org/x264/xssk1tfHFltCdqi/xssk1tfHFltCdqi.m3u8
-
+#EXTINF:-3,raw-17/09/18-part 3
 http://ww10.primego.org/x264/gm8lvVUT4iQ3VX5/gm8lvVUT4iQ3VX5.m3u8
