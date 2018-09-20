@@ -1,4 +1,4 @@
-#EXTM3U size="medium"
+#EXTM3U 
 #EXTINF:1 tvg-logo="http://images.frbiergarten.com/2018/07/smackdown.png" type="video" description="2018", part 1-11/09/18 
 http://ww8.primego.org/x264/73JogDOuoKrQOah/73JogDOuoKrQOah.m3u8
 #EXTINF:2 tvg-logo="http://images.frbiergarten.com/2018/07/smackdown.png" type="video" description="2018", part 2-11/09/18
