@@ -1,3 +1,5 @@
 #EXTM3U size="medium"
-#EXTINF:1 tvg-logo="http://www.wwe.com/f/show/logo/2012/NXT.png" type="video" description="2018", NXT 19/9/18
+#EXTINF:1 tvg-logo="http://www.wwe.com/f/show/logo/2012/NXT.png" type="video" description="2018", NXT 12/9/18
 http://ww7.primego.org/x264/dOOKbV8dQu2mJuN/dOOKbV8dQu2mJuN.m3u8
+#EXTINF:1 tvg-logo="http://www.wwe.com/f/show/logo/2012/NXT.png" type="video" description="2018", NXT 19/9/18
+http://ww12.primego.org/x264/eU6moovlN2eOGWs/eU6moovlN2eOGWs.m3u8
