@@ -1,4 +1,4 @@
-#EXTM3U color="black"
+#EXTM3U size="small"
 #EXTINF:-1 tvg-logo="https://www.metropolitanmagazine.it/wp-content/uploads/2018/06/Raw-Logo-2018.png" type="video" description="2018", part 1-10/09/18
 http://ww3.primego.org/x264/EVHzNuTu4y9YZr2/EVHzNuTu4y9YZr2.m3u8
 #EXTINF:-2 tvg-logo="https://www.metropolitanmagazine.it/wp-content/uploads/2018/06/Raw-Logo-2018.png" type="video" description="2018", part 2-10/09/18
