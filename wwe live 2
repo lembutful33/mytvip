@@ -1,4 +1,4 @@
-#EXTM3U size="medium"
+#EXTM3U size="small"
 #EXTINF:1 tvg-logo="https://www.jack969.com/wp-content/uploads/sites/13/2018/09/wwe-live-logo-1024x452.png" type="video" description="2018", live
 http://cdnak6.cast4u.info/channels/4/10804.m3u8
 #EXTINF:2 tvg-logo="https://www.jack969.com/wp-content/uploads/sites/13/2018/09/wwe-live-logo-1024x452.png" type="video" description="2018", live 1 HD
